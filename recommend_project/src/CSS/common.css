@@ -1,0 +1,881 @@
+/* src/CSS/common.css */
+
+/* ==============================
+   0. 폰트 설정 (Pretendard)
+============================== */
+@import url("https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/static/pretendard.min.css");
+
+/* ==============================
+   1. 기본 초기화 (Reset)
+============================== */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html,
+body,
+#root {
+  height: 100%;
+  width: 100%;
+  overflow-x: hidden;
+  /* 폰트 적용 */
+  font-family: "Pretendard Variable", Pretendard, -apple-system, BlinkMacSystemFont, system-ui, Roboto, "Helvetica Neue", "Segoe UI", "Apple SD Gothic Neo", "Noto Sans KR", "Malgun Gothic", "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", sans-serif;
+  font-size: 18px;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  color: #333;
+  line-height: 1.5;
+  
+  /* ★ 전체 배경색 변경 (연한 회색/푸른빛 도는 흰색) */
+  background-color: #f5f6fa;
+}
+
+/* ==============================
+   2. 레이아웃 구조 (Layout)
+============================== */
+.layout-container {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+.main-container {
+  display: flex;
+  flex: 1;
+  /* ★ 메인 컨테이너 배경색 변경 */
+  background-color: #f5f6fa;
+  overflow: hidden;
+}
+
+/* ==============================
+   3. 헤더 스타일 (Header)
+============================== */
+.cHeader {
+  width: 100%;
+  background-color: #ffffff; /* 헤더는 흰색 유지 (배경과 구분) */
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.03);
+  position: sticky;
+  top: 0;
+  z-index: 1000;
+  flex-shrink: 0;
+}
+
+.cHeader-Nav {
+  position: relative;
+  max-width: 100%;
+  height: 80px;
+  margin: 0;
+  padding: 0 40px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background-color: #fff;
+  z-index: 1001;
+}
+
+/* 좌측: 로고 */
+.cHeader-Logo {
+  display: flex;
+  align-items: center;
+  z-index: 2;
+}
+
+.cHeader-LogoLink {
+  display: flex;
+  align-items: center;
+  text-decoration: none;
+  color: black;
+}
+
+.cHeader-LogoImg {
+  height: 140px;
+  object-fit: contain;
+}
+
+/* 중앙: 메인 메뉴 */
+.cHeader-Menu {
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
+  display: flex;
+  align-items: center;
+  gap: 70px;
+  height: 100%;
+}
+
+.cHeader-MenuItem-Wrapper {
+  height: 100%;
+  display: flex;
+  align-items: center;
+  cursor: pointer;
+}
+
+.cHeader-Link {
+  font-size: 18px;
+  color: #333;
+  text-decoration: none;
+  font-weight: 700;
+  transition: color 0.2s;
+}
+
+.cHeader-Link:hover {
+  color: #3b82f6;
+}
+
+/* 우측: 유틸 */
+.cHeader-Util {
+  display: flex;
+  align-items: center;
+  gap: 24px;
+  z-index: 2;
+}
+
+.cHeader-UtilLink {
+  font-size: 16px;
+  color: #555;
+  text-decoration: none;
+  font-weight: 500;
+}
+
+.cHeader-UtilLink:hover {
+  color: #3b82f6;
+}
+
+.cHeader-UtilMobile {
+  display: none;
+}
+
+/* ==============================
+   ★ 메가 메뉴 (Mega Menu)
+============================== */
+
+/* 기본 상태: 숨김 */
+.mega-menu {
+  position: absolute;
+  top: 80px;            /* 헤더 높이만큼 아래에 위치 */
+  left: 0;
+  width: 100%;
+  height: 0;            /* 높이 0으로 숨김 */
+  overflow: hidden;
+  opacity: 0;
+  visibility: hidden;
+  background-color: #ffffff;
+  border-bottom: 1px solid #e0e0e0;
+  box-shadow: 0 10px 20px rgba(0,0,0,0.05);
+  transition: all 0.3s ease-in-out; /* 부드러운 애니메이션 */
+  z-index: 999;
+}
+
+/* ★ 핵심: 메뉴 아이템(Wrapper)에 마우스를 올렸을 때 메가 메뉴를 펼침 */
+.cHeader-MenuItem-Wrapper:hover .mega-menu {
+  height: 280px;        /* 원하는 높이만큼 펼침 */
+  opacity: 1;
+  visibility: visible;
+  border-top: 1px solid #f0f0f0;
+}
+
+/* 메가 메뉴 내부 컨테이너 */
+.mega-menu-container {
+  max-width: 1200px;
+  height: 100%;
+  margin: 0 auto;
+  display: flex;
+  justify-content: center;
+  padding: 40px 0;
+  gap: 100px;
+}
+
+/* 메뉴 컬럼 스타일 */
+.mega-menu-column {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  width: 180px;
+}
+
+/* 메뉴 제목 스타일 */
+.mega-menu-title {
+  font-size: 16px;
+  font-weight: 700;
+  color: #333;
+  margin-bottom: 16px;
+  padding-bottom: 8px;
+  border-bottom: 2px solid #3b82f6; /* 파란 밑줄 */
+  width: 100%;
+}
+
+/* 메뉴 리스트 스타일 */
+.mega-menu-list {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+
+/* 메뉴 아이템(링크) 스타일 */
+.mega-menu-item {
+  font-size: 15px;
+  color: #666;
+  text-decoration: none;
+  transition: color 0.2s;
+  display: block; /* 링크 영역 확보 */
+}
+
+.mega-menu-item:hover {
+  color: #3b82f6;
+  text-decoration: underline;
+}
+
+/* ==============================
+   5. 메인 콘텐츠 스타일
+============================== */
+.main-content {
+  width: 100%;
+  flex: 1;
+  min-width: 0;
+  max-width: 1400px; 
+  margin: 0 auto;   
+  padding: 0;        
+  background-color: transparent; 
+}
+
+/* ==============================
+   6. 슬라이더 스타일
+============================== */
+.slider-wrapper {
+  width: 100%;
+  max-height: 350px;
+  aspect-ratio: 21 / 9;
+  border-radius: 12px;
+  overflow: hidden;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+  margin-bottom: 20px;
+  position: relative;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.slider-container, .mySwiper, .slide-content {
+  width: 100%;
+  height: 100%;
+  position: relative;
+}
+
+.slide-img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+}
+
+/* ★ 텍스트와 버튼을 감싸는 박스 */
+.slide-content-wrapper {
+  position: absolute;
+  top: 50%;
+  left: 10%;
+  transform: translateY(-50%);
+  z-index: 20;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 20px;
+}
+
+/* 제목 텍스트 */
+.slide-text {
+  color: white;
+  font-weight: 800;
+  font-size: 3.5rem;
+  text-shadow: 2px 2px 8px rgba(0,0,0,0.6);
+  margin: 0;
+  line-height: 1.1;
+  letter-spacing: -1px;
+}
+
+/* 바로가기 버튼 */
+.slide-action-btn {
+  padding: 12px 32px;
+  background-color: #fff;
+  color: #000;
+  font-size: 1.1rem;
+  font-weight: 700;
+  border: none;
+  border-radius: 50px;
+  cursor: pointer;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.3);
+  transition: all 0.2s ease;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.slide-action-btn:hover {
+  background-color: #f8f9fa;
+  transform: translateY(-3px);
+  box-shadow: 0 6px 15px rgba(0,0,0,0.4);
+}
+
+/* 배경 오버레이 */
+.slide-overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(to right, rgba(0,0,0,0.6) 0%, rgba(0,0,0,0) 60%);
+  z-index: 10;
+  pointer-events: none;
+}
+
+/* ==============================
+   반응형 (Media Queries) - 768px 이하
+============================== */
+@media (max-width: 768px) {
+  .cHeader-Nav {
+    padding: 0 1rem;
+    height: 60px;
+  }
+
+  .cHeader-LogoImg {
+    height: 28px;
+  }
+
+  /* 모바일에서 데스크탑 메뉴 숨김 */
+  .cHeader-Menu,
+  .cHeader-Util,
+  .mega-menu {
+    display: none !important;
+  }
+
+  .cHeader-UtilMobile {
+    display: block;
+  }
+
+  .main-content {
+    padding: 15px;
+  }
+
+  .slide-text {
+    font-size: 2rem;
+  }
+  
+  .slide-action-btn {
+    padding: 8px 20px;
+    font-size: 0.9rem;
+  }
+  
+  .slide-content-wrapper {
+    left: 20px;
+    width: 90%;
+  }
+}
+
+/* =========================================
+   모바일 메뉴 드로어 (Mobile Drawer)
+========================================= */
+
+/* 배경 (어두운 오버레이) */
+.mobile-menu-overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(0, 0, 0, 0.5);
+  z-index: 2000;
+  visibility: hidden;
+  opacity: 0;
+  transition: all 0.3s;
+}
+
+.mobile-menu-overlay.open {
+  visibility: visible;
+  opacity: 1;
+}
+
+/* 메뉴 패널 (우측에서 슬라이드) */
+.mobile-menu-drawer {
+  position: fixed;
+  top: 0;
+  right: -300px; /* 처음에 화면 밖에 숨김 */
+  width: 300px;
+  height: 100%;
+  background: white;
+  z-index: 2001;
+  transition: right 0.3s ease-in-out;
+  box-shadow: -5px 0 15px rgba(0, 0, 0, 0.1);
+  display: flex;
+  flex-direction: column;
+}
+
+.mobile-menu-drawer.open {
+  right: 0; /* 화면 안으로 들어옴 */
+}
+
+/* 헤더 (제목 + 닫기버튼) */
+.mobile-menu-header {
+  padding: 20px;
+  border-bottom: 1px solid #eee;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.mobile-menu-header h3 {
+  font-size: 18px;
+  font-weight: 700;
+}
+
+.close-btn {
+  background: none;
+  border: none;
+  font-size: 24px;
+  cursor: pointer;
+}
+
+/* 내용물 */
+.mobile-menu-content {
+  flex: 1;
+  overflow-y: auto;
+  padding: 20px;
+}
+
+.mobile-menu-group {
+  margin-bottom: 24px;
+}
+
+.mobile-menu-title {
+  font-size: 16px;
+  font-weight: 700;
+  margin-bottom: 10px;
+  color: #333;
+  border-bottom: 2px solid #3b82f6;
+  display: inline-block;
+  padding-bottom: 4px;
+}
+
+.mobile-sub-links {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  padding-left: 10px;
+}
+
+.mobile-menu-link {
+  font-size: 14px;
+  color: #666;
+  text-decoration: none;
+}
+
+.mobile-util-links {
+  margin-top: 30px;
+  padding-top: 20px;
+  border-top: 1px solid #eee;
+  display: flex;
+  gap: 20px;
+}
+
+.mobile-util-links a,
+.mobile-util-links span {
+  font-size: 14px;
+  color: #333;
+  text-decoration: none;
+  font-weight: 500;
+  cursor: pointer;
+}
+
+/* ==============================
+   7. 인증 페이지 (로그인/회원가입)
+============================== */
+
+.auth-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 80vh;
+  /* 인증 페이지 배경도 통일 */
+  background-color: #f5f6fa;
+  padding: 40px 0;
+}
+
+.auth-card {
+  width: 460px;
+  padding: 40px;
+  background-color: white;
+  border-radius: 16px;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.08);
+  text-align: center;
+}
+
+.auth-title {
+  margin-bottom: 30px;
+  font-size: 26px;
+  font-weight: bold;
+  color: #333;
+}
+
+.auth-form {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+/* 입력 그룹 (라벨 + 인풋) */
+.input-group {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  text-align: left;
+}
+
+.input-label {
+  font-size: 14px;
+  font-weight: 600;
+  color: #555;
+}
+
+/* ★ auth-input 스타일 수정: 높이 고정 및 박스 모델 설정 */
+.auth-input {
+  width: 100%; /* 부모 너비에 맞춤 */
+  height: 48px; /* ★ 높이 48px로 고정 (버튼과 맞춤) */
+  padding: 0 14px; /* 높이가 고정되므로 상하 패딩 대신 flex나 line-height로 정렬되지만, input은 padding으로 내부 여백 조절 */
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  font-size: 14px;
+  outline: none;
+  transition: border-color 0.2s;
+  box-sizing: border-box; /* ★ 테두리와 패딩을 너비/높이에 포함 */
+}
+
+.auth-input:focus {
+  border-color: #3b82f6;
+}
+
+.auth-button {
+  margin-top: 10px;
+  padding: 14px;
+  background-color: #3b82f6;
+  color: white;
+  border: none;
+  border-radius: 8px;
+  font-size: 16px;
+  font-weight: bold;
+  cursor: pointer;
+  transition: background-color 0.2s;
+}
+
+.auth-button:hover {
+  background-color: #2563eb;
+}
+
+.auth-footer {
+  margin-top: 24px;
+  font-size: 14px;
+  color: #666;
+}
+
+.link-text {
+  color: #3b82f6;
+  cursor: pointer;
+  margin-left: 5px;
+  font-weight: bold;
+}
+
+.link-text:hover {
+  text-decoration: underline;
+}
+
+/* 유효성 검사 메시지 (공통) */
+.validation-message {
+  font-size: 13px;
+  margin-top: 6px;
+  display: block;
+  font-weight: 500;
+}
+
+/* 성공 메시지 (초록색) */
+.validation-message.success {
+  color: #10b981;
+}
+
+/* 에러 메시지 (빨간색) */
+.validation-message.error {
+  color: #e11d48;
+}
+
+/* 입력창 에러 상태 (빨간 테두리) */
+.auth-input.input-error {
+  border-color: #e11d48;
+  background-color: #fff1f2; /* 아주 연한 빨간 배경 */
+}
+
+.auth-input.input-error:focus {
+  border-color: #e11d48;
+  box-shadow: 0 0 0 3px rgba(225, 29, 72, 0.1);
+}
+
+/* --- 아이디 중복확인 버튼 관련 스타일 --- */
+
+/* 1. 입력창과 버튼을 감싸는 컨테이너 */
+.input-with-button {
+  display: flex;
+  align-items: center; /* 수직 중앙 정렬 (stretch 대신 center 사용해도 높이 고정이면 무관) */
+  gap: 10px;
+  width: 100%;
+}
+
+/* 2. 컨테이너 내부 입력창: 너비 유동적 조절 */
+.input-with-button .auth-input {
+  flex: 1; 
+  min-width: 0;
+  margin: 0;
+  /* height: 48px; <- 이미 위에서 .auth-input에 전역 설정했으므로 생략 가능하나 확실하게 하기 위해 유지 */
+  height: 48px; 
+}
+
+/* 3. 중복확인 버튼 스타일 */
+.check-btn {
+  height: 48px;         /* ★ 입력창과 동일한 높이 */
+  padding: 0 20px;      /* 좌우 패딩 */
+  background-color: #3b82f6; 
+  color: white;
+  border: none;
+  border-radius: 8px;   /* auth-input과 동일한 둥글기 */
+  font-size: 14px;
+  font-weight: bold;
+  cursor: pointer;
+  white-space: nowrap;
+  display: flex;
+  align-items: center;  /* 텍스트 수직 중앙 정렬 */
+  justify-content: center;
+  transition: background-color 0.2s;
+  box-sizing: border-box;
+}
+
+.check-btn:hover {
+  background-color: #2563eb;
+}
+
+/* chatbot*/
+
+/* 1. 둥근 플로팅 버튼 */
+.chatbot-toggle-btn {
+  position: fixed;
+  bottom: 80px;
+  right: 80px;
+  width: 100px;
+  height: 100px;
+  background-color: #3b82f6; /* 파란색 */
+  color: white;
+  border: none;
+  border-radius: 50%; /* 완전한 원형 */
+  box-shadow: 0 4px 15px rgba(59, 130, 246, 0.4); /* 그림자 */
+  cursor: pointer;
+  z-index: 9999; /* 다른 요소보다 위에 */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: transform 0.3s, background-color 0.3s;
+}
+
+.chatbot-toggle-btn:hover {
+  background-color: #2563eb;
+  transform: scale(1.1); /* 호버 시 약간 커짐 */
+}
+
+/* 챗봇 창이 열리면 버튼 숨기기 (선택사항) */
+.chatbot-toggle-btn.hide {
+  display: none;
+  /* 또는 opacity: 0; pointer-events: none; */
+}
+
+
+/* 2. 챗봇 대화창 */
+.chatbot-window {
+  position: fixed;
+  bottom: 100px; /* 버튼보다 위에 */
+  right: 30px;
+  width: 350px;
+  height: 500px;
+  background-color: white;
+  border-radius: 16px;
+  box-shadow: 0 5px 30px rgba(0, 0, 0, 0.15);
+  display: flex;
+  flex-direction: column;
+  z-index: 9999;
+  overflow: hidden;
+  
+  /* 애니메이션 */
+  transform: translateY(20px);
+  opacity: 0;
+  pointer-events: none;
+  transition: all 0.3s ease;
+}
+
+.chatbot-window.open {
+  transform: translateY(0);
+  opacity: 1;
+  pointer-events: auto;
+  bottom: 30px; /* 열리면 버튼 위치를 덮거나 대체 */
+}
+
+
+/* 헤더 */
+.chatbot-header {
+  background-color: #3b82f6;
+  color: white;
+  padding: 15px 20px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-weight: bold;
+}
+
+.chatbot-close-btn {
+  background: none;
+  border: none;
+  color: white;
+  font-size: 18px;
+  cursor: pointer;
+}
+
+
+/* 메시지 영역 */
+.chatbot-messages {
+  flex: 1; /* ★ 핵심: 헤더와 입력창 제외한 나머지 공간 채움 */
+  overflow-y: auto; /* 내용 넘치면 스크롤 */
+  padding: 20px;
+  background-color: #f8f9fa;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  min-height: 0; /* Flexbox 버그 방지 */
+}
+
+.message-bubble {
+  max-width: 80%;
+  padding: 10px 14px;
+  border-radius: 12px;
+  font-size: 14px;
+  line-height: 1.4;
+}
+
+.message-bubble.bot {
+  align-self: flex-start;
+  background-color: white;
+  border: 1px solid #eee;
+  border-top-left-radius: 0;
+  color: #333;
+}
+
+.message-bubble.user {
+  align-self: flex-end;
+  background-color: #3b82f6;
+  color: white;
+  border-top-right-radius: 0;
+}
+
+
+/* 입력 영역 */
+.chatbot-input-area {
+  flex-shrink: 0;          /* 크기 축소 방지 */
+  width: 100%;             /* 가로 꽉 채우기 */
+  height: 60px;            /* ★ 높이 강제 지정 */
+  padding: 10px;
+  background-color: #ffffff !important; /* 배경색 흰색 강제 */
+  border-top: 2px solid #e0e0e0; /* 테두리 조금 더 진하게 */
+  display: flex !important; /* flex 강제 */
+  align-items: center;
+  gap: 8px;
+  box-sizing: border-box; /* 패딩 포함 크기 계산 */
+}
+
+.chatbot-input-area input {
+  flex: 1;                 /* 남은 공간 모두 차지 */
+  height: 40px !important; /* 높이 강제 */
+  padding: 0 15px;
+  border: 1px solid #ccc !important;
+  border-radius: 20px;
+  background-color: #fff;
+  font-size: 14px;
+  color: #333;             /* 글씨 검은색 */
+  outline: none;
+  display: block;          /* 화면에 표시 */
+}
+
+.chatbot-input-area input:focus {
+  border-color: #3b82f6;
+}
+
+.chatbot-input-area button {
+  width: 40px !important;
+  height: 40px !important;
+  background-color: #3b82f6 !important; /* 파란색 */
+  color: white !important;
+  border: none;
+  border-radius: 50%;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0; /* 버튼 크기 안 줄어들게 */
+}
+
+.chatbot-input-area button:hover {
+  background-color: #2563eb;
+}
+
+.chatbot-input-area button svg {
+  width: 18px;
+  height: 18px;
+  fill: white; /* 아이콘 색상 */
+  color: #ffffff;
+}
+
+.chatbot-send-btn {
+  width: 40px;
+  height: 40px;
+  background-color: #3b82f6;
+  border: none;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  flex-shrink: 0;
+}
+
+.auth-input {
+  color: #111;
+}
+
+.social-login {
+  margin-top: 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.social-btn {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  padding: 10px;
+  border-radius: 6px;
+  font-size: 14px;
+  cursor: pointer;
+  border: none;
+}
+
+.social-btn.google {
+  background: #fff;
+  border: 1px solid #ddd;
+  color: #333;
+}
+
+.social-btn.kakao {
+  background: #fee500;
+  color: #000;
+}

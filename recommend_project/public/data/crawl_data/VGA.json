@@ -1,0 +1,1202 @@
+[
+    {
+        "Name": "MSI 지포스 RTX 5060 벤투스 2X OC D7 8GB",
+        "Type": "",
+        "Price": "464430",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.05."
+    },
+    {
+        "Name": "PALIT 지포스 RTX 5060 DUAL OC D7 8GB 이엠텍",
+        "Type": "",
+        "Price": "442450",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.05."
+    },
+    {
+        "Name": "갤럭시 GALAX 지포스 RTX 5060 WHITE OC D7 8GB",
+        "Type": "",
+        "Price": "481830",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.06."
+    },
+    {
+        "Name": "GIGABYTE 지포스 RTX 5070 Ti WINDFORCE OC SFF D7 16GB 피씨디렉트",
+        "Type": "",
+        "Price": "1248550",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.02."
+    },
+    {
+        "Name": "이엠텍 지포스 RTX 5060 MIRACLE WHITE D7 8GB",
+        "Type": "",
+        "Price": "465810",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.06."
+    },
+    {
+        "Name": "MSI 지포스 RTX 5070 게이밍 트리오 OC D7 12GB 트라이프로져4",
+        "Type": "",
+        "Price": "908600",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.03."
+    },
+    {
+        "Name": "PALIT 지포스 RTX 5060 Ti INFINITY 3 D7 16GB 이엠텍",
+        "Type": "",
+        "Price": "693890",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.04."
+    },
+    {
+        "Name": "MSI 지포스 RTX 5080 뱅가드 SOC D7 16GB 하이퍼프로져",
+        "Type": "",
+        "Price": "2109000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.02."
+    },
+    {
+        "Name": "ZOTAC GAMING 지포스 RTX 5070 SOLID OC D7 12GB",
+        "Type": "",
+        "Price": "864490",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.03."
+    },
+    {
+        "Name": "PALIT 지포스 RTX 5080 GAMINGPRO D7 16GB 이엠텍",
+        "Type": "",
+        "Price": "1756820",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.01."
+    },
+    {
+        "Name": "이엠텍 지포스 RTX 5060 Ti MIRACLE WHITE D7 16GB",
+        "Type": "",
+        "Price": "692590",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.05."
+    },
+    {
+        "Name": "MSI 지포스 RTX 5070 Ti 게이밍 트리오 OC D7 16GB 트라이프로져4",
+        "Type": "",
+        "Price": "1318740",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.05."
+    },
+    {
+        "Name": "ZOTAC GAMING 지포스 RTX 5070 Ti SOLID OC D7 16GB",
+        "Type": "",
+        "Price": "1310310",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.02."
+    },
+    {
+        "Name": "ASRock 라데온 RX 9060 XT CHALLENGER OC D6 8GB 대원씨티에스",
+        "Type": "",
+        "Price": "415680",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.06."
+    },
+    {
+        "Name": "XFX 라데온 RX 9070 XT SWIFT D6 16GB",
+        "Type": "",
+        "Price": "979930",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.03."
+    },
+    {
+        "Name": "ASUS PRIME 라데온 RX 9070 XT OC D6 16GB 대원씨티에스",
+        "Type": "",
+        "Price": "948990",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.03."
+    },
+    {
+        "Name": "ZOTAC GAMING 지포스 RTX 5060 Ti Twin Edge OC D7 16GB",
+        "Type": "",
+        "Price": "668010",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.04."
+    },
+    {
+        "Name": "MSI 지포스 RTX 5060 Ti 벤투스 2X OC 플러스 D7 16GB",
+        "Type": "",
+        "Price": "678680",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.04."
+    },
+    {
+        "Name": "MSI 지포스 RTX 5070 Ti 게이밍 트리오 OC 화이트 D7 16GB 트라이프로져4",
+        "Type": "",
+        "Price": "1368420",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.05."
+    },
+    {
+        "Name": "SAPPHIRE 라데온 RX 9060 XT PULSE OC D6 16GB",
+        "Type": "",
+        "Price": "559900",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.06."
+    },
+    {
+        "Name": "PALIT 지포스 RTX 5070 INFINITY 3 D7 12GB 이엠텍",
+        "Type": "",
+        "Price": "854610",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.04."
+    },
+    {
+        "Name": "SAPPHIRE 라데온 RX 9070 XT NITRO+ OC D6 16GB",
+        "Type": "",
+        "Price": "1225500",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.03."
+    },
+    {
+        "Name": "MSI 지포스 RTX 5090 슈프림 SOC D7 32GB 하이퍼프로져",
+        "Type": "",
+        "Price": "4674990",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.02."
+    },
+    {
+        "Name": "GIGABYTE 지포스 RTX 5070 WINDFORCE OC SFF D7 12GB 제이씨현",
+        "Type": "",
+        "Price": "874300",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.03."
+    },
+    {
+        "Name": "ZOTAC GAMING 지포스 RTX 5080 SOLID OC D7 16GB",
+        "Type": "",
+        "Price": "1789610",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.01."
+    },
+    {
+        "Name": "GIGABYTE 지포스 RTX 5060 Ti WINDFORCE MAX OC D7 16GB 제이씨현",
+        "Type": "",
+        "Price": "676960",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.07."
+    },
+    {
+        "Name": "GIGABYTE AORUS 지포스 RTX 5090 MASTER ICE D7 32GB 제이씨현",
+        "Type": "",
+        "Price": "4620000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.01."
+    },
+    {
+        "Name": "ASRock 라데온 RX 9070 XT CHALLENGER D6 16GB 대원씨티에스",
+        "Type": "",
+        "Price": "949940",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.10."
+    },
+    {
+        "Name": "GAINWARD 지포스 RTX 5060 고스트 D7 8GB",
+        "Type": "",
+        "Price": "463130",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.05."
+    },
+    {
+        "Name": "ASRock 라데온 RX 9060 XT CHALLENGER OC D6 16GB 대원씨티에스",
+        "Type": "",
+        "Price": "522610",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.06."
+    },
+    {
+        "Name": "MSI 지포스 RTX 5060 벤투스 2X OC D7 8GB",
+        "Type": "",
+        "Price": "464430",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.05."
+    },
+    {
+        "Name": "PALIT 지포스 RTX 5060 DUAL OC D7 8GB 이엠텍",
+        "Type": "",
+        "Price": "442450",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.05."
+    },
+    {
+        "Name": "갤럭시 GALAX 지포스 RTX 5060 WHITE OC D7 8GB",
+        "Type": "",
+        "Price": "481830",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.06."
+    },
+    {
+        "Name": "GIGABYTE 지포스 RTX 5070 Ti WINDFORCE OC SFF D7 16GB 피씨디렉트",
+        "Type": "",
+        "Price": "1248550",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.02."
+    },
+    {
+        "Name": "이엠텍 지포스 RTX 5060 MIRACLE WHITE D7 8GB",
+        "Type": "",
+        "Price": "465810",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.06."
+    },
+    {
+        "Name": "MSI 지포스 RTX 5070 게이밍 트리오 OC D7 12GB 트라이프로져4",
+        "Type": "",
+        "Price": "908600",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.03."
+    },
+    {
+        "Name": "PALIT 지포스 RTX 5060 Ti INFINITY 3 D7 16GB 이엠텍",
+        "Type": "",
+        "Price": "693890",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.04."
+    },
+    {
+        "Name": "MSI 지포스 RTX 5080 뱅가드 SOC D7 16GB 하이퍼프로져",
+        "Type": "",
+        "Price": "2109000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.02."
+    },
+    {
+        "Name": "ZOTAC GAMING 지포스 RTX 5070 SOLID OC D7 12GB",
+        "Type": "",
+        "Price": "864490",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.03."
+    },
+    {
+        "Name": "PALIT 지포스 RTX 5080 GAMINGPRO D7 16GB 이엠텍",
+        "Type": "",
+        "Price": "1756820",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.01."
+    },
+    {
+        "Name": "이엠텍 지포스 RTX 5060 Ti MIRACLE WHITE D7 16GB",
+        "Type": "",
+        "Price": "692590",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.05."
+    },
+    {
+        "Name": "MSI 지포스 RTX 5070 Ti 게이밍 트리오 OC D7 16GB 트라이프로져4",
+        "Type": "",
+        "Price": "1318740",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.05."
+    },
+    {
+        "Name": "ZOTAC GAMING 지포스 RTX 5070 Ti SOLID OC D7 16GB",
+        "Type": "",
+        "Price": "1310310",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.02."
+    },
+    {
+        "Name": "ASRock 라데온 RX 9060 XT CHALLENGER OC D6 8GB 대원씨티에스",
+        "Type": "",
+        "Price": "415680",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.06."
+    },
+    {
+        "Name": "XFX 라데온 RX 9070 XT SWIFT D6 16GB",
+        "Type": "",
+        "Price": "979930",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.03."
+    },
+    {
+        "Name": "ASUS PRIME 라데온 RX 9070 XT OC D6 16GB 대원씨티에스",
+        "Type": "",
+        "Price": "948990",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.03."
+    },
+    {
+        "Name": "ZOTAC GAMING 지포스 RTX 5060 Ti Twin Edge OC D7 16GB",
+        "Type": "",
+        "Price": "668010",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.04."
+    },
+    {
+        "Name": "MSI 지포스 RTX 5060 Ti 벤투스 2X OC 플러스 D7 16GB",
+        "Type": "",
+        "Price": "678680",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.04."
+    },
+    {
+        "Name": "MSI 지포스 RTX 5070 Ti 게이밍 트리오 OC 화이트 D7 16GB 트라이프로져4",
+        "Type": "",
+        "Price": "1368420",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.05."
+    },
+    {
+        "Name": "SAPPHIRE 라데온 RX 9060 XT PULSE OC D6 16GB",
+        "Type": "",
+        "Price": "559900",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.06."
+    },
+    {
+        "Name": "PALIT 지포스 RTX 5070 INFINITY 3 D7 12GB 이엠텍",
+        "Type": "",
+        "Price": "854610",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.04."
+    },
+    {
+        "Name": "SAPPHIRE 라데온 RX 9070 XT NITRO+ OC D6 16GB",
+        "Type": "",
+        "Price": "1225500",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.03."
+    },
+    {
+        "Name": "MSI 지포스 RTX 5090 슈프림 SOC D7 32GB 하이퍼프로져",
+        "Type": "",
+        "Price": "4674990",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.02."
+    },
+    {
+        "Name": "GIGABYTE 지포스 RTX 5070 WINDFORCE OC SFF D7 12GB 제이씨현",
+        "Type": "",
+        "Price": "874300",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.03."
+    },
+    {
+        "Name": "ZOTAC GAMING 지포스 RTX 5080 SOLID OC D7 16GB",
+        "Type": "",
+        "Price": "1789610",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.01."
+    },
+    {
+        "Name": "GIGABYTE 지포스 RTX 5060 Ti WINDFORCE MAX OC D7 16GB 제이씨현",
+        "Type": "",
+        "Price": "676960",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.07."
+    },
+    {
+        "Name": "GIGABYTE AORUS 지포스 RTX 5090 MASTER ICE D7 32GB 제이씨현",
+        "Type": "",
+        "Price": "4620000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.01."
+    },
+    {
+        "Name": "ASRock 라데온 RX 9070 XT CHALLENGER D6 16GB 대원씨티에스",
+        "Type": "",
+        "Price": "949940",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.10."
+    },
+    {
+        "Name": "GAINWARD 지포스 RTX 5060 고스트 D7 8GB",
+        "Type": "",
+        "Price": "463130",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.05."
+    },
+    {
+        "Name": "ASRock 라데온 RX 9060 XT CHALLENGER OC D6 16GB 대원씨티에스",
+        "Type": "",
+        "Price": "522610",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.06."
+    },
+    {
+        "Name": "MSI 지포스 RTX 5060 벤투스 2X OC D7 8GB",
+        "Type": "",
+        "Price": "464430",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.05."
+    },
+    {
+        "Name": "PALIT 지포스 RTX 5060 DUAL OC D7 8GB 이엠텍",
+        "Type": "",
+        "Price": "442450",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.05."
+    },
+    {
+        "Name": "갤럭시 GALAX 지포스 RTX 5060 WHITE OC D7 8GB",
+        "Type": "",
+        "Price": "481830",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.06."
+    },
+    {
+        "Name": "GIGABYTE 지포스 RTX 5070 Ti WINDFORCE OC SFF D7 16GB 피씨디렉트",
+        "Type": "",
+        "Price": "1248550",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.02."
+    },
+    {
+        "Name": "이엠텍 지포스 RTX 5060 MIRACLE WHITE D7 8GB",
+        "Type": "",
+        "Price": "465810",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.06."
+    },
+    {
+        "Name": "MSI 지포스 RTX 5070 게이밍 트리오 OC D7 12GB 트라이프로져4",
+        "Type": "",
+        "Price": "908600",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.03."
+    },
+    {
+        "Name": "PALIT 지포스 RTX 5060 Ti INFINITY 3 D7 16GB 이엠텍",
+        "Type": "",
+        "Price": "693890",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.04."
+    },
+    {
+        "Name": "MSI 지포스 RTX 5080 뱅가드 SOC D7 16GB 하이퍼프로져",
+        "Type": "",
+        "Price": "2109000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.02."
+    },
+    {
+        "Name": "ZOTAC GAMING 지포스 RTX 5070 SOLID OC D7 12GB",
+        "Type": "",
+        "Price": "864490",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.03."
+    },
+    {
+        "Name": "PALIT 지포스 RTX 5080 GAMINGPRO D7 16GB 이엠텍",
+        "Type": "",
+        "Price": "1756820",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.01."
+    },
+    {
+        "Name": "이엠텍 지포스 RTX 5060 Ti MIRACLE WHITE D7 16GB",
+        "Type": "",
+        "Price": "692590",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.05."
+    },
+    {
+        "Name": "MSI 지포스 RTX 5070 Ti 게이밍 트리오 OC D7 16GB 트라이프로져4",
+        "Type": "",
+        "Price": "1318740",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.05."
+    },
+    {
+        "Name": "ZOTAC GAMING 지포스 RTX 5070 Ti SOLID OC D7 16GB",
+        "Type": "",
+        "Price": "1310310",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.02."
+    },
+    {
+        "Name": "ASRock 라데온 RX 9060 XT CHALLENGER OC D6 8GB 대원씨티에스",
+        "Type": "",
+        "Price": "415680",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.06."
+    },
+    {
+        "Name": "XFX 라데온 RX 9070 XT SWIFT D6 16GB",
+        "Type": "",
+        "Price": "979930",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.03."
+    },
+    {
+        "Name": "ASUS PRIME 라데온 RX 9070 XT OC D6 16GB 대원씨티에스",
+        "Type": "",
+        "Price": "948990",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.03."
+    },
+    {
+        "Name": "ZOTAC GAMING 지포스 RTX 5060 Ti Twin Edge OC D7 16GB",
+        "Type": "",
+        "Price": "668010",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.04."
+    },
+    {
+        "Name": "MSI 지포스 RTX 5060 Ti 벤투스 2X OC 플러스 D7 16GB",
+        "Type": "",
+        "Price": "678680",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.04."
+    },
+    {
+        "Name": "MSI 지포스 RTX 5070 Ti 게이밍 트리오 OC 화이트 D7 16GB 트라이프로져4",
+        "Type": "",
+        "Price": "1368420",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.05."
+    },
+    {
+        "Name": "SAPPHIRE 라데온 RX 9060 XT PULSE OC D6 16GB",
+        "Type": "",
+        "Price": "559900",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.06."
+    },
+    {
+        "Name": "PALIT 지포스 RTX 5070 INFINITY 3 D7 12GB 이엠텍",
+        "Type": "",
+        "Price": "854610",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.04."
+    },
+    {
+        "Name": "SAPPHIRE 라데온 RX 9070 XT NITRO+ OC D6 16GB",
+        "Type": "",
+        "Price": "1225500",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.03."
+    },
+    {
+        "Name": "MSI 지포스 RTX 5090 슈프림 SOC D7 32GB 하이퍼프로져",
+        "Type": "",
+        "Price": "4674990",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.02."
+    },
+    {
+        "Name": "GIGABYTE 지포스 RTX 5070 WINDFORCE OC SFF D7 12GB 제이씨현",
+        "Type": "",
+        "Price": "874300",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.03."
+    },
+    {
+        "Name": "ZOTAC GAMING 지포스 RTX 5080 SOLID OC D7 16GB",
+        "Type": "",
+        "Price": "1789610",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.01."
+    },
+    {
+        "Name": "GIGABYTE 지포스 RTX 5060 Ti WINDFORCE MAX OC D7 16GB 제이씨현",
+        "Type": "",
+        "Price": "676960",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.07."
+    },
+    {
+        "Name": "GIGABYTE AORUS 지포스 RTX 5090 MASTER ICE D7 32GB 제이씨현",
+        "Type": "",
+        "Price": "4620000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.01."
+    },
+    {
+        "Name": "ASRock 라데온 RX 9070 XT CHALLENGER D6 16GB 대원씨티에스",
+        "Type": "",
+        "Price": "949940",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.10."
+    },
+    {
+        "Name": "GAINWARD 지포스 RTX 5060 고스트 D7 8GB",
+        "Type": "",
+        "Price": "463130",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.05."
+    },
+    {
+        "Name": "ASRock 라데온 RX 9060 XT CHALLENGER OC D6 16GB 대원씨티에스",
+        "Type": "",
+        "Price": "522610",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.06."
+    },
+    {
+        "Name": "MSI 지포스 RTX 5060 벤투스 2X OC D7 8GB",
+        "Type": "",
+        "Price": "464430",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.05."
+    },
+    {
+        "Name": "PALIT 지포스 RTX 5060 DUAL OC D7 8GB 이엠텍",
+        "Type": "",
+        "Price": "442450",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.05."
+    },
+    {
+        "Name": "갤럭시 GALAX 지포스 RTX 5060 WHITE OC D7 8GB",
+        "Type": "",
+        "Price": "481830",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.06."
+    },
+    {
+        "Name": "GIGABYTE 지포스 RTX 5070 Ti WINDFORCE OC SFF D7 16GB 피씨디렉트",
+        "Type": "",
+        "Price": "1248550",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.02."
+    },
+    {
+        "Name": "이엠텍 지포스 RTX 5060 MIRACLE WHITE D7 8GB",
+        "Type": "",
+        "Price": "465810",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.06."
+    },
+    {
+        "Name": "MSI 지포스 RTX 5070 게이밍 트리오 OC D7 12GB 트라이프로져4",
+        "Type": "",
+        "Price": "908600",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.03."
+    },
+    {
+        "Name": "PALIT 지포스 RTX 5060 Ti INFINITY 3 D7 16GB 이엠텍",
+        "Type": "",
+        "Price": "693890",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.04."
+    },
+    {
+        "Name": "MSI 지포스 RTX 5080 뱅가드 SOC D7 16GB 하이퍼프로져",
+        "Type": "",
+        "Price": "2109000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.02."
+    },
+    {
+        "Name": "ZOTAC GAMING 지포스 RTX 5070 SOLID OC D7 12GB",
+        "Type": "",
+        "Price": "864490",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.03."
+    },
+    {
+        "Name": "PALIT 지포스 RTX 5080 GAMINGPRO D7 16GB 이엠텍",
+        "Type": "",
+        "Price": "1756820",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.01."
+    },
+    {
+        "Name": "이엠텍 지포스 RTX 5060 Ti MIRACLE WHITE D7 16GB",
+        "Type": "",
+        "Price": "692590",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.05."
+    },
+    {
+        "Name": "MSI 지포스 RTX 5070 Ti 게이밍 트리오 OC D7 16GB 트라이프로져4",
+        "Type": "",
+        "Price": "1318740",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.05."
+    },
+    {
+        "Name": "ZOTAC GAMING 지포스 RTX 5070 Ti SOLID OC D7 16GB",
+        "Type": "",
+        "Price": "1310310",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.02."
+    },
+    {
+        "Name": "ASRock 라데온 RX 9060 XT CHALLENGER OC D6 8GB 대원씨티에스",
+        "Type": "",
+        "Price": "415680",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.06."
+    },
+    {
+        "Name": "XFX 라데온 RX 9070 XT SWIFT D6 16GB",
+        "Type": "",
+        "Price": "979930",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.03."
+    },
+    {
+        "Name": "ASUS PRIME 라데온 RX 9070 XT OC D6 16GB 대원씨티에스",
+        "Type": "",
+        "Price": "948990",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.03."
+    },
+    {
+        "Name": "ZOTAC GAMING 지포스 RTX 5060 Ti Twin Edge OC D7 16GB",
+        "Type": "",
+        "Price": "668010",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.04."
+    },
+    {
+        "Name": "MSI 지포스 RTX 5060 Ti 벤투스 2X OC 플러스 D7 16GB",
+        "Type": "",
+        "Price": "678680",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.04."
+    },
+    {
+        "Name": "MSI 지포스 RTX 5070 Ti 게이밍 트리오 OC 화이트 D7 16GB 트라이프로져4",
+        "Type": "",
+        "Price": "1368420",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.05."
+    },
+    {
+        "Name": "SAPPHIRE 라데온 RX 9060 XT PULSE OC D6 16GB",
+        "Type": "",
+        "Price": "559900",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.06."
+    },
+    {
+        "Name": "PALIT 지포스 RTX 5070 INFINITY 3 D7 12GB 이엠텍",
+        "Type": "",
+        "Price": "854610",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.04."
+    },
+    {
+        "Name": "SAPPHIRE 라데온 RX 9070 XT NITRO+ OC D6 16GB",
+        "Type": "",
+        "Price": "1225500",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.03."
+    },
+    {
+        "Name": "MSI 지포스 RTX 5090 슈프림 SOC D7 32GB 하이퍼프로져",
+        "Type": "",
+        "Price": "4674990",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.02."
+    },
+    {
+        "Name": "GIGABYTE 지포스 RTX 5070 WINDFORCE OC SFF D7 12GB 제이씨현",
+        "Type": "",
+        "Price": "874300",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.03."
+    },
+    {
+        "Name": "ZOTAC GAMING 지포스 RTX 5080 SOLID OC D7 16GB",
+        "Type": "",
+        "Price": "1789610",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.01."
+    },
+    {
+        "Name": "GIGABYTE 지포스 RTX 5060 Ti WINDFORCE MAX OC D7 16GB 제이씨현",
+        "Type": "",
+        "Price": "676960",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.07."
+    },
+    {
+        "Name": "GIGABYTE AORUS 지포스 RTX 5090 MASTER ICE D7 32GB 제이씨현",
+        "Type": "",
+        "Price": "4620000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.01."
+    },
+    {
+        "Name": "ASRock 라데온 RX 9070 XT CHALLENGER D6 16GB 대원씨티에스",
+        "Type": "",
+        "Price": "949940",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.10."
+    },
+    {
+        "Name": "GAINWARD 지포스 RTX 5060 고스트 D7 8GB",
+        "Type": "",
+        "Price": "463130",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.05."
+    },
+    {
+        "Name": "ASRock 라데온 RX 9060 XT CHALLENGER OC D6 16GB 대원씨티에스",
+        "Type": "",
+        "Price": "522610",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.06."
+    },
+    {
+        "Name": "MSI 지포스 RTX 5060 벤투스 2X OC D7 8GB",
+        "Type": "",
+        "Price": "464430",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.05."
+    },
+    {
+        "Name": "PALIT 지포스 RTX 5060 DUAL OC D7 8GB 이엠텍",
+        "Type": "",
+        "Price": "442450",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.05."
+    },
+    {
+        "Name": "갤럭시 GALAX 지포스 RTX 5060 WHITE OC D7 8GB",
+        "Type": "",
+        "Price": "481830",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.06."
+    },
+    {
+        "Name": "GIGABYTE 지포스 RTX 5070 Ti WINDFORCE OC SFF D7 16GB 피씨디렉트",
+        "Type": "",
+        "Price": "1248550",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.02."
+    },
+    {
+        "Name": "이엠텍 지포스 RTX 5060 MIRACLE WHITE D7 8GB",
+        "Type": "",
+        "Price": "465810",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.06."
+    },
+    {
+        "Name": "MSI 지포스 RTX 5070 게이밍 트리오 OC D7 12GB 트라이프로져4",
+        "Type": "",
+        "Price": "908600",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.03."
+    },
+    {
+        "Name": "PALIT 지포스 RTX 5060 Ti INFINITY 3 D7 16GB 이엠텍",
+        "Type": "",
+        "Price": "693890",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.04."
+    },
+    {
+        "Name": "MSI 지포스 RTX 5080 뱅가드 SOC D7 16GB 하이퍼프로져",
+        "Type": "",
+        "Price": "2109000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.02."
+    },
+    {
+        "Name": "ZOTAC GAMING 지포스 RTX 5070 SOLID OC D7 12GB",
+        "Type": "",
+        "Price": "864490",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.03."
+    },
+    {
+        "Name": "PALIT 지포스 RTX 5080 GAMINGPRO D7 16GB 이엠텍",
+        "Type": "",
+        "Price": "1756820",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.01."
+    },
+    {
+        "Name": "이엠텍 지포스 RTX 5060 Ti MIRACLE WHITE D7 16GB",
+        "Type": "",
+        "Price": "692590",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.05."
+    },
+    {
+        "Name": "MSI 지포스 RTX 5070 Ti 게이밍 트리오 OC D7 16GB 트라이프로져4",
+        "Type": "",
+        "Price": "1318740",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.05."
+    },
+    {
+        "Name": "ZOTAC GAMING 지포스 RTX 5070 Ti SOLID OC D7 16GB",
+        "Type": "",
+        "Price": "1310310",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.02."
+    },
+    {
+        "Name": "ASRock 라데온 RX 9060 XT CHALLENGER OC D6 8GB 대원씨티에스",
+        "Type": "",
+        "Price": "415680",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.06."
+    },
+    {
+        "Name": "XFX 라데온 RX 9070 XT SWIFT D6 16GB",
+        "Type": "",
+        "Price": "979930",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.03."
+    },
+    {
+        "Name": "ASUS PRIME 라데온 RX 9070 XT OC D6 16GB 대원씨티에스",
+        "Type": "",
+        "Price": "948990",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.03."
+    },
+    {
+        "Name": "ZOTAC GAMING 지포스 RTX 5060 Ti Twin Edge OC D7 16GB",
+        "Type": "",
+        "Price": "668010",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.04."
+    },
+    {
+        "Name": "MSI 지포스 RTX 5060 Ti 벤투스 2X OC 플러스 D7 16GB",
+        "Type": "",
+        "Price": "678680",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.04."
+    },
+    {
+        "Name": "MSI 지포스 RTX 5070 Ti 게이밍 트리오 OC 화이트 D7 16GB 트라이프로져4",
+        "Type": "",
+        "Price": "1368420",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.05."
+    },
+    {
+        "Name": "SAPPHIRE 라데온 RX 9060 XT PULSE OC D6 16GB",
+        "Type": "",
+        "Price": "559890",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.06."
+    },
+    {
+        "Name": "PALIT 지포스 RTX 5070 INFINITY 3 D7 12GB 이엠텍",
+        "Type": "",
+        "Price": "854610",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.04."
+    },
+    {
+        "Name": "SAPPHIRE 라데온 RX 9070 XT NITRO+ OC D6 16GB",
+        "Type": "",
+        "Price": "1225500",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.03."
+    },
+    {
+        "Name": "MSI 지포스 RTX 5090 슈프림 SOC D7 32GB 하이퍼프로져",
+        "Type": "",
+        "Price": "4674990",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.02."
+    },
+    {
+        "Name": "GIGABYTE 지포스 RTX 5070 WINDFORCE OC SFF D7 12GB 제이씨현",
+        "Type": "",
+        "Price": "874300",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.03."
+    },
+    {
+        "Name": "ZOTAC GAMING 지포스 RTX 5080 SOLID OC D7 16GB",
+        "Type": "",
+        "Price": "1789610",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.01."
+    },
+    {
+        "Name": "GIGABYTE 지포스 RTX 5060 Ti WINDFORCE MAX OC D7 16GB 제이씨현",
+        "Type": "",
+        "Price": "676960",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.07."
+    },
+    {
+        "Name": "GIGABYTE AORUS 지포스 RTX 5090 MASTER ICE D7 32GB 제이씨현",
+        "Type": "",
+        "Price": "4620000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.01."
+    },
+    {
+        "Name": "ASRock 라데온 RX 9070 XT CHALLENGER D6 16GB 대원씨티에스",
+        "Type": "",
+        "Price": "949940",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.10."
+    },
+    {
+        "Name": "GAINWARD 지포스 RTX 5060 고스트 D7 8GB",
+        "Type": "",
+        "Price": "463130",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.05."
+    },
+    {
+        "Name": "ASRock 라데온 RX 9060 XT CHALLENGER OC D6 16GB 대원씨티에스",
+        "Type": "",
+        "Price": "522610",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.06."
+    }
+]

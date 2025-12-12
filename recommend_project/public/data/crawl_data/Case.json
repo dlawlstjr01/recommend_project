@@ -1,0 +1,2362 @@
+[
+    {
+        "Name": "DAVEN AQUA 다이버",
+        "Type": "블랙",
+        "Price": "38820",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2024.09."
+    },
+    {
+        "Name": "DAVEN AQUA 다이버",
+        "Type": "화이트",
+        "Price": "45750",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2024.09."
+    },
+    {
+        "Name": "darkFlash DS500 RGB",
+        "Type": "블랙",
+        "Price": "38240",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.03."
+    },
+    {
+        "Name": "darkFlash DS500 RGB",
+        "Type": "화이트",
+        "Price": "43900",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.03."
+    },
+    {
+        "Name": "DAVEN AQUA Lite",
+        "Type": "블랙",
+        "Price": "19070",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.07."
+    },
+    {
+        "Name": "DAVEN AQUA Lite",
+        "Type": "화이트",
+        "Price": "21170",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.07."
+    },
+    {
+        "Name": "잘만 N30 백사십",
+        "Type": "블랙",
+        "Price": "38560",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.08."
+    },
+    {
+        "Name": "잘만 N30 백사십",
+        "Type": "화이트",
+        "Price": "41220",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.08."
+    },
+    {
+        "Name": "마이크로닉스 WIZMAX 우드리안 MAX",
+        "Type": "",
+        "Price": "85370",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.04."
+    },
+    {
+        "Name": "앱코 U30P 마린+ 디스플레이",
+        "Type": "블랙",
+        "Price": "49900",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.07."
+    },
+    {
+        "Name": "앱코 U30P 마린+ 디스플레이",
+        "Type": "화이트",
+        "Price": "54500",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.07."
+    },
+    {
+        "Name": "darkFlash DLX21 RGB MESH 강화유리",
+        "Type": "블랙",
+        "Price": "95540",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2020.07."
+    },
+    {
+        "Name": "darkFlash DLX21 RGB MESH 강화유리",
+        "Type": "화이트",
+        "Price": "94050",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2020.07."
+    },
+    {
+        "Name": "앱코 U30 마린",
+        "Type": "블랙",
+        "Price": "39890",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2024.05."
+    },
+    {
+        "Name": "앱코 U30 마린",
+        "Type": "화이트",
+        "Price": "47990",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2024.05."
+    },
+    {
+        "Name": "3RSYS L600 Quiet",
+        "Type": "블랙",
+        "Price": "87400",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2022.07."
+    },
+    {
+        "Name": "3RSYS L600 Quiet",
+        "Type": "화이트",
+        "Price": "91170",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2022.07."
+    },
+    {
+        "Name": "아이구주 HATCH S400 BTF FULL MESH",
+        "Type": "블랙",
+        "Price": "52240",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.09."
+    },
+    {
+        "Name": "아이구주 HATCH S400 BTF FULL MESH",
+        "Type": "화이트",
+        "Price": "56040",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.09."
+    },
+    {
+        "Name": "마이크로닉스 WIZMAX CHILL 세븐팬",
+        "Type": "",
+        "Price": "48280",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.07."
+    },
+    {
+        "Name": "darkFlash DS900 ARGB 강화유리",
+        "Type": "블랙",
+        "Price": "57500",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2024.01."
+    },
+    {
+        "Name": "darkFlash DS900 ARGB 강화유리",
+        "Type": "블랙 우드",
+        "Price": "61750",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2024.01."
+    },
+    {
+        "Name": "darkFlash DS900 ARGB 강화유리",
+        "Type": "화이트",
+        "Price": "61500",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2024.01."
+    },
+    {
+        "Name": "darkFlash DS900 ARGB 강화유리",
+        "Type": "화이트 우드",
+        "Price": "65540",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2024.01."
+    },
+    {
+        "Name": "앱코 UD50C 루시드 앰비언트 풀커브드 ARGB BTF",
+        "Type": "블랙",
+        "Price": "138990",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.06."
+    },
+    {
+        "Name": "앱코 UD50C 루시드 앰비언트 풀커브드 ARGB BTF",
+        "Type": "화이트",
+        "Price": "138990",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.06."
+    },
+    {
+        "Name": "Antec FLUX PRO MESH",
+        "Type": "블랙",
+        "Price": "248000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2024.12."
+    },
+    {
+        "Name": "Antec FLUX PRO MESH",
+        "Type": "화이트",
+        "Price": "258880",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2024.12."
+    },
+    {
+        "Name": "마이크로닉스 COOLMAX 스테디",
+        "Type": "블랙",
+        "Price": "41760",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2024.04."
+    },
+    {
+        "Name": "마이크로닉스 COOLMAX 스테디",
+        "Type": "화이트",
+        "Price": "47220",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2024.04."
+    },
+    {
+        "Name": "darkFlash DMO11",
+        "Type": "블랙",
+        "Price": "18790",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2024.07."
+    },
+    {
+        "Name": "darkFlash DMO11",
+        "Type": "화이트",
+        "Price": "21840",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2024.07."
+    },
+    {
+        "Name": "아이구주 HATCH S600 BTF",
+        "Type": "블랙",
+        "Price": "56120",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.09."
+    },
+    {
+        "Name": "아이구주 HATCH S600 BTF",
+        "Type": "화이트",
+        "Price": "60590",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.09."
+    },
+    {
+        "Name": "Antec C8 MESH",
+        "Type": "블랙",
+        "Price": "132920",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2024.01."
+    },
+    {
+        "Name": "Antec C8 MESH",
+        "Type": "알루미늄",
+        "Price": "133900",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2024.01."
+    },
+    {
+        "Name": "Antec C8 MESH",
+        "Type": "우드",
+        "Price": "133200",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2024.01."
+    },
+    {
+        "Name": "Antec C8 MESH",
+        "Type": "화이트",
+        "Price": "134080",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2024.01."
+    },
+    {
+        "Name": "Antec FLUX M MESH",
+        "Type": "블랙",
+        "Price": "77200",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.11."
+    },
+    {
+        "Name": "마이크로닉스 WIZMAX 오닉스",
+        "Type": "",
+        "Price": "27920",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.04."
+    },
+    {
+        "Name": "3RSYS T2000 Quiet",
+        "Type": "블랙",
+        "Price": "120080",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.06."
+    },
+    {
+        "Name": "3RSYS T2000 Quiet",
+        "Type": "화이트",
+        "Price": "124960",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.06."
+    },
+    {
+        "Name": "3RSYS R190",
+        "Type": "블랙",
+        "Price": "37500",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.07."
+    },
+    {
+        "Name": "3RSYS R190",
+        "Type": "화이트",
+        "Price": "39360",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.07."
+    },
+    {
+        "Name": "JONSBO D400 BTF",
+        "Type": "블랙",
+        "Price": "138980",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.06."
+    },
+    {
+        "Name": "JONSBO D400 BTF",
+        "Type": "화이트",
+        "Price": "135540",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.06."
+    },
+    {
+        "Name": "싸이번 LIMPID SC-M5 PLUS BONITO Edition",
+        "Type": "블랙",
+        "Price": "61740",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.09."
+    },
+    {
+        "Name": "싸이번 LIMPID SC-M5 PLUS BONITO Edition",
+        "Type": "화이트",
+        "Price": "68000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.09."
+    },
+    {
+        "Name": "마이크로닉스 WIZMAX 우드리안 PRO",
+        "Type": "",
+        "Price": "54820",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.04."
+    },
+    {
+        "Name": "DAVEN 벤투스 420 MESH ARGB",
+        "Type": "블랙",
+        "Price": "86520",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.10."
+    },
+    {
+        "Name": "DAVEN 벤투스 420 MESH ARGB",
+        "Type": "화이트",
+        "Price": "95200",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.10."
+    },
+    {
+        "Name": "마이크로닉스 WIZMAX 우퍼 딥톤",
+        "Type": "블랙",
+        "Price": "33000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.08."
+    },
+    {
+        "Name": "마이크로닉스 WIZMAX 우퍼 딥톤",
+        "Type": "화이트",
+        "Price": "36780",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.08."
+    },
+    {
+        "Name": "darkFlash DPF70 ARGB",
+        "Type": "블랙",
+        "Price": "58140",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.11."
+    },
+    {
+        "Name": "darkFlash DPF70 ARGB",
+        "Type": "화이트",
+        "Price": "62920",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.11."
+    },
+    {
+        "Name": "HAVN BF 360 FLOW",
+        "Type": "블랙",
+        "Price": "290170",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.11."
+    },
+    {
+        "Name": "HAVN BF 360 FLOW",
+        "Type": "화이트",
+        "Price": "290170",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.11."
+    },
+    {
+        "Name": "앱코 G50 빅플로우 MESH ARGB BTF",
+        "Type": "블랙",
+        "Price": "89000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.10."
+    },
+    {
+        "Name": "앱코 G50 빅플로우 MESH ARGB BTF",
+        "Type": "화이트",
+        "Price": "92000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.10."
+    },
+    {
+        "Name": "DAVEN AQUA 다이버",
+        "Type": "블랙",
+        "Price": "38820",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2024.09."
+    },
+    {
+        "Name": "DAVEN AQUA 다이버",
+        "Type": "화이트",
+        "Price": "45750",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2024.09."
+    },
+    {
+        "Name": "darkFlash DS500 RGB",
+        "Type": "블랙",
+        "Price": "38240",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.03."
+    },
+    {
+        "Name": "darkFlash DS500 RGB",
+        "Type": "화이트",
+        "Price": "43900",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.03."
+    },
+    {
+        "Name": "DAVEN AQUA Lite",
+        "Type": "블랙",
+        "Price": "19070",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.07."
+    },
+    {
+        "Name": "DAVEN AQUA Lite",
+        "Type": "화이트",
+        "Price": "21170",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.07."
+    },
+    {
+        "Name": "잘만 N30 백사십",
+        "Type": "블랙",
+        "Price": "38560",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.08."
+    },
+    {
+        "Name": "잘만 N30 백사십",
+        "Type": "화이트",
+        "Price": "41220",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.08."
+    },
+    {
+        "Name": "마이크로닉스 WIZMAX 우드리안 MAX",
+        "Type": "",
+        "Price": "85370",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.04."
+    },
+    {
+        "Name": "앱코 U30P 마린+ 디스플레이",
+        "Type": "블랙",
+        "Price": "49900",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.07."
+    },
+    {
+        "Name": "앱코 U30P 마린+ 디스플레이",
+        "Type": "화이트",
+        "Price": "54500",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.07."
+    },
+    {
+        "Name": "darkFlash DLX21 RGB MESH 강화유리",
+        "Type": "블랙",
+        "Price": "95540",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2020.07."
+    },
+    {
+        "Name": "darkFlash DLX21 RGB MESH 강화유리",
+        "Type": "화이트",
+        "Price": "94050",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2020.07."
+    },
+    {
+        "Name": "앱코 U30 마린",
+        "Type": "블랙",
+        "Price": "39890",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2024.05."
+    },
+    {
+        "Name": "앱코 U30 마린",
+        "Type": "화이트",
+        "Price": "47990",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2024.05."
+    },
+    {
+        "Name": "3RSYS L600 Quiet",
+        "Type": "블랙",
+        "Price": "87400",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2022.07."
+    },
+    {
+        "Name": "3RSYS L600 Quiet",
+        "Type": "화이트",
+        "Price": "91170",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2022.07."
+    },
+    {
+        "Name": "아이구주 HATCH S400 BTF FULL MESH",
+        "Type": "블랙",
+        "Price": "52240",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.09."
+    },
+    {
+        "Name": "아이구주 HATCH S400 BTF FULL MESH",
+        "Type": "화이트",
+        "Price": "56040",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.09."
+    },
+    {
+        "Name": "마이크로닉스 WIZMAX CHILL 세븐팬",
+        "Type": "",
+        "Price": "48280",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.07."
+    },
+    {
+        "Name": "darkFlash DS900 ARGB 강화유리",
+        "Type": "블랙",
+        "Price": "57500",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2024.01."
+    },
+    {
+        "Name": "darkFlash DS900 ARGB 강화유리",
+        "Type": "블랙 우드",
+        "Price": "61750",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2024.01."
+    },
+    {
+        "Name": "darkFlash DS900 ARGB 강화유리",
+        "Type": "화이트",
+        "Price": "61500",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2024.01."
+    },
+    {
+        "Name": "darkFlash DS900 ARGB 강화유리",
+        "Type": "화이트 우드",
+        "Price": "65540",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2024.01."
+    },
+    {
+        "Name": "앱코 UD50C 루시드 앰비언트 풀커브드 ARGB BTF",
+        "Type": "블랙",
+        "Price": "138990",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.06."
+    },
+    {
+        "Name": "앱코 UD50C 루시드 앰비언트 풀커브드 ARGB BTF",
+        "Type": "화이트",
+        "Price": "138990",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.06."
+    },
+    {
+        "Name": "Antec FLUX PRO MESH",
+        "Type": "블랙",
+        "Price": "248000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2024.12."
+    },
+    {
+        "Name": "Antec FLUX PRO MESH",
+        "Type": "화이트",
+        "Price": "258880",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2024.12."
+    },
+    {
+        "Name": "마이크로닉스 COOLMAX 스테디",
+        "Type": "블랙",
+        "Price": "41760",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2024.04."
+    },
+    {
+        "Name": "마이크로닉스 COOLMAX 스테디",
+        "Type": "화이트",
+        "Price": "47220",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2024.04."
+    },
+    {
+        "Name": "darkFlash DMO11",
+        "Type": "블랙",
+        "Price": "18790",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2024.07."
+    },
+    {
+        "Name": "darkFlash DMO11",
+        "Type": "화이트",
+        "Price": "21840",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2024.07."
+    },
+    {
+        "Name": "아이구주 HATCH S600 BTF",
+        "Type": "블랙",
+        "Price": "56120",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.09."
+    },
+    {
+        "Name": "아이구주 HATCH S600 BTF",
+        "Type": "화이트",
+        "Price": "60590",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.09."
+    },
+    {
+        "Name": "Antec C8 MESH",
+        "Type": "블랙",
+        "Price": "132920",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2024.01."
+    },
+    {
+        "Name": "Antec C8 MESH",
+        "Type": "알루미늄",
+        "Price": "133900",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2024.01."
+    },
+    {
+        "Name": "Antec C8 MESH",
+        "Type": "우드",
+        "Price": "133200",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2024.01."
+    },
+    {
+        "Name": "Antec C8 MESH",
+        "Type": "화이트",
+        "Price": "134080",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2024.01."
+    },
+    {
+        "Name": "Antec FLUX M MESH",
+        "Type": "블랙",
+        "Price": "77200",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.11."
+    },
+    {
+        "Name": "마이크로닉스 WIZMAX 오닉스",
+        "Type": "",
+        "Price": "27920",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.04."
+    },
+    {
+        "Name": "3RSYS T2000 Quiet",
+        "Type": "블랙",
+        "Price": "120080",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.06."
+    },
+    {
+        "Name": "3RSYS T2000 Quiet",
+        "Type": "화이트",
+        "Price": "124960",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.06."
+    },
+    {
+        "Name": "3RSYS R190",
+        "Type": "블랙",
+        "Price": "37500",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.07."
+    },
+    {
+        "Name": "3RSYS R190",
+        "Type": "화이트",
+        "Price": "39360",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.07."
+    },
+    {
+        "Name": "JONSBO D400 BTF",
+        "Type": "블랙",
+        "Price": "138980",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.06."
+    },
+    {
+        "Name": "JONSBO D400 BTF",
+        "Type": "화이트",
+        "Price": "135540",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.06."
+    },
+    {
+        "Name": "싸이번 LIMPID SC-M5 PLUS BONITO Edition",
+        "Type": "블랙",
+        "Price": "61740",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.09."
+    },
+    {
+        "Name": "싸이번 LIMPID SC-M5 PLUS BONITO Edition",
+        "Type": "화이트",
+        "Price": "68000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.09."
+    },
+    {
+        "Name": "마이크로닉스 WIZMAX 우드리안 PRO",
+        "Type": "",
+        "Price": "54820",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.04."
+    },
+    {
+        "Name": "DAVEN 벤투스 420 MESH ARGB",
+        "Type": "블랙",
+        "Price": "86520",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.10."
+    },
+    {
+        "Name": "DAVEN 벤투스 420 MESH ARGB",
+        "Type": "화이트",
+        "Price": "95200",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.10."
+    },
+    {
+        "Name": "마이크로닉스 WIZMAX 우퍼 딥톤",
+        "Type": "블랙",
+        "Price": "33000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.08."
+    },
+    {
+        "Name": "마이크로닉스 WIZMAX 우퍼 딥톤",
+        "Type": "화이트",
+        "Price": "36780",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.08."
+    },
+    {
+        "Name": "darkFlash DPF70 ARGB",
+        "Type": "블랙",
+        "Price": "58140",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.11."
+    },
+    {
+        "Name": "darkFlash DPF70 ARGB",
+        "Type": "화이트",
+        "Price": "62920",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.11."
+    },
+    {
+        "Name": "HAVN BF 360 FLOW",
+        "Type": "블랙",
+        "Price": "290170",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.11."
+    },
+    {
+        "Name": "HAVN BF 360 FLOW",
+        "Type": "화이트",
+        "Price": "290170",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.11."
+    },
+    {
+        "Name": "앱코 G50 빅플로우 MESH ARGB BTF",
+        "Type": "블랙",
+        "Price": "89000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.10."
+    },
+    {
+        "Name": "앱코 G50 빅플로우 MESH ARGB BTF",
+        "Type": "화이트",
+        "Price": "92000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.10."
+    },
+    {
+        "Name": "DAVEN AQUA 다이버",
+        "Type": "블랙",
+        "Price": "38820",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2024.09."
+    },
+    {
+        "Name": "DAVEN AQUA 다이버",
+        "Type": "화이트",
+        "Price": "45750",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2024.09."
+    },
+    {
+        "Name": "darkFlash DS500 RGB",
+        "Type": "블랙",
+        "Price": "38240",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.03."
+    },
+    {
+        "Name": "darkFlash DS500 RGB",
+        "Type": "화이트",
+        "Price": "43900",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.03."
+    },
+    {
+        "Name": "DAVEN AQUA Lite",
+        "Type": "블랙",
+        "Price": "19070",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.07."
+    },
+    {
+        "Name": "DAVEN AQUA Lite",
+        "Type": "화이트",
+        "Price": "21170",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.07."
+    },
+    {
+        "Name": "잘만 N30 백사십",
+        "Type": "블랙",
+        "Price": "38560",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.08."
+    },
+    {
+        "Name": "잘만 N30 백사십",
+        "Type": "화이트",
+        "Price": "41220",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.08."
+    },
+    {
+        "Name": "마이크로닉스 WIZMAX 우드리안 MAX",
+        "Type": "",
+        "Price": "85370",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.04."
+    },
+    {
+        "Name": "앱코 U30P 마린+ 디스플레이",
+        "Type": "블랙",
+        "Price": "49900",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.07."
+    },
+    {
+        "Name": "앱코 U30P 마린+ 디스플레이",
+        "Type": "화이트",
+        "Price": "54500",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.07."
+    },
+    {
+        "Name": "darkFlash DLX21 RGB MESH 강화유리",
+        "Type": "블랙",
+        "Price": "95540",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2020.07."
+    },
+    {
+        "Name": "darkFlash DLX21 RGB MESH 강화유리",
+        "Type": "화이트",
+        "Price": "94050",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2020.07."
+    },
+    {
+        "Name": "앱코 U30 마린",
+        "Type": "블랙",
+        "Price": "39890",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2024.05."
+    },
+    {
+        "Name": "앱코 U30 마린",
+        "Type": "화이트",
+        "Price": "47990",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2024.05."
+    },
+    {
+        "Name": "3RSYS L600 Quiet",
+        "Type": "블랙",
+        "Price": "87400",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2022.07."
+    },
+    {
+        "Name": "3RSYS L600 Quiet",
+        "Type": "화이트",
+        "Price": "91170",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2022.07."
+    },
+    {
+        "Name": "아이구주 HATCH S400 BTF FULL MESH",
+        "Type": "블랙",
+        "Price": "52240",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.09."
+    },
+    {
+        "Name": "아이구주 HATCH S400 BTF FULL MESH",
+        "Type": "화이트",
+        "Price": "56040",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.09."
+    },
+    {
+        "Name": "마이크로닉스 WIZMAX CHILL 세븐팬",
+        "Type": "",
+        "Price": "48280",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.07."
+    },
+    {
+        "Name": "darkFlash DS900 ARGB 강화유리",
+        "Type": "블랙",
+        "Price": "57500",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2024.01."
+    },
+    {
+        "Name": "darkFlash DS900 ARGB 강화유리",
+        "Type": "블랙 우드",
+        "Price": "61750",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2024.01."
+    },
+    {
+        "Name": "darkFlash DS900 ARGB 강화유리",
+        "Type": "화이트",
+        "Price": "61500",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2024.01."
+    },
+    {
+        "Name": "darkFlash DS900 ARGB 강화유리",
+        "Type": "화이트 우드",
+        "Price": "65540",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2024.01."
+    },
+    {
+        "Name": "앱코 UD50C 루시드 앰비언트 풀커브드 ARGB BTF",
+        "Type": "블랙",
+        "Price": "138990",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.06."
+    },
+    {
+        "Name": "앱코 UD50C 루시드 앰비언트 풀커브드 ARGB BTF",
+        "Type": "화이트",
+        "Price": "138990",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.06."
+    },
+    {
+        "Name": "Antec FLUX PRO MESH",
+        "Type": "블랙",
+        "Price": "248000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2024.12."
+    },
+    {
+        "Name": "Antec FLUX PRO MESH",
+        "Type": "화이트",
+        "Price": "258880",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2024.12."
+    },
+    {
+        "Name": "마이크로닉스 COOLMAX 스테디",
+        "Type": "블랙",
+        "Price": "41760",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2024.04."
+    },
+    {
+        "Name": "마이크로닉스 COOLMAX 스테디",
+        "Type": "화이트",
+        "Price": "47220",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2024.04."
+    },
+    {
+        "Name": "darkFlash DMO11",
+        "Type": "블랙",
+        "Price": "18790",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2024.07."
+    },
+    {
+        "Name": "darkFlash DMO11",
+        "Type": "화이트",
+        "Price": "21840",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2024.07."
+    },
+    {
+        "Name": "아이구주 HATCH S600 BTF",
+        "Type": "블랙",
+        "Price": "56120",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.09."
+    },
+    {
+        "Name": "아이구주 HATCH S600 BTF",
+        "Type": "화이트",
+        "Price": "60590",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.09."
+    },
+    {
+        "Name": "Antec C8 MESH",
+        "Type": "블랙",
+        "Price": "132920",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2024.01."
+    },
+    {
+        "Name": "Antec C8 MESH",
+        "Type": "알루미늄",
+        "Price": "133900",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2024.01."
+    },
+    {
+        "Name": "Antec C8 MESH",
+        "Type": "우드",
+        "Price": "133200",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2024.01."
+    },
+    {
+        "Name": "Antec C8 MESH",
+        "Type": "화이트",
+        "Price": "134080",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2024.01."
+    },
+    {
+        "Name": "Antec FLUX M MESH",
+        "Type": "블랙",
+        "Price": "77200",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.11."
+    },
+    {
+        "Name": "마이크로닉스 WIZMAX 오닉스",
+        "Type": "",
+        "Price": "27920",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.04."
+    },
+    {
+        "Name": "3RSYS T2000 Quiet",
+        "Type": "블랙",
+        "Price": "120080",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.06."
+    },
+    {
+        "Name": "3RSYS T2000 Quiet",
+        "Type": "화이트",
+        "Price": "124960",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.06."
+    },
+    {
+        "Name": "3RSYS R190",
+        "Type": "블랙",
+        "Price": "37500",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.07."
+    },
+    {
+        "Name": "3RSYS R190",
+        "Type": "화이트",
+        "Price": "39360",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.07."
+    },
+    {
+        "Name": "JONSBO D400 BTF",
+        "Type": "블랙",
+        "Price": "138980",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.06."
+    },
+    {
+        "Name": "JONSBO D400 BTF",
+        "Type": "화이트",
+        "Price": "135540",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.06."
+    },
+    {
+        "Name": "싸이번 LIMPID SC-M5 PLUS BONITO Edition",
+        "Type": "블랙",
+        "Price": "61740",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.09."
+    },
+    {
+        "Name": "싸이번 LIMPID SC-M5 PLUS BONITO Edition",
+        "Type": "화이트",
+        "Price": "68000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.09."
+    },
+    {
+        "Name": "마이크로닉스 WIZMAX 우드리안 PRO",
+        "Type": "",
+        "Price": "54820",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.04."
+    },
+    {
+        "Name": "DAVEN 벤투스 420 MESH ARGB",
+        "Type": "블랙",
+        "Price": "86520",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.10."
+    },
+    {
+        "Name": "DAVEN 벤투스 420 MESH ARGB",
+        "Type": "화이트",
+        "Price": "95200",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.10."
+    },
+    {
+        "Name": "마이크로닉스 WIZMAX 우퍼 딥톤",
+        "Type": "블랙",
+        "Price": "33000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.08."
+    },
+    {
+        "Name": "마이크로닉스 WIZMAX 우퍼 딥톤",
+        "Type": "화이트",
+        "Price": "36780",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.08."
+    },
+    {
+        "Name": "darkFlash DPF70 ARGB",
+        "Type": "블랙",
+        "Price": "58140",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.11."
+    },
+    {
+        "Name": "darkFlash DPF70 ARGB",
+        "Type": "화이트",
+        "Price": "62920",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.11."
+    },
+    {
+        "Name": "HAVN BF 360 FLOW",
+        "Type": "블랙",
+        "Price": "290170",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.11."
+    },
+    {
+        "Name": "HAVN BF 360 FLOW",
+        "Type": "화이트",
+        "Price": "290170",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.11."
+    },
+    {
+        "Name": "앱코 G50 빅플로우 MESH ARGB BTF",
+        "Type": "블랙",
+        "Price": "89000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.10."
+    },
+    {
+        "Name": "앱코 G50 빅플로우 MESH ARGB BTF",
+        "Type": "화이트",
+        "Price": "92000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.10."
+    },
+    {
+        "Name": "DAVEN AQUA 다이버",
+        "Type": "블랙",
+        "Price": "38820",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2024.09."
+    },
+    {
+        "Name": "DAVEN AQUA 다이버",
+        "Type": "화이트",
+        "Price": "45750",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2024.09."
+    },
+    {
+        "Name": "darkFlash DS500 RGB",
+        "Type": "블랙",
+        "Price": "38240",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.03."
+    },
+    {
+        "Name": "darkFlash DS500 RGB",
+        "Type": "화이트",
+        "Price": "43900",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.03."
+    },
+    {
+        "Name": "DAVEN AQUA Lite",
+        "Type": "블랙",
+        "Price": "19070",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.07."
+    },
+    {
+        "Name": "DAVEN AQUA Lite",
+        "Type": "화이트",
+        "Price": "21170",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.07."
+    },
+    {
+        "Name": "잘만 N30 백사십",
+        "Type": "블랙",
+        "Price": "38560",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.08."
+    },
+    {
+        "Name": "잘만 N30 백사십",
+        "Type": "화이트",
+        "Price": "41220",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.08."
+    },
+    {
+        "Name": "마이크로닉스 WIZMAX 우드리안 MAX",
+        "Type": "",
+        "Price": "85370",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.04."
+    },
+    {
+        "Name": "앱코 U30P 마린+ 디스플레이",
+        "Type": "블랙",
+        "Price": "49900",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.07."
+    },
+    {
+        "Name": "앱코 U30P 마린+ 디스플레이",
+        "Type": "화이트",
+        "Price": "54500",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.07."
+    },
+    {
+        "Name": "darkFlash DLX21 RGB MESH 강화유리",
+        "Type": "블랙",
+        "Price": "95540",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2020.07."
+    },
+    {
+        "Name": "darkFlash DLX21 RGB MESH 강화유리",
+        "Type": "화이트",
+        "Price": "94050",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2020.07."
+    },
+    {
+        "Name": "앱코 U30 마린",
+        "Type": "블랙",
+        "Price": "39890",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2024.05."
+    },
+    {
+        "Name": "앱코 U30 마린",
+        "Type": "화이트",
+        "Price": "47990",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2024.05."
+    },
+    {
+        "Name": "3RSYS L600 Quiet",
+        "Type": "블랙",
+        "Price": "87400",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2022.07."
+    },
+    {
+        "Name": "3RSYS L600 Quiet",
+        "Type": "화이트",
+        "Price": "91170",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2022.07."
+    },
+    {
+        "Name": "아이구주 HATCH S400 BTF FULL MESH",
+        "Type": "블랙",
+        "Price": "52240",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.09."
+    },
+    {
+        "Name": "아이구주 HATCH S400 BTF FULL MESH",
+        "Type": "화이트",
+        "Price": "56040",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.09."
+    },
+    {
+        "Name": "마이크로닉스 WIZMAX CHILL 세븐팬",
+        "Type": "",
+        "Price": "48280",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.07."
+    },
+    {
+        "Name": "darkFlash DS900 ARGB 강화유리",
+        "Type": "블랙",
+        "Price": "57500",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2024.01."
+    },
+    {
+        "Name": "darkFlash DS900 ARGB 강화유리",
+        "Type": "블랙 우드",
+        "Price": "61750",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2024.01."
+    },
+    {
+        "Name": "darkFlash DS900 ARGB 강화유리",
+        "Type": "화이트",
+        "Price": "61500",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2024.01."
+    },
+    {
+        "Name": "darkFlash DS900 ARGB 강화유리",
+        "Type": "화이트 우드",
+        "Price": "65540",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2024.01."
+    },
+    {
+        "Name": "앱코 UD50C 루시드 앰비언트 풀커브드 ARGB BTF",
+        "Type": "블랙",
+        "Price": "138990",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.06."
+    },
+    {
+        "Name": "앱코 UD50C 루시드 앰비언트 풀커브드 ARGB BTF",
+        "Type": "화이트",
+        "Price": "138990",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.06."
+    },
+    {
+        "Name": "Antec FLUX PRO MESH",
+        "Type": "블랙",
+        "Price": "248000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2024.12."
+    },
+    {
+        "Name": "Antec FLUX PRO MESH",
+        "Type": "화이트",
+        "Price": "258880",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2024.12."
+    },
+    {
+        "Name": "마이크로닉스 COOLMAX 스테디",
+        "Type": "블랙",
+        "Price": "41760",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2024.04."
+    },
+    {
+        "Name": "마이크로닉스 COOLMAX 스테디",
+        "Type": "화이트",
+        "Price": "47220",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2024.04."
+    },
+    {
+        "Name": "darkFlash DMO11",
+        "Type": "블랙",
+        "Price": "18790",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2024.07."
+    },
+    {
+        "Name": "darkFlash DMO11",
+        "Type": "화이트",
+        "Price": "21840",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2024.07."
+    },
+    {
+        "Name": "아이구주 HATCH S600 BTF",
+        "Type": "블랙",
+        "Price": "56120",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.09."
+    },
+    {
+        "Name": "아이구주 HATCH S600 BTF",
+        "Type": "화이트",
+        "Price": "60590",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.09."
+    },
+    {
+        "Name": "Antec C8 MESH",
+        "Type": "블랙",
+        "Price": "132920",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2024.01."
+    },
+    {
+        "Name": "Antec C8 MESH",
+        "Type": "알루미늄",
+        "Price": "133900",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2024.01."
+    },
+    {
+        "Name": "Antec C8 MESH",
+        "Type": "우드",
+        "Price": "133200",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2024.01."
+    },
+    {
+        "Name": "Antec C8 MESH",
+        "Type": "화이트",
+        "Price": "134080",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2024.01."
+    },
+    {
+        "Name": "Antec FLUX M MESH",
+        "Type": "블랙",
+        "Price": "77200",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.11."
+    },
+    {
+        "Name": "마이크로닉스 WIZMAX 오닉스",
+        "Type": "",
+        "Price": "27920",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.04."
+    },
+    {
+        "Name": "3RSYS T2000 Quiet",
+        "Type": "블랙",
+        "Price": "120080",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.06."
+    },
+    {
+        "Name": "3RSYS T2000 Quiet",
+        "Type": "화이트",
+        "Price": "124960",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.06."
+    },
+    {
+        "Name": "3RSYS R190",
+        "Type": "블랙",
+        "Price": "37500",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.07."
+    },
+    {
+        "Name": "3RSYS R190",
+        "Type": "화이트",
+        "Price": "39360",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.07."
+    },
+    {
+        "Name": "JONSBO D400 BTF",
+        "Type": "블랙",
+        "Price": "138980",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.06."
+    },
+    {
+        "Name": "JONSBO D400 BTF",
+        "Type": "화이트",
+        "Price": "135540",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.06."
+    },
+    {
+        "Name": "싸이번 LIMPID SC-M5 PLUS BONITO Edition",
+        "Type": "블랙",
+        "Price": "61740",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.09."
+    },
+    {
+        "Name": "싸이번 LIMPID SC-M5 PLUS BONITO Edition",
+        "Type": "화이트",
+        "Price": "68000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.09."
+    },
+    {
+        "Name": "마이크로닉스 WIZMAX 우드리안 PRO",
+        "Type": "",
+        "Price": "54820",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.04."
+    },
+    {
+        "Name": "DAVEN 벤투스 420 MESH ARGB",
+        "Type": "블랙",
+        "Price": "86520",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.10."
+    },
+    {
+        "Name": "DAVEN 벤투스 420 MESH ARGB",
+        "Type": "화이트",
+        "Price": "95200",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.10."
+    },
+    {
+        "Name": "마이크로닉스 WIZMAX 우퍼 딥톤",
+        "Type": "블랙",
+        "Price": "33000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.08."
+    },
+    {
+        "Name": "마이크로닉스 WIZMAX 우퍼 딥톤",
+        "Type": "화이트",
+        "Price": "36780",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.08."
+    },
+    {
+        "Name": "darkFlash DPF70 ARGB",
+        "Type": "블랙",
+        "Price": "58140",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.11."
+    },
+    {
+        "Name": "darkFlash DPF70 ARGB",
+        "Type": "화이트",
+        "Price": "62920",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.11."
+    },
+    {
+        "Name": "HAVN BF 360 FLOW",
+        "Type": "블랙",
+        "Price": "290170",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.11."
+    },
+    {
+        "Name": "HAVN BF 360 FLOW",
+        "Type": "화이트",
+        "Price": "290170",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.11."
+    },
+    {
+        "Name": "앱코 G50 빅플로우 MESH ARGB BTF",
+        "Type": "블랙",
+        "Price": "89000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.10."
+    },
+    {
+        "Name": "앱코 G50 빅플로우 MESH ARGB BTF",
+        "Type": "화이트",
+        "Price": "92000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.10."
+    },
+    {
+        "Name": "DAVEN AQUA 다이버",
+        "Type": "블랙",
+        "Price": "38820",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2024.09."
+    },
+    {
+        "Name": "DAVEN AQUA 다이버",
+        "Type": "화이트",
+        "Price": "45750",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2024.09."
+    },
+    {
+        "Name": "darkFlash DS500 RGB",
+        "Type": "블랙",
+        "Price": "38240",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.03."
+    },
+    {
+        "Name": "darkFlash DS500 RGB",
+        "Type": "화이트",
+        "Price": "43900",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.03."
+    },
+    {
+        "Name": "DAVEN AQUA Lite",
+        "Type": "블랙",
+        "Price": "19070",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.07."
+    },
+    {
+        "Name": "DAVEN AQUA Lite",
+        "Type": "화이트",
+        "Price": "21170",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.07."
+    },
+    {
+        "Name": "잘만 N30 백사십",
+        "Type": "블랙",
+        "Price": "38560",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.08."
+    },
+    {
+        "Name": "잘만 N30 백사십",
+        "Type": "화이트",
+        "Price": "41220",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.08."
+    },
+    {
+        "Name": "마이크로닉스 WIZMAX 우드리안 MAX",
+        "Type": "",
+        "Price": "85370",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.04."
+    },
+    {
+        "Name": "앱코 U30P 마린+ 디스플레이",
+        "Type": "블랙",
+        "Price": "49900",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.07."
+    },
+    {
+        "Name": "앱코 U30P 마린+ 디스플레이",
+        "Type": "화이트",
+        "Price": "54500",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.07."
+    },
+    {
+        "Name": "darkFlash DLX21 RGB MESH 강화유리",
+        "Type": "블랙",
+        "Price": "95540",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2020.07."
+    },
+    {
+        "Name": "darkFlash DLX21 RGB MESH 강화유리",
+        "Type": "화이트",
+        "Price": "94050",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2020.07."
+    },
+    {
+        "Name": "앱코 U30 마린",
+        "Type": "블랙",
+        "Price": "39890",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2024.05."
+    },
+    {
+        "Name": "앱코 U30 마린",
+        "Type": "화이트",
+        "Price": "47990",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2024.05."
+    },
+    {
+        "Name": "3RSYS L600 Quiet",
+        "Type": "블랙",
+        "Price": "87400",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2022.07."
+    },
+    {
+        "Name": "3RSYS L600 Quiet",
+        "Type": "화이트",
+        "Price": "91170",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2022.07."
+    },
+    {
+        "Name": "아이구주 HATCH S400 BTF FULL MESH",
+        "Type": "블랙",
+        "Price": "52240",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.09."
+    },
+    {
+        "Name": "아이구주 HATCH S400 BTF FULL MESH",
+        "Type": "화이트",
+        "Price": "56040",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.09."
+    },
+    {
+        "Name": "마이크로닉스 WIZMAX CHILL 세븐팬",
+        "Type": "",
+        "Price": "48280",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.07."
+    },
+    {
+        "Name": "darkFlash DS900 ARGB 강화유리",
+        "Type": "블랙",
+        "Price": "57500",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2024.01."
+    },
+    {
+        "Name": "darkFlash DS900 ARGB 강화유리",
+        "Type": "블랙 우드",
+        "Price": "61750",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2024.01."
+    },
+    {
+        "Name": "darkFlash DS900 ARGB 강화유리",
+        "Type": "화이트",
+        "Price": "61500",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2024.01."
+    },
+    {
+        "Name": "darkFlash DS900 ARGB 강화유리",
+        "Type": "화이트 우드",
+        "Price": "65540",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2024.01."
+    },
+    {
+        "Name": "앱코 UD50C 루시드 앰비언트 풀커브드 ARGB BTF",
+        "Type": "블랙",
+        "Price": "138990",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.06."
+    },
+    {
+        "Name": "앱코 UD50C 루시드 앰비언트 풀커브드 ARGB BTF",
+        "Type": "화이트",
+        "Price": "138990",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.06."
+    },
+    {
+        "Name": "Antec FLUX PRO MESH",
+        "Type": "블랙",
+        "Price": "248000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2024.12."
+    },
+    {
+        "Name": "Antec FLUX PRO MESH",
+        "Type": "화이트",
+        "Price": "258880",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2024.12."
+    },
+    {
+        "Name": "마이크로닉스 COOLMAX 스테디",
+        "Type": "블랙",
+        "Price": "41760",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2024.04."
+    },
+    {
+        "Name": "마이크로닉스 COOLMAX 스테디",
+        "Type": "화이트",
+        "Price": "47220",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2024.04."
+    },
+    {
+        "Name": "darkFlash DMO11",
+        "Type": "블랙",
+        "Price": "18790",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2024.07."
+    },
+    {
+        "Name": "darkFlash DMO11",
+        "Type": "화이트",
+        "Price": "21840",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2024.07."
+    },
+    {
+        "Name": "아이구주 HATCH S600 BTF",
+        "Type": "블랙",
+        "Price": "56120",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.09."
+    },
+    {
+        "Name": "아이구주 HATCH S600 BTF",
+        "Type": "화이트",
+        "Price": "60590",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.09."
+    },
+    {
+        "Name": "Antec C8 MESH",
+        "Type": "블랙",
+        "Price": "132920",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2024.01."
+    },
+    {
+        "Name": "Antec C8 MESH",
+        "Type": "알루미늄",
+        "Price": "133900",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2024.01."
+    },
+    {
+        "Name": "Antec C8 MESH",
+        "Type": "우드",
+        "Price": "133200",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2024.01."
+    },
+    {
+        "Name": "Antec C8 MESH",
+        "Type": "화이트",
+        "Price": "134080",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2024.01."
+    },
+    {
+        "Name": "Antec FLUX M MESH",
+        "Type": "블랙",
+        "Price": "77200",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.11."
+    },
+    {
+        "Name": "마이크로닉스 WIZMAX 오닉스",
+        "Type": "",
+        "Price": "27920",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.04."
+    },
+    {
+        "Name": "3RSYS T2000 Quiet",
+        "Type": "블랙",
+        "Price": "120080",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.06."
+    },
+    {
+        "Name": "3RSYS T2000 Quiet",
+        "Type": "화이트",
+        "Price": "124960",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.06."
+    },
+    {
+        "Name": "3RSYS R190",
+        "Type": "블랙",
+        "Price": "37500",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.07."
+    },
+    {
+        "Name": "3RSYS R190",
+        "Type": "화이트",
+        "Price": "39360",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.07."
+    },
+    {
+        "Name": "JONSBO D400 BTF",
+        "Type": "블랙",
+        "Price": "138980",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.06."
+    },
+    {
+        "Name": "JONSBO D400 BTF",
+        "Type": "화이트",
+        "Price": "135540",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.06."
+    },
+    {
+        "Name": "싸이번 LIMPID SC-M5 PLUS BONITO Edition",
+        "Type": "블랙",
+        "Price": "61740",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.09."
+    },
+    {
+        "Name": "싸이번 LIMPID SC-M5 PLUS BONITO Edition",
+        "Type": "화이트",
+        "Price": "68000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.09."
+    },
+    {
+        "Name": "마이크로닉스 WIZMAX 우드리안 PRO",
+        "Type": "",
+        "Price": "54820",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.04."
+    },
+    {
+        "Name": "DAVEN 벤투스 420 MESH ARGB",
+        "Type": "블랙",
+        "Price": "86520",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.10."
+    },
+    {
+        "Name": "DAVEN 벤투스 420 MESH ARGB",
+        "Type": "화이트",
+        "Price": "95200",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.10."
+    },
+    {
+        "Name": "마이크로닉스 WIZMAX 우퍼 딥톤",
+        "Type": "블랙",
+        "Price": "33000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.08."
+    },
+    {
+        "Name": "마이크로닉스 WIZMAX 우퍼 딥톤",
+        "Type": "화이트",
+        "Price": "36780",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.08."
+    },
+    {
+        "Name": "darkFlash DPF70 ARGB",
+        "Type": "블랙",
+        "Price": "58140",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.11."
+    },
+    {
+        "Name": "darkFlash DPF70 ARGB",
+        "Type": "화이트",
+        "Price": "62920",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.11."
+    },
+    {
+        "Name": "HAVN BF 360 FLOW",
+        "Type": "블랙",
+        "Price": "290170",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.11."
+    },
+    {
+        "Name": "HAVN BF 360 FLOW",
+        "Type": "화이트",
+        "Price": "290170",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.11."
+    },
+    {
+        "Name": "앱코 G50 빅플로우 MESH ARGB BTF",
+        "Type": "블랙",
+        "Price": "89000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.10."
+    },
+    {
+        "Name": "앱코 G50 빅플로우 MESH ARGB BTF",
+        "Type": "화이트",
+        "Price": "92000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.10."
+    }
+]

@@ -1,0 +1,4362 @@
+[
+    {
+        "Name": "Seagate BarraCuda 7200/256M",
+        "Type": "2TB, ST2000DM008 58원/1GB",
+        "Price": "115000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2018.10."
+    },
+    {
+        "Name": "Seagate BarraCuda 7200/256M",
+        "Type": "1TB, ST1000DM014 105원/1GB",
+        "Price": "104870",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2018.10."
+    },
+    {
+        "Name": "Seagate IronWolf Pro 7200/512M",
+        "Type": "30TB, ST30000NT011 42원/1GB",
+        "Price": "1245880",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2024.02."
+    },
+    {
+        "Name": "Seagate IronWolf Pro 7200/512M",
+        "Type": "28TB, ST28000NT000 41원/1GB",
+        "Price": "1148980",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2024.02."
+    },
+    {
+        "Name": "Seagate IronWolf Pro 7200/512M",
+        "Type": "24TB, ST24000NT002 41원/1GB",
+        "Price": "983880",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2024.02."
+    },
+    {
+        "Name": "Seagate IronWolf Pro 7200/512M",
+        "Type": "22TB, ST22000NT001 46원/1GB",
+        "Price": "915000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2024.02."
+    },
+    {
+        "Name": "Seagate BarraCuda 5400/256M",
+        "Type": "8TB, ST8000DM004 39원/1GB",
+        "Price": "309120",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2017.11."
+    },
+    {
+        "Name": "Seagate BarraCuda 5400/256M",
+        "Type": "6TB, ST6000DM003 41원/1GB",
+        "Price": "248970",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2017.11."
+    },
+    {
+        "Name": "Seagate BarraCuda 5400/256M",
+        "Type": "4TB, ST4000DM004 43원/1GB",
+        "Price": "172470",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2017.11."
+    },
+    {
+        "Name": "Seagate BarraCuda 5400/256M",
+        "Type": "3TB, ST3000DM007 53원/1GB",
+        "Price": "158990",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2017.11."
+    },
+    {
+        "Name": "Seagate BarraCuda 7200/512M",
+        "Type": "24TB, ST24000DM001 29원/1GB",
+        "Price": "698990",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.03."
+    },
+    {
+        "Name": "Seagate BarraCuda 7200/512M",
+        "Type": "20TB, ST20000DM001 30원/1GB",
+        "Price": "601480",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.03."
+    },
+    {
+        "Name": "Seagate BarraCuda 7200/512M",
+        "Type": "16TB, ST16000DM001 32원/1GB",
+        "Price": "516490",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.03."
+    },
+    {
+        "Name": "Western Digital WD Blue 5400/256M",
+        "Type": "6TB, WD60EZAX 41원/1GB",
+        "Price": "248990",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2023.05."
+    },
+    {
+        "Name": "Western Digital WD Blue 5400/256M",
+        "Type": "4TB, WD40EZAX 43원/1GB",
+        "Price": "170420",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2023.05."
+    },
+    {
+        "Name": "Western Digital WD Blue 5400/256M",
+        "Type": "3TB, WD30EZAX 56원/1GB",
+        "Price": "168420",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2023.05."
+    },
+    {
+        "Name": "Western Digital WD RED Plus 5400/256M",
+        "Type": "6TB, WD60EFPX 48원/1GB",
+        "Price": "285000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2023.04."
+    },
+    {
+        "Name": "Western Digital WD RED Plus 5400/256M",
+        "Type": "4TB, WD40EFPX 46원/1GB",
+        "Price": "185000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2023.04."
+    },
+    {
+        "Name": "Seagate IronWolf 5400/256M",
+        "Type": "8TB, ST8000VN002 44원/1GB",
+        "Price": "352430",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2022.12."
+    },
+    {
+        "Name": "Seagate IronWolf 5400/256M",
+        "Type": "6TB, ST6000VN001 48원/1GB",
+        "Price": "289000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2022.12."
+    },
+    {
+        "Name": "Seagate IronWolf 5400/256M",
+        "Type": "6TB, ST6000VN006 53원/1GB",
+        "Price": "317730",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2022.12."
+    },
+    {
+        "Name": "Seagate IronWolf 5400/256M",
+        "Type": "4TB, ST4000VN006 47원/1GB",
+        "Price": "186060",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2022.12."
+    },
+    {
+        "Name": "Seagate IronWolf 5400/256M",
+        "Type": "2TB, ST2000VN003 79원/1GB",
+        "Price": "158360",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2022.12."
+    },
+    {
+        "Name": "Seagate IronWolf 5400/256M",
+        "Type": "1TB, ST1000VN008 129원/1GB",
+        "Price": "128990",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2022.12."
+    },
+    {
+        "Name": "Western Digital WD Blue 7200/256M",
+        "Type": "2TB, WD20EZBX ",
+        "Price": "119000",
+        "TypeDetail": "60원/1GB",
+        "Spec": "",
+        "ExtraInfo": "2021.03."
+    },
+    {
+        "Name": "Western Digital WD Blue 5640/256M",
+        "Type": "8TB, WD80EAAZ ",
+        "Price": "308870",
+        "TypeDetail": "39원/1GB",
+        "Spec": "",
+        "ExtraInfo": "2024.03."
+    },
+    {
+        "Name": "Seagate IronWolf 7200/256M",
+        "Type": "16TB, ST16000VN001 42원/1GB",
+        "Price": "668980",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2019.08."
+    },
+    {
+        "Name": "Seagate IronWolf 7200/256M",
+        "Type": "12TB, ST12000VN0008 45원/1GB",
+        "Price": "540540",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2019.08."
+    },
+    {
+        "Name": "Seagate IronWolf 7200/256M",
+        "Type": "12TB, ST12000VN0007 47원/1GB",
+        "Price": "559000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2019.08."
+    },
+    {
+        "Name": "Seagate IronWolf 7200/256M",
+        "Type": "10TB, ST10000VN000 45원/1GB",
+        "Price": "449070",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2019.08."
+    },
+    {
+        "Name": "Seagate IronWolf 7200/256M",
+        "Type": "10TB, ST10000VN0008 49원/1GB",
+        "Price": "489000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2019.08."
+    },
+    {
+        "Name": "Seagate IronWolf 7200/256M",
+        "Type": "10TB, ST10000VN0004 50원/1GB",
+        "Price": "499000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2019.08."
+    },
+    {
+        "Name": "Seagate IronWolf 7200/256M",
+        "Type": "8TB, ST8000VN004 48원/1GB",
+        "Price": "383990",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2019.08."
+    },
+    {
+        "Name": "Seagate IronWolf 7200/256M",
+        "Type": "6TB, ST6000VN0033 55원/1GB",
+        "Price": "328990",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2019.08."
+    },
+    {
+        "Name": "Seagate IronWolf 7200/256M/해외구매",
+        "Type": "18TB, ST18000VN000 59원/1GB",
+        "Price": "1054190",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2024.05."
+    },
+    {
+        "Name": "Seagate IronWolf 7200/256M/해외구매",
+        "Type": "16TB, ST16000VN001 24원/1GB",
+        "Price": "388170",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2024.05."
+    },
+    {
+        "Name": "Seagate IronWolf 7200/256M/해외구매",
+        "Type": "14TB, ST14000VN0008 23원/1GB",
+        "Price": "327060",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2024.05."
+    },
+    {
+        "Name": "Seagate IronWolf 7200/256M/해외구매",
+        "Type": "12TB, ST12000VN0008 22원/1GB",
+        "Price": "265400",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2024.05."
+    },
+    {
+        "Name": "Seagate IronWolf 7200/256M/해외구매",
+        "Type": "10TB, ST10000VN000 48원/1GB",
+        "Price": "483100",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2024.05."
+    },
+    {
+        "Name": "Seagate IronWolf 7200/256M/해외구매",
+        "Type": "10TB, ST10000VN0004 31원/1GB",
+        "Price": "311510",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2024.05."
+    },
+    {
+        "Name": "Seagate IronWolf 7200/256M/해외구매",
+        "Type": "10TB, ST10000VN0008 25원/1GB",
+        "Price": "251460",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2024.05."
+    },
+    {
+        "Name": "Seagate IronWolf 7200/256M/해외구매",
+        "Type": "8TB, ST8000VN0022 33원/1GB",
+        "Price": "262280",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2024.05."
+    },
+    {
+        "Name": "Seagate IronWolf 7200/256M/해외구매",
+        "Type": "8TB, ST8000VN004 33원/1GB",
+        "Price": "261600",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2024.05."
+    },
+    {
+        "Name": "Seagate IronWolf 7200/256M/해외구매",
+        "Type": "6TB, ST6000VN0033 40원/1GB",
+        "Price": "239300",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2024.05."
+    },
+    {
+        "Name": "Western Digital WD MOBILE Blue 5400/128M/노트북용",
+        "Type": "2TB, WD20SPZX 64원/1GB",
+        "Price": "127000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2018.02."
+    },
+    {
+        "Name": "Western Digital WD MOBILE Blue 5400/128M/노트북용",
+        "Type": "1TB, WD10SPZX 94원/1GB",
+        "Price": "94000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2018.02."
+    },
+    {
+        "Name": "Western Digital WD MOBILE Blue 5400/128M/노트북용",
+        "Type": "500GB, WD5000LPZX 178원/1GB",
+        "Price": "89000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2018.02."
+    },
+    {
+        "Name": "Seagate BarraCuda 5400/256M/해외구매",
+        "Type": "8TB, ST8000DM004 26원/1GB",
+        "Price": "209950",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2019.10."
+    },
+    {
+        "Name": "Seagate BarraCuda 5400/256M/해외구매",
+        "Type": "6TB, ST6000DM003 28원/1GB",
+        "Price": "167060",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2019.10."
+    },
+    {
+        "Name": "Seagate BarraCuda 5400/256M/해외구매",
+        "Type": "4TB, ST4000DM004 32원/1GB",
+        "Price": "128600",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2019.10."
+    },
+    {
+        "Name": "Seagate BarraCuda 5400/256M/해외구매",
+        "Type": "3TB, ST3000DM007 32원/1GB",
+        "Price": "97290",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2019.10."
+    },
+    {
+        "Name": "Seagate BarraCuda 5400/256M/해외구매",
+        "Type": "2TB, ST2000DM005 47원/1GB",
+        "Price": "93500",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2019.10."
+    },
+    {
+        "Name": "Seagate SkyHawk 5400/256M",
+        "Type": "8TB, ST8000VX010 49원/1GB",
+        "Price": "388000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2022.12."
+    },
+    {
+        "Name": "Seagate SkyHawk 5400/256M",
+        "Type": "6TB, ST6000VX001 48원/1GB",
+        "Price": "289000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2022.12."
+    },
+    {
+        "Name": "Seagate SkyHawk 5400/256M",
+        "Type": "6TB, ST6000VX009 48원/1GB",
+        "Price": "285790",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2022.12."
+    },
+    {
+        "Name": "Seagate SkyHawk 5400/256M",
+        "Type": "4TB, ST4000VX016 50원/1GB",
+        "Price": "198000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2022.12."
+    },
+    {
+        "Name": "Seagate SkyHawk 5400/256M",
+        "Type": "3TB, ST3000VX015 46원/1GB",
+        "Price": "139000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2022.12."
+    },
+    {
+        "Name": "Seagate SkyHawk 5400/256M",
+        "Type": "2TB, ST2000VX015 80원/1GB",
+        "Price": "159000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2022.12."
+    },
+    {
+        "Name": "Seagate SkyHawk 5400/256M",
+        "Type": "2TB, ST2000VX017 69원/1GB",
+        "Price": "138000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2022.12."
+    },
+    {
+        "Name": "Seagate SkyHawk 5400/256M",
+        "Type": "1TB, ST1000VX013 118원/1GB",
+        "Price": "118000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2022.12."
+    },
+    {
+        "Name": "Western Digital WD Caviar Blue 7200/64M/리퍼비시",
+        "Type": "1TB, WD10EZEX ",
+        "Price": "70990",
+        "TypeDetail": "71원/1GB",
+        "Spec": "",
+        "ExtraInfo": "2013.02."
+    },
+    {
+        "Name": "Seagate Exos M 7200/512M",
+        "Type": "30TB, ST30000NM004K 40원/1GB",
+        "Price": "1199000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.07."
+    },
+    {
+        "Name": "Seagate Exos M 7200/512M",
+        "Type": "28TB, ST28000NM003K 39원/1GB",
+        "Price": "1099000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.07."
+    },
+    {
+        "Name": "도시바 X300 Refresh 7200/512M",
+        "Type": "10TB, HDWR71A 43원/1TB",
+        "Price": "433780",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2024.11."
+    },
+    {
+        "Name": "도시바 X300 Refresh 7200/512M",
+        "Type": "8TB, HDWR780 43원/1TB",
+        "Price": "345000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2024.11."
+    },
+    {
+        "Name": "도시바 X300 Refresh 7200/512M",
+        "Type": "6TB, HDWR760 46원/1TB",
+        "Price": "275000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2024.11."
+    },
+    {
+        "Name": "도시바 X300 Refresh 7200/512M",
+        "Type": "4TB, HDWR740 49원/1TB",
+        "Price": "195000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2024.11."
+    },
+    {
+        "Name": "Seagate BarraCuda Pro 7200/128M/노트북용",
+        "Type": "1TB, ST1000LM049 119원/1GB",
+        "Price": "119000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2018.05."
+    },
+    {
+        "Name": "Seagate BarraCuda Pro 7200/128M/노트북용",
+        "Type": "500GB, ST500LM034 180원/1GB",
+        "Price": "89990",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2018.05."
+    },
+    {
+        "Name": "Western Digital Ultrastar DC HC580 7200/512M",
+        "Type": "24TB, WUH722424ALE6L4 ",
+        "Price": "964190",
+        "TypeDetail": "40원/1GB",
+        "Spec": "",
+        "ExtraInfo": "2024.03."
+    },
+    {
+        "Name": "Western Digital WD RED Pro 7200/512M",
+        "Type": "26TB, WD260KFGX 52원/1GB",
+        "Price": "1359180",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2024.11."
+    },
+    {
+        "Name": "Western Digital WD RED Pro 7200/512M",
+        "Type": "24TB, WD240KFGX 52원/1GB",
+        "Price": "1250000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2024.11."
+    },
+    {
+        "Name": "Western Digital WD RED Pro 7200/512M",
+        "Type": "22TB, WD221KFGX 42원/1GB",
+        "Price": "915000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2024.11."
+    },
+    {
+        "Name": "Western Digital WD RED Pro 7200/512M",
+        "Type": "20TB, WD202KFGX 45원/1GB",
+        "Price": "896340",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2024.11."
+    },
+    {
+        "Name": "Western Digital WD RED Pro 7200/512M",
+        "Type": "20TB, WD201KFGX 46원/1GB",
+        "Price": "910490",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2024.11."
+    },
+    {
+        "Name": "Western Digital WD RED Pro 7200/512M",
+        "Type": "18TB, WD181KFGX 44원/1GB",
+        "Price": "790000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2024.11."
+    },
+    {
+        "Name": "Western Digital WD RED Pro 7200/512M",
+        "Type": "16TB, WD161KFGX 47원/1GB",
+        "Price": "750000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2024.11."
+    },
+    {
+        "Name": "Western Digital WD RED Pro 7200/512M",
+        "Type": "14TB, WD142KFGX 47원/1GB",
+        "Price": "660000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2024.11."
+    },
+    {
+        "Name": "Western Digital WD RED Pro 7200/512M",
+        "Type": "14TB, WD141KFGX 47원/1GB",
+        "Price": "659650",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2024.11."
+    },
+    {
+        "Name": "Western Digital WD RED Pro 7200/512M",
+        "Type": "10TB, WD103KFBX 58원/1GB",
+        "Price": "579700",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2024.11."
+    },
+    {
+        "Name": "Western Digital WD Blue 7200/64M",
+        "Type": "1TB, WD10EZEX ",
+        "Price": "102000",
+        "TypeDetail": "102원/1GB",
+        "Spec": "",
+        "ExtraInfo": "2012.06."
+    },
+    {
+        "Name": "Western Digital WD Blue 7200/512M",
+        "Type": "12TB, WD120EAGZ 40원/1GB",
+        "Price": "474610",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.05."
+    },
+    {
+        "Name": "Western Digital WD Blue 7200/512M",
+        "Type": "10TB, WD100EAGZ 42원/1GB",
+        "Price": "415500",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.05."
+    },
+    {
+        "Name": "Seagate Exos X18 SAS/7200/256M",
+        "Type": "18TB, ST18000NM004J 37원/1GB",
+        "Price": "659000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2020.11."
+    },
+    {
+        "Name": "Seagate Exos X18 SAS/7200/256M",
+        "Type": "16TB, ST16000NM004J 28원/1GB",
+        "Price": "500000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2020.11."
+    },
+    {
+        "Name": "Seagate Exos X18 SAS/7200/256M",
+        "Type": "14TB, ST14000NM004J 41원/1GB",
+        "Price": "579000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2020.11."
+    },
+    {
+        "Name": "Seagate Exos X18 SAS/7200/256M",
+        "Type": "12TB, ST12000NM004J 47원/1GB",
+        "Price": "569000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2020.11."
+    },
+    {
+        "Name": "Western Digital WD Purple 5400/64M",
+        "Type": "6TB, WD60PURZ 56원/1GB",
+        "Price": "336000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2018.03."
+    },
+    {
+        "Name": "Western Digital WD Purple 5400/64M",
+        "Type": "4TB, WD40PURZ 47원/1GB",
+        "Price": "188990",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2018.03."
+    },
+    {
+        "Name": "Western Digital WD Purple 5400/64M",
+        "Type": "3TB, WD30PURZ 58원/1GB",
+        "Price": "175000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2018.03."
+    },
+    {
+        "Name": "Western Digital WD Purple 5400/64M",
+        "Type": "2TB, WD20PURZ 75원/1GB",
+        "Price": "150000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2018.03."
+    },
+    {
+        "Name": "Western Digital WD Purple 5400/64M",
+        "Type": "2TB, WD23PURZ 75원/1GB",
+        "Price": "150990",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2018.03."
+    },
+    {
+        "Name": "Western Digital WD Purple 5400/64M",
+        "Type": "1TB, WD10PURZ 108원/1GB",
+        "Price": "108000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2018.03."
+    },
+    {
+        "Name": "Western Digital WD Purple 5400/64M",
+        "Type": "1TB, WD11PURZ 129원/1GB",
+        "Price": "129000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2018.03."
+    },
+    {
+        "Name": "Western Digital WD Blue 5640/256M/해외구매",
+        "Type": "8TB, WD80EAAZ ",
+        "Price": "236690",
+        "TypeDetail": "30원/1GB",
+        "Spec": "",
+        "ExtraInfo": "2024.03."
+    },
+    {
+        "Name": "도시바 DT01 7200/64M",
+        "Type": "3TB, DT01ACA300 49원/1GB",
+        "Price": "148260",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2012.09."
+    },
+    {
+        "Name": "도시바 DT01 7200/64M",
+        "Type": "2TB, DT01ACA200 61원/1GB",
+        "Price": "121790",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2012.09."
+    },
+    {
+        "Name": "도시바 DT01 7200/64M",
+        "Type": "500GB, DT01ACA050 190원/1GB",
+        "Price": "95000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2012.09."
+    },
+    {
+        "Name": "Western Digital Ultrastar DC HC520 박스 패키지 7200/256M HUH721212ALE600",
+        "Type": "4x12TB 37원/1GB",
+        "Price": "1760000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2019.04."
+    },
+    {
+        "Name": "Western Digital Ultrastar DC HC520 박스 패키지 7200/256M HUH721212ALE600",
+        "Type": "2x12TB 46원/1GB",
+        "Price": "1110000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2019.04."
+    },
+    {
+        "Name": "Western Digital Ultrastar DC HC520 박스 패키지 7200/256M HUH721212ALE600",
+        "Type": "12TB 47원/1GB",
+        "Price": "559000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2019.04."
+    },
+    {
+        "Name": "Western Digital Ultrastar DC HC550 박스 패키지 7200/512M WUH721816ALE6L4",
+        "Type": "4x16TB 38원/1GB",
+        "Price": "2440000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2020.08."
+    },
+    {
+        "Name": "Western Digital Ultrastar DC HC550 박스 패키지 7200/512M WUH721816ALE6L4",
+        "Type": "2x16TB 38원/1GB",
+        "Price": "1230000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2020.08."
+    },
+    {
+        "Name": "Western Digital Ultrastar DC HC550 박스 패키지 7200/512M WUH721816ALE6L4",
+        "Type": "16TB 39원/1GB",
+        "Price": "619000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2020.08."
+    },
+    {
+        "Name": "Western Digital WD RED Plus 5400/128M",
+        "Type": "4TB, WD40EFZX 46원/1GB",
+        "Price": "185000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2021.03."
+    },
+    {
+        "Name": "Western Digital WD RED Plus 5400/128M",
+        "Type": "3TB, WD30EFZX 63원/1GB",
+        "Price": "190000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2021.03."
+    },
+    {
+        "Name": "Western Digital WD RED Plus 5400/128M",
+        "Type": "2TB, WD20EFZX 78원/1GB",
+        "Price": "155000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2021.03."
+    },
+    {
+        "Name": "Western Digital Ultrastar DC HC310 7200/256M",
+        "Type": "6TB, HUS726T6TALE6L4 50원/1GB",
+        "Price": "299000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2019.02."
+    },
+    {
+        "Name": "Western Digital Ultrastar DC HC310 7200/256M",
+        "Type": "4TB, HUS726T4TALA6L4 65원/1GB",
+        "Price": "259000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2019.02."
+    },
+    {
+        "Name": "Seagate BarraCuda 7200/256M",
+        "Type": "2TB, ST2000DM008 58원/1GB",
+        "Price": "115000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2018.10."
+    },
+    {
+        "Name": "Seagate BarraCuda 7200/256M",
+        "Type": "1TB, ST1000DM014 105원/1GB",
+        "Price": "104870",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2018.10."
+    },
+    {
+        "Name": "Seagate IronWolf Pro 7200/512M",
+        "Type": "30TB, ST30000NT011 42원/1GB",
+        "Price": "1245880",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2024.02."
+    },
+    {
+        "Name": "Seagate IronWolf Pro 7200/512M",
+        "Type": "28TB, ST28000NT000 41원/1GB",
+        "Price": "1148980",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2024.02."
+    },
+    {
+        "Name": "Seagate IronWolf Pro 7200/512M",
+        "Type": "24TB, ST24000NT002 41원/1GB",
+        "Price": "983880",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2024.02."
+    },
+    {
+        "Name": "Seagate IronWolf Pro 7200/512M",
+        "Type": "22TB, ST22000NT001 46원/1GB",
+        "Price": "915000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2024.02."
+    },
+    {
+        "Name": "Seagate BarraCuda 5400/256M",
+        "Type": "8TB, ST8000DM004 39원/1GB",
+        "Price": "309120",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2017.11."
+    },
+    {
+        "Name": "Seagate BarraCuda 5400/256M",
+        "Type": "6TB, ST6000DM003 41원/1GB",
+        "Price": "248970",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2017.11."
+    },
+    {
+        "Name": "Seagate BarraCuda 5400/256M",
+        "Type": "4TB, ST4000DM004 43원/1GB",
+        "Price": "172470",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2017.11."
+    },
+    {
+        "Name": "Seagate BarraCuda 5400/256M",
+        "Type": "3TB, ST3000DM007 53원/1GB",
+        "Price": "158990",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2017.11."
+    },
+    {
+        "Name": "Seagate BarraCuda 7200/512M",
+        "Type": "24TB, ST24000DM001 29원/1GB",
+        "Price": "698990",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.03."
+    },
+    {
+        "Name": "Seagate BarraCuda 7200/512M",
+        "Type": "20TB, ST20000DM001 30원/1GB",
+        "Price": "601480",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.03."
+    },
+    {
+        "Name": "Seagate BarraCuda 7200/512M",
+        "Type": "16TB, ST16000DM001 32원/1GB",
+        "Price": "516490",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.03."
+    },
+    {
+        "Name": "Western Digital WD Blue 5400/256M",
+        "Type": "6TB, WD60EZAX 41원/1GB",
+        "Price": "248990",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2023.05."
+    },
+    {
+        "Name": "Western Digital WD Blue 5400/256M",
+        "Type": "4TB, WD40EZAX 43원/1GB",
+        "Price": "170420",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2023.05."
+    },
+    {
+        "Name": "Western Digital WD Blue 5400/256M",
+        "Type": "3TB, WD30EZAX 56원/1GB",
+        "Price": "168420",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2023.05."
+    },
+    {
+        "Name": "Western Digital WD RED Plus 5400/256M",
+        "Type": "6TB, WD60EFPX 48원/1GB",
+        "Price": "285000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2023.04."
+    },
+    {
+        "Name": "Western Digital WD RED Plus 5400/256M",
+        "Type": "4TB, WD40EFPX 46원/1GB",
+        "Price": "185000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2023.04."
+    },
+    {
+        "Name": "Seagate IronWolf 5400/256M",
+        "Type": "8TB, ST8000VN002 44원/1GB",
+        "Price": "352430",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2022.12."
+    },
+    {
+        "Name": "Seagate IronWolf 5400/256M",
+        "Type": "6TB, ST6000VN001 48원/1GB",
+        "Price": "289000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2022.12."
+    },
+    {
+        "Name": "Seagate IronWolf 5400/256M",
+        "Type": "6TB, ST6000VN006 53원/1GB",
+        "Price": "317730",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2022.12."
+    },
+    {
+        "Name": "Seagate IronWolf 5400/256M",
+        "Type": "4TB, ST4000VN006 47원/1GB",
+        "Price": "186060",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2022.12."
+    },
+    {
+        "Name": "Seagate IronWolf 5400/256M",
+        "Type": "2TB, ST2000VN003 79원/1GB",
+        "Price": "158360",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2022.12."
+    },
+    {
+        "Name": "Seagate IronWolf 5400/256M",
+        "Type": "1TB, ST1000VN008 129원/1GB",
+        "Price": "128990",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2022.12."
+    },
+    {
+        "Name": "Western Digital WD Blue 7200/256M",
+        "Type": "2TB, WD20EZBX ",
+        "Price": "119000",
+        "TypeDetail": "60원/1GB",
+        "Spec": "",
+        "ExtraInfo": "2021.03."
+    },
+    {
+        "Name": "Western Digital WD Blue 5640/256M",
+        "Type": "8TB, WD80EAAZ ",
+        "Price": "308870",
+        "TypeDetail": "39원/1GB",
+        "Spec": "",
+        "ExtraInfo": "2024.03."
+    },
+    {
+        "Name": "Seagate IronWolf 7200/256M",
+        "Type": "16TB, ST16000VN001 42원/1GB",
+        "Price": "668980",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2019.08."
+    },
+    {
+        "Name": "Seagate IronWolf 7200/256M",
+        "Type": "12TB, ST12000VN0008 45원/1GB",
+        "Price": "540540",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2019.08."
+    },
+    {
+        "Name": "Seagate IronWolf 7200/256M",
+        "Type": "12TB, ST12000VN0007 47원/1GB",
+        "Price": "559000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2019.08."
+    },
+    {
+        "Name": "Seagate IronWolf 7200/256M",
+        "Type": "10TB, ST10000VN000 45원/1GB",
+        "Price": "449070",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2019.08."
+    },
+    {
+        "Name": "Seagate IronWolf 7200/256M",
+        "Type": "10TB, ST10000VN0008 49원/1GB",
+        "Price": "489000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2019.08."
+    },
+    {
+        "Name": "Seagate IronWolf 7200/256M",
+        "Type": "10TB, ST10000VN0004 50원/1GB",
+        "Price": "499000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2019.08."
+    },
+    {
+        "Name": "Seagate IronWolf 7200/256M",
+        "Type": "8TB, ST8000VN004 48원/1GB",
+        "Price": "383990",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2019.08."
+    },
+    {
+        "Name": "Seagate IronWolf 7200/256M",
+        "Type": "6TB, ST6000VN0033 55원/1GB",
+        "Price": "328990",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2019.08."
+    },
+    {
+        "Name": "Seagate IronWolf 7200/256M/해외구매",
+        "Type": "18TB, ST18000VN000 59원/1GB",
+        "Price": "1054190",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2024.05."
+    },
+    {
+        "Name": "Seagate IronWolf 7200/256M/해외구매",
+        "Type": "16TB, ST16000VN001 24원/1GB",
+        "Price": "388170",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2024.05."
+    },
+    {
+        "Name": "Seagate IronWolf 7200/256M/해외구매",
+        "Type": "14TB, ST14000VN0008 23원/1GB",
+        "Price": "327060",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2024.05."
+    },
+    {
+        "Name": "Seagate IronWolf 7200/256M/해외구매",
+        "Type": "12TB, ST12000VN0008 22원/1GB",
+        "Price": "265400",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2024.05."
+    },
+    {
+        "Name": "Seagate IronWolf 7200/256M/해외구매",
+        "Type": "10TB, ST10000VN000 48원/1GB",
+        "Price": "483100",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2024.05."
+    },
+    {
+        "Name": "Seagate IronWolf 7200/256M/해외구매",
+        "Type": "10TB, ST10000VN0004 31원/1GB",
+        "Price": "311510",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2024.05."
+    },
+    {
+        "Name": "Seagate IronWolf 7200/256M/해외구매",
+        "Type": "10TB, ST10000VN0008 25원/1GB",
+        "Price": "251460",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2024.05."
+    },
+    {
+        "Name": "Seagate IronWolf 7200/256M/해외구매",
+        "Type": "8TB, ST8000VN0022 33원/1GB",
+        "Price": "262280",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2024.05."
+    },
+    {
+        "Name": "Seagate IronWolf 7200/256M/해외구매",
+        "Type": "8TB, ST8000VN004 33원/1GB",
+        "Price": "261600",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2024.05."
+    },
+    {
+        "Name": "Seagate IronWolf 7200/256M/해외구매",
+        "Type": "6TB, ST6000VN0033 40원/1GB",
+        "Price": "239300",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2024.05."
+    },
+    {
+        "Name": "Western Digital WD MOBILE Blue 5400/128M/노트북용",
+        "Type": "2TB, WD20SPZX 64원/1GB",
+        "Price": "127000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2018.02."
+    },
+    {
+        "Name": "Western Digital WD MOBILE Blue 5400/128M/노트북용",
+        "Type": "1TB, WD10SPZX 94원/1GB",
+        "Price": "94000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2018.02."
+    },
+    {
+        "Name": "Western Digital WD MOBILE Blue 5400/128M/노트북용",
+        "Type": "500GB, WD5000LPZX 178원/1GB",
+        "Price": "89000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2018.02."
+    },
+    {
+        "Name": "Seagate BarraCuda 5400/256M/해외구매",
+        "Type": "8TB, ST8000DM004 26원/1GB",
+        "Price": "209950",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2019.10."
+    },
+    {
+        "Name": "Seagate BarraCuda 5400/256M/해외구매",
+        "Type": "6TB, ST6000DM003 28원/1GB",
+        "Price": "167060",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2019.10."
+    },
+    {
+        "Name": "Seagate BarraCuda 5400/256M/해외구매",
+        "Type": "4TB, ST4000DM004 32원/1GB",
+        "Price": "128600",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2019.10."
+    },
+    {
+        "Name": "Seagate BarraCuda 5400/256M/해외구매",
+        "Type": "3TB, ST3000DM007 32원/1GB",
+        "Price": "97290",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2019.10."
+    },
+    {
+        "Name": "Seagate BarraCuda 5400/256M/해외구매",
+        "Type": "2TB, ST2000DM005 47원/1GB",
+        "Price": "93500",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2019.10."
+    },
+    {
+        "Name": "Seagate SkyHawk 5400/256M",
+        "Type": "8TB, ST8000VX010 49원/1GB",
+        "Price": "388000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2022.12."
+    },
+    {
+        "Name": "Seagate SkyHawk 5400/256M",
+        "Type": "6TB, ST6000VX001 48원/1GB",
+        "Price": "289000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2022.12."
+    },
+    {
+        "Name": "Seagate SkyHawk 5400/256M",
+        "Type": "6TB, ST6000VX009 48원/1GB",
+        "Price": "285790",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2022.12."
+    },
+    {
+        "Name": "Seagate SkyHawk 5400/256M",
+        "Type": "4TB, ST4000VX016 50원/1GB",
+        "Price": "198000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2022.12."
+    },
+    {
+        "Name": "Seagate SkyHawk 5400/256M",
+        "Type": "3TB, ST3000VX015 46원/1GB",
+        "Price": "139000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2022.12."
+    },
+    {
+        "Name": "Seagate SkyHawk 5400/256M",
+        "Type": "2TB, ST2000VX015 80원/1GB",
+        "Price": "159000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2022.12."
+    },
+    {
+        "Name": "Seagate SkyHawk 5400/256M",
+        "Type": "2TB, ST2000VX017 69원/1GB",
+        "Price": "138000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2022.12."
+    },
+    {
+        "Name": "Seagate SkyHawk 5400/256M",
+        "Type": "1TB, ST1000VX013 118원/1GB",
+        "Price": "118000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2022.12."
+    },
+    {
+        "Name": "Western Digital WD Caviar Blue 7200/64M/리퍼비시",
+        "Type": "1TB, WD10EZEX ",
+        "Price": "70990",
+        "TypeDetail": "71원/1GB",
+        "Spec": "",
+        "ExtraInfo": "2013.02."
+    },
+    {
+        "Name": "Seagate Exos M 7200/512M",
+        "Type": "30TB, ST30000NM004K 40원/1GB",
+        "Price": "1199000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.07."
+    },
+    {
+        "Name": "Seagate Exos M 7200/512M",
+        "Type": "28TB, ST28000NM003K 39원/1GB",
+        "Price": "1099000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.07."
+    },
+    {
+        "Name": "도시바 X300 Refresh 7200/512M",
+        "Type": "10TB, HDWR71A 43원/1TB",
+        "Price": "433780",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2024.11."
+    },
+    {
+        "Name": "도시바 X300 Refresh 7200/512M",
+        "Type": "8TB, HDWR780 43원/1TB",
+        "Price": "345000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2024.11."
+    },
+    {
+        "Name": "도시바 X300 Refresh 7200/512M",
+        "Type": "6TB, HDWR760 46원/1TB",
+        "Price": "275000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2024.11."
+    },
+    {
+        "Name": "도시바 X300 Refresh 7200/512M",
+        "Type": "4TB, HDWR740 49원/1TB",
+        "Price": "195000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2024.11."
+    },
+    {
+        "Name": "Seagate BarraCuda Pro 7200/128M/노트북용",
+        "Type": "1TB, ST1000LM049 119원/1GB",
+        "Price": "119000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2018.05."
+    },
+    {
+        "Name": "Seagate BarraCuda Pro 7200/128M/노트북용",
+        "Type": "500GB, ST500LM034 180원/1GB",
+        "Price": "89990",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2018.05."
+    },
+    {
+        "Name": "Western Digital Ultrastar DC HC580 7200/512M",
+        "Type": "24TB, WUH722424ALE6L4 ",
+        "Price": "964190",
+        "TypeDetail": "40원/1GB",
+        "Spec": "",
+        "ExtraInfo": "2024.03."
+    },
+    {
+        "Name": "Western Digital WD RED Pro 7200/512M",
+        "Type": "26TB, WD260KFGX 52원/1GB",
+        "Price": "1359180",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2024.11."
+    },
+    {
+        "Name": "Western Digital WD RED Pro 7200/512M",
+        "Type": "24TB, WD240KFGX 52원/1GB",
+        "Price": "1250000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2024.11."
+    },
+    {
+        "Name": "Western Digital WD RED Pro 7200/512M",
+        "Type": "22TB, WD221KFGX 42원/1GB",
+        "Price": "915000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2024.11."
+    },
+    {
+        "Name": "Western Digital WD RED Pro 7200/512M",
+        "Type": "20TB, WD202KFGX 45원/1GB",
+        "Price": "896340",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2024.11."
+    },
+    {
+        "Name": "Western Digital WD RED Pro 7200/512M",
+        "Type": "20TB, WD201KFGX 46원/1GB",
+        "Price": "910490",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2024.11."
+    },
+    {
+        "Name": "Western Digital WD RED Pro 7200/512M",
+        "Type": "18TB, WD181KFGX 44원/1GB",
+        "Price": "790000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2024.11."
+    },
+    {
+        "Name": "Western Digital WD RED Pro 7200/512M",
+        "Type": "16TB, WD161KFGX 47원/1GB",
+        "Price": "750000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2024.11."
+    },
+    {
+        "Name": "Western Digital WD RED Pro 7200/512M",
+        "Type": "14TB, WD142KFGX 47원/1GB",
+        "Price": "660000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2024.11."
+    },
+    {
+        "Name": "Western Digital WD RED Pro 7200/512M",
+        "Type": "14TB, WD141KFGX 47원/1GB",
+        "Price": "659650",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2024.11."
+    },
+    {
+        "Name": "Western Digital WD RED Pro 7200/512M",
+        "Type": "10TB, WD103KFBX 58원/1GB",
+        "Price": "579700",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2024.11."
+    },
+    {
+        "Name": "Western Digital WD Blue 7200/64M",
+        "Type": "1TB, WD10EZEX ",
+        "Price": "102000",
+        "TypeDetail": "102원/1GB",
+        "Spec": "",
+        "ExtraInfo": "2012.06."
+    },
+    {
+        "Name": "Western Digital WD Blue 7200/512M",
+        "Type": "12TB, WD120EAGZ 40원/1GB",
+        "Price": "474610",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.05."
+    },
+    {
+        "Name": "Western Digital WD Blue 7200/512M",
+        "Type": "10TB, WD100EAGZ 42원/1GB",
+        "Price": "415500",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.05."
+    },
+    {
+        "Name": "Seagate Exos X18 SAS/7200/256M",
+        "Type": "18TB, ST18000NM004J 37원/1GB",
+        "Price": "659000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2020.11."
+    },
+    {
+        "Name": "Seagate Exos X18 SAS/7200/256M",
+        "Type": "16TB, ST16000NM004J 28원/1GB",
+        "Price": "500000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2020.11."
+    },
+    {
+        "Name": "Seagate Exos X18 SAS/7200/256M",
+        "Type": "14TB, ST14000NM004J 41원/1GB",
+        "Price": "579000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2020.11."
+    },
+    {
+        "Name": "Seagate Exos X18 SAS/7200/256M",
+        "Type": "12TB, ST12000NM004J 47원/1GB",
+        "Price": "569000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2020.11."
+    },
+    {
+        "Name": "Western Digital WD Purple 5400/64M",
+        "Type": "6TB, WD60PURZ 56원/1GB",
+        "Price": "336000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2018.03."
+    },
+    {
+        "Name": "Western Digital WD Purple 5400/64M",
+        "Type": "4TB, WD40PURZ 47원/1GB",
+        "Price": "188990",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2018.03."
+    },
+    {
+        "Name": "Western Digital WD Purple 5400/64M",
+        "Type": "3TB, WD30PURZ 58원/1GB",
+        "Price": "175000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2018.03."
+    },
+    {
+        "Name": "Western Digital WD Purple 5400/64M",
+        "Type": "2TB, WD20PURZ 75원/1GB",
+        "Price": "150000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2018.03."
+    },
+    {
+        "Name": "Western Digital WD Purple 5400/64M",
+        "Type": "2TB, WD23PURZ 75원/1GB",
+        "Price": "150990",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2018.03."
+    },
+    {
+        "Name": "Western Digital WD Purple 5400/64M",
+        "Type": "1TB, WD10PURZ 108원/1GB",
+        "Price": "108000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2018.03."
+    },
+    {
+        "Name": "Western Digital WD Purple 5400/64M",
+        "Type": "1TB, WD11PURZ 129원/1GB",
+        "Price": "129000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2018.03."
+    },
+    {
+        "Name": "Western Digital WD Blue 5640/256M/해외구매",
+        "Type": "8TB, WD80EAAZ ",
+        "Price": "236690",
+        "TypeDetail": "30원/1GB",
+        "Spec": "",
+        "ExtraInfo": "2024.03."
+    },
+    {
+        "Name": "도시바 DT01 7200/64M",
+        "Type": "3TB, DT01ACA300 49원/1GB",
+        "Price": "148260",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2012.09."
+    },
+    {
+        "Name": "도시바 DT01 7200/64M",
+        "Type": "2TB, DT01ACA200 61원/1GB",
+        "Price": "121790",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2012.09."
+    },
+    {
+        "Name": "도시바 DT01 7200/64M",
+        "Type": "500GB, DT01ACA050 190원/1GB",
+        "Price": "95000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2012.09."
+    },
+    {
+        "Name": "Western Digital Ultrastar DC HC520 박스 패키지 7200/256M HUH721212ALE600",
+        "Type": "4x12TB 37원/1GB",
+        "Price": "1760000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2019.04."
+    },
+    {
+        "Name": "Western Digital Ultrastar DC HC520 박스 패키지 7200/256M HUH721212ALE600",
+        "Type": "2x12TB 46원/1GB",
+        "Price": "1110000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2019.04."
+    },
+    {
+        "Name": "Western Digital Ultrastar DC HC520 박스 패키지 7200/256M HUH721212ALE600",
+        "Type": "12TB 47원/1GB",
+        "Price": "559000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2019.04."
+    },
+    {
+        "Name": "Western Digital Ultrastar DC HC550 박스 패키지 7200/512M WUH721816ALE6L4",
+        "Type": "4x16TB 38원/1GB",
+        "Price": "2440000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2020.08."
+    },
+    {
+        "Name": "Western Digital Ultrastar DC HC550 박스 패키지 7200/512M WUH721816ALE6L4",
+        "Type": "2x16TB 38원/1GB",
+        "Price": "1230000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2020.08."
+    },
+    {
+        "Name": "Western Digital Ultrastar DC HC550 박스 패키지 7200/512M WUH721816ALE6L4",
+        "Type": "16TB 39원/1GB",
+        "Price": "619000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2020.08."
+    },
+    {
+        "Name": "Western Digital WD RED Plus 5400/128M",
+        "Type": "4TB, WD40EFZX 46원/1GB",
+        "Price": "185000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2021.03."
+    },
+    {
+        "Name": "Western Digital WD RED Plus 5400/128M",
+        "Type": "3TB, WD30EFZX 63원/1GB",
+        "Price": "190000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2021.03."
+    },
+    {
+        "Name": "Western Digital WD RED Plus 5400/128M",
+        "Type": "2TB, WD20EFZX 78원/1GB",
+        "Price": "155000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2021.03."
+    },
+    {
+        "Name": "Western Digital Ultrastar DC HC310 7200/256M",
+        "Type": "6TB, HUS726T6TALE6L4 50원/1GB",
+        "Price": "299000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2019.02."
+    },
+    {
+        "Name": "Western Digital Ultrastar DC HC310 7200/256M",
+        "Type": "4TB, HUS726T4TALA6L4 65원/1GB",
+        "Price": "259000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2019.02."
+    },
+    {
+        "Name": "Seagate BarraCuda 7200/256M",
+        "Type": "2TB, ST2000DM008 58원/1GB",
+        "Price": "115000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2018.10."
+    },
+    {
+        "Name": "Seagate BarraCuda 7200/256M",
+        "Type": "1TB, ST1000DM014 105원/1GB",
+        "Price": "104870",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2018.10."
+    },
+    {
+        "Name": "Seagate IronWolf Pro 7200/512M",
+        "Type": "30TB, ST30000NT011 42원/1GB",
+        "Price": "1245880",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2024.02."
+    },
+    {
+        "Name": "Seagate IronWolf Pro 7200/512M",
+        "Type": "28TB, ST28000NT000 41원/1GB",
+        "Price": "1148980",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2024.02."
+    },
+    {
+        "Name": "Seagate IronWolf Pro 7200/512M",
+        "Type": "24TB, ST24000NT002 41원/1GB",
+        "Price": "983880",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2024.02."
+    },
+    {
+        "Name": "Seagate IronWolf Pro 7200/512M",
+        "Type": "22TB, ST22000NT001 46원/1GB",
+        "Price": "915000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2024.02."
+    },
+    {
+        "Name": "Seagate BarraCuda 5400/256M",
+        "Type": "8TB, ST8000DM004 39원/1GB",
+        "Price": "309120",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2017.11."
+    },
+    {
+        "Name": "Seagate BarraCuda 5400/256M",
+        "Type": "6TB, ST6000DM003 41원/1GB",
+        "Price": "248970",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2017.11."
+    },
+    {
+        "Name": "Seagate BarraCuda 5400/256M",
+        "Type": "4TB, ST4000DM004 43원/1GB",
+        "Price": "172470",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2017.11."
+    },
+    {
+        "Name": "Seagate BarraCuda 5400/256M",
+        "Type": "3TB, ST3000DM007 53원/1GB",
+        "Price": "158990",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2017.11."
+    },
+    {
+        "Name": "Seagate BarraCuda 7200/512M",
+        "Type": "24TB, ST24000DM001 29원/1GB",
+        "Price": "698990",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.03."
+    },
+    {
+        "Name": "Seagate BarraCuda 7200/512M",
+        "Type": "20TB, ST20000DM001 30원/1GB",
+        "Price": "601480",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.03."
+    },
+    {
+        "Name": "Seagate BarraCuda 7200/512M",
+        "Type": "16TB, ST16000DM001 32원/1GB",
+        "Price": "516490",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.03."
+    },
+    {
+        "Name": "Western Digital WD Blue 5400/256M",
+        "Type": "6TB, WD60EZAX 41원/1GB",
+        "Price": "248990",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2023.05."
+    },
+    {
+        "Name": "Western Digital WD Blue 5400/256M",
+        "Type": "4TB, WD40EZAX 43원/1GB",
+        "Price": "170420",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2023.05."
+    },
+    {
+        "Name": "Western Digital WD Blue 5400/256M",
+        "Type": "3TB, WD30EZAX 56원/1GB",
+        "Price": "168420",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2023.05."
+    },
+    {
+        "Name": "Western Digital WD RED Plus 5400/256M",
+        "Type": "6TB, WD60EFPX 48원/1GB",
+        "Price": "285000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2023.04."
+    },
+    {
+        "Name": "Western Digital WD RED Plus 5400/256M",
+        "Type": "4TB, WD40EFPX 46원/1GB",
+        "Price": "185000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2023.04."
+    },
+    {
+        "Name": "Seagate IronWolf 5400/256M",
+        "Type": "8TB, ST8000VN002 44원/1GB",
+        "Price": "352430",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2022.12."
+    },
+    {
+        "Name": "Seagate IronWolf 5400/256M",
+        "Type": "6TB, ST6000VN001 48원/1GB",
+        "Price": "289000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2022.12."
+    },
+    {
+        "Name": "Seagate IronWolf 5400/256M",
+        "Type": "6TB, ST6000VN006 53원/1GB",
+        "Price": "317730",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2022.12."
+    },
+    {
+        "Name": "Seagate IronWolf 5400/256M",
+        "Type": "4TB, ST4000VN006 47원/1GB",
+        "Price": "186060",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2022.12."
+    },
+    {
+        "Name": "Seagate IronWolf 5400/256M",
+        "Type": "2TB, ST2000VN003 79원/1GB",
+        "Price": "158360",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2022.12."
+    },
+    {
+        "Name": "Seagate IronWolf 5400/256M",
+        "Type": "1TB, ST1000VN008 129원/1GB",
+        "Price": "128990",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2022.12."
+    },
+    {
+        "Name": "Western Digital WD Blue 7200/256M",
+        "Type": "2TB, WD20EZBX ",
+        "Price": "119000",
+        "TypeDetail": "60원/1GB",
+        "Spec": "",
+        "ExtraInfo": "2021.03."
+    },
+    {
+        "Name": "Western Digital WD Blue 5640/256M",
+        "Type": "8TB, WD80EAAZ ",
+        "Price": "308870",
+        "TypeDetail": "39원/1GB",
+        "Spec": "",
+        "ExtraInfo": "2024.03."
+    },
+    {
+        "Name": "Seagate IronWolf 7200/256M",
+        "Type": "16TB, ST16000VN001 42원/1GB",
+        "Price": "668980",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2019.08."
+    },
+    {
+        "Name": "Seagate IronWolf 7200/256M",
+        "Type": "12TB, ST12000VN0008 45원/1GB",
+        "Price": "540540",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2019.08."
+    },
+    {
+        "Name": "Seagate IronWolf 7200/256M",
+        "Type": "12TB, ST12000VN0007 47원/1GB",
+        "Price": "559000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2019.08."
+    },
+    {
+        "Name": "Seagate IronWolf 7200/256M",
+        "Type": "10TB, ST10000VN000 45원/1GB",
+        "Price": "449070",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2019.08."
+    },
+    {
+        "Name": "Seagate IronWolf 7200/256M",
+        "Type": "10TB, ST10000VN0008 49원/1GB",
+        "Price": "489000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2019.08."
+    },
+    {
+        "Name": "Seagate IronWolf 7200/256M",
+        "Type": "10TB, ST10000VN0004 50원/1GB",
+        "Price": "499000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2019.08."
+    },
+    {
+        "Name": "Seagate IronWolf 7200/256M",
+        "Type": "8TB, ST8000VN004 48원/1GB",
+        "Price": "383990",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2019.08."
+    },
+    {
+        "Name": "Seagate IronWolf 7200/256M",
+        "Type": "6TB, ST6000VN0033 55원/1GB",
+        "Price": "328990",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2019.08."
+    },
+    {
+        "Name": "Seagate IronWolf 7200/256M/해외구매",
+        "Type": "18TB, ST18000VN000 59원/1GB",
+        "Price": "1054190",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2024.05."
+    },
+    {
+        "Name": "Seagate IronWolf 7200/256M/해외구매",
+        "Type": "16TB, ST16000VN001 24원/1GB",
+        "Price": "388170",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2024.05."
+    },
+    {
+        "Name": "Seagate IronWolf 7200/256M/해외구매",
+        "Type": "14TB, ST14000VN0008 23원/1GB",
+        "Price": "327060",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2024.05."
+    },
+    {
+        "Name": "Seagate IronWolf 7200/256M/해외구매",
+        "Type": "12TB, ST12000VN0008 22원/1GB",
+        "Price": "265400",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2024.05."
+    },
+    {
+        "Name": "Seagate IronWolf 7200/256M/해외구매",
+        "Type": "10TB, ST10000VN000 48원/1GB",
+        "Price": "483100",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2024.05."
+    },
+    {
+        "Name": "Seagate IronWolf 7200/256M/해외구매",
+        "Type": "10TB, ST10000VN0004 31원/1GB",
+        "Price": "311510",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2024.05."
+    },
+    {
+        "Name": "Seagate IronWolf 7200/256M/해외구매",
+        "Type": "10TB, ST10000VN0008 25원/1GB",
+        "Price": "251460",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2024.05."
+    },
+    {
+        "Name": "Seagate IronWolf 7200/256M/해외구매",
+        "Type": "8TB, ST8000VN0022 33원/1GB",
+        "Price": "262280",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2024.05."
+    },
+    {
+        "Name": "Seagate IronWolf 7200/256M/해외구매",
+        "Type": "8TB, ST8000VN004 33원/1GB",
+        "Price": "261600",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2024.05."
+    },
+    {
+        "Name": "Seagate IronWolf 7200/256M/해외구매",
+        "Type": "6TB, ST6000VN0033 40원/1GB",
+        "Price": "239300",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2024.05."
+    },
+    {
+        "Name": "Western Digital WD MOBILE Blue 5400/128M/노트북용",
+        "Type": "2TB, WD20SPZX 64원/1GB",
+        "Price": "127000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2018.02."
+    },
+    {
+        "Name": "Western Digital WD MOBILE Blue 5400/128M/노트북용",
+        "Type": "1TB, WD10SPZX 94원/1GB",
+        "Price": "94000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2018.02."
+    },
+    {
+        "Name": "Western Digital WD MOBILE Blue 5400/128M/노트북용",
+        "Type": "500GB, WD5000LPZX 178원/1GB",
+        "Price": "89000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2018.02."
+    },
+    {
+        "Name": "Seagate BarraCuda 5400/256M/해외구매",
+        "Type": "8TB, ST8000DM004 26원/1GB",
+        "Price": "209950",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2019.10."
+    },
+    {
+        "Name": "Seagate BarraCuda 5400/256M/해외구매",
+        "Type": "6TB, ST6000DM003 28원/1GB",
+        "Price": "167060",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2019.10."
+    },
+    {
+        "Name": "Seagate BarraCuda 5400/256M/해외구매",
+        "Type": "4TB, ST4000DM004 32원/1GB",
+        "Price": "128600",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2019.10."
+    },
+    {
+        "Name": "Seagate BarraCuda 5400/256M/해외구매",
+        "Type": "3TB, ST3000DM007 32원/1GB",
+        "Price": "97290",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2019.10."
+    },
+    {
+        "Name": "Seagate BarraCuda 5400/256M/해외구매",
+        "Type": "2TB, ST2000DM005 47원/1GB",
+        "Price": "93500",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2019.10."
+    },
+    {
+        "Name": "Seagate SkyHawk 5400/256M",
+        "Type": "8TB, ST8000VX010 49원/1GB",
+        "Price": "388000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2022.12."
+    },
+    {
+        "Name": "Seagate SkyHawk 5400/256M",
+        "Type": "6TB, ST6000VX001 48원/1GB",
+        "Price": "289000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2022.12."
+    },
+    {
+        "Name": "Seagate SkyHawk 5400/256M",
+        "Type": "6TB, ST6000VX009 48원/1GB",
+        "Price": "285790",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2022.12."
+    },
+    {
+        "Name": "Seagate SkyHawk 5400/256M",
+        "Type": "4TB, ST4000VX016 50원/1GB",
+        "Price": "198000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2022.12."
+    },
+    {
+        "Name": "Seagate SkyHawk 5400/256M",
+        "Type": "3TB, ST3000VX015 46원/1GB",
+        "Price": "139000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2022.12."
+    },
+    {
+        "Name": "Seagate SkyHawk 5400/256M",
+        "Type": "2TB, ST2000VX015 80원/1GB",
+        "Price": "159000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2022.12."
+    },
+    {
+        "Name": "Seagate SkyHawk 5400/256M",
+        "Type": "2TB, ST2000VX017 69원/1GB",
+        "Price": "138000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2022.12."
+    },
+    {
+        "Name": "Seagate SkyHawk 5400/256M",
+        "Type": "1TB, ST1000VX013 118원/1GB",
+        "Price": "118000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2022.12."
+    },
+    {
+        "Name": "Western Digital WD Caviar Blue 7200/64M/리퍼비시",
+        "Type": "1TB, WD10EZEX ",
+        "Price": "70990",
+        "TypeDetail": "71원/1GB",
+        "Spec": "",
+        "ExtraInfo": "2013.02."
+    },
+    {
+        "Name": "Seagate Exos M 7200/512M",
+        "Type": "30TB, ST30000NM004K 40원/1GB",
+        "Price": "1199000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.07."
+    },
+    {
+        "Name": "Seagate Exos M 7200/512M",
+        "Type": "28TB, ST28000NM003K 39원/1GB",
+        "Price": "1099000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.07."
+    },
+    {
+        "Name": "도시바 X300 Refresh 7200/512M",
+        "Type": "10TB, HDWR71A 43원/1TB",
+        "Price": "433780",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2024.11."
+    },
+    {
+        "Name": "도시바 X300 Refresh 7200/512M",
+        "Type": "8TB, HDWR780 43원/1TB",
+        "Price": "345000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2024.11."
+    },
+    {
+        "Name": "도시바 X300 Refresh 7200/512M",
+        "Type": "6TB, HDWR760 46원/1TB",
+        "Price": "275000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2024.11."
+    },
+    {
+        "Name": "도시바 X300 Refresh 7200/512M",
+        "Type": "4TB, HDWR740 49원/1TB",
+        "Price": "195000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2024.11."
+    },
+    {
+        "Name": "Seagate BarraCuda Pro 7200/128M/노트북용",
+        "Type": "1TB, ST1000LM049 119원/1GB",
+        "Price": "119000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2018.05."
+    },
+    {
+        "Name": "Seagate BarraCuda Pro 7200/128M/노트북용",
+        "Type": "500GB, ST500LM034 180원/1GB",
+        "Price": "89990",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2018.05."
+    },
+    {
+        "Name": "Western Digital Ultrastar DC HC580 7200/512M",
+        "Type": "24TB, WUH722424ALE6L4 ",
+        "Price": "964190",
+        "TypeDetail": "40원/1GB",
+        "Spec": "",
+        "ExtraInfo": "2024.03."
+    },
+    {
+        "Name": "Western Digital WD RED Pro 7200/512M",
+        "Type": "26TB, WD260KFGX 52원/1GB",
+        "Price": "1359180",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2024.11."
+    },
+    {
+        "Name": "Western Digital WD RED Pro 7200/512M",
+        "Type": "24TB, WD240KFGX 52원/1GB",
+        "Price": "1250000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2024.11."
+    },
+    {
+        "Name": "Western Digital WD RED Pro 7200/512M",
+        "Type": "22TB, WD221KFGX 42원/1GB",
+        "Price": "915000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2024.11."
+    },
+    {
+        "Name": "Western Digital WD RED Pro 7200/512M",
+        "Type": "20TB, WD202KFGX 45원/1GB",
+        "Price": "896340",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2024.11."
+    },
+    {
+        "Name": "Western Digital WD RED Pro 7200/512M",
+        "Type": "20TB, WD201KFGX 46원/1GB",
+        "Price": "910490",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2024.11."
+    },
+    {
+        "Name": "Western Digital WD RED Pro 7200/512M",
+        "Type": "18TB, WD181KFGX 44원/1GB",
+        "Price": "790000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2024.11."
+    },
+    {
+        "Name": "Western Digital WD RED Pro 7200/512M",
+        "Type": "16TB, WD161KFGX 47원/1GB",
+        "Price": "750000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2024.11."
+    },
+    {
+        "Name": "Western Digital WD RED Pro 7200/512M",
+        "Type": "14TB, WD142KFGX 47원/1GB",
+        "Price": "660000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2024.11."
+    },
+    {
+        "Name": "Western Digital WD RED Pro 7200/512M",
+        "Type": "14TB, WD141KFGX 47원/1GB",
+        "Price": "659650",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2024.11."
+    },
+    {
+        "Name": "Western Digital WD RED Pro 7200/512M",
+        "Type": "10TB, WD103KFBX 58원/1GB",
+        "Price": "579700",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2024.11."
+    },
+    {
+        "Name": "Western Digital WD Blue 7200/64M",
+        "Type": "1TB, WD10EZEX ",
+        "Price": "102000",
+        "TypeDetail": "102원/1GB",
+        "Spec": "",
+        "ExtraInfo": "2012.06."
+    },
+    {
+        "Name": "Western Digital WD Blue 7200/512M",
+        "Type": "12TB, WD120EAGZ 40원/1GB",
+        "Price": "474610",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.05."
+    },
+    {
+        "Name": "Western Digital WD Blue 7200/512M",
+        "Type": "10TB, WD100EAGZ 42원/1GB",
+        "Price": "415500",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.05."
+    },
+    {
+        "Name": "Seagate Exos X18 SAS/7200/256M",
+        "Type": "18TB, ST18000NM004J 37원/1GB",
+        "Price": "659000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2020.11."
+    },
+    {
+        "Name": "Seagate Exos X18 SAS/7200/256M",
+        "Type": "16TB, ST16000NM004J 28원/1GB",
+        "Price": "500000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2020.11."
+    },
+    {
+        "Name": "Seagate Exos X18 SAS/7200/256M",
+        "Type": "14TB, ST14000NM004J 41원/1GB",
+        "Price": "579000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2020.11."
+    },
+    {
+        "Name": "Seagate Exos X18 SAS/7200/256M",
+        "Type": "12TB, ST12000NM004J 47원/1GB",
+        "Price": "569000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2020.11."
+    },
+    {
+        "Name": "Western Digital WD Purple 5400/64M",
+        "Type": "6TB, WD60PURZ 56원/1GB",
+        "Price": "336000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2018.03."
+    },
+    {
+        "Name": "Western Digital WD Purple 5400/64M",
+        "Type": "4TB, WD40PURZ 47원/1GB",
+        "Price": "188990",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2018.03."
+    },
+    {
+        "Name": "Western Digital WD Purple 5400/64M",
+        "Type": "3TB, WD30PURZ 58원/1GB",
+        "Price": "175000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2018.03."
+    },
+    {
+        "Name": "Western Digital WD Purple 5400/64M",
+        "Type": "2TB, WD20PURZ 75원/1GB",
+        "Price": "150000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2018.03."
+    },
+    {
+        "Name": "Western Digital WD Purple 5400/64M",
+        "Type": "2TB, WD23PURZ 75원/1GB",
+        "Price": "150990",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2018.03."
+    },
+    {
+        "Name": "Western Digital WD Purple 5400/64M",
+        "Type": "1TB, WD10PURZ 108원/1GB",
+        "Price": "108000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2018.03."
+    },
+    {
+        "Name": "Western Digital WD Purple 5400/64M",
+        "Type": "1TB, WD11PURZ 129원/1GB",
+        "Price": "129000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2018.03."
+    },
+    {
+        "Name": "Western Digital WD Blue 5640/256M/해외구매",
+        "Type": "8TB, WD80EAAZ ",
+        "Price": "236690",
+        "TypeDetail": "30원/1GB",
+        "Spec": "",
+        "ExtraInfo": "2024.03."
+    },
+    {
+        "Name": "도시바 DT01 7200/64M",
+        "Type": "3TB, DT01ACA300 49원/1GB",
+        "Price": "148260",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2012.09."
+    },
+    {
+        "Name": "도시바 DT01 7200/64M",
+        "Type": "2TB, DT01ACA200 61원/1GB",
+        "Price": "121790",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2012.09."
+    },
+    {
+        "Name": "도시바 DT01 7200/64M",
+        "Type": "500GB, DT01ACA050 190원/1GB",
+        "Price": "95000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2012.09."
+    },
+    {
+        "Name": "Western Digital Ultrastar DC HC520 박스 패키지 7200/256M HUH721212ALE600",
+        "Type": "4x12TB 37원/1GB",
+        "Price": "1760000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2019.04."
+    },
+    {
+        "Name": "Western Digital Ultrastar DC HC520 박스 패키지 7200/256M HUH721212ALE600",
+        "Type": "2x12TB 46원/1GB",
+        "Price": "1110000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2019.04."
+    },
+    {
+        "Name": "Western Digital Ultrastar DC HC520 박스 패키지 7200/256M HUH721212ALE600",
+        "Type": "12TB 47원/1GB",
+        "Price": "559000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2019.04."
+    },
+    {
+        "Name": "Western Digital Ultrastar DC HC550 박스 패키지 7200/512M WUH721816ALE6L4",
+        "Type": "4x16TB 38원/1GB",
+        "Price": "2440000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2020.08."
+    },
+    {
+        "Name": "Western Digital Ultrastar DC HC550 박스 패키지 7200/512M WUH721816ALE6L4",
+        "Type": "2x16TB 38원/1GB",
+        "Price": "1230000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2020.08."
+    },
+    {
+        "Name": "Western Digital Ultrastar DC HC550 박스 패키지 7200/512M WUH721816ALE6L4",
+        "Type": "16TB 39원/1GB",
+        "Price": "619000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2020.08."
+    },
+    {
+        "Name": "Western Digital WD RED Plus 5400/128M",
+        "Type": "4TB, WD40EFZX 46원/1GB",
+        "Price": "185000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2021.03."
+    },
+    {
+        "Name": "Western Digital WD RED Plus 5400/128M",
+        "Type": "3TB, WD30EFZX 63원/1GB",
+        "Price": "190000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2021.03."
+    },
+    {
+        "Name": "Western Digital WD RED Plus 5400/128M",
+        "Type": "2TB, WD20EFZX 78원/1GB",
+        "Price": "155000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2021.03."
+    },
+    {
+        "Name": "Western Digital Ultrastar DC HC310 7200/256M",
+        "Type": "6TB, HUS726T6TALE6L4 50원/1GB",
+        "Price": "299000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2019.02."
+    },
+    {
+        "Name": "Western Digital Ultrastar DC HC310 7200/256M",
+        "Type": "4TB, HUS726T4TALA6L4 65원/1GB",
+        "Price": "259000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2019.02."
+    },
+    {
+        "Name": "Seagate BarraCuda 7200/256M",
+        "Type": "2TB, ST2000DM008 58원/1GB",
+        "Price": "115000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2018.10."
+    },
+    {
+        "Name": "Seagate BarraCuda 7200/256M",
+        "Type": "1TB, ST1000DM014 105원/1GB",
+        "Price": "104870",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2018.10."
+    },
+    {
+        "Name": "Seagate IronWolf Pro 7200/512M",
+        "Type": "30TB, ST30000NT011 42원/1GB",
+        "Price": "1245880",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2024.02."
+    },
+    {
+        "Name": "Seagate IronWolf Pro 7200/512M",
+        "Type": "28TB, ST28000NT000 41원/1GB",
+        "Price": "1148980",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2024.02."
+    },
+    {
+        "Name": "Seagate IronWolf Pro 7200/512M",
+        "Type": "24TB, ST24000NT002 41원/1GB",
+        "Price": "983880",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2024.02."
+    },
+    {
+        "Name": "Seagate IronWolf Pro 7200/512M",
+        "Type": "22TB, ST22000NT001 46원/1GB",
+        "Price": "915000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2024.02."
+    },
+    {
+        "Name": "Seagate BarraCuda 5400/256M",
+        "Type": "8TB, ST8000DM004 39원/1GB",
+        "Price": "309120",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2017.11."
+    },
+    {
+        "Name": "Seagate BarraCuda 5400/256M",
+        "Type": "6TB, ST6000DM003 41원/1GB",
+        "Price": "248970",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2017.11."
+    },
+    {
+        "Name": "Seagate BarraCuda 5400/256M",
+        "Type": "4TB, ST4000DM004 43원/1GB",
+        "Price": "172470",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2017.11."
+    },
+    {
+        "Name": "Seagate BarraCuda 5400/256M",
+        "Type": "3TB, ST3000DM007 53원/1GB",
+        "Price": "158990",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2017.11."
+    },
+    {
+        "Name": "Seagate BarraCuda 7200/512M",
+        "Type": "24TB, ST24000DM001 29원/1GB",
+        "Price": "698990",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.03."
+    },
+    {
+        "Name": "Seagate BarraCuda 7200/512M",
+        "Type": "20TB, ST20000DM001 30원/1GB",
+        "Price": "601480",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.03."
+    },
+    {
+        "Name": "Seagate BarraCuda 7200/512M",
+        "Type": "16TB, ST16000DM001 32원/1GB",
+        "Price": "516490",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.03."
+    },
+    {
+        "Name": "Western Digital WD Blue 5400/256M",
+        "Type": "6TB, WD60EZAX 41원/1GB",
+        "Price": "248990",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2023.05."
+    },
+    {
+        "Name": "Western Digital WD Blue 5400/256M",
+        "Type": "4TB, WD40EZAX 43원/1GB",
+        "Price": "170420",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2023.05."
+    },
+    {
+        "Name": "Western Digital WD Blue 5400/256M",
+        "Type": "3TB, WD30EZAX 56원/1GB",
+        "Price": "168420",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2023.05."
+    },
+    {
+        "Name": "Western Digital WD RED Plus 5400/256M",
+        "Type": "6TB, WD60EFPX 48원/1GB",
+        "Price": "285000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2023.04."
+    },
+    {
+        "Name": "Western Digital WD RED Plus 5400/256M",
+        "Type": "4TB, WD40EFPX 46원/1GB",
+        "Price": "185000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2023.04."
+    },
+    {
+        "Name": "Seagate IronWolf 5400/256M",
+        "Type": "8TB, ST8000VN002 44원/1GB",
+        "Price": "352430",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2022.12."
+    },
+    {
+        "Name": "Seagate IronWolf 5400/256M",
+        "Type": "6TB, ST6000VN001 48원/1GB",
+        "Price": "289000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2022.12."
+    },
+    {
+        "Name": "Seagate IronWolf 5400/256M",
+        "Type": "6TB, ST6000VN006 53원/1GB",
+        "Price": "317730",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2022.12."
+    },
+    {
+        "Name": "Seagate IronWolf 5400/256M",
+        "Type": "4TB, ST4000VN006 47원/1GB",
+        "Price": "186060",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2022.12."
+    },
+    {
+        "Name": "Seagate IronWolf 5400/256M",
+        "Type": "2TB, ST2000VN003 79원/1GB",
+        "Price": "158360",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2022.12."
+    },
+    {
+        "Name": "Seagate IronWolf 5400/256M",
+        "Type": "1TB, ST1000VN008 129원/1GB",
+        "Price": "128990",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2022.12."
+    },
+    {
+        "Name": "Western Digital WD Blue 7200/256M",
+        "Type": "2TB, WD20EZBX ",
+        "Price": "119000",
+        "TypeDetail": "60원/1GB",
+        "Spec": "",
+        "ExtraInfo": "2021.03."
+    },
+    {
+        "Name": "Western Digital WD Blue 5640/256M",
+        "Type": "8TB, WD80EAAZ ",
+        "Price": "308870",
+        "TypeDetail": "39원/1GB",
+        "Spec": "",
+        "ExtraInfo": "2024.03."
+    },
+    {
+        "Name": "Seagate IronWolf 7200/256M",
+        "Type": "16TB, ST16000VN001 42원/1GB",
+        "Price": "668980",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2019.08."
+    },
+    {
+        "Name": "Seagate IronWolf 7200/256M",
+        "Type": "12TB, ST12000VN0008 45원/1GB",
+        "Price": "540540",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2019.08."
+    },
+    {
+        "Name": "Seagate IronWolf 7200/256M",
+        "Type": "12TB, ST12000VN0007 47원/1GB",
+        "Price": "559000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2019.08."
+    },
+    {
+        "Name": "Seagate IronWolf 7200/256M",
+        "Type": "10TB, ST10000VN000 45원/1GB",
+        "Price": "449070",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2019.08."
+    },
+    {
+        "Name": "Seagate IronWolf 7200/256M",
+        "Type": "10TB, ST10000VN0008 49원/1GB",
+        "Price": "489000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2019.08."
+    },
+    {
+        "Name": "Seagate IronWolf 7200/256M",
+        "Type": "10TB, ST10000VN0004 50원/1GB",
+        "Price": "499000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2019.08."
+    },
+    {
+        "Name": "Seagate IronWolf 7200/256M",
+        "Type": "8TB, ST8000VN004 48원/1GB",
+        "Price": "383990",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2019.08."
+    },
+    {
+        "Name": "Seagate IronWolf 7200/256M",
+        "Type": "6TB, ST6000VN0033 55원/1GB",
+        "Price": "328990",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2019.08."
+    },
+    {
+        "Name": "Seagate IronWolf 7200/256M/해외구매",
+        "Type": "18TB, ST18000VN000 59원/1GB",
+        "Price": "1054190",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2024.05."
+    },
+    {
+        "Name": "Seagate IronWolf 7200/256M/해외구매",
+        "Type": "16TB, ST16000VN001 24원/1GB",
+        "Price": "388170",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2024.05."
+    },
+    {
+        "Name": "Seagate IronWolf 7200/256M/해외구매",
+        "Type": "14TB, ST14000VN0008 23원/1GB",
+        "Price": "327060",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2024.05."
+    },
+    {
+        "Name": "Seagate IronWolf 7200/256M/해외구매",
+        "Type": "12TB, ST12000VN0008 22원/1GB",
+        "Price": "265400",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2024.05."
+    },
+    {
+        "Name": "Seagate IronWolf 7200/256M/해외구매",
+        "Type": "10TB, ST10000VN000 48원/1GB",
+        "Price": "483100",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2024.05."
+    },
+    {
+        "Name": "Seagate IronWolf 7200/256M/해외구매",
+        "Type": "10TB, ST10000VN0004 31원/1GB",
+        "Price": "311510",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2024.05."
+    },
+    {
+        "Name": "Seagate IronWolf 7200/256M/해외구매",
+        "Type": "10TB, ST10000VN0008 25원/1GB",
+        "Price": "251460",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2024.05."
+    },
+    {
+        "Name": "Seagate IronWolf 7200/256M/해외구매",
+        "Type": "8TB, ST8000VN0022 33원/1GB",
+        "Price": "262280",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2024.05."
+    },
+    {
+        "Name": "Seagate IronWolf 7200/256M/해외구매",
+        "Type": "8TB, ST8000VN004 33원/1GB",
+        "Price": "261600",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2024.05."
+    },
+    {
+        "Name": "Seagate IronWolf 7200/256M/해외구매",
+        "Type": "6TB, ST6000VN0033 40원/1GB",
+        "Price": "239300",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2024.05."
+    },
+    {
+        "Name": "Western Digital WD MOBILE Blue 5400/128M/노트북용",
+        "Type": "2TB, WD20SPZX 64원/1GB",
+        "Price": "127000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2018.02."
+    },
+    {
+        "Name": "Western Digital WD MOBILE Blue 5400/128M/노트북용",
+        "Type": "1TB, WD10SPZX 94원/1GB",
+        "Price": "94000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2018.02."
+    },
+    {
+        "Name": "Western Digital WD MOBILE Blue 5400/128M/노트북용",
+        "Type": "500GB, WD5000LPZX 178원/1GB",
+        "Price": "89000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2018.02."
+    },
+    {
+        "Name": "Seagate BarraCuda 5400/256M/해외구매",
+        "Type": "8TB, ST8000DM004 26원/1GB",
+        "Price": "209950",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2019.10."
+    },
+    {
+        "Name": "Seagate BarraCuda 5400/256M/해외구매",
+        "Type": "6TB, ST6000DM003 28원/1GB",
+        "Price": "167060",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2019.10."
+    },
+    {
+        "Name": "Seagate BarraCuda 5400/256M/해외구매",
+        "Type": "4TB, ST4000DM004 32원/1GB",
+        "Price": "128600",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2019.10."
+    },
+    {
+        "Name": "Seagate BarraCuda 5400/256M/해외구매",
+        "Type": "3TB, ST3000DM007 32원/1GB",
+        "Price": "97290",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2019.10."
+    },
+    {
+        "Name": "Seagate BarraCuda 5400/256M/해외구매",
+        "Type": "2TB, ST2000DM005 47원/1GB",
+        "Price": "93500",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2019.10."
+    },
+    {
+        "Name": "Seagate SkyHawk 5400/256M",
+        "Type": "8TB, ST8000VX010 49원/1GB",
+        "Price": "388000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2022.12."
+    },
+    {
+        "Name": "Seagate SkyHawk 5400/256M",
+        "Type": "6TB, ST6000VX001 48원/1GB",
+        "Price": "289000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2022.12."
+    },
+    {
+        "Name": "Seagate SkyHawk 5400/256M",
+        "Type": "6TB, ST6000VX009 48원/1GB",
+        "Price": "285790",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2022.12."
+    },
+    {
+        "Name": "Seagate SkyHawk 5400/256M",
+        "Type": "4TB, ST4000VX016 50원/1GB",
+        "Price": "198000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2022.12."
+    },
+    {
+        "Name": "Seagate SkyHawk 5400/256M",
+        "Type": "3TB, ST3000VX015 46원/1GB",
+        "Price": "139000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2022.12."
+    },
+    {
+        "Name": "Seagate SkyHawk 5400/256M",
+        "Type": "2TB, ST2000VX015 80원/1GB",
+        "Price": "159000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2022.12."
+    },
+    {
+        "Name": "Seagate SkyHawk 5400/256M",
+        "Type": "2TB, ST2000VX017 69원/1GB",
+        "Price": "138000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2022.12."
+    },
+    {
+        "Name": "Seagate SkyHawk 5400/256M",
+        "Type": "1TB, ST1000VX013 118원/1GB",
+        "Price": "118000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2022.12."
+    },
+    {
+        "Name": "Western Digital WD Caviar Blue 7200/64M/리퍼비시",
+        "Type": "1TB, WD10EZEX ",
+        "Price": "70990",
+        "TypeDetail": "71원/1GB",
+        "Spec": "",
+        "ExtraInfo": "2013.02."
+    },
+    {
+        "Name": "Seagate Exos M 7200/512M",
+        "Type": "30TB, ST30000NM004K 40원/1GB",
+        "Price": "1199000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.07."
+    },
+    {
+        "Name": "Seagate Exos M 7200/512M",
+        "Type": "28TB, ST28000NM003K 39원/1GB",
+        "Price": "1099000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.07."
+    },
+    {
+        "Name": "도시바 X300 Refresh 7200/512M",
+        "Type": "10TB, HDWR71A 43원/1TB",
+        "Price": "433780",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2024.11."
+    },
+    {
+        "Name": "도시바 X300 Refresh 7200/512M",
+        "Type": "8TB, HDWR780 43원/1TB",
+        "Price": "345000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2024.11."
+    },
+    {
+        "Name": "도시바 X300 Refresh 7200/512M",
+        "Type": "6TB, HDWR760 46원/1TB",
+        "Price": "275000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2024.11."
+    },
+    {
+        "Name": "도시바 X300 Refresh 7200/512M",
+        "Type": "4TB, HDWR740 49원/1TB",
+        "Price": "195000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2024.11."
+    },
+    {
+        "Name": "Seagate BarraCuda Pro 7200/128M/노트북용",
+        "Type": "1TB, ST1000LM049 119원/1GB",
+        "Price": "119000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2018.05."
+    },
+    {
+        "Name": "Seagate BarraCuda Pro 7200/128M/노트북용",
+        "Type": "500GB, ST500LM034 180원/1GB",
+        "Price": "89990",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2018.05."
+    },
+    {
+        "Name": "Western Digital Ultrastar DC HC580 7200/512M",
+        "Type": "24TB, WUH722424ALE6L4 ",
+        "Price": "964190",
+        "TypeDetail": "40원/1GB",
+        "Spec": "",
+        "ExtraInfo": "2024.03."
+    },
+    {
+        "Name": "Western Digital WD RED Pro 7200/512M",
+        "Type": "26TB, WD260KFGX 52원/1GB",
+        "Price": "1359180",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2024.11."
+    },
+    {
+        "Name": "Western Digital WD RED Pro 7200/512M",
+        "Type": "24TB, WD240KFGX 52원/1GB",
+        "Price": "1250000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2024.11."
+    },
+    {
+        "Name": "Western Digital WD RED Pro 7200/512M",
+        "Type": "22TB, WD221KFGX 42원/1GB",
+        "Price": "915000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2024.11."
+    },
+    {
+        "Name": "Western Digital WD RED Pro 7200/512M",
+        "Type": "20TB, WD202KFGX 45원/1GB",
+        "Price": "896340",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2024.11."
+    },
+    {
+        "Name": "Western Digital WD RED Pro 7200/512M",
+        "Type": "20TB, WD201KFGX 46원/1GB",
+        "Price": "910490",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2024.11."
+    },
+    {
+        "Name": "Western Digital WD RED Pro 7200/512M",
+        "Type": "18TB, WD181KFGX 44원/1GB",
+        "Price": "790000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2024.11."
+    },
+    {
+        "Name": "Western Digital WD RED Pro 7200/512M",
+        "Type": "16TB, WD161KFGX 47원/1GB",
+        "Price": "750000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2024.11."
+    },
+    {
+        "Name": "Western Digital WD RED Pro 7200/512M",
+        "Type": "14TB, WD142KFGX 47원/1GB",
+        "Price": "660000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2024.11."
+    },
+    {
+        "Name": "Western Digital WD RED Pro 7200/512M",
+        "Type": "14TB, WD141KFGX 47원/1GB",
+        "Price": "659650",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2024.11."
+    },
+    {
+        "Name": "Western Digital WD RED Pro 7200/512M",
+        "Type": "10TB, WD103KFBX 58원/1GB",
+        "Price": "579700",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2024.11."
+    },
+    {
+        "Name": "Western Digital WD Blue 7200/64M",
+        "Type": "1TB, WD10EZEX ",
+        "Price": "102000",
+        "TypeDetail": "102원/1GB",
+        "Spec": "",
+        "ExtraInfo": "2012.06."
+    },
+    {
+        "Name": "Western Digital WD Blue 7200/512M",
+        "Type": "12TB, WD120EAGZ 40원/1GB",
+        "Price": "474610",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.05."
+    },
+    {
+        "Name": "Western Digital WD Blue 7200/512M",
+        "Type": "10TB, WD100EAGZ 42원/1GB",
+        "Price": "415500",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.05."
+    },
+    {
+        "Name": "Seagate Exos X18 SAS/7200/256M",
+        "Type": "18TB, ST18000NM004J 37원/1GB",
+        "Price": "659000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2020.11."
+    },
+    {
+        "Name": "Seagate Exos X18 SAS/7200/256M",
+        "Type": "16TB, ST16000NM004J 28원/1GB",
+        "Price": "500000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2020.11."
+    },
+    {
+        "Name": "Seagate Exos X18 SAS/7200/256M",
+        "Type": "14TB, ST14000NM004J 41원/1GB",
+        "Price": "579000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2020.11."
+    },
+    {
+        "Name": "Seagate Exos X18 SAS/7200/256M",
+        "Type": "12TB, ST12000NM004J 47원/1GB",
+        "Price": "569000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2020.11."
+    },
+    {
+        "Name": "Western Digital WD Purple 5400/64M",
+        "Type": "6TB, WD60PURZ 56원/1GB",
+        "Price": "336000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2018.03."
+    },
+    {
+        "Name": "Western Digital WD Purple 5400/64M",
+        "Type": "4TB, WD40PURZ 47원/1GB",
+        "Price": "188990",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2018.03."
+    },
+    {
+        "Name": "Western Digital WD Purple 5400/64M",
+        "Type": "3TB, WD30PURZ 58원/1GB",
+        "Price": "175000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2018.03."
+    },
+    {
+        "Name": "Western Digital WD Purple 5400/64M",
+        "Type": "2TB, WD20PURZ 75원/1GB",
+        "Price": "150000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2018.03."
+    },
+    {
+        "Name": "Western Digital WD Purple 5400/64M",
+        "Type": "2TB, WD23PURZ 75원/1GB",
+        "Price": "150990",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2018.03."
+    },
+    {
+        "Name": "Western Digital WD Purple 5400/64M",
+        "Type": "1TB, WD10PURZ 108원/1GB",
+        "Price": "108000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2018.03."
+    },
+    {
+        "Name": "Western Digital WD Purple 5400/64M",
+        "Type": "1TB, WD11PURZ 129원/1GB",
+        "Price": "129000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2018.03."
+    },
+    {
+        "Name": "Western Digital WD Blue 5640/256M/해외구매",
+        "Type": "8TB, WD80EAAZ ",
+        "Price": "236690",
+        "TypeDetail": "30원/1GB",
+        "Spec": "",
+        "ExtraInfo": "2024.03."
+    },
+    {
+        "Name": "도시바 DT01 7200/64M",
+        "Type": "3TB, DT01ACA300 49원/1GB",
+        "Price": "148260",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2012.09."
+    },
+    {
+        "Name": "도시바 DT01 7200/64M",
+        "Type": "2TB, DT01ACA200 61원/1GB",
+        "Price": "121790",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2012.09."
+    },
+    {
+        "Name": "도시바 DT01 7200/64M",
+        "Type": "500GB, DT01ACA050 190원/1GB",
+        "Price": "95000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2012.09."
+    },
+    {
+        "Name": "Western Digital Ultrastar DC HC520 박스 패키지 7200/256M HUH721212ALE600",
+        "Type": "4x12TB 37원/1GB",
+        "Price": "1760000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2019.04."
+    },
+    {
+        "Name": "Western Digital Ultrastar DC HC520 박스 패키지 7200/256M HUH721212ALE600",
+        "Type": "2x12TB 46원/1GB",
+        "Price": "1110000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2019.04."
+    },
+    {
+        "Name": "Western Digital Ultrastar DC HC520 박스 패키지 7200/256M HUH721212ALE600",
+        "Type": "12TB 47원/1GB",
+        "Price": "559000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2019.04."
+    },
+    {
+        "Name": "Western Digital Ultrastar DC HC550 박스 패키지 7200/512M WUH721816ALE6L4",
+        "Type": "4x16TB 38원/1GB",
+        "Price": "2440000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2020.08."
+    },
+    {
+        "Name": "Western Digital Ultrastar DC HC550 박스 패키지 7200/512M WUH721816ALE6L4",
+        "Type": "2x16TB 38원/1GB",
+        "Price": "1230000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2020.08."
+    },
+    {
+        "Name": "Western Digital Ultrastar DC HC550 박스 패키지 7200/512M WUH721816ALE6L4",
+        "Type": "16TB 39원/1GB",
+        "Price": "619000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2020.08."
+    },
+    {
+        "Name": "Western Digital WD RED Plus 5400/128M",
+        "Type": "4TB, WD40EFZX 46원/1GB",
+        "Price": "185000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2021.03."
+    },
+    {
+        "Name": "Western Digital WD RED Plus 5400/128M",
+        "Type": "3TB, WD30EFZX 63원/1GB",
+        "Price": "190000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2021.03."
+    },
+    {
+        "Name": "Western Digital WD RED Plus 5400/128M",
+        "Type": "2TB, WD20EFZX 78원/1GB",
+        "Price": "155000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2021.03."
+    },
+    {
+        "Name": "Western Digital Ultrastar DC HC310 7200/256M",
+        "Type": "6TB, HUS726T6TALE6L4 50원/1GB",
+        "Price": "299000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2019.02."
+    },
+    {
+        "Name": "Western Digital Ultrastar DC HC310 7200/256M",
+        "Type": "4TB, HUS726T4TALA6L4 65원/1GB",
+        "Price": "259000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2019.02."
+    },
+    {
+        "Name": "Seagate BarraCuda 7200/256M",
+        "Type": "2TB, ST2000DM008 58원/1GB",
+        "Price": "115000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2018.10."
+    },
+    {
+        "Name": "Seagate BarraCuda 7200/256M",
+        "Type": "1TB, ST1000DM014 105원/1GB",
+        "Price": "104870",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2018.10."
+    },
+    {
+        "Name": "Seagate IronWolf Pro 7200/512M",
+        "Type": "30TB, ST30000NT011 42원/1GB",
+        "Price": "1245880",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2024.02."
+    },
+    {
+        "Name": "Seagate IronWolf Pro 7200/512M",
+        "Type": "28TB, ST28000NT000 41원/1GB",
+        "Price": "1148980",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2024.02."
+    },
+    {
+        "Name": "Seagate IronWolf Pro 7200/512M",
+        "Type": "24TB, ST24000NT002 41원/1GB",
+        "Price": "983880",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2024.02."
+    },
+    {
+        "Name": "Seagate IronWolf Pro 7200/512M",
+        "Type": "22TB, ST22000NT001 46원/1GB",
+        "Price": "915000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2024.02."
+    },
+    {
+        "Name": "Seagate BarraCuda 5400/256M",
+        "Type": "8TB, ST8000DM004 39원/1GB",
+        "Price": "309120",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2017.11."
+    },
+    {
+        "Name": "Seagate BarraCuda 5400/256M",
+        "Type": "6TB, ST6000DM003 41원/1GB",
+        "Price": "248970",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2017.11."
+    },
+    {
+        "Name": "Seagate BarraCuda 5400/256M",
+        "Type": "4TB, ST4000DM004 43원/1GB",
+        "Price": "172470",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2017.11."
+    },
+    {
+        "Name": "Seagate BarraCuda 5400/256M",
+        "Type": "3TB, ST3000DM007 53원/1GB",
+        "Price": "158990",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2017.11."
+    },
+    {
+        "Name": "Seagate BarraCuda 7200/512M",
+        "Type": "24TB, ST24000DM001 29원/1GB",
+        "Price": "698990",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.03."
+    },
+    {
+        "Name": "Seagate BarraCuda 7200/512M",
+        "Type": "20TB, ST20000DM001 30원/1GB",
+        "Price": "601480",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.03."
+    },
+    {
+        "Name": "Seagate BarraCuda 7200/512M",
+        "Type": "16TB, ST16000DM001 32원/1GB",
+        "Price": "516490",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.03."
+    },
+    {
+        "Name": "Western Digital WD Blue 5400/256M",
+        "Type": "6TB, WD60EZAX 41원/1GB",
+        "Price": "248990",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2023.05."
+    },
+    {
+        "Name": "Western Digital WD Blue 5400/256M",
+        "Type": "4TB, WD40EZAX 43원/1GB",
+        "Price": "170420",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2023.05."
+    },
+    {
+        "Name": "Western Digital WD Blue 5400/256M",
+        "Type": "3TB, WD30EZAX 56원/1GB",
+        "Price": "168420",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2023.05."
+    },
+    {
+        "Name": "Western Digital WD RED Plus 5400/256M",
+        "Type": "6TB, WD60EFPX 48원/1GB",
+        "Price": "285000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2023.04."
+    },
+    {
+        "Name": "Western Digital WD RED Plus 5400/256M",
+        "Type": "4TB, WD40EFPX 46원/1GB",
+        "Price": "185000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2023.04."
+    },
+    {
+        "Name": "Seagate IronWolf 5400/256M",
+        "Type": "8TB, ST8000VN002 44원/1GB",
+        "Price": "352430",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2022.12."
+    },
+    {
+        "Name": "Seagate IronWolf 5400/256M",
+        "Type": "6TB, ST6000VN001 48원/1GB",
+        "Price": "289000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2022.12."
+    },
+    {
+        "Name": "Seagate IronWolf 5400/256M",
+        "Type": "6TB, ST6000VN006 53원/1GB",
+        "Price": "317730",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2022.12."
+    },
+    {
+        "Name": "Seagate IronWolf 5400/256M",
+        "Type": "4TB, ST4000VN006 47원/1GB",
+        "Price": "186060",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2022.12."
+    },
+    {
+        "Name": "Seagate IronWolf 5400/256M",
+        "Type": "2TB, ST2000VN003 79원/1GB",
+        "Price": "158360",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2022.12."
+    },
+    {
+        "Name": "Seagate IronWolf 5400/256M",
+        "Type": "1TB, ST1000VN008 129원/1GB",
+        "Price": "128990",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2022.12."
+    },
+    {
+        "Name": "Western Digital WD Blue 7200/256M",
+        "Type": "2TB, WD20EZBX ",
+        "Price": "119000",
+        "TypeDetail": "60원/1GB",
+        "Spec": "",
+        "ExtraInfo": "2021.03."
+    },
+    {
+        "Name": "Western Digital WD Blue 5640/256M",
+        "Type": "8TB, WD80EAAZ ",
+        "Price": "308870",
+        "TypeDetail": "39원/1GB",
+        "Spec": "",
+        "ExtraInfo": "2024.03."
+    },
+    {
+        "Name": "Seagate IronWolf 7200/256M",
+        "Type": "16TB, ST16000VN001 42원/1GB",
+        "Price": "668980",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2019.08."
+    },
+    {
+        "Name": "Seagate IronWolf 7200/256M",
+        "Type": "12TB, ST12000VN0008 45원/1GB",
+        "Price": "540540",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2019.08."
+    },
+    {
+        "Name": "Seagate IronWolf 7200/256M",
+        "Type": "12TB, ST12000VN0007 47원/1GB",
+        "Price": "559000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2019.08."
+    },
+    {
+        "Name": "Seagate IronWolf 7200/256M",
+        "Type": "10TB, ST10000VN000 45원/1GB",
+        "Price": "449070",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2019.08."
+    },
+    {
+        "Name": "Seagate IronWolf 7200/256M",
+        "Type": "10TB, ST10000VN0008 49원/1GB",
+        "Price": "489000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2019.08."
+    },
+    {
+        "Name": "Seagate IronWolf 7200/256M",
+        "Type": "10TB, ST10000VN0004 50원/1GB",
+        "Price": "499000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2019.08."
+    },
+    {
+        "Name": "Seagate IronWolf 7200/256M",
+        "Type": "8TB, ST8000VN004 48원/1GB",
+        "Price": "383990",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2019.08."
+    },
+    {
+        "Name": "Seagate IronWolf 7200/256M",
+        "Type": "6TB, ST6000VN0033 55원/1GB",
+        "Price": "328990",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2019.08."
+    },
+    {
+        "Name": "Seagate IronWolf 7200/256M/해외구매",
+        "Type": "18TB, ST18000VN000 59원/1GB",
+        "Price": "1054190",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2024.05."
+    },
+    {
+        "Name": "Seagate IronWolf 7200/256M/해외구매",
+        "Type": "16TB, ST16000VN001 24원/1GB",
+        "Price": "388170",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2024.05."
+    },
+    {
+        "Name": "Seagate IronWolf 7200/256M/해외구매",
+        "Type": "14TB, ST14000VN0008 23원/1GB",
+        "Price": "327060",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2024.05."
+    },
+    {
+        "Name": "Seagate IronWolf 7200/256M/해외구매",
+        "Type": "12TB, ST12000VN0008 22원/1GB",
+        "Price": "265400",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2024.05."
+    },
+    {
+        "Name": "Seagate IronWolf 7200/256M/해외구매",
+        "Type": "10TB, ST10000VN000 48원/1GB",
+        "Price": "483100",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2024.05."
+    },
+    {
+        "Name": "Seagate IronWolf 7200/256M/해외구매",
+        "Type": "10TB, ST10000VN0004 31원/1GB",
+        "Price": "311510",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2024.05."
+    },
+    {
+        "Name": "Seagate IronWolf 7200/256M/해외구매",
+        "Type": "10TB, ST10000VN0008 25원/1GB",
+        "Price": "251460",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2024.05."
+    },
+    {
+        "Name": "Seagate IronWolf 7200/256M/해외구매",
+        "Type": "8TB, ST8000VN0022 33원/1GB",
+        "Price": "262280",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2024.05."
+    },
+    {
+        "Name": "Seagate IronWolf 7200/256M/해외구매",
+        "Type": "8TB, ST8000VN004 33원/1GB",
+        "Price": "261600",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2024.05."
+    },
+    {
+        "Name": "Seagate IronWolf 7200/256M/해외구매",
+        "Type": "6TB, ST6000VN0033 40원/1GB",
+        "Price": "239300",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2024.05."
+    },
+    {
+        "Name": "Western Digital WD MOBILE Blue 5400/128M/노트북용",
+        "Type": "2TB, WD20SPZX 64원/1GB",
+        "Price": "127000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2018.02."
+    },
+    {
+        "Name": "Western Digital WD MOBILE Blue 5400/128M/노트북용",
+        "Type": "1TB, WD10SPZX 94원/1GB",
+        "Price": "94000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2018.02."
+    },
+    {
+        "Name": "Western Digital WD MOBILE Blue 5400/128M/노트북용",
+        "Type": "500GB, WD5000LPZX 178원/1GB",
+        "Price": "89000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2018.02."
+    },
+    {
+        "Name": "Seagate BarraCuda 5400/256M/해외구매",
+        "Type": "8TB, ST8000DM004 26원/1GB",
+        "Price": "209950",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2019.10."
+    },
+    {
+        "Name": "Seagate BarraCuda 5400/256M/해외구매",
+        "Type": "6TB, ST6000DM003 28원/1GB",
+        "Price": "167060",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2019.10."
+    },
+    {
+        "Name": "Seagate BarraCuda 5400/256M/해외구매",
+        "Type": "4TB, ST4000DM004 32원/1GB",
+        "Price": "128600",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2019.10."
+    },
+    {
+        "Name": "Seagate BarraCuda 5400/256M/해외구매",
+        "Type": "3TB, ST3000DM007 32원/1GB",
+        "Price": "97290",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2019.10."
+    },
+    {
+        "Name": "Seagate BarraCuda 5400/256M/해외구매",
+        "Type": "2TB, ST2000DM005 47원/1GB",
+        "Price": "93500",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2019.10."
+    },
+    {
+        "Name": "Seagate SkyHawk 5400/256M",
+        "Type": "8TB, ST8000VX010 49원/1GB",
+        "Price": "388000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2022.12."
+    },
+    {
+        "Name": "Seagate SkyHawk 5400/256M",
+        "Type": "6TB, ST6000VX001 48원/1GB",
+        "Price": "289000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2022.12."
+    },
+    {
+        "Name": "Seagate SkyHawk 5400/256M",
+        "Type": "6TB, ST6000VX009 48원/1GB",
+        "Price": "285790",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2022.12."
+    },
+    {
+        "Name": "Seagate SkyHawk 5400/256M",
+        "Type": "4TB, ST4000VX016 50원/1GB",
+        "Price": "198000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2022.12."
+    },
+    {
+        "Name": "Seagate SkyHawk 5400/256M",
+        "Type": "3TB, ST3000VX015 46원/1GB",
+        "Price": "139000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2022.12."
+    },
+    {
+        "Name": "Seagate SkyHawk 5400/256M",
+        "Type": "2TB, ST2000VX015 80원/1GB",
+        "Price": "159000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2022.12."
+    },
+    {
+        "Name": "Seagate SkyHawk 5400/256M",
+        "Type": "2TB, ST2000VX017 69원/1GB",
+        "Price": "138000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2022.12."
+    },
+    {
+        "Name": "Seagate SkyHawk 5400/256M",
+        "Type": "1TB, ST1000VX013 118원/1GB",
+        "Price": "118000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2022.12."
+    },
+    {
+        "Name": "Western Digital WD Caviar Blue 7200/64M/리퍼비시",
+        "Type": "1TB, WD10EZEX ",
+        "Price": "70990",
+        "TypeDetail": "71원/1GB",
+        "Spec": "",
+        "ExtraInfo": "2013.02."
+    },
+    {
+        "Name": "Seagate Exos M 7200/512M",
+        "Type": "30TB, ST30000NM004K 40원/1GB",
+        "Price": "1199000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.07."
+    },
+    {
+        "Name": "Seagate Exos M 7200/512M",
+        "Type": "28TB, ST28000NM003K 39원/1GB",
+        "Price": "1099000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.07."
+    },
+    {
+        "Name": "도시바 X300 Refresh 7200/512M",
+        "Type": "10TB, HDWR71A 43원/1TB",
+        "Price": "433780",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2024.11."
+    },
+    {
+        "Name": "도시바 X300 Refresh 7200/512M",
+        "Type": "8TB, HDWR780 43원/1TB",
+        "Price": "345000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2024.11."
+    },
+    {
+        "Name": "도시바 X300 Refresh 7200/512M",
+        "Type": "6TB, HDWR760 46원/1TB",
+        "Price": "275000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2024.11."
+    },
+    {
+        "Name": "도시바 X300 Refresh 7200/512M",
+        "Type": "4TB, HDWR740 49원/1TB",
+        "Price": "195000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2024.11."
+    },
+    {
+        "Name": "Seagate BarraCuda Pro 7200/128M/노트북용",
+        "Type": "1TB, ST1000LM049 119원/1GB",
+        "Price": "119000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2018.05."
+    },
+    {
+        "Name": "Seagate BarraCuda Pro 7200/128M/노트북용",
+        "Type": "500GB, ST500LM034 180원/1GB",
+        "Price": "89990",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2018.05."
+    },
+    {
+        "Name": "Western Digital Ultrastar DC HC580 7200/512M",
+        "Type": "24TB, WUH722424ALE6L4 ",
+        "Price": "964190",
+        "TypeDetail": "40원/1GB",
+        "Spec": "",
+        "ExtraInfo": "2024.03."
+    },
+    {
+        "Name": "Western Digital WD RED Pro 7200/512M",
+        "Type": "26TB, WD260KFGX 52원/1GB",
+        "Price": "1359180",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2024.11."
+    },
+    {
+        "Name": "Western Digital WD RED Pro 7200/512M",
+        "Type": "24TB, WD240KFGX 52원/1GB",
+        "Price": "1250000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2024.11."
+    },
+    {
+        "Name": "Western Digital WD RED Pro 7200/512M",
+        "Type": "22TB, WD221KFGX 42원/1GB",
+        "Price": "915000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2024.11."
+    },
+    {
+        "Name": "Western Digital WD RED Pro 7200/512M",
+        "Type": "20TB, WD202KFGX 45원/1GB",
+        "Price": "896340",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2024.11."
+    },
+    {
+        "Name": "Western Digital WD RED Pro 7200/512M",
+        "Type": "20TB, WD201KFGX 46원/1GB",
+        "Price": "910490",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2024.11."
+    },
+    {
+        "Name": "Western Digital WD RED Pro 7200/512M",
+        "Type": "18TB, WD181KFGX 44원/1GB",
+        "Price": "790000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2024.11."
+    },
+    {
+        "Name": "Western Digital WD RED Pro 7200/512M",
+        "Type": "16TB, WD161KFGX 47원/1GB",
+        "Price": "750000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2024.11."
+    },
+    {
+        "Name": "Western Digital WD RED Pro 7200/512M",
+        "Type": "14TB, WD142KFGX 47원/1GB",
+        "Price": "660000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2024.11."
+    },
+    {
+        "Name": "Western Digital WD RED Pro 7200/512M",
+        "Type": "14TB, WD141KFGX 47원/1GB",
+        "Price": "659650",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2024.11."
+    },
+    {
+        "Name": "Western Digital WD RED Pro 7200/512M",
+        "Type": "10TB, WD103KFBX 58원/1GB",
+        "Price": "579700",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2024.11."
+    },
+    {
+        "Name": "Western Digital WD Blue 7200/64M",
+        "Type": "1TB, WD10EZEX ",
+        "Price": "102000",
+        "TypeDetail": "102원/1GB",
+        "Spec": "",
+        "ExtraInfo": "2012.06."
+    },
+    {
+        "Name": "Western Digital WD Blue 7200/512M",
+        "Type": "12TB, WD120EAGZ 40원/1GB",
+        "Price": "474610",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.05."
+    },
+    {
+        "Name": "Western Digital WD Blue 7200/512M",
+        "Type": "10TB, WD100EAGZ 42원/1GB",
+        "Price": "415500",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.05."
+    },
+    {
+        "Name": "Seagate Exos X18 SAS/7200/256M",
+        "Type": "18TB, ST18000NM004J 37원/1GB",
+        "Price": "659000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2020.11."
+    },
+    {
+        "Name": "Seagate Exos X18 SAS/7200/256M",
+        "Type": "16TB, ST16000NM004J 28원/1GB",
+        "Price": "500000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2020.11."
+    },
+    {
+        "Name": "Seagate Exos X18 SAS/7200/256M",
+        "Type": "14TB, ST14000NM004J 41원/1GB",
+        "Price": "579000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2020.11."
+    },
+    {
+        "Name": "Seagate Exos X18 SAS/7200/256M",
+        "Type": "12TB, ST12000NM004J 47원/1GB",
+        "Price": "569000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2020.11."
+    },
+    {
+        "Name": "Western Digital WD Purple 5400/64M",
+        "Type": "6TB, WD60PURZ 56원/1GB",
+        "Price": "336000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2018.03."
+    },
+    {
+        "Name": "Western Digital WD Purple 5400/64M",
+        "Type": "4TB, WD40PURZ 47원/1GB",
+        "Price": "188990",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2018.03."
+    },
+    {
+        "Name": "Western Digital WD Purple 5400/64M",
+        "Type": "3TB, WD30PURZ 58원/1GB",
+        "Price": "175000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2018.03."
+    },
+    {
+        "Name": "Western Digital WD Purple 5400/64M",
+        "Type": "2TB, WD20PURZ 75원/1GB",
+        "Price": "150000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2018.03."
+    },
+    {
+        "Name": "Western Digital WD Purple 5400/64M",
+        "Type": "2TB, WD23PURZ 75원/1GB",
+        "Price": "150990",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2018.03."
+    },
+    {
+        "Name": "Western Digital WD Purple 5400/64M",
+        "Type": "1TB, WD10PURZ 108원/1GB",
+        "Price": "108000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2018.03."
+    },
+    {
+        "Name": "Western Digital WD Purple 5400/64M",
+        "Type": "1TB, WD11PURZ 129원/1GB",
+        "Price": "129000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2018.03."
+    },
+    {
+        "Name": "Western Digital WD Blue 5640/256M/해외구매",
+        "Type": "8TB, WD80EAAZ ",
+        "Price": "236690",
+        "TypeDetail": "30원/1GB",
+        "Spec": "",
+        "ExtraInfo": "2024.03."
+    },
+    {
+        "Name": "도시바 DT01 7200/64M",
+        "Type": "3TB, DT01ACA300 49원/1GB",
+        "Price": "148260",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2012.09."
+    },
+    {
+        "Name": "도시바 DT01 7200/64M",
+        "Type": "2TB, DT01ACA200 61원/1GB",
+        "Price": "121790",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2012.09."
+    },
+    {
+        "Name": "도시바 DT01 7200/64M",
+        "Type": "500GB, DT01ACA050 190원/1GB",
+        "Price": "95000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2012.09."
+    },
+    {
+        "Name": "Western Digital Ultrastar DC HC520 박스 패키지 7200/256M HUH721212ALE600",
+        "Type": "4x12TB 37원/1GB",
+        "Price": "1760000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2019.04."
+    },
+    {
+        "Name": "Western Digital Ultrastar DC HC520 박스 패키지 7200/256M HUH721212ALE600",
+        "Type": "2x12TB 46원/1GB",
+        "Price": "1110000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2019.04."
+    },
+    {
+        "Name": "Western Digital Ultrastar DC HC520 박스 패키지 7200/256M HUH721212ALE600",
+        "Type": "12TB 47원/1GB",
+        "Price": "559000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2019.04."
+    },
+    {
+        "Name": "Western Digital Ultrastar DC HC550 박스 패키지 7200/512M WUH721816ALE6L4",
+        "Type": "4x16TB 38원/1GB",
+        "Price": "2440000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2020.08."
+    },
+    {
+        "Name": "Western Digital Ultrastar DC HC550 박스 패키지 7200/512M WUH721816ALE6L4",
+        "Type": "2x16TB 38원/1GB",
+        "Price": "1230000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2020.08."
+    },
+    {
+        "Name": "Western Digital Ultrastar DC HC550 박스 패키지 7200/512M WUH721816ALE6L4",
+        "Type": "16TB 39원/1GB",
+        "Price": "619000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2020.08."
+    },
+    {
+        "Name": "Western Digital WD RED Plus 5400/128M",
+        "Type": "4TB, WD40EFZX 46원/1GB",
+        "Price": "185000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2021.03."
+    },
+    {
+        "Name": "Western Digital WD RED Plus 5400/128M",
+        "Type": "3TB, WD30EFZX 63원/1GB",
+        "Price": "190000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2021.03."
+    },
+    {
+        "Name": "Western Digital WD RED Plus 5400/128M",
+        "Type": "2TB, WD20EFZX 78원/1GB",
+        "Price": "155000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2021.03."
+    },
+    {
+        "Name": "Western Digital Ultrastar DC HC310 7200/256M",
+        "Type": "6TB, HUS726T6TALE6L4 50원/1GB",
+        "Price": "299000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2019.02."
+    },
+    {
+        "Name": "Western Digital Ultrastar DC HC310 7200/256M",
+        "Type": "4TB, HUS726T4TALA6L4 65원/1GB",
+        "Price": "259000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2019.02."
+    }
+]

@@ -1,0 +1,3882 @@
+[
+    {
+        "Name": "삼성전자 포터블 SSD T7",
+        "Type": "4TB 131원/1GB",
+        "Price": "524380",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2020.05."
+    },
+    {
+        "Name": "삼성전자 포터블 SSD T7",
+        "Type": "2TB 143원/1GB",
+        "Price": "285930",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2020.05."
+    },
+    {
+        "Name": "삼성전자 포터블 SSD T7",
+        "Type": "1TB 177원/1GB",
+        "Price": "176990",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2020.05."
+    },
+    {
+        "Name": "삼성전자 포터블 SSD T7",
+        "Type": "500GB 330원/1GB",
+        "Price": "165000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2020.05."
+    },
+    {
+        "Name": "SK하이닉스 Beetle X31 Portable SSD",
+        "Type": "2TB 126원/1GB",
+        "Price": "251000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2023.05."
+    },
+    {
+        "Name": "SK하이닉스 Beetle X31 Portable SSD",
+        "Type": "1TB 154원/1GB",
+        "Price": "154000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2023.05."
+    },
+    {
+        "Name": "SK하이닉스 Tube T31 Stick SSD",
+        "Type": "2TB 120원/1GB",
+        "Price": "239000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2023.12."
+    },
+    {
+        "Name": "SK하이닉스 Tube T31 Stick SSD",
+        "Type": "1TB 150원/1GB",
+        "Price": "150000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2023.12."
+    },
+    {
+        "Name": "Sandisk Extreme Portable SSD V2 E61",
+        "Type": "8TB 132원/1GB",
+        "Price": "1057110",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2020.12."
+    },
+    {
+        "Name": "Sandisk Extreme Portable SSD V2 E61",
+        "Type": "4TB 124원/1GB",
+        "Price": "497990",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2020.12."
+    },
+    {
+        "Name": "Sandisk Extreme Portable SSD V2 E61",
+        "Type": "2TB 140원/1GB",
+        "Price": "279890",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2020.12."
+    },
+    {
+        "Name": "Sandisk Extreme Portable SSD V2 E61",
+        "Type": "1TB 180원/1GB",
+        "Price": "179890",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2020.12."
+    },
+    {
+        "Name": "Sandisk Extreme Portable SSD V2 E61",
+        "Type": "500GB 330원/1GB",
+        "Price": "165100",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2020.12."
+    },
+    {
+        "Name": "삼성전자 포터블 SSD T9",
+        "Type": "4TB 164원/1GB",
+        "Price": "654000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2023.10."
+    },
+    {
+        "Name": "삼성전자 포터블 SSD T9",
+        "Type": "2TB 182원/1GB",
+        "Price": "363850",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2023.10."
+    },
+    {
+        "Name": "삼성전자 포터블 SSD T9",
+        "Type": "1TB 224원/1GB",
+        "Price": "223890",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2023.10."
+    },
+    {
+        "Name": "CORSAIR EX400U",
+        "Type": "4TB 173원/1GB",
+        "Price": "690000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.01."
+    },
+    {
+        "Name": "CORSAIR EX400U",
+        "Type": "2TB 190원/1GB",
+        "Price": "380000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.01."
+    },
+    {
+        "Name": "CORSAIR EX400U",
+        "Type": "1TB 230원/1GB",
+        "Price": "230000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.01."
+    },
+    {
+        "Name": "마이크론 Crucial X9 Pro Portable SSD 대원씨티에스",
+        "Type": "4TB 122원/1GB",
+        "Price": "489000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2023.08."
+    },
+    {
+        "Name": "마이크론 Crucial X9 Pro Portable SSD 대원씨티에스",
+        "Type": "2TB 139원/1GB",
+        "Price": "278570",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2023.08."
+    },
+    {
+        "Name": "마이크론 Crucial X9 Pro Portable SSD 대원씨티에스",
+        "Type": "1TB 182원/1GB",
+        "Price": "182000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2023.08."
+    },
+    {
+        "Name": "Seagate Ultra Compact SSD",
+        "Type": "2TB 160원/1GB",
+        "Price": "319000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.03."
+    },
+    {
+        "Name": "Seagate Ultra Compact SSD",
+        "Type": "1TB 227원/1GB",
+        "Price": "226800",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.03."
+    },
+    {
+        "Name": "마이크론 Crucial X9 Portable SSD 대원씨티에스",
+        "Type": "4TB 131원/1GB",
+        "Price": "525900",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2023.10."
+    },
+    {
+        "Name": "마이크론 Crucial X9 Portable SSD 대원씨티에스",
+        "Type": "2TB 147원/1GB",
+        "Price": "294010",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2023.10."
+    },
+    {
+        "Name": "마이크론 Crucial X9 Portable SSD 대원씨티에스",
+        "Type": "1TB 176원/1GB",
+        "Price": "176000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2023.10."
+    },
+    {
+        "Name": "삼성전자 포터블 SSD T7 Shield",
+        "Type": "4TB 155원/1GB",
+        "Price": "619000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2023.02."
+    },
+    {
+        "Name": "삼성전자 포터블 SSD T7 Shield",
+        "Type": "2TB 190원/1GB",
+        "Price": "380000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2023.02."
+    },
+    {
+        "Name": "삼성전자 포터블 SSD T7 Shield",
+        "Type": "1TB 216원/1GB",
+        "Price": "215600",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2023.02."
+    },
+    {
+        "Name": "LaCie Rugged SSD Pro5",
+        "Type": "2TB ",
+        "Price": "729000",
+        "TypeDetail": "365원/1GB",
+        "Spec": "",
+        "ExtraInfo": "2025.02."
+    },
+    {
+        "Name": "LaCie Rugged Mini SSD",
+        "Type": "4TB 212원/1GB",
+        "Price": "849000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2024.10."
+    },
+    {
+        "Name": "LaCie Rugged Mini SSD",
+        "Type": "2TB 225원/1GB",
+        "Price": "449000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2024.10."
+    },
+    {
+        "Name": "LaCie Rugged Mini SSD",
+        "Type": "1TB 279원/1GB",
+        "Price": "279000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2024.10."
+    },
+    {
+        "Name": "LaCie Rugged Mini SSD",
+        "Type": "500GB 358원/1GB",
+        "Price": "179000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2024.10."
+    },
+    {
+        "Name": "CORSAIR EX400U SURVIVOR",
+        "Type": "4TB 186원/1GB",
+        "Price": "745000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.10."
+    },
+    {
+        "Name": "CORSAIR EX400U SURVIVOR",
+        "Type": "2TB 218원/1GB",
+        "Price": "435000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.10."
+    },
+    {
+        "Name": "CORSAIR EX400U SURVIVOR",
+        "Type": "1TB 255원/1GB",
+        "Price": "255000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.10."
+    },
+    {
+        "Name": "CORSAIR EX300U",
+        "Type": "4TB 139원/1GB",
+        "Price": "555000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.10."
+    },
+    {
+        "Name": "CORSAIR EX300U",
+        "Type": "2TB 148원/1GB",
+        "Price": "295000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.10."
+    },
+    {
+        "Name": "CORSAIR EX300U",
+        "Type": "1TB 175원/1GB",
+        "Price": "175000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.10."
+    },
+    {
+        "Name": "Seagate Fast One Touch SSD 데이터복구",
+        "Type": "2TB 150원/1GB",
+        "Price": "299000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2021.05."
+    },
+    {
+        "Name": "Seagate Fast One Touch SSD 데이터복구",
+        "Type": "1TB 167원/1GB",
+        "Price": "167340",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2021.05."
+    },
+    {
+        "Name": "Seagate Fast One Touch SSD 데이터복구",
+        "Type": "500GB 278원/1GB",
+        "Price": "139000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2021.05."
+    },
+    {
+        "Name": "EFM ipTIME SSD101M2 외장SSD",
+        "Type": "2TB 109원/1GB",
+        "Price": "218930",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.08."
+    },
+    {
+        "Name": "EFM ipTIME SSD101M2 외장SSD",
+        "Type": "1TB 144원/1GB",
+        "Price": "144440",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.08."
+    },
+    {
+        "Name": "EFM ipTIME SSD101M2 외장SSD",
+        "Type": "512GB 187원/1GB",
+        "Price": "95940",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.08."
+    },
+    {
+        "Name": "EFM ipTIME SSD101M2 외장SSD",
+        "Type": "256GB 211원/1GB",
+        "Price": "53940",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.08."
+    },
+    {
+        "Name": "EFM ipTIME SSD101M2 외장SSD",
+        "Type": "128GB 289원/1GB",
+        "Price": "37010",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.08."
+    },
+    {
+        "Name": "이메이션 PORTABLE SSD i9",
+        "Type": "4TB 99원/1GB",
+        "Price": "396730",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2022.10."
+    },
+    {
+        "Name": "이메이션 PORTABLE SSD i9",
+        "Type": "2TB 97원/1GB",
+        "Price": "193030",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2022.10."
+    },
+    {
+        "Name": "이메이션 PORTABLE SSD i9",
+        "Type": "1TB 99원/1GB",
+        "Price": "99000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2022.10."
+    },
+    {
+        "Name": "이메이션 PORTABLE SSD i9",
+        "Type": "500GB 141원/1GB",
+        "Price": "70700",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2022.10."
+    },
+    {
+        "Name": "Seagate FireCuda Gaming SSD 데이터복구",
+        "Type": "2TB 140원/1GB",
+        "Price": "279000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2020.06."
+    },
+    {
+        "Name": "Seagate FireCuda Gaming SSD 데이터복구",
+        "Type": "1TB 201원/1GB",
+        "Price": "201040",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2020.06."
+    },
+    {
+        "Name": "Seagate FireCuda Gaming SSD 데이터복구",
+        "Type": "500GB 218원/1GB",
+        "Price": "109000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2020.06."
+    },
+    {
+        "Name": "CORSAIR EX100U Portable SSD Type C",
+        "Type": "4TB 135원/1GB",
+        "Price": "538580",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2022.10."
+    },
+    {
+        "Name": "CORSAIR EX100U Portable SSD Type C",
+        "Type": "2TB 139원/1GB",
+        "Price": "277270",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2022.10."
+    },
+    {
+        "Name": "CORSAIR EX100U Portable SSD Type C",
+        "Type": "1TB 164원/1GB",
+        "Price": "164100",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2022.10."
+    },
+    {
+        "Name": "LaCie Rugged Pro Thunderbolt 3 SSD",
+        "Type": "4TB 250원/1GB",
+        "Price": "999000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2020.01."
+    },
+    {
+        "Name": "LaCie Rugged Pro Thunderbolt 3 SSD",
+        "Type": "2TB 275원/1GB",
+        "Price": "549000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2020.01."
+    },
+    {
+        "Name": "LaCie Rugged Pro Thunderbolt 3 SSD",
+        "Type": "1TB 339원/1GB",
+        "Price": "339150",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2020.01."
+    },
+    {
+        "Name": "Western Digital WD NEW My Passport NVMe SSD",
+        "Type": "4TB 158원/1GB",
+        "Price": "631730",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2020.10."
+    },
+    {
+        "Name": "Western Digital WD NEW My Passport NVMe SSD",
+        "Type": "2TB 135원/1GB",
+        "Price": "269000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2020.10."
+    },
+    {
+        "Name": "Western Digital WD NEW My Passport NVMe SSD",
+        "Type": "1TB 152원/1GB",
+        "Price": "151990",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2020.10."
+    },
+    {
+        "Name": "Western Digital WD NEW My Passport NVMe SSD",
+        "Type": "500GB 408원/1GB",
+        "Price": "204090",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2020.10."
+    },
+    {
+        "Name": "삼성전자 포터블 SSD T5 EVO",
+        "Type": "8TB 178원/1GB",
+        "Price": "1423470",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2023.12."
+    },
+    {
+        "Name": "삼성전자 포터블 SSD T5 EVO",
+        "Type": "4TB 134원/1GB",
+        "Price": "535480",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2023.12."
+    },
+    {
+        "Name": "삼성전자 포터블 SSD T5 EVO",
+        "Type": "2TB 150원/1GB",
+        "Price": "299990",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2023.12."
+    },
+    {
+        "Name": "Western Digital WD Black P40 Game Drive",
+        "Type": "2TB 150원/1GB",
+        "Price": "299000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2022.11."
+    },
+    {
+        "Name": "Western Digital WD Black P40 Game Drive",
+        "Type": "1TB 241원/1GB",
+        "Price": "240600",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2022.11."
+    },
+    {
+        "Name": "Western Digital WD Black P40 Game Drive",
+        "Type": "500GB 454원/1GB",
+        "Price": "226800",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2022.11."
+    },
+    {
+        "Name": "EFM ipTIME HDD 3225plus 외장SSD",
+        "Type": "2TB 89원/1GB",
+        "Price": "177450",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2022.06."
+    },
+    {
+        "Name": "EFM ipTIME HDD 3225plus 외장SSD",
+        "Type": "1TB 105원/1GB",
+        "Price": "104990",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2022.06."
+    },
+    {
+        "Name": "EFM ipTIME HDD 3225plus 외장SSD",
+        "Type": "512GB 154원/1GB",
+        "Price": "78890",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2022.06."
+    },
+    {
+        "Name": "EFM ipTIME HDD 3225plus 외장SSD",
+        "Type": "256GB 195원/1GB",
+        "Price": "49900",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2022.06."
+    },
+    {
+        "Name": "EFM ipTIME HDD 3225plus 외장SSD",
+        "Type": "250GB 211원/1GB",
+        "Price": "52800",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2022.06."
+    },
+    {
+        "Name": "EFM ipTIME HDD 3225plus 외장SSD",
+        "Type": "240GB 246원/1GB",
+        "Price": "59000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2022.06."
+    },
+    {
+        "Name": "EFM ipTIME HDD 3225plus 외장SSD",
+        "Type": "128GB 341원/1GB",
+        "Price": "43620",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2022.06."
+    },
+    {
+        "Name": "EFM ipTIME HDD 3225plus 외장SSD",
+        "Type": "120GB 356원/1GB",
+        "Price": "42710",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2022.06."
+    },
+    {
+        "Name": "마이크론 Crucial X10 Pro Portable SSD 대원씨티에스",
+        "Type": "4TB 216원/1GB",
+        "Price": "865000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2023.08."
+    },
+    {
+        "Name": "마이크론 Crucial X10 Pro Portable SSD 대원씨티에스",
+        "Type": "2TB 152원/1GB",
+        "Price": "303050",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2023.08."
+    },
+    {
+        "Name": "마이크론 Crucial X10 Pro Portable SSD 대원씨티에스",
+        "Type": "1TB 179원/1GB",
+        "Price": "179000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2023.08."
+    },
+    {
+        "Name": "LaCie Portable SSD Rescue",
+        "Type": "2TB 303원/1GB",
+        "Price": "606250",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2018.12."
+    },
+    {
+        "Name": "LaCie Portable SSD Rescue",
+        "Type": "1TB 169원/1GB",
+        "Price": "169000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2018.12."
+    },
+    {
+        "Name": "LaCie Portable SSD Rescue",
+        "Type": "500GB 238원/1GB",
+        "Price": "119000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2018.12."
+    },
+    {
+        "Name": "LaCie Rugged USB 3.1 Type C SSD",
+        "Type": "4TB 184원/1GB",
+        "Price": "737100",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2020.01."
+    },
+    {
+        "Name": "LaCie Rugged USB 3.1 Type C SSD",
+        "Type": "2TB 220원/1GB",
+        "Price": "440640",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2020.01."
+    },
+    {
+        "Name": "LaCie Rugged USB 3.1 Type C SSD",
+        "Type": "1TB 276원/1GB",
+        "Price": "276210",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2020.01."
+    },
+    {
+        "Name": "LaCie Rugged USB 3.1 Type C SSD",
+        "Type": "500GB 398원/1GB",
+        "Price": "199000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2020.01."
+    },
+    {
+        "Name": "Seagate Game Drive 외장 SSD for PS5",
+        "Type": "2TB 155원/1GB",
+        "Price": "309010",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2024.10."
+    },
+    {
+        "Name": "Seagate Game Drive 외장 SSD for PS5",
+        "Type": "1TB 203원/1GB",
+        "Price": "202760",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2024.10."
+    },
+    {
+        "Name": "ESSENCORE KLEVV S1 Portable SSD",
+        "Type": "2TB 120원/1GB",
+        "Price": "240000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2024.02."
+    },
+    {
+        "Name": "ESSENCORE KLEVV S1 Portable SSD",
+        "Type": "1TB 146원/1GB",
+        "Price": "146170",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2024.02."
+    },
+    {
+        "Name": "Seagate Fast Expansion SSD 데이터복구",
+        "Type": "2TB 264원/1GB",
+        "Price": "527900",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2021.11."
+    },
+    {
+        "Name": "Seagate Fast Expansion SSD 데이터복구",
+        "Type": "1TB 285원/1GB",
+        "Price": "285300",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2021.11."
+    },
+    {
+        "Name": "Seagate Fast Expansion SSD 데이터복구",
+        "Type": "500GB 258원/1GB",
+        "Price": "129000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2021.11."
+    },
+    {
+        "Name": "삼성전자 포터블 SSD T7",
+        "Type": "4TB 131원/1GB",
+        "Price": "524380",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2020.05."
+    },
+    {
+        "Name": "삼성전자 포터블 SSD T7",
+        "Type": "2TB 143원/1GB",
+        "Price": "285930",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2020.05."
+    },
+    {
+        "Name": "삼성전자 포터블 SSD T7",
+        "Type": "1TB 177원/1GB",
+        "Price": "176990",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2020.05."
+    },
+    {
+        "Name": "삼성전자 포터블 SSD T7",
+        "Type": "500GB 330원/1GB",
+        "Price": "165000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2020.05."
+    },
+    {
+        "Name": "SK하이닉스 Beetle X31 Portable SSD",
+        "Type": "2TB 126원/1GB",
+        "Price": "251000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2023.05."
+    },
+    {
+        "Name": "SK하이닉스 Beetle X31 Portable SSD",
+        "Type": "1TB 154원/1GB",
+        "Price": "154000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2023.05."
+    },
+    {
+        "Name": "SK하이닉스 Tube T31 Stick SSD",
+        "Type": "2TB 120원/1GB",
+        "Price": "239000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2023.12."
+    },
+    {
+        "Name": "SK하이닉스 Tube T31 Stick SSD",
+        "Type": "1TB 150원/1GB",
+        "Price": "150000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2023.12."
+    },
+    {
+        "Name": "Sandisk Extreme Portable SSD V2 E61",
+        "Type": "8TB 132원/1GB",
+        "Price": "1057110",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2020.12."
+    },
+    {
+        "Name": "Sandisk Extreme Portable SSD V2 E61",
+        "Type": "4TB 124원/1GB",
+        "Price": "497990",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2020.12."
+    },
+    {
+        "Name": "Sandisk Extreme Portable SSD V2 E61",
+        "Type": "2TB 140원/1GB",
+        "Price": "279890",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2020.12."
+    },
+    {
+        "Name": "Sandisk Extreme Portable SSD V2 E61",
+        "Type": "1TB 180원/1GB",
+        "Price": "179890",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2020.12."
+    },
+    {
+        "Name": "Sandisk Extreme Portable SSD V2 E61",
+        "Type": "500GB 330원/1GB",
+        "Price": "165100",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2020.12."
+    },
+    {
+        "Name": "삼성전자 포터블 SSD T9",
+        "Type": "4TB 164원/1GB",
+        "Price": "654000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2023.10."
+    },
+    {
+        "Name": "삼성전자 포터블 SSD T9",
+        "Type": "2TB 182원/1GB",
+        "Price": "363850",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2023.10."
+    },
+    {
+        "Name": "삼성전자 포터블 SSD T9",
+        "Type": "1TB 224원/1GB",
+        "Price": "223890",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2023.10."
+    },
+    {
+        "Name": "CORSAIR EX400U",
+        "Type": "4TB 173원/1GB",
+        "Price": "690000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.01."
+    },
+    {
+        "Name": "CORSAIR EX400U",
+        "Type": "2TB 190원/1GB",
+        "Price": "380000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.01."
+    },
+    {
+        "Name": "CORSAIR EX400U",
+        "Type": "1TB 230원/1GB",
+        "Price": "230000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.01."
+    },
+    {
+        "Name": "마이크론 Crucial X9 Pro Portable SSD 대원씨티에스",
+        "Type": "4TB 122원/1GB",
+        "Price": "489000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2023.08."
+    },
+    {
+        "Name": "마이크론 Crucial X9 Pro Portable SSD 대원씨티에스",
+        "Type": "2TB 139원/1GB",
+        "Price": "278570",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2023.08."
+    },
+    {
+        "Name": "마이크론 Crucial X9 Pro Portable SSD 대원씨티에스",
+        "Type": "1TB 182원/1GB",
+        "Price": "182000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2023.08."
+    },
+    {
+        "Name": "Seagate Ultra Compact SSD",
+        "Type": "2TB 160원/1GB",
+        "Price": "319000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.03."
+    },
+    {
+        "Name": "Seagate Ultra Compact SSD",
+        "Type": "1TB 227원/1GB",
+        "Price": "226800",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.03."
+    },
+    {
+        "Name": "마이크론 Crucial X9 Portable SSD 대원씨티에스",
+        "Type": "4TB 131원/1GB",
+        "Price": "525900",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2023.10."
+    },
+    {
+        "Name": "마이크론 Crucial X9 Portable SSD 대원씨티에스",
+        "Type": "2TB 147원/1GB",
+        "Price": "294010",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2023.10."
+    },
+    {
+        "Name": "마이크론 Crucial X9 Portable SSD 대원씨티에스",
+        "Type": "1TB 176원/1GB",
+        "Price": "176000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2023.10."
+    },
+    {
+        "Name": "삼성전자 포터블 SSD T7 Shield",
+        "Type": "4TB 155원/1GB",
+        "Price": "619000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2023.02."
+    },
+    {
+        "Name": "삼성전자 포터블 SSD T7 Shield",
+        "Type": "2TB 190원/1GB",
+        "Price": "380000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2023.02."
+    },
+    {
+        "Name": "삼성전자 포터블 SSD T7 Shield",
+        "Type": "1TB 216원/1GB",
+        "Price": "215600",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2023.02."
+    },
+    {
+        "Name": "LaCie Rugged SSD Pro5",
+        "Type": "2TB ",
+        "Price": "729000",
+        "TypeDetail": "365원/1GB",
+        "Spec": "",
+        "ExtraInfo": "2025.02."
+    },
+    {
+        "Name": "LaCie Rugged Mini SSD",
+        "Type": "4TB 212원/1GB",
+        "Price": "849000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2024.10."
+    },
+    {
+        "Name": "LaCie Rugged Mini SSD",
+        "Type": "2TB 225원/1GB",
+        "Price": "449000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2024.10."
+    },
+    {
+        "Name": "LaCie Rugged Mini SSD",
+        "Type": "1TB 279원/1GB",
+        "Price": "279000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2024.10."
+    },
+    {
+        "Name": "LaCie Rugged Mini SSD",
+        "Type": "500GB 358원/1GB",
+        "Price": "179000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2024.10."
+    },
+    {
+        "Name": "CORSAIR EX400U SURVIVOR",
+        "Type": "4TB 186원/1GB",
+        "Price": "745000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.10."
+    },
+    {
+        "Name": "CORSAIR EX400U SURVIVOR",
+        "Type": "2TB 218원/1GB",
+        "Price": "435000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.10."
+    },
+    {
+        "Name": "CORSAIR EX400U SURVIVOR",
+        "Type": "1TB 255원/1GB",
+        "Price": "255000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.10."
+    },
+    {
+        "Name": "CORSAIR EX300U",
+        "Type": "4TB 139원/1GB",
+        "Price": "555000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.10."
+    },
+    {
+        "Name": "CORSAIR EX300U",
+        "Type": "2TB 148원/1GB",
+        "Price": "295000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.10."
+    },
+    {
+        "Name": "CORSAIR EX300U",
+        "Type": "1TB 175원/1GB",
+        "Price": "175000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.10."
+    },
+    {
+        "Name": "Seagate Fast One Touch SSD 데이터복구",
+        "Type": "2TB 150원/1GB",
+        "Price": "299000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2021.05."
+    },
+    {
+        "Name": "Seagate Fast One Touch SSD 데이터복구",
+        "Type": "1TB 167원/1GB",
+        "Price": "167340",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2021.05."
+    },
+    {
+        "Name": "Seagate Fast One Touch SSD 데이터복구",
+        "Type": "500GB 278원/1GB",
+        "Price": "139000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2021.05."
+    },
+    {
+        "Name": "EFM ipTIME SSD101M2 외장SSD",
+        "Type": "2TB 109원/1GB",
+        "Price": "218930",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.08."
+    },
+    {
+        "Name": "EFM ipTIME SSD101M2 외장SSD",
+        "Type": "1TB 144원/1GB",
+        "Price": "144440",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.08."
+    },
+    {
+        "Name": "EFM ipTIME SSD101M2 외장SSD",
+        "Type": "512GB 187원/1GB",
+        "Price": "95940",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.08."
+    },
+    {
+        "Name": "EFM ipTIME SSD101M2 외장SSD",
+        "Type": "256GB 211원/1GB",
+        "Price": "53940",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.08."
+    },
+    {
+        "Name": "EFM ipTIME SSD101M2 외장SSD",
+        "Type": "128GB 289원/1GB",
+        "Price": "37010",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.08."
+    },
+    {
+        "Name": "이메이션 PORTABLE SSD i9",
+        "Type": "4TB 99원/1GB",
+        "Price": "396730",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2022.10."
+    },
+    {
+        "Name": "이메이션 PORTABLE SSD i9",
+        "Type": "2TB 97원/1GB",
+        "Price": "193030",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2022.10."
+    },
+    {
+        "Name": "이메이션 PORTABLE SSD i9",
+        "Type": "1TB 99원/1GB",
+        "Price": "99000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2022.10."
+    },
+    {
+        "Name": "이메이션 PORTABLE SSD i9",
+        "Type": "500GB 141원/1GB",
+        "Price": "70700",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2022.10."
+    },
+    {
+        "Name": "Seagate FireCuda Gaming SSD 데이터복구",
+        "Type": "2TB 140원/1GB",
+        "Price": "279000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2020.06."
+    },
+    {
+        "Name": "Seagate FireCuda Gaming SSD 데이터복구",
+        "Type": "1TB 201원/1GB",
+        "Price": "201040",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2020.06."
+    },
+    {
+        "Name": "Seagate FireCuda Gaming SSD 데이터복구",
+        "Type": "500GB 218원/1GB",
+        "Price": "109000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2020.06."
+    },
+    {
+        "Name": "CORSAIR EX100U Portable SSD Type C",
+        "Type": "4TB 135원/1GB",
+        "Price": "538580",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2022.10."
+    },
+    {
+        "Name": "CORSAIR EX100U Portable SSD Type C",
+        "Type": "2TB 139원/1GB",
+        "Price": "277270",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2022.10."
+    },
+    {
+        "Name": "CORSAIR EX100U Portable SSD Type C",
+        "Type": "1TB 164원/1GB",
+        "Price": "164100",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2022.10."
+    },
+    {
+        "Name": "LaCie Rugged Pro Thunderbolt 3 SSD",
+        "Type": "4TB 250원/1GB",
+        "Price": "999000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2020.01."
+    },
+    {
+        "Name": "LaCie Rugged Pro Thunderbolt 3 SSD",
+        "Type": "2TB 275원/1GB",
+        "Price": "549000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2020.01."
+    },
+    {
+        "Name": "LaCie Rugged Pro Thunderbolt 3 SSD",
+        "Type": "1TB 339원/1GB",
+        "Price": "339150",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2020.01."
+    },
+    {
+        "Name": "Western Digital WD NEW My Passport NVMe SSD",
+        "Type": "4TB 158원/1GB",
+        "Price": "631730",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2020.10."
+    },
+    {
+        "Name": "Western Digital WD NEW My Passport NVMe SSD",
+        "Type": "2TB 135원/1GB",
+        "Price": "269000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2020.10."
+    },
+    {
+        "Name": "Western Digital WD NEW My Passport NVMe SSD",
+        "Type": "1TB 152원/1GB",
+        "Price": "151990",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2020.10."
+    },
+    {
+        "Name": "Western Digital WD NEW My Passport NVMe SSD",
+        "Type": "500GB 408원/1GB",
+        "Price": "204090",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2020.10."
+    },
+    {
+        "Name": "삼성전자 포터블 SSD T5 EVO",
+        "Type": "8TB 178원/1GB",
+        "Price": "1423470",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2023.12."
+    },
+    {
+        "Name": "삼성전자 포터블 SSD T5 EVO",
+        "Type": "4TB 134원/1GB",
+        "Price": "535480",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2023.12."
+    },
+    {
+        "Name": "삼성전자 포터블 SSD T5 EVO",
+        "Type": "2TB 150원/1GB",
+        "Price": "299990",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2023.12."
+    },
+    {
+        "Name": "Western Digital WD Black P40 Game Drive",
+        "Type": "2TB 150원/1GB",
+        "Price": "299000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2022.11."
+    },
+    {
+        "Name": "Western Digital WD Black P40 Game Drive",
+        "Type": "1TB 241원/1GB",
+        "Price": "240600",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2022.11."
+    },
+    {
+        "Name": "Western Digital WD Black P40 Game Drive",
+        "Type": "500GB 454원/1GB",
+        "Price": "226800",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2022.11."
+    },
+    {
+        "Name": "EFM ipTIME HDD 3225plus 외장SSD",
+        "Type": "2TB 89원/1GB",
+        "Price": "177450",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2022.06."
+    },
+    {
+        "Name": "EFM ipTIME HDD 3225plus 외장SSD",
+        "Type": "1TB 105원/1GB",
+        "Price": "104990",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2022.06."
+    },
+    {
+        "Name": "EFM ipTIME HDD 3225plus 외장SSD",
+        "Type": "512GB 154원/1GB",
+        "Price": "78890",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2022.06."
+    },
+    {
+        "Name": "EFM ipTIME HDD 3225plus 외장SSD",
+        "Type": "256GB 195원/1GB",
+        "Price": "49900",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2022.06."
+    },
+    {
+        "Name": "EFM ipTIME HDD 3225plus 외장SSD",
+        "Type": "250GB 211원/1GB",
+        "Price": "52800",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2022.06."
+    },
+    {
+        "Name": "EFM ipTIME HDD 3225plus 외장SSD",
+        "Type": "240GB 246원/1GB",
+        "Price": "59000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2022.06."
+    },
+    {
+        "Name": "EFM ipTIME HDD 3225plus 외장SSD",
+        "Type": "128GB 341원/1GB",
+        "Price": "43620",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2022.06."
+    },
+    {
+        "Name": "EFM ipTIME HDD 3225plus 외장SSD",
+        "Type": "120GB 356원/1GB",
+        "Price": "42710",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2022.06."
+    },
+    {
+        "Name": "마이크론 Crucial X10 Pro Portable SSD 대원씨티에스",
+        "Type": "4TB 216원/1GB",
+        "Price": "865000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2023.08."
+    },
+    {
+        "Name": "마이크론 Crucial X10 Pro Portable SSD 대원씨티에스",
+        "Type": "2TB 152원/1GB",
+        "Price": "303050",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2023.08."
+    },
+    {
+        "Name": "마이크론 Crucial X10 Pro Portable SSD 대원씨티에스",
+        "Type": "1TB 179원/1GB",
+        "Price": "179000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2023.08."
+    },
+    {
+        "Name": "LaCie Portable SSD Rescue",
+        "Type": "2TB 303원/1GB",
+        "Price": "606250",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2018.12."
+    },
+    {
+        "Name": "LaCie Portable SSD Rescue",
+        "Type": "1TB 169원/1GB",
+        "Price": "169000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2018.12."
+    },
+    {
+        "Name": "LaCie Portable SSD Rescue",
+        "Type": "500GB 238원/1GB",
+        "Price": "119000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2018.12."
+    },
+    {
+        "Name": "LaCie Rugged USB 3.1 Type C SSD",
+        "Type": "4TB 184원/1GB",
+        "Price": "737100",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2020.01."
+    },
+    {
+        "Name": "LaCie Rugged USB 3.1 Type C SSD",
+        "Type": "2TB 220원/1GB",
+        "Price": "440640",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2020.01."
+    },
+    {
+        "Name": "LaCie Rugged USB 3.1 Type C SSD",
+        "Type": "1TB 276원/1GB",
+        "Price": "276210",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2020.01."
+    },
+    {
+        "Name": "LaCie Rugged USB 3.1 Type C SSD",
+        "Type": "500GB 398원/1GB",
+        "Price": "199000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2020.01."
+    },
+    {
+        "Name": "Seagate Game Drive 외장 SSD for PS5",
+        "Type": "2TB 155원/1GB",
+        "Price": "309010",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2024.10."
+    },
+    {
+        "Name": "Seagate Game Drive 외장 SSD for PS5",
+        "Type": "1TB 203원/1GB",
+        "Price": "202760",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2024.10."
+    },
+    {
+        "Name": "ESSENCORE KLEVV S1 Portable SSD",
+        "Type": "2TB 120원/1GB",
+        "Price": "240000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2024.02."
+    },
+    {
+        "Name": "ESSENCORE KLEVV S1 Portable SSD",
+        "Type": "1TB 146원/1GB",
+        "Price": "146170",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2024.02."
+    },
+    {
+        "Name": "Seagate Fast Expansion SSD 데이터복구",
+        "Type": "2TB 264원/1GB",
+        "Price": "527900",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2021.11."
+    },
+    {
+        "Name": "Seagate Fast Expansion SSD 데이터복구",
+        "Type": "1TB 285원/1GB",
+        "Price": "285300",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2021.11."
+    },
+    {
+        "Name": "Seagate Fast Expansion SSD 데이터복구",
+        "Type": "500GB 258원/1GB",
+        "Price": "129000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2021.11."
+    },
+    {
+        "Name": "삼성전자 포터블 SSD T7",
+        "Type": "4TB 131원/1GB",
+        "Price": "524380",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2020.05."
+    },
+    {
+        "Name": "삼성전자 포터블 SSD T7",
+        "Type": "2TB 143원/1GB",
+        "Price": "285930",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2020.05."
+    },
+    {
+        "Name": "삼성전자 포터블 SSD T7",
+        "Type": "1TB 177원/1GB",
+        "Price": "176990",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2020.05."
+    },
+    {
+        "Name": "삼성전자 포터블 SSD T7",
+        "Type": "500GB 330원/1GB",
+        "Price": "165000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2020.05."
+    },
+    {
+        "Name": "SK하이닉스 Beetle X31 Portable SSD",
+        "Type": "2TB 126원/1GB",
+        "Price": "251000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2023.05."
+    },
+    {
+        "Name": "SK하이닉스 Beetle X31 Portable SSD",
+        "Type": "1TB 154원/1GB",
+        "Price": "154000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2023.05."
+    },
+    {
+        "Name": "SK하이닉스 Tube T31 Stick SSD",
+        "Type": "2TB 120원/1GB",
+        "Price": "239000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2023.12."
+    },
+    {
+        "Name": "SK하이닉스 Tube T31 Stick SSD",
+        "Type": "1TB 150원/1GB",
+        "Price": "150000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2023.12."
+    },
+    {
+        "Name": "Sandisk Extreme Portable SSD V2 E61",
+        "Type": "8TB 132원/1GB",
+        "Price": "1057110",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2020.12."
+    },
+    {
+        "Name": "Sandisk Extreme Portable SSD V2 E61",
+        "Type": "4TB 124원/1GB",
+        "Price": "497990",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2020.12."
+    },
+    {
+        "Name": "Sandisk Extreme Portable SSD V2 E61",
+        "Type": "2TB 140원/1GB",
+        "Price": "279890",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2020.12."
+    },
+    {
+        "Name": "Sandisk Extreme Portable SSD V2 E61",
+        "Type": "1TB 180원/1GB",
+        "Price": "179890",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2020.12."
+    },
+    {
+        "Name": "Sandisk Extreme Portable SSD V2 E61",
+        "Type": "500GB 330원/1GB",
+        "Price": "165100",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2020.12."
+    },
+    {
+        "Name": "삼성전자 포터블 SSD T9",
+        "Type": "4TB 164원/1GB",
+        "Price": "654000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2023.10."
+    },
+    {
+        "Name": "삼성전자 포터블 SSD T9",
+        "Type": "2TB 182원/1GB",
+        "Price": "363850",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2023.10."
+    },
+    {
+        "Name": "삼성전자 포터블 SSD T9",
+        "Type": "1TB 224원/1GB",
+        "Price": "223890",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2023.10."
+    },
+    {
+        "Name": "CORSAIR EX400U",
+        "Type": "4TB 173원/1GB",
+        "Price": "690000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.01."
+    },
+    {
+        "Name": "CORSAIR EX400U",
+        "Type": "2TB 190원/1GB",
+        "Price": "380000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.01."
+    },
+    {
+        "Name": "CORSAIR EX400U",
+        "Type": "1TB 230원/1GB",
+        "Price": "230000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.01."
+    },
+    {
+        "Name": "마이크론 Crucial X9 Pro Portable SSD 대원씨티에스",
+        "Type": "4TB 122원/1GB",
+        "Price": "489000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2023.08."
+    },
+    {
+        "Name": "마이크론 Crucial X9 Pro Portable SSD 대원씨티에스",
+        "Type": "2TB 139원/1GB",
+        "Price": "278570",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2023.08."
+    },
+    {
+        "Name": "마이크론 Crucial X9 Pro Portable SSD 대원씨티에스",
+        "Type": "1TB 182원/1GB",
+        "Price": "182000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2023.08."
+    },
+    {
+        "Name": "Seagate Ultra Compact SSD",
+        "Type": "2TB 160원/1GB",
+        "Price": "319000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.03."
+    },
+    {
+        "Name": "Seagate Ultra Compact SSD",
+        "Type": "1TB 227원/1GB",
+        "Price": "226800",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.03."
+    },
+    {
+        "Name": "마이크론 Crucial X9 Portable SSD 대원씨티에스",
+        "Type": "4TB 131원/1GB",
+        "Price": "525900",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2023.10."
+    },
+    {
+        "Name": "마이크론 Crucial X9 Portable SSD 대원씨티에스",
+        "Type": "2TB 147원/1GB",
+        "Price": "294010",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2023.10."
+    },
+    {
+        "Name": "마이크론 Crucial X9 Portable SSD 대원씨티에스",
+        "Type": "1TB 176원/1GB",
+        "Price": "176000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2023.10."
+    },
+    {
+        "Name": "삼성전자 포터블 SSD T7 Shield",
+        "Type": "4TB 155원/1GB",
+        "Price": "619000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2023.02."
+    },
+    {
+        "Name": "삼성전자 포터블 SSD T7 Shield",
+        "Type": "2TB 190원/1GB",
+        "Price": "380000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2023.02."
+    },
+    {
+        "Name": "삼성전자 포터블 SSD T7 Shield",
+        "Type": "1TB 216원/1GB",
+        "Price": "215600",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2023.02."
+    },
+    {
+        "Name": "LaCie Rugged SSD Pro5",
+        "Type": "2TB ",
+        "Price": "729000",
+        "TypeDetail": "365원/1GB",
+        "Spec": "",
+        "ExtraInfo": "2025.02."
+    },
+    {
+        "Name": "LaCie Rugged Mini SSD",
+        "Type": "4TB 212원/1GB",
+        "Price": "849000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2024.10."
+    },
+    {
+        "Name": "LaCie Rugged Mini SSD",
+        "Type": "2TB 225원/1GB",
+        "Price": "449000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2024.10."
+    },
+    {
+        "Name": "LaCie Rugged Mini SSD",
+        "Type": "1TB 279원/1GB",
+        "Price": "279000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2024.10."
+    },
+    {
+        "Name": "LaCie Rugged Mini SSD",
+        "Type": "500GB 358원/1GB",
+        "Price": "179000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2024.10."
+    },
+    {
+        "Name": "CORSAIR EX400U SURVIVOR",
+        "Type": "4TB 186원/1GB",
+        "Price": "745000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.10."
+    },
+    {
+        "Name": "CORSAIR EX400U SURVIVOR",
+        "Type": "2TB 218원/1GB",
+        "Price": "435000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.10."
+    },
+    {
+        "Name": "CORSAIR EX400U SURVIVOR",
+        "Type": "1TB 255원/1GB",
+        "Price": "255000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.10."
+    },
+    {
+        "Name": "CORSAIR EX300U",
+        "Type": "4TB 139원/1GB",
+        "Price": "555000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.10."
+    },
+    {
+        "Name": "CORSAIR EX300U",
+        "Type": "2TB 148원/1GB",
+        "Price": "295000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.10."
+    },
+    {
+        "Name": "CORSAIR EX300U",
+        "Type": "1TB 175원/1GB",
+        "Price": "175000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.10."
+    },
+    {
+        "Name": "Seagate Fast One Touch SSD 데이터복구",
+        "Type": "2TB 150원/1GB",
+        "Price": "299000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2021.05."
+    },
+    {
+        "Name": "Seagate Fast One Touch SSD 데이터복구",
+        "Type": "1TB 167원/1GB",
+        "Price": "167340",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2021.05."
+    },
+    {
+        "Name": "Seagate Fast One Touch SSD 데이터복구",
+        "Type": "500GB 278원/1GB",
+        "Price": "139000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2021.05."
+    },
+    {
+        "Name": "EFM ipTIME SSD101M2 외장SSD",
+        "Type": "2TB 109원/1GB",
+        "Price": "218930",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.08."
+    },
+    {
+        "Name": "EFM ipTIME SSD101M2 외장SSD",
+        "Type": "1TB 144원/1GB",
+        "Price": "144440",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.08."
+    },
+    {
+        "Name": "EFM ipTIME SSD101M2 외장SSD",
+        "Type": "512GB 187원/1GB",
+        "Price": "95940",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.08."
+    },
+    {
+        "Name": "EFM ipTIME SSD101M2 외장SSD",
+        "Type": "256GB 211원/1GB",
+        "Price": "53940",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.08."
+    },
+    {
+        "Name": "EFM ipTIME SSD101M2 외장SSD",
+        "Type": "128GB 289원/1GB",
+        "Price": "37010",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.08."
+    },
+    {
+        "Name": "이메이션 PORTABLE SSD i9",
+        "Type": "4TB 99원/1GB",
+        "Price": "396730",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2022.10."
+    },
+    {
+        "Name": "이메이션 PORTABLE SSD i9",
+        "Type": "2TB 97원/1GB",
+        "Price": "193030",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2022.10."
+    },
+    {
+        "Name": "이메이션 PORTABLE SSD i9",
+        "Type": "1TB 99원/1GB",
+        "Price": "99000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2022.10."
+    },
+    {
+        "Name": "이메이션 PORTABLE SSD i9",
+        "Type": "500GB 141원/1GB",
+        "Price": "70700",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2022.10."
+    },
+    {
+        "Name": "Seagate FireCuda Gaming SSD 데이터복구",
+        "Type": "2TB 140원/1GB",
+        "Price": "279000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2020.06."
+    },
+    {
+        "Name": "Seagate FireCuda Gaming SSD 데이터복구",
+        "Type": "1TB 201원/1GB",
+        "Price": "201040",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2020.06."
+    },
+    {
+        "Name": "Seagate FireCuda Gaming SSD 데이터복구",
+        "Type": "500GB 218원/1GB",
+        "Price": "109000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2020.06."
+    },
+    {
+        "Name": "CORSAIR EX100U Portable SSD Type C",
+        "Type": "4TB 135원/1GB",
+        "Price": "538580",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2022.10."
+    },
+    {
+        "Name": "CORSAIR EX100U Portable SSD Type C",
+        "Type": "2TB 139원/1GB",
+        "Price": "277270",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2022.10."
+    },
+    {
+        "Name": "CORSAIR EX100U Portable SSD Type C",
+        "Type": "1TB 164원/1GB",
+        "Price": "164100",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2022.10."
+    },
+    {
+        "Name": "LaCie Rugged Pro Thunderbolt 3 SSD",
+        "Type": "4TB 250원/1GB",
+        "Price": "999000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2020.01."
+    },
+    {
+        "Name": "LaCie Rugged Pro Thunderbolt 3 SSD",
+        "Type": "2TB 275원/1GB",
+        "Price": "549000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2020.01."
+    },
+    {
+        "Name": "LaCie Rugged Pro Thunderbolt 3 SSD",
+        "Type": "1TB 339원/1GB",
+        "Price": "339150",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2020.01."
+    },
+    {
+        "Name": "Western Digital WD NEW My Passport NVMe SSD",
+        "Type": "4TB 158원/1GB",
+        "Price": "631730",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2020.10."
+    },
+    {
+        "Name": "Western Digital WD NEW My Passport NVMe SSD",
+        "Type": "2TB 135원/1GB",
+        "Price": "269000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2020.10."
+    },
+    {
+        "Name": "Western Digital WD NEW My Passport NVMe SSD",
+        "Type": "1TB 152원/1GB",
+        "Price": "151990",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2020.10."
+    },
+    {
+        "Name": "Western Digital WD NEW My Passport NVMe SSD",
+        "Type": "500GB 408원/1GB",
+        "Price": "204090",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2020.10."
+    },
+    {
+        "Name": "삼성전자 포터블 SSD T5 EVO",
+        "Type": "8TB 178원/1GB",
+        "Price": "1423470",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2023.12."
+    },
+    {
+        "Name": "삼성전자 포터블 SSD T5 EVO",
+        "Type": "4TB 134원/1GB",
+        "Price": "535480",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2023.12."
+    },
+    {
+        "Name": "삼성전자 포터블 SSD T5 EVO",
+        "Type": "2TB 150원/1GB",
+        "Price": "299990",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2023.12."
+    },
+    {
+        "Name": "Western Digital WD Black P40 Game Drive",
+        "Type": "2TB 150원/1GB",
+        "Price": "299000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2022.11."
+    },
+    {
+        "Name": "Western Digital WD Black P40 Game Drive",
+        "Type": "1TB 241원/1GB",
+        "Price": "240600",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2022.11."
+    },
+    {
+        "Name": "Western Digital WD Black P40 Game Drive",
+        "Type": "500GB 454원/1GB",
+        "Price": "226800",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2022.11."
+    },
+    {
+        "Name": "EFM ipTIME HDD 3225plus 외장SSD",
+        "Type": "2TB 89원/1GB",
+        "Price": "177450",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2022.06."
+    },
+    {
+        "Name": "EFM ipTIME HDD 3225plus 외장SSD",
+        "Type": "1TB 105원/1GB",
+        "Price": "104990",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2022.06."
+    },
+    {
+        "Name": "EFM ipTIME HDD 3225plus 외장SSD",
+        "Type": "512GB 154원/1GB",
+        "Price": "78890",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2022.06."
+    },
+    {
+        "Name": "EFM ipTIME HDD 3225plus 외장SSD",
+        "Type": "256GB 195원/1GB",
+        "Price": "49900",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2022.06."
+    },
+    {
+        "Name": "EFM ipTIME HDD 3225plus 외장SSD",
+        "Type": "250GB 211원/1GB",
+        "Price": "52800",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2022.06."
+    },
+    {
+        "Name": "EFM ipTIME HDD 3225plus 외장SSD",
+        "Type": "240GB 246원/1GB",
+        "Price": "59000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2022.06."
+    },
+    {
+        "Name": "EFM ipTIME HDD 3225plus 외장SSD",
+        "Type": "128GB 341원/1GB",
+        "Price": "43620",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2022.06."
+    },
+    {
+        "Name": "EFM ipTIME HDD 3225plus 외장SSD",
+        "Type": "120GB 356원/1GB",
+        "Price": "42710",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2022.06."
+    },
+    {
+        "Name": "마이크론 Crucial X10 Pro Portable SSD 대원씨티에스",
+        "Type": "4TB 216원/1GB",
+        "Price": "865000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2023.08."
+    },
+    {
+        "Name": "마이크론 Crucial X10 Pro Portable SSD 대원씨티에스",
+        "Type": "2TB 152원/1GB",
+        "Price": "303050",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2023.08."
+    },
+    {
+        "Name": "마이크론 Crucial X10 Pro Portable SSD 대원씨티에스",
+        "Type": "1TB 179원/1GB",
+        "Price": "179000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2023.08."
+    },
+    {
+        "Name": "LaCie Portable SSD Rescue",
+        "Type": "2TB 303원/1GB",
+        "Price": "606250",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2018.12."
+    },
+    {
+        "Name": "LaCie Portable SSD Rescue",
+        "Type": "1TB 169원/1GB",
+        "Price": "169000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2018.12."
+    },
+    {
+        "Name": "LaCie Portable SSD Rescue",
+        "Type": "500GB 238원/1GB",
+        "Price": "119000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2018.12."
+    },
+    {
+        "Name": "LaCie Rugged USB 3.1 Type C SSD",
+        "Type": "4TB 184원/1GB",
+        "Price": "737100",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2020.01."
+    },
+    {
+        "Name": "LaCie Rugged USB 3.1 Type C SSD",
+        "Type": "2TB 220원/1GB",
+        "Price": "440640",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2020.01."
+    },
+    {
+        "Name": "LaCie Rugged USB 3.1 Type C SSD",
+        "Type": "1TB 276원/1GB",
+        "Price": "276210",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2020.01."
+    },
+    {
+        "Name": "LaCie Rugged USB 3.1 Type C SSD",
+        "Type": "500GB 398원/1GB",
+        "Price": "199000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2020.01."
+    },
+    {
+        "Name": "Seagate Game Drive 외장 SSD for PS5",
+        "Type": "2TB 155원/1GB",
+        "Price": "309010",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2024.10."
+    },
+    {
+        "Name": "Seagate Game Drive 외장 SSD for PS5",
+        "Type": "1TB 203원/1GB",
+        "Price": "202760",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2024.10."
+    },
+    {
+        "Name": "ESSENCORE KLEVV S1 Portable SSD",
+        "Type": "2TB 120원/1GB",
+        "Price": "240000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2024.02."
+    },
+    {
+        "Name": "ESSENCORE KLEVV S1 Portable SSD",
+        "Type": "1TB 146원/1GB",
+        "Price": "146170",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2024.02."
+    },
+    {
+        "Name": "Seagate Fast Expansion SSD 데이터복구",
+        "Type": "2TB 264원/1GB",
+        "Price": "527900",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2021.11."
+    },
+    {
+        "Name": "Seagate Fast Expansion SSD 데이터복구",
+        "Type": "1TB 285원/1GB",
+        "Price": "285300",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2021.11."
+    },
+    {
+        "Name": "Seagate Fast Expansion SSD 데이터복구",
+        "Type": "500GB 258원/1GB",
+        "Price": "129000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2021.11."
+    },
+    {
+        "Name": "삼성전자 포터블 SSD T7",
+        "Type": "4TB 131원/1GB",
+        "Price": "524380",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2020.05."
+    },
+    {
+        "Name": "삼성전자 포터블 SSD T7",
+        "Type": "2TB 143원/1GB",
+        "Price": "285930",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2020.05."
+    },
+    {
+        "Name": "삼성전자 포터블 SSD T7",
+        "Type": "1TB 177원/1GB",
+        "Price": "176990",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2020.05."
+    },
+    {
+        "Name": "삼성전자 포터블 SSD T7",
+        "Type": "500GB 330원/1GB",
+        "Price": "165000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2020.05."
+    },
+    {
+        "Name": "SK하이닉스 Beetle X31 Portable SSD",
+        "Type": "2TB 126원/1GB",
+        "Price": "251000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2023.05."
+    },
+    {
+        "Name": "SK하이닉스 Beetle X31 Portable SSD",
+        "Type": "1TB 154원/1GB",
+        "Price": "154000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2023.05."
+    },
+    {
+        "Name": "SK하이닉스 Tube T31 Stick SSD",
+        "Type": "2TB 120원/1GB",
+        "Price": "239000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2023.12."
+    },
+    {
+        "Name": "SK하이닉스 Tube T31 Stick SSD",
+        "Type": "1TB 150원/1GB",
+        "Price": "150000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2023.12."
+    },
+    {
+        "Name": "Sandisk Extreme Portable SSD V2 E61",
+        "Type": "8TB 132원/1GB",
+        "Price": "1057110",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2020.12."
+    },
+    {
+        "Name": "Sandisk Extreme Portable SSD V2 E61",
+        "Type": "4TB 124원/1GB",
+        "Price": "497990",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2020.12."
+    },
+    {
+        "Name": "Sandisk Extreme Portable SSD V2 E61",
+        "Type": "2TB 140원/1GB",
+        "Price": "279890",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2020.12."
+    },
+    {
+        "Name": "Sandisk Extreme Portable SSD V2 E61",
+        "Type": "1TB 180원/1GB",
+        "Price": "179890",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2020.12."
+    },
+    {
+        "Name": "Sandisk Extreme Portable SSD V2 E61",
+        "Type": "500GB 330원/1GB",
+        "Price": "165100",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2020.12."
+    },
+    {
+        "Name": "삼성전자 포터블 SSD T9",
+        "Type": "4TB 164원/1GB",
+        "Price": "654000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2023.10."
+    },
+    {
+        "Name": "삼성전자 포터블 SSD T9",
+        "Type": "2TB 182원/1GB",
+        "Price": "363850",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2023.10."
+    },
+    {
+        "Name": "삼성전자 포터블 SSD T9",
+        "Type": "1TB 224원/1GB",
+        "Price": "223890",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2023.10."
+    },
+    {
+        "Name": "CORSAIR EX400U",
+        "Type": "4TB 173원/1GB",
+        "Price": "690000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.01."
+    },
+    {
+        "Name": "CORSAIR EX400U",
+        "Type": "2TB 190원/1GB",
+        "Price": "380000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.01."
+    },
+    {
+        "Name": "CORSAIR EX400U",
+        "Type": "1TB 230원/1GB",
+        "Price": "230000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.01."
+    },
+    {
+        "Name": "마이크론 Crucial X9 Pro Portable SSD 대원씨티에스",
+        "Type": "4TB 122원/1GB",
+        "Price": "489000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2023.08."
+    },
+    {
+        "Name": "마이크론 Crucial X9 Pro Portable SSD 대원씨티에스",
+        "Type": "2TB 139원/1GB",
+        "Price": "278570",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2023.08."
+    },
+    {
+        "Name": "마이크론 Crucial X9 Pro Portable SSD 대원씨티에스",
+        "Type": "1TB 182원/1GB",
+        "Price": "182000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2023.08."
+    },
+    {
+        "Name": "Seagate Ultra Compact SSD",
+        "Type": "2TB 160원/1GB",
+        "Price": "319000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.03."
+    },
+    {
+        "Name": "Seagate Ultra Compact SSD",
+        "Type": "1TB 227원/1GB",
+        "Price": "226800",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.03."
+    },
+    {
+        "Name": "마이크론 Crucial X9 Portable SSD 대원씨티에스",
+        "Type": "4TB 131원/1GB",
+        "Price": "525900",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2023.10."
+    },
+    {
+        "Name": "마이크론 Crucial X9 Portable SSD 대원씨티에스",
+        "Type": "2TB 147원/1GB",
+        "Price": "294010",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2023.10."
+    },
+    {
+        "Name": "마이크론 Crucial X9 Portable SSD 대원씨티에스",
+        "Type": "1TB 176원/1GB",
+        "Price": "176000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2023.10."
+    },
+    {
+        "Name": "삼성전자 포터블 SSD T7 Shield",
+        "Type": "4TB 155원/1GB",
+        "Price": "619000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2023.02."
+    },
+    {
+        "Name": "삼성전자 포터블 SSD T7 Shield",
+        "Type": "2TB 190원/1GB",
+        "Price": "380000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2023.02."
+    },
+    {
+        "Name": "삼성전자 포터블 SSD T7 Shield",
+        "Type": "1TB 216원/1GB",
+        "Price": "215600",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2023.02."
+    },
+    {
+        "Name": "LaCie Rugged SSD Pro5",
+        "Type": "2TB ",
+        "Price": "729000",
+        "TypeDetail": "365원/1GB",
+        "Spec": "",
+        "ExtraInfo": "2025.02."
+    },
+    {
+        "Name": "LaCie Rugged Mini SSD",
+        "Type": "4TB 212원/1GB",
+        "Price": "849000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2024.10."
+    },
+    {
+        "Name": "LaCie Rugged Mini SSD",
+        "Type": "2TB 225원/1GB",
+        "Price": "449000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2024.10."
+    },
+    {
+        "Name": "LaCie Rugged Mini SSD",
+        "Type": "1TB 279원/1GB",
+        "Price": "279000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2024.10."
+    },
+    {
+        "Name": "LaCie Rugged Mini SSD",
+        "Type": "500GB 358원/1GB",
+        "Price": "179000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2024.10."
+    },
+    {
+        "Name": "CORSAIR EX400U SURVIVOR",
+        "Type": "4TB 186원/1GB",
+        "Price": "745000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.10."
+    },
+    {
+        "Name": "CORSAIR EX400U SURVIVOR",
+        "Type": "2TB 218원/1GB",
+        "Price": "435000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.10."
+    },
+    {
+        "Name": "CORSAIR EX400U SURVIVOR",
+        "Type": "1TB 255원/1GB",
+        "Price": "255000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.10."
+    },
+    {
+        "Name": "CORSAIR EX300U",
+        "Type": "4TB 139원/1GB",
+        "Price": "555000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.10."
+    },
+    {
+        "Name": "CORSAIR EX300U",
+        "Type": "2TB 148원/1GB",
+        "Price": "295000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.10."
+    },
+    {
+        "Name": "CORSAIR EX300U",
+        "Type": "1TB 175원/1GB",
+        "Price": "175000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.10."
+    },
+    {
+        "Name": "Seagate Fast One Touch SSD 데이터복구",
+        "Type": "2TB 150원/1GB",
+        "Price": "299000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2021.05."
+    },
+    {
+        "Name": "Seagate Fast One Touch SSD 데이터복구",
+        "Type": "1TB 167원/1GB",
+        "Price": "167340",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2021.05."
+    },
+    {
+        "Name": "Seagate Fast One Touch SSD 데이터복구",
+        "Type": "500GB 278원/1GB",
+        "Price": "139000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2021.05."
+    },
+    {
+        "Name": "EFM ipTIME SSD101M2 외장SSD",
+        "Type": "2TB 109원/1GB",
+        "Price": "218930",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.08."
+    },
+    {
+        "Name": "EFM ipTIME SSD101M2 외장SSD",
+        "Type": "1TB 144원/1GB",
+        "Price": "144440",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.08."
+    },
+    {
+        "Name": "EFM ipTIME SSD101M2 외장SSD",
+        "Type": "512GB 187원/1GB",
+        "Price": "95940",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.08."
+    },
+    {
+        "Name": "EFM ipTIME SSD101M2 외장SSD",
+        "Type": "256GB 211원/1GB",
+        "Price": "53940",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.08."
+    },
+    {
+        "Name": "EFM ipTIME SSD101M2 외장SSD",
+        "Type": "128GB 289원/1GB",
+        "Price": "37010",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.08."
+    },
+    {
+        "Name": "이메이션 PORTABLE SSD i9",
+        "Type": "4TB 99원/1GB",
+        "Price": "396730",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2022.10."
+    },
+    {
+        "Name": "이메이션 PORTABLE SSD i9",
+        "Type": "2TB 97원/1GB",
+        "Price": "193030",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2022.10."
+    },
+    {
+        "Name": "이메이션 PORTABLE SSD i9",
+        "Type": "1TB 99원/1GB",
+        "Price": "99000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2022.10."
+    },
+    {
+        "Name": "이메이션 PORTABLE SSD i9",
+        "Type": "500GB 141원/1GB",
+        "Price": "70700",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2022.10."
+    },
+    {
+        "Name": "Seagate FireCuda Gaming SSD 데이터복구",
+        "Type": "2TB 140원/1GB",
+        "Price": "279000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2020.06."
+    },
+    {
+        "Name": "Seagate FireCuda Gaming SSD 데이터복구",
+        "Type": "1TB 201원/1GB",
+        "Price": "201040",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2020.06."
+    },
+    {
+        "Name": "Seagate FireCuda Gaming SSD 데이터복구",
+        "Type": "500GB 218원/1GB",
+        "Price": "109000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2020.06."
+    },
+    {
+        "Name": "CORSAIR EX100U Portable SSD Type C",
+        "Type": "4TB 135원/1GB",
+        "Price": "538580",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2022.10."
+    },
+    {
+        "Name": "CORSAIR EX100U Portable SSD Type C",
+        "Type": "2TB 139원/1GB",
+        "Price": "277270",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2022.10."
+    },
+    {
+        "Name": "CORSAIR EX100U Portable SSD Type C",
+        "Type": "1TB 164원/1GB",
+        "Price": "164100",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2022.10."
+    },
+    {
+        "Name": "LaCie Rugged Pro Thunderbolt 3 SSD",
+        "Type": "4TB 250원/1GB",
+        "Price": "999000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2020.01."
+    },
+    {
+        "Name": "LaCie Rugged Pro Thunderbolt 3 SSD",
+        "Type": "2TB 275원/1GB",
+        "Price": "549000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2020.01."
+    },
+    {
+        "Name": "LaCie Rugged Pro Thunderbolt 3 SSD",
+        "Type": "1TB 339원/1GB",
+        "Price": "339150",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2020.01."
+    },
+    {
+        "Name": "Western Digital WD NEW My Passport NVMe SSD",
+        "Type": "4TB 158원/1GB",
+        "Price": "631730",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2020.10."
+    },
+    {
+        "Name": "Western Digital WD NEW My Passport NVMe SSD",
+        "Type": "2TB 135원/1GB",
+        "Price": "269000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2020.10."
+    },
+    {
+        "Name": "Western Digital WD NEW My Passport NVMe SSD",
+        "Type": "1TB 152원/1GB",
+        "Price": "151990",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2020.10."
+    },
+    {
+        "Name": "Western Digital WD NEW My Passport NVMe SSD",
+        "Type": "500GB 408원/1GB",
+        "Price": "204090",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2020.10."
+    },
+    {
+        "Name": "삼성전자 포터블 SSD T5 EVO",
+        "Type": "8TB 178원/1GB",
+        "Price": "1423470",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2023.12."
+    },
+    {
+        "Name": "삼성전자 포터블 SSD T5 EVO",
+        "Type": "4TB 134원/1GB",
+        "Price": "535480",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2023.12."
+    },
+    {
+        "Name": "삼성전자 포터블 SSD T5 EVO",
+        "Type": "2TB 150원/1GB",
+        "Price": "299990",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2023.12."
+    },
+    {
+        "Name": "Western Digital WD Black P40 Game Drive",
+        "Type": "2TB 150원/1GB",
+        "Price": "299000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2022.11."
+    },
+    {
+        "Name": "Western Digital WD Black P40 Game Drive",
+        "Type": "1TB 241원/1GB",
+        "Price": "240600",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2022.11."
+    },
+    {
+        "Name": "Western Digital WD Black P40 Game Drive",
+        "Type": "500GB 454원/1GB",
+        "Price": "226800",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2022.11."
+    },
+    {
+        "Name": "EFM ipTIME HDD 3225plus 외장SSD",
+        "Type": "2TB 89원/1GB",
+        "Price": "177450",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2022.06."
+    },
+    {
+        "Name": "EFM ipTIME HDD 3225plus 외장SSD",
+        "Type": "1TB 105원/1GB",
+        "Price": "104990",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2022.06."
+    },
+    {
+        "Name": "EFM ipTIME HDD 3225plus 외장SSD",
+        "Type": "512GB 154원/1GB",
+        "Price": "78890",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2022.06."
+    },
+    {
+        "Name": "EFM ipTIME HDD 3225plus 외장SSD",
+        "Type": "256GB 195원/1GB",
+        "Price": "49900",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2022.06."
+    },
+    {
+        "Name": "EFM ipTIME HDD 3225plus 외장SSD",
+        "Type": "250GB 211원/1GB",
+        "Price": "52800",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2022.06."
+    },
+    {
+        "Name": "EFM ipTIME HDD 3225plus 외장SSD",
+        "Type": "240GB 246원/1GB",
+        "Price": "59000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2022.06."
+    },
+    {
+        "Name": "EFM ipTIME HDD 3225plus 외장SSD",
+        "Type": "128GB 341원/1GB",
+        "Price": "43620",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2022.06."
+    },
+    {
+        "Name": "EFM ipTIME HDD 3225plus 외장SSD",
+        "Type": "120GB 356원/1GB",
+        "Price": "42710",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2022.06."
+    },
+    {
+        "Name": "마이크론 Crucial X10 Pro Portable SSD 대원씨티에스",
+        "Type": "4TB 216원/1GB",
+        "Price": "865000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2023.08."
+    },
+    {
+        "Name": "마이크론 Crucial X10 Pro Portable SSD 대원씨티에스",
+        "Type": "2TB 152원/1GB",
+        "Price": "303050",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2023.08."
+    },
+    {
+        "Name": "마이크론 Crucial X10 Pro Portable SSD 대원씨티에스",
+        "Type": "1TB 179원/1GB",
+        "Price": "179000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2023.08."
+    },
+    {
+        "Name": "LaCie Portable SSD Rescue",
+        "Type": "2TB 303원/1GB",
+        "Price": "606250",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2018.12."
+    },
+    {
+        "Name": "LaCie Portable SSD Rescue",
+        "Type": "1TB 169원/1GB",
+        "Price": "169000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2018.12."
+    },
+    {
+        "Name": "LaCie Portable SSD Rescue",
+        "Type": "500GB 238원/1GB",
+        "Price": "119000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2018.12."
+    },
+    {
+        "Name": "LaCie Rugged USB 3.1 Type C SSD",
+        "Type": "4TB 184원/1GB",
+        "Price": "737100",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2020.01."
+    },
+    {
+        "Name": "LaCie Rugged USB 3.1 Type C SSD",
+        "Type": "2TB 220원/1GB",
+        "Price": "440640",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2020.01."
+    },
+    {
+        "Name": "LaCie Rugged USB 3.1 Type C SSD",
+        "Type": "1TB 276원/1GB",
+        "Price": "276210",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2020.01."
+    },
+    {
+        "Name": "LaCie Rugged USB 3.1 Type C SSD",
+        "Type": "500GB 398원/1GB",
+        "Price": "199000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2020.01."
+    },
+    {
+        "Name": "Seagate Game Drive 외장 SSD for PS5",
+        "Type": "2TB 155원/1GB",
+        "Price": "309010",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2024.10."
+    },
+    {
+        "Name": "Seagate Game Drive 외장 SSD for PS5",
+        "Type": "1TB 203원/1GB",
+        "Price": "202760",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2024.10."
+    },
+    {
+        "Name": "ESSENCORE KLEVV S1 Portable SSD",
+        "Type": "2TB 120원/1GB",
+        "Price": "240000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2024.02."
+    },
+    {
+        "Name": "ESSENCORE KLEVV S1 Portable SSD",
+        "Type": "1TB 146원/1GB",
+        "Price": "146170",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2024.02."
+    },
+    {
+        "Name": "Seagate Fast Expansion SSD 데이터복구",
+        "Type": "2TB 264원/1GB",
+        "Price": "527900",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2021.11."
+    },
+    {
+        "Name": "Seagate Fast Expansion SSD 데이터복구",
+        "Type": "1TB 285원/1GB",
+        "Price": "285300",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2021.11."
+    },
+    {
+        "Name": "Seagate Fast Expansion SSD 데이터복구",
+        "Type": "500GB 258원/1GB",
+        "Price": "129000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2021.11."
+    },
+    {
+        "Name": "삼성전자 포터블 SSD T7",
+        "Type": "4TB 131원/1GB",
+        "Price": "524380",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2020.05."
+    },
+    {
+        "Name": "삼성전자 포터블 SSD T7",
+        "Type": "2TB 143원/1GB",
+        "Price": "285930",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2020.05."
+    },
+    {
+        "Name": "삼성전자 포터블 SSD T7",
+        "Type": "1TB 177원/1GB",
+        "Price": "176990",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2020.05."
+    },
+    {
+        "Name": "삼성전자 포터블 SSD T7",
+        "Type": "500GB 330원/1GB",
+        "Price": "165000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2020.05."
+    },
+    {
+        "Name": "SK하이닉스 Beetle X31 Portable SSD",
+        "Type": "2TB 126원/1GB",
+        "Price": "251000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2023.05."
+    },
+    {
+        "Name": "SK하이닉스 Beetle X31 Portable SSD",
+        "Type": "1TB 154원/1GB",
+        "Price": "154000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2023.05."
+    },
+    {
+        "Name": "SK하이닉스 Tube T31 Stick SSD",
+        "Type": "2TB 120원/1GB",
+        "Price": "239000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2023.12."
+    },
+    {
+        "Name": "SK하이닉스 Tube T31 Stick SSD",
+        "Type": "1TB 150원/1GB",
+        "Price": "150000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2023.12."
+    },
+    {
+        "Name": "Sandisk Extreme Portable SSD V2 E61",
+        "Type": "8TB 132원/1GB",
+        "Price": "1057110",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2020.12."
+    },
+    {
+        "Name": "Sandisk Extreme Portable SSD V2 E61",
+        "Type": "4TB 124원/1GB",
+        "Price": "497990",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2020.12."
+    },
+    {
+        "Name": "Sandisk Extreme Portable SSD V2 E61",
+        "Type": "2TB 140원/1GB",
+        "Price": "279890",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2020.12."
+    },
+    {
+        "Name": "Sandisk Extreme Portable SSD V2 E61",
+        "Type": "1TB 180원/1GB",
+        "Price": "179890",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2020.12."
+    },
+    {
+        "Name": "Sandisk Extreme Portable SSD V2 E61",
+        "Type": "500GB 330원/1GB",
+        "Price": "165100",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2020.12."
+    },
+    {
+        "Name": "삼성전자 포터블 SSD T9",
+        "Type": "4TB 164원/1GB",
+        "Price": "654000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2023.10."
+    },
+    {
+        "Name": "삼성전자 포터블 SSD T9",
+        "Type": "2TB 182원/1GB",
+        "Price": "363850",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2023.10."
+    },
+    {
+        "Name": "삼성전자 포터블 SSD T9",
+        "Type": "1TB 224원/1GB",
+        "Price": "223890",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2023.10."
+    },
+    {
+        "Name": "CORSAIR EX400U",
+        "Type": "4TB 173원/1GB",
+        "Price": "690000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.01."
+    },
+    {
+        "Name": "CORSAIR EX400U",
+        "Type": "2TB 190원/1GB",
+        "Price": "380000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.01."
+    },
+    {
+        "Name": "CORSAIR EX400U",
+        "Type": "1TB 230원/1GB",
+        "Price": "230000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.01."
+    },
+    {
+        "Name": "마이크론 Crucial X9 Pro Portable SSD 대원씨티에스",
+        "Type": "4TB 122원/1GB",
+        "Price": "489000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2023.08."
+    },
+    {
+        "Name": "마이크론 Crucial X9 Pro Portable SSD 대원씨티에스",
+        "Type": "2TB 139원/1GB",
+        "Price": "278570",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2023.08."
+    },
+    {
+        "Name": "마이크론 Crucial X9 Pro Portable SSD 대원씨티에스",
+        "Type": "1TB 182원/1GB",
+        "Price": "182000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2023.08."
+    },
+    {
+        "Name": "Seagate Ultra Compact SSD",
+        "Type": "2TB 160원/1GB",
+        "Price": "319000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.03."
+    },
+    {
+        "Name": "Seagate Ultra Compact SSD",
+        "Type": "1TB 227원/1GB",
+        "Price": "226800",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.03."
+    },
+    {
+        "Name": "마이크론 Crucial X9 Portable SSD 대원씨티에스",
+        "Type": "4TB 131원/1GB",
+        "Price": "525900",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2023.10."
+    },
+    {
+        "Name": "마이크론 Crucial X9 Portable SSD 대원씨티에스",
+        "Type": "2TB 147원/1GB",
+        "Price": "294010",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2023.10."
+    },
+    {
+        "Name": "마이크론 Crucial X9 Portable SSD 대원씨티에스",
+        "Type": "1TB 176원/1GB",
+        "Price": "176000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2023.10."
+    },
+    {
+        "Name": "삼성전자 포터블 SSD T7 Shield",
+        "Type": "4TB 155원/1GB",
+        "Price": "619000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2023.02."
+    },
+    {
+        "Name": "삼성전자 포터블 SSD T7 Shield",
+        "Type": "2TB 190원/1GB",
+        "Price": "380000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2023.02."
+    },
+    {
+        "Name": "삼성전자 포터블 SSD T7 Shield",
+        "Type": "1TB 216원/1GB",
+        "Price": "215600",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2023.02."
+    },
+    {
+        "Name": "LaCie Rugged SSD Pro5",
+        "Type": "2TB ",
+        "Price": "729000",
+        "TypeDetail": "365원/1GB",
+        "Spec": "",
+        "ExtraInfo": "2025.02."
+    },
+    {
+        "Name": "LaCie Rugged Mini SSD",
+        "Type": "4TB 212원/1GB",
+        "Price": "849000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2024.10."
+    },
+    {
+        "Name": "LaCie Rugged Mini SSD",
+        "Type": "2TB 225원/1GB",
+        "Price": "449000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2024.10."
+    },
+    {
+        "Name": "LaCie Rugged Mini SSD",
+        "Type": "1TB 279원/1GB",
+        "Price": "279000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2024.10."
+    },
+    {
+        "Name": "LaCie Rugged Mini SSD",
+        "Type": "500GB 358원/1GB",
+        "Price": "179000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2024.10."
+    },
+    {
+        "Name": "CORSAIR EX400U SURVIVOR",
+        "Type": "4TB 186원/1GB",
+        "Price": "745000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.10."
+    },
+    {
+        "Name": "CORSAIR EX400U SURVIVOR",
+        "Type": "2TB 218원/1GB",
+        "Price": "435000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.10."
+    },
+    {
+        "Name": "CORSAIR EX400U SURVIVOR",
+        "Type": "1TB 255원/1GB",
+        "Price": "255000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.10."
+    },
+    {
+        "Name": "CORSAIR EX300U",
+        "Type": "4TB 139원/1GB",
+        "Price": "555000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.10."
+    },
+    {
+        "Name": "CORSAIR EX300U",
+        "Type": "2TB 148원/1GB",
+        "Price": "295000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.10."
+    },
+    {
+        "Name": "CORSAIR EX300U",
+        "Type": "1TB 175원/1GB",
+        "Price": "175000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.10."
+    },
+    {
+        "Name": "Seagate Fast One Touch SSD 데이터복구",
+        "Type": "2TB 150원/1GB",
+        "Price": "299000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2021.05."
+    },
+    {
+        "Name": "Seagate Fast One Touch SSD 데이터복구",
+        "Type": "1TB 167원/1GB",
+        "Price": "167340",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2021.05."
+    },
+    {
+        "Name": "Seagate Fast One Touch SSD 데이터복구",
+        "Type": "500GB 278원/1GB",
+        "Price": "139000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2021.05."
+    },
+    {
+        "Name": "EFM ipTIME SSD101M2 외장SSD",
+        "Type": "2TB 109원/1GB",
+        "Price": "218930",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.08."
+    },
+    {
+        "Name": "EFM ipTIME SSD101M2 외장SSD",
+        "Type": "1TB 144원/1GB",
+        "Price": "144440",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.08."
+    },
+    {
+        "Name": "EFM ipTIME SSD101M2 외장SSD",
+        "Type": "512GB 187원/1GB",
+        "Price": "95940",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.08."
+    },
+    {
+        "Name": "EFM ipTIME SSD101M2 외장SSD",
+        "Type": "256GB 211원/1GB",
+        "Price": "53940",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.08."
+    },
+    {
+        "Name": "EFM ipTIME SSD101M2 외장SSD",
+        "Type": "128GB 289원/1GB",
+        "Price": "37010",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2025.08."
+    },
+    {
+        "Name": "이메이션 PORTABLE SSD i9",
+        "Type": "4TB 99원/1GB",
+        "Price": "396730",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2022.10."
+    },
+    {
+        "Name": "이메이션 PORTABLE SSD i9",
+        "Type": "2TB 97원/1GB",
+        "Price": "193030",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2022.10."
+    },
+    {
+        "Name": "이메이션 PORTABLE SSD i9",
+        "Type": "1TB 99원/1GB",
+        "Price": "99000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2022.10."
+    },
+    {
+        "Name": "이메이션 PORTABLE SSD i9",
+        "Type": "500GB 141원/1GB",
+        "Price": "70700",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2022.10."
+    },
+    {
+        "Name": "Seagate FireCuda Gaming SSD 데이터복구",
+        "Type": "2TB 140원/1GB",
+        "Price": "279000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2020.06."
+    },
+    {
+        "Name": "Seagate FireCuda Gaming SSD 데이터복구",
+        "Type": "1TB 201원/1GB",
+        "Price": "201040",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2020.06."
+    },
+    {
+        "Name": "Seagate FireCuda Gaming SSD 데이터복구",
+        "Type": "500GB 218원/1GB",
+        "Price": "109000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2020.06."
+    },
+    {
+        "Name": "CORSAIR EX100U Portable SSD Type C",
+        "Type": "4TB 135원/1GB",
+        "Price": "538580",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2022.10."
+    },
+    {
+        "Name": "CORSAIR EX100U Portable SSD Type C",
+        "Type": "2TB 139원/1GB",
+        "Price": "277270",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2022.10."
+    },
+    {
+        "Name": "CORSAIR EX100U Portable SSD Type C",
+        "Type": "1TB 164원/1GB",
+        "Price": "164100",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2022.10."
+    },
+    {
+        "Name": "LaCie Rugged Pro Thunderbolt 3 SSD",
+        "Type": "4TB 250원/1GB",
+        "Price": "999000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2020.01."
+    },
+    {
+        "Name": "LaCie Rugged Pro Thunderbolt 3 SSD",
+        "Type": "2TB 275원/1GB",
+        "Price": "549000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2020.01."
+    },
+    {
+        "Name": "LaCie Rugged Pro Thunderbolt 3 SSD",
+        "Type": "1TB 339원/1GB",
+        "Price": "339150",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2020.01."
+    },
+    {
+        "Name": "Western Digital WD NEW My Passport NVMe SSD",
+        "Type": "4TB 158원/1GB",
+        "Price": "631730",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2020.10."
+    },
+    {
+        "Name": "Western Digital WD NEW My Passport NVMe SSD",
+        "Type": "2TB 135원/1GB",
+        "Price": "269000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2020.10."
+    },
+    {
+        "Name": "Western Digital WD NEW My Passport NVMe SSD",
+        "Type": "1TB 152원/1GB",
+        "Price": "151990",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2020.10."
+    },
+    {
+        "Name": "Western Digital WD NEW My Passport NVMe SSD",
+        "Type": "500GB 408원/1GB",
+        "Price": "204090",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2020.10."
+    },
+    {
+        "Name": "삼성전자 포터블 SSD T5 EVO",
+        "Type": "8TB 178원/1GB",
+        "Price": "1423470",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2023.12."
+    },
+    {
+        "Name": "삼성전자 포터블 SSD T5 EVO",
+        "Type": "4TB 134원/1GB",
+        "Price": "535480",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2023.12."
+    },
+    {
+        "Name": "삼성전자 포터블 SSD T5 EVO",
+        "Type": "2TB 150원/1GB",
+        "Price": "299990",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2023.12."
+    },
+    {
+        "Name": "Western Digital WD Black P40 Game Drive",
+        "Type": "2TB 150원/1GB",
+        "Price": "299000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2022.11."
+    },
+    {
+        "Name": "Western Digital WD Black P40 Game Drive",
+        "Type": "1TB 241원/1GB",
+        "Price": "240600",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2022.11."
+    },
+    {
+        "Name": "Western Digital WD Black P40 Game Drive",
+        "Type": "500GB 454원/1GB",
+        "Price": "226800",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2022.11."
+    },
+    {
+        "Name": "EFM ipTIME HDD 3225plus 외장SSD",
+        "Type": "2TB 89원/1GB",
+        "Price": "177450",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2022.06."
+    },
+    {
+        "Name": "EFM ipTIME HDD 3225plus 외장SSD",
+        "Type": "1TB 105원/1GB",
+        "Price": "104990",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2022.06."
+    },
+    {
+        "Name": "EFM ipTIME HDD 3225plus 외장SSD",
+        "Type": "512GB 154원/1GB",
+        "Price": "78890",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2022.06."
+    },
+    {
+        "Name": "EFM ipTIME HDD 3225plus 외장SSD",
+        "Type": "256GB 195원/1GB",
+        "Price": "49900",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2022.06."
+    },
+    {
+        "Name": "EFM ipTIME HDD 3225plus 외장SSD",
+        "Type": "250GB 211원/1GB",
+        "Price": "52800",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2022.06."
+    },
+    {
+        "Name": "EFM ipTIME HDD 3225plus 외장SSD",
+        "Type": "240GB 246원/1GB",
+        "Price": "59000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2022.06."
+    },
+    {
+        "Name": "EFM ipTIME HDD 3225plus 외장SSD",
+        "Type": "128GB 341원/1GB",
+        "Price": "43620",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2022.06."
+    },
+    {
+        "Name": "EFM ipTIME HDD 3225plus 외장SSD",
+        "Type": "120GB 356원/1GB",
+        "Price": "42710",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2022.06."
+    },
+    {
+        "Name": "마이크론 Crucial X10 Pro Portable SSD 대원씨티에스",
+        "Type": "4TB 216원/1GB",
+        "Price": "865000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2023.08."
+    },
+    {
+        "Name": "마이크론 Crucial X10 Pro Portable SSD 대원씨티에스",
+        "Type": "2TB 152원/1GB",
+        "Price": "303050",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2023.08."
+    },
+    {
+        "Name": "마이크론 Crucial X10 Pro Portable SSD 대원씨티에스",
+        "Type": "1TB 179원/1GB",
+        "Price": "179000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2023.08."
+    },
+    {
+        "Name": "LaCie Portable SSD Rescue",
+        "Type": "2TB 303원/1GB",
+        "Price": "606250",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2018.12."
+    },
+    {
+        "Name": "LaCie Portable SSD Rescue",
+        "Type": "1TB 169원/1GB",
+        "Price": "169000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2018.12."
+    },
+    {
+        "Name": "LaCie Portable SSD Rescue",
+        "Type": "500GB 238원/1GB",
+        "Price": "119000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2018.12."
+    },
+    {
+        "Name": "LaCie Rugged USB 3.1 Type C SSD",
+        "Type": "4TB 184원/1GB",
+        "Price": "737100",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2020.01."
+    },
+    {
+        "Name": "LaCie Rugged USB 3.1 Type C SSD",
+        "Type": "2TB 220원/1GB",
+        "Price": "440640",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2020.01."
+    },
+    {
+        "Name": "LaCie Rugged USB 3.1 Type C SSD",
+        "Type": "1TB 276원/1GB",
+        "Price": "276210",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2020.01."
+    },
+    {
+        "Name": "LaCie Rugged USB 3.1 Type C SSD",
+        "Type": "500GB 398원/1GB",
+        "Price": "199000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2020.01."
+    },
+    {
+        "Name": "Seagate Game Drive 외장 SSD for PS5",
+        "Type": "2TB 155원/1GB",
+        "Price": "309010",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2024.10."
+    },
+    {
+        "Name": "Seagate Game Drive 외장 SSD for PS5",
+        "Type": "1TB 203원/1GB",
+        "Price": "202760",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2024.10."
+    },
+    {
+        "Name": "ESSENCORE KLEVV S1 Portable SSD",
+        "Type": "2TB 120원/1GB",
+        "Price": "240000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2024.02."
+    },
+    {
+        "Name": "ESSENCORE KLEVV S1 Portable SSD",
+        "Type": "1TB 146원/1GB",
+        "Price": "146170",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2024.02."
+    },
+    {
+        "Name": "Seagate Fast Expansion SSD 데이터복구",
+        "Type": "2TB 264원/1GB",
+        "Price": "527900",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2021.11."
+    },
+    {
+        "Name": "Seagate Fast Expansion SSD 데이터복구",
+        "Type": "1TB 285원/1GB",
+        "Price": "285300",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2021.11."
+    },
+    {
+        "Name": "Seagate Fast Expansion SSD 데이터복구",
+        "Type": "500GB 258원/1GB",
+        "Price": "129000",
+        "TypeDetail": "",
+        "Spec": "",
+        "ExtraInfo": "2021.11."
+    }
+]
