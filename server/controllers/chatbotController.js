@@ -14,7 +14,7 @@ const pushHistory = (cid, role, content) => {
 };
 
 // Perplexity 호출
-async function pplxChat({ model, messages, disable_search = true, response_format, temperature = 0.2, max_tokens = 600 }) {
+async function pplxChat({ model, messages, disable_search = false, response_format, temperature = 0.2, max_tokens = 600 }) {
   const resp = await fetch(PPLX_URL, {
     method: "POST",
     headers: {
@@ -175,12 +175,12 @@ async function chat(req, res) {
     }
 
     const userId = getUserIdOptional(req);
-    const model = process.env.PERPLEXITY_MODEL || "sonar-pro";
+    const model = process.env.PERPLEXITY_MODEL || "sonar";
 
     // 1) 의도/필터 JSON 추출
     const intentText = await pplxChat({
       model,
-      disable_search: true,
+      disable_search: false,
       temperature: 0,
       max_tokens: 300,
       messages: [
@@ -288,17 +288,27 @@ async function chat(req, res) {
 
     const reply = await pplxChat({
       model,
-      disable_search: true,
+      disable_search: false,
       temperature: 0.3,
       max_tokens: 600,
       messages: [
         {
           role: "system",
           content: [
-            "너는 한국어 IT기기 쇼핑몰 챗봇이다.",
-            "반드시 제공된 products 목록에 있는 상품만 언급/추천한다.",
-            "products가 비어있으면 1~2개의 짧은 추가 질문만 한다.",
-            "답변은 짧고 실용적으로, 가능하면 불릿으로 작성한다.",
+            "너는 한국어 IT기기 쇼핑 도우미(구매 상담 챗봇)다.",
+            "인터넷 전체 범위(국내/해외 포함)에서 제품을 찾아 추천할 수 있다.",
+            "",
+            "규칙:",
+            "1) 사용자의 예산/용도/선호/지역(국가·통화) 정보가 부족하면, 최대 2개의 짧은 질문만 하고 답변을 보류한다.",
+            "2) 정보가 충분하면 웹에서 최신 제품 후보를 5~8개 수집한 뒤, 그중 3~5개만 엄선해 추천한다.",
+            "3) 특정 제품을 주장할 때는 근거(주요 스펙/특징)와 함께 가능하면 출처(링크/사이트명)를 붙인다.",
+            "4) 확실하지 않은 정보(가격/재고/출시)는 단정하지 말고 '대략/변동'이라고 표시한다.",
+            "5) 답변은 짧고 실용적으로, 불릿으로 작성한다.",
+            "",
+            "출력 형식:",
+            "- (먼저) 2줄 요약",
+            "- 추천 3~5개: 제품명 / 추천 이유(1~2줄) / 주의점(1줄) / 대략 가격대(있으면) / 출처(있으면)",
+            "- 마지막에 '선택 체크 3가지' (예: 용도, 예산, 선호 브랜드/OS 등)"
           ].join("\n"),
         },
         ...history,
