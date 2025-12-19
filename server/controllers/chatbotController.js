@@ -234,7 +234,7 @@ async function chat(req, res) {
       intent = { intent: "search", query: message, limit: 8, attrs: [] };
     }
 
-    // 2) DB 조회
+    // 2 DB 조회
     const limit = intent.limit ?? 8;
     let products = [];
     let detail = null;
@@ -283,7 +283,7 @@ async function chat(req, res) {
       });
     }
 
-    // 3) 답변 생성(중요: products 목록 밖 언급 금지)
+    // 3 답변 생성(중요: products 목록 밖 언급 금지)
     const history = getHistory(conversationId);
 
     const reply = await pplxChat({
