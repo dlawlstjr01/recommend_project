@@ -1,6 +1,6 @@
 const mysql = require('mysql2/promise');
 
-const pool = mysql.createPool({
+const db = mysql.createPool({
   host: 'project-db-campus.smhrd.com',
   port: 3307,
   user: 'cgi_25K_donga1_p2_3',
@@ -12,4 +12,4 @@ const pool = mysql.createPool({
   charset: 'utf8mb4'
 });
 
-module.exports = pool;
+module.exports = db;

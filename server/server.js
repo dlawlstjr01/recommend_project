@@ -11,6 +11,8 @@ const emailRoutes = require('./routes/emailRoutes');
 const socialAuthRoutes = require('./routes/socialAuthRoutes');
 const oauthRoutes = require('./routes/oauthRoutes');
 const chatbotRoutes = require("./routes/chatbotRoutes");
+const csRoutes = require("./routes/csRoutes");
+const csAdminRoutes = require("./routes/csAdminRoutes");
 
 const app = express();
 //  회원가입 / 인증 라우터
@@ -27,6 +29,8 @@ app.use('/auth', emailRoutes);
 app.use('/auth', socialAuthRoutes);
 app.use('/auth', oauthRoutes);
 app.use("/api/chat", chatbotRoutes);
+app.use("/api/cs", csRoutes);
+app.use("/api/admin/cs", csAdminRoutes);
 
 // 로컬 JSON 제품 전체 조회
 app.get('/api/local-products', (req, res) => {

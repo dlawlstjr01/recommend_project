@@ -1,4 +1,4 @@
-const pool = require('../config/DB');
+const db = require('../config/DB');
 const jwt = require('jsonwebtoken');
 
   // JWT 인증 미들웨어
@@ -35,7 +35,7 @@ exports.updateProfile = async (req, res) => {
     const userNo = req.user.userNo;
     const { name, job, brand, design, budget } = req.body;
 
-    await pool.query(
+    await db.query(
       `
       UPDATE users
       SET name = ?, job = ?, brand = ?, design = ?, budget = ?
@@ -51,7 +51,7 @@ exports.updateProfile = async (req, res) => {
       ]
     );
 
-    const [rows] = await pool.query(
+    const [rows] = await db.query(
       `
       SELECT id, name, email, job, user_usage, brand, design, budget
       FROM users
@@ -80,7 +80,7 @@ exports.getProviders = async (req, res) => {
   try {
     const userNo = req.user.userNo;
 
-    const [rows] = await pool.query(
+    const [rows] = await db.query(
       `SELECT provider FROM user_auth WHERE user_no = ?`,
       [userNo]
     );

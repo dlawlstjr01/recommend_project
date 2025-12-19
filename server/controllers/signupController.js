@@ -1,5 +1,5 @@
 const bcrypt = require('bcrypt');
-const pool = require('../config/DB');
+const db = require('../config/DB');
 
 
 // 아이디 중복 확인
@@ -8,7 +8,7 @@ exports.checkId = async (req, res) => {
     const { id } = req.body;
     if (!id) return res.json({ available: false });
 
-    const [rows] = await pool.query(
+    const [rows] = await db.query(
       'SELECT id FROM users WHERE id = ?',
       [id]
     );
@@ -22,7 +22,7 @@ exports.checkId = async (req, res) => {
 
  // 회원가입 (local)
 exports.signup = async (req, res) => {
-  const conn = await pool.getConnection();
+  const conn = await db.getConnection();
   try {
     const {
       id,

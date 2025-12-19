@@ -49,7 +49,7 @@ const Header = () => {
 const handleLogout = async (e) => {
   e.preventDefault();
 
-  await fetch('http://localhost:5000/auth/logout', {
+  await fetch('/auth/logout', {
     method: 'POST',
     credentials: 'include',
   });
@@ -65,7 +65,7 @@ const location = useLocation();
 useEffect(() => {
   const checkLogin = async () => {
     try {
-      const res = await fetch('http://localhost:5000/auth/me', {
+      const res = await fetch('/auth/me', {
         credentials: 'include', // ⭐ 쿠키 포함
         cache: 'no-store',
       });
@@ -125,27 +125,31 @@ useEffect(() => {
         >
             <div className="mega-menu-container" style={{ justifyContent: 'center', gap: '100px' }}>
                 {/* 모든 메뉴 아이템을 한 번에 다 보여줌 */}
-                {menuItems.map((item) => (
-                    <div key={item.id} className="mega-menu-column">
-                        <div className="mega-menu-title" style={{ display: 'flex', alignItems: 'center', gap: '8px' }}>
-                            {item.icon} {item.label}
-                        </div>
-                        <div className="mega-menu-list">
-                            {item.children.map((sub) => (
-                                <Link 
-                                  key={sub.path} 
-                                  to={sub.path} 
-                                  className="mega-menu-item"
-                                  onClick={() => setIsMegaMenuOpen(false)} // 클릭 시 닫힘
-                                >
-                                    {sub.label}
-                                </Link>
-                            ))}
-                        </div>
-                    </div>
-                ))}
+               {menuItems.map((item) => (
+                  <div key={item.id} className="mega-menu-column">
+                      <Link
+                      to={item.path}
+                      className="mega-menu-title"
+                      onClick={() => setIsMegaMenuOpen(false)}  // 클릭 시 닫힘
+                      style={{ display: 'flex', alignItems: 'center', gap: '8px' }}
+                    > {item.icon} {item.label}
+                     </Link>
+                      <div className="mega-menu-list">
+                          {item.children.map((sub) => (
+                              <Link 
+                                key={sub.path} 
+                                to={sub.path} 
+                                className="mega-menu-item"
+                                onClick={() => setIsMegaMenuOpen(false)} // 클릭 시 닫힘
+                              >
+                                  {sub.label}
+                              </Link>
+                             ))}
+                          </div>
+                      </div>
+                    ))}
+                </div>
             </div>
-        </div>
 
         {/* 우측: 유틸리티 */}
         <div className="cHeader-Util">

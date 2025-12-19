@@ -1,5 +1,5 @@
 const bcrypt = require('bcrypt');
-const pool = require('../config/DB');
+const db = require('../config/DB');
 
 exports.changePassword = async (req, res) => {
   try {
@@ -11,7 +11,7 @@ exports.changePassword = async (req, res) => {
     }
 
     // 2. 사용자 조회
-    const [rows] = await pool.query(
+    const [rows] = await db.query(
       'SELECT password FROM users WHERE id = ?',
       [id]
     );
