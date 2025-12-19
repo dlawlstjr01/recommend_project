@@ -4,7 +4,6 @@ const db = require("../config/DB");
 
 const PPLX_URL = "https://api.perplexity.ai/chat/completions";
 
-// MVP: 대화 메모리
 const memory = new Map(); // conversationId -> [{role, content}]
 const getHistory = (cid) => (memory.get(cid) || []).slice(-10);
 const pushHistory = (cid, role, content) => {
@@ -165,7 +164,7 @@ async function getProductDetail(productId) {
 
 // ====== 컨트롤러 엔드포인트 ======
 async function chat(req, res) {
-    console.log("✅ /api/chat hit");
+    console.log(" /api/chat hit");
     console.log("body:", req.body);
 
   try {
