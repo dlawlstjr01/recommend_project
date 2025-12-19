@@ -1253,6 +1253,7 @@
   font-size: 14px;
   cursor: pointer;
   border: none;
+  margin: 10px;
 }
 
 .social-btn.google {
@@ -1264,6 +1265,22 @@
 .social-btn.kakao {
   background: #fee500;
   color: #000;
+}
+
+.social_icon{
+  width: 20px;
+  height: 20px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  flex: 0 0 20px; /* 아이콘 영역 고정 */
+}
+
+/* 2) dangerouslySetInnerHTML로 들어간 svg */
+.social_icon > svg{
+  width: 100%;
+  height: 100%;
+  display: block; /* baseline 여백/떠보임 방지 */
 }
 
 /* 
