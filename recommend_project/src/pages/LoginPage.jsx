@@ -111,9 +111,3 @@ const LoginPage = () => {
 };
 
 export default LoginPage;
-
-//나중에
-//지울거
-//일단
-//대충
-//쓰는거
