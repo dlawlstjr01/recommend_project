@@ -1,13 +1,14 @@
 /* src/CSS/common.css */
 
-/* ==============================
+/* 
    0. 폰트 설정 (Pretendard)
-============================== */
+*/
 @import url("https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/static/pretendard.min.css");
 
-/* ==============================
+
+/* 
    1. 기본 초기화 (Reset)
-============================== */
+*/
 * {
   margin: 0;
   padding: 0;
@@ -32,9 +33,9 @@ body,
   background-color: #f5f6fa;
 }
 
-/* ==============================
+/* 
    2. 레이아웃 구조 (Layout)
-============================== */
+*/
 .layout-container {
   display: flex;
   flex-direction: column;
@@ -49,9 +50,9 @@ body,
   overflow: hidden;
 }
 
-/* ==============================
+/* 
    3. 헤더 스타일 (Header)
-============================== */
+*/
 .cHeader {
   width: 100%;
   background-color: #ffffff; /* 헤더는 흰색 유지 (배경과 구분) */
@@ -147,9 +148,9 @@ body,
   display: none;
 }
 
-/* ==============================
+/* 
    ★ 메가 메뉴 (Mega Menu)
-============================== */
+*/
 
 /* 기본 상태: 숨김 */
 .mega-menu {
@@ -227,9 +228,9 @@ body,
   text-decoration: underline;
 }
 
-/* ==============================
+/* 
    5. 메인 콘텐츠 스타일
-============================== */
+*/
 .main-content {
   width: 100%;
   flex: 1;
@@ -240,97 +241,11 @@ body,
   background-color: transparent; 
 }
 
-/* ==============================
-   6. 슬라이더 스타일
-============================== */
-.slider-wrapper {
-  width: 100%;
-  max-height: 350px;
-  aspect-ratio: 21 / 9;
-  border-radius: 12px;
-  overflow: hidden;
-  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
-  margin-bottom: 20px;
-  position: relative;
-  margin-left: auto;
-  margin-right: auto;
-}
 
-.slider-container, .mySwiper, .slide-content {
-  width: 100%;
-  height: 100%;
-  position: relative;
-}
 
-.slide-img {
-  width: 100%;
-  height: 100%;
-  object-fit: cover;
-  display: block;
-}
-
-/* ★ 텍스트와 버튼을 감싸는 박스 */
-.slide-content-wrapper {
-  position: absolute;
-  top: 50%;
-  left: 10%;
-  transform: translateY(-50%);
-  z-index: 20;
-  display: flex;
-  flex-direction: column;
-  align-items: flex-start;
-  gap: 20px;
-}
-
-/* 제목 텍스트 */
-.slide-text {
-  color: white;
-  font-weight: 800;
-  font-size: 3.5rem;
-  text-shadow: 2px 2px 8px rgba(0,0,0,0.6);
-  margin: 0;
-  line-height: 1.1;
-  letter-spacing: -1px;
-}
-
-/* 바로가기 버튼 */
-.slide-action-btn {
-  padding: 12px 32px;
-  background-color: #fff;
-  color: #000;
-  font-size: 1.1rem;
-  font-weight: 700;
-  border: none;
-  border-radius: 50px;
-  cursor: pointer;
-  box-shadow: 0 4px 10px rgba(0,0,0,0.3);
-  transition: all 0.2s ease;
-  display: flex;
-  align-items: center;
-  gap: 8px;
-}
-
-.slide-action-btn:hover {
-  background-color: #f8f9fa;
-  transform: translateY(-3px);
-  box-shadow: 0 6px 15px rgba(0,0,0,0.4);
-}
-
-/* 배경 오버레이 */
-.slide-overlay {
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-  background: linear-gradient(to right, rgba(0,0,0,0.6) 0%, rgba(0,0,0,0) 60%);
-  z-index: 10;
-  pointer-events: none;
-}
-
-/* ==============================
-   반응형 (Media Queries) - 768px 이하
-============================== */
+/* 
+   6. 반응형 (Media Queries) - 768px 이하
+*/
 @media (max-width: 768px) {
   .cHeader-Nav {
     padding: 0 1rem;
@@ -355,25 +270,11 @@ body,
   .main-content {
     padding: 15px;
   }
-
-  .slide-text {
-    font-size: 2rem;
-  }
-  
-  .slide-action-btn {
-    padding: 8px 20px;
-    font-size: 0.9rem;
-  }
-  
-  .slide-content-wrapper {
-    left: 20px;
-    width: 90%;
-  }
 }
 
-/* =========================================
-   모바일 메뉴 드로어 (Mobile Drawer)
-========================================= */
+/* 
+   7. 모바일 메뉴 드로어 (Mobile Drawer)
+*/
 
 /* 배경 (어두운 오버레이) */
 .mobile-menu-overlay {
@@ -485,176 +386,21 @@ body,
   cursor: pointer;
 }
 
-/* ==============================
-   7. 인증 페이지 (로그인/회원가입)
-============================== */
 
-.auth-container {
+
+.page-container {
   display: flex;
-  justify-content: center;
-  align-items: center;
-  min-height: 80vh;
-  /* 인증 페이지 배경도 통일 */
-  background-color: #f5f6fa;
-  padding: 40px 0;
-}
-
-.auth-card {
-  width: 460px;
-  padding: 40px;
-  background-color: white;
-  border-radius: 16px;
-  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.08);
-  text-align: center;
-}
-
-.auth-title {
-  margin-bottom: 30px;
-  font-size: 26px;
-  font-weight: bold;
-  color: #333;
-}
-
-.auth-form {
-  display: flex;
-  flex-direction: column;
-  gap: 20px;
-}
-
-/* 입력 그룹 (라벨 + 인풋) */
-.input-group {
-  display: flex;
-  flex-direction: column;
-  gap: 8px;
-  text-align: left;
-}
-
-.input-label {
-  font-size: 14px;
-  font-weight: 600;
-  color: #555;
-}
-
-/* ★ auth-input 스타일 수정: 높이 고정 및 박스 모델 설정 */
-.auth-input {
-  width: 100%; /* 부모 너비에 맞춤 */
-  height: 48px; /* ★ 높이 48px로 고정 (버튼과 맞춤) */
-  padding: 0 14px; /* 높이가 고정되므로 상하 패딩 대신 flex나 line-height로 정렬되지만, input은 padding으로 내부 여백 조절 */
-  border: 1px solid #ddd;
-  border-radius: 8px;
-  font-size: 14px;
-  outline: none;
-  transition: border-color 0.2s;
-  box-sizing: border-box; /* ★ 테두리와 패딩을 너비/높이에 포함 */
-}
-
-.auth-input:focus {
-  border-color: #3b82f6;
-}
-
-.auth-button {
-  margin-top: 10px;
-  padding: 14px;
-  background-color: #3b82f6;
-  color: white;
-  border: none;
-  border-radius: 8px;
-  font-size: 16px;
-  font-weight: bold;
-  cursor: pointer;
-  transition: background-color 0.2s;
-}
-
-.auth-button:hover {
-  background-color: #2563eb;
-}
-
-.auth-footer {
-  margin-top: 24px;
-  font-size: 14px;
-  color: #666;
-}
-
-.link-text {
-  color: #3b82f6;
-  cursor: pointer;
-  margin-left: 5px;
-  font-weight: bold;
-}
-
-.link-text:hover {
-  text-decoration: underline;
-}
-
-/* 유효성 검사 메시지 (공통) */
-.validation-message {
-  font-size: 13px;
-  margin-top: 6px;
-  display: block;
-  font-weight: 500;
-}
-
-/* 성공 메시지 (초록색) */
-.validation-message.success {
-  color: #10b981;
-}
-
-/* 에러 메시지 (빨간색) */
-.validation-message.error {
-  color: #e11d48;
-}
-
-/* 입력창 에러 상태 (빨간 테두리) */
-.auth-input.input-error {
-  border-color: #e11d48;
-  background-color: #fff1f2; /* 아주 연한 빨간 배경 */
-}
-
-.auth-input.input-error:focus {
-  border-color: #e11d48;
-  box-shadow: 0 0 0 3px rgba(225, 29, 72, 0.1);
-}
-
-/* --- 아이디 중복확인 버튼 관련 스타일 --- */
-
-/* 1. 입력창과 버튼을 감싸는 컨테이너 */
-.input-with-button {
-  display: flex;
-  align-items: center; /* 수직 중앙 정렬 (stretch 대신 center 사용해도 높이 고정이면 무관) */
-  gap: 10px;
+  max-width: 100%;
+  margin: 0 auto;
+  padding: 40px 30px;
+  gap: 30px;
   width: 100%;
+  /* 화면 꽉 채우기 */
 }
 
-/* 2. 컨테이너 내부 입력창: 너비 유동적 조절 */
-.input-with-button .auth-input {
-  flex: 1; 
-  min-width: 0;
-  margin: 0;
-  /* height: 48px; <- 이미 위에서 .auth-input에 전역 설정했으므로 생략 가능하나 확실하게 하기 위해 유지 */
-  height: 48px; 
-}
-
-/* 3. 중복확인 버튼 스타일 */
-.check-btn {
-  height: 48px;         /* ★ 입력창과 동일한 높이 */
-  padding: 0 20px;      /* 좌우 패딩 */
-  background-color: #3b82f6; 
-  color: white;
-  border: none;
-  border-radius: 8px;   /* auth-input과 동일한 둥글기 */
-  font-size: 14px;
-  font-weight: bold;
-  cursor: pointer;
-  white-space: nowrap;
-  display: flex;
-  align-items: center;  /* 텍스트 수직 중앙 정렬 */
-  justify-content: center;
-  transition: background-color 0.2s;
-  box-sizing: border-box;
-}
-
-.check-btn:hover {
-  background-color: #2563eb;
+.page-container.no-sidebar {
+  max-width: 100%;
+  display: block;
 }
 
 /* chatbot*/
@@ -844,38 +590,4 @@ body,
   justify-content: center;
   cursor: pointer;
   flex-shrink: 0;
-}
-
-.auth-input {
-  color: #111;
-}
-
-.social-login {
-  margin-top: 20px;
-  display: flex;
-  flex-direction: column;
-  gap: 10px;
-}
-
-.social-btn {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  gap: 10px;
-  padding: 10px;
-  border-radius: 6px;
-  font-size: 14px;
-  cursor: pointer;
-  border: none;
-}
-
-.social-btn.google {
-  background: #fff;
-  border: 1px solid #ddd;
-  color: #333;
-}
-
-.social-btn.kakao {
-  background: #fee500;
-  color: #000;
 }
