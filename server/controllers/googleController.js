@@ -15,52 +15,69 @@ passport.use(
       callbackURL: '/auth/google/callback',
     },
     async (accessToken, refreshToken, profile, done) => {
+      const conn = await db.getConnection();
       try {
         const provider = 'google';
         const socialId = profile.id;
         const email = profile.emails?.[0]?.value || null;
         const name = profile.displayName;
 
-        // 기존 소셜 계정 확인
-        const [authRows] = await db.query(
-          `
-          SELECT u.user_no
-          FROM user_auth ua
-          JOIN users u ON ua.user_no = u.user_no
-          WHERE ua.provider = ?
-          AND ua.social_id = ?
-          `,
+        await conn.beginTransaction();
+
+        // 1) user_auth 기준으로 기존 계정 확인 (있으면 로그인)
+        const [authRows] = await conn.query(
+          `SELECT user_no FROM user_auth WHERE provider = ? AND social_id = ? LIMIT 1`,
           [provider, socialId]
         );
 
         if (authRows.length > 0) {
-          return done(null, { userNo: authRows[0].user_no });
+          await conn.commit();
+          return done(null, { userNo: authRows[0].user_no, isNew: false });
         }
 
-        //  없으면 신규 유저 생성 (로그인 전용에서는 OK)
+        // 2) 없으면 신규 생성 시도
         const generatedLoginId = `google_${socialId}`;
+        let userNo;
+        let isNew = true;
 
-        const [userResult] = await db.query(
-          `
-          INSERT INTO users (id, name, email)
-          VALUES (?, ?, ?)
-          `,
-          [generatedLoginId, name, email]
-        );
+        try {
+          const [userResult] = await conn.query(
+            `INSERT INTO users (id, name, email) VALUES (?, ?, ?)`,
+            [generatedLoginId, name, email]
+          );
+          userNo = userResult.insertId;
+        } catch (e) {
+          // 이미 users에 google_... 이 들어가 있는 경우(중복) → 기존 user_no 가져오기
+          if (e.code === 'ER_DUP_ENTRY') {
+            isNew = false;
+            const [uRows] = await conn.query(
+              `SELECT user_no FROM users WHERE id = ? LIMIT 1`,
+              [generatedLoginId]
+            );
+            if (uRows.length === 0) throw e; // 이 경우는 정말 이상한 상태
+            userNo = uRows[0].user_no;
+          } else {
+            throw e;
+          }
+        }
 
-        const userNo = userResult.insertId;
-
-        await db.query(
+        // 3) user_auth는 UPSERT로 안전하게 넣기 (중복/레이스 방지)
+        await conn.query(
           `
           INSERT INTO user_auth (user_no, provider, social_id)
           VALUES (?, ?, ?)
+          ON DUPLICATE KEY UPDATE user_no = VALUES(user_no)
           `,
           [userNo, provider, socialId]
         );
 
-        return done(null, { userNo });
+        await conn.commit();
+        return done(null, { userNo, isNew });
       } catch (err) {
+        await conn.rollback();
         return done(err);
+      } finally {
+        conn.release();
       }
     }
   )
@@ -92,7 +109,7 @@ exports.googleCallback = (req, res) => {
       process.env.JWT_SECRET,
       { expiresIn: '7d' }
     );
-    
+
     res.cookie('accessToken', token, {
       httpOnly: true,
       secure: false,
@@ -100,7 +117,7 @@ exports.googleCallback = (req, res) => {
       path: '/',
       maxAge: 1000 * 60 * 60 * 24 * 7,
     });
-    
+
     const qs = req.user?.isNew ? 'signup=1' : 'login=1';
     return res.redirect(`http://localhost:5173/?${qs}&provider=google`);
   } catch (err) {
@@ -108,5 +125,4 @@ exports.googleCallback = (req, res) => {
     return res.redirect('http://localhost:5173/login?error=google');
   }
 };
-
 

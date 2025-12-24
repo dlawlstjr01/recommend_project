@@ -3,7 +3,6 @@ const KakaoStrategy = require('passport-kakao').Strategy;
 const jwt = require('jsonwebtoken');
 const db = require('../config/DB');
 
-
 //  카카오 로그인
 passport.use(
   'kakao-login',
@@ -13,55 +12,78 @@ passport.use(
       callbackURL: 'http://localhost:5000/auth/kakao/callback',
     },
     async (accessToken, refreshToken, profile, done) => {
+      const conn = await db.getConnection();
       try {
         const provider = 'kakao';
-        const socialId = String(profile.id); // 카카오 고유 id
+        const socialId = String(profile.id);
         const email = profile._json?.kakao_account?.email || null;
         const name =
           profile.displayName ||
           profile._json?.properties?.nickname ||
           'Kakao User';
 
-        // 기존 카카오 계정 확인
-        const [authRows] = await db.query(
-          `
-          SELECT u.user_no
-          FROM user_auth ua
-          JOIN users u ON ua.user_no = u.user_no
-          WHERE ua.provider = ?
-          AND ua.social_id = ?
-          `,
+        await conn.beginTransaction();
+
+        // 1) user_auth 기준으로 기존 계정 확인 (있으면 로그인)
+        const [authRows] = await conn.query(
+          `SELECT user_no FROM user_auth WHERE provider = ? AND social_id = ? LIMIT 1`,
           [provider, socialId]
         );
 
         if (authRows.length > 0) {
-          return done(null, { userNo: authRows[0].user_no });
+          await conn.commit();
+          return done(null, { userNo: authRows[0].user_no, isNew: false });
         }
 
-        //  없으면 신규 유저 생성
+        // 2) 없으면 신규 생성 시도 (users 중복 방어)
         const generatedLoginId = `kakao_${socialId}`;
+        let userNo;
+        let isNew = true;
 
-        const [userResult] = await db.query(
-          `INSERT INTO users (id, name, email) VALUES (?, ?, ?)`,
-          [generatedLoginId, name, email]
-        );
+        try {
+          const [userResult] = await conn.query(
+            `INSERT INTO users (id, name, email) VALUES (?, ?, ?)`,
+            [generatedLoginId, name, email]
+          );
+          userNo = userResult.insertId;
+        } catch (e) {
+          // users에 이미 kakao_... 이 있는 경우(중복) → 기존 user_no 가져오기
+          if (e.code === 'ER_DUP_ENTRY') {
+            isNew = false;
+            const [uRows] = await conn.query(
+              `SELECT user_no FROM users WHERE id = ? LIMIT 1`,
+              [generatedLoginId]
+            );
+            if (uRows.length === 0) throw e;
+            userNo = uRows[0].user_no;
+          } else {
+            throw e;
+          }
+        }
 
-        const userNo = userResult.insertId;
-
-        await db.query(
-          `INSERT INTO user_auth (user_no, provider, social_id) VALUES (?, ?, ?)`,
+        // 3) user_auth는 UPSERT로 안전하게 연결(중복/레이스 방지)
+        await conn.query(
+          `
+          INSERT INTO user_auth (user_no, provider, social_id)
+          VALUES (?, ?, ?)
+          ON DUPLICATE KEY UPDATE user_no = VALUES(user_no)
+          `,
           [userNo, provider, socialId]
         );
 
-        return done(null, { userNo });
+        await conn.commit();
+        return done(null, { userNo, isNew });
       } catch (err) {
+        await conn.rollback();
         return done(err);
+      } finally {
+        conn.release();
       }
     }
   )
 );
 
-//  카카오 연동
+//  카카오 연동은 그대로 OK
 passport.use(
   'kakao-link',
   new KakaoStrategy(
@@ -70,7 +92,7 @@ passport.use(
       callbackURL: 'http://localhost:5000/auth/kakao/link/callback',
     },
     async (accessToken, refreshToken, profile, done) => {
-      return done(null, profile); //  프로필만 넘김
+      return done(null, profile);
     }
   )
 );

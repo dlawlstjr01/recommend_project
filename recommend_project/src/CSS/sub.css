@@ -353,3 +353,8 @@ input[type="radio"].filter-checkbox:checked::after {
   content: none;
 }
 
+.offer-table { width: 100%; border-collapse: collapse; }
+.offer-table th, .offer-table td { border: 1px solid #ddd; padding: 10px; }
+.best-offer { font-weight: 600; }
+.best-badge { margin-left: 8px; padding: 2px 6px; border-radius: 8px; font-size: 12px; }
+.detail-bestprice { margin-top: 8px; }

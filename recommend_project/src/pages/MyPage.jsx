@@ -107,6 +107,7 @@ const MyPage = () => {
 
     try {
       await axios.post('/auth/change-password', {
+        id: user.id,
         currentPassword: pwForm.current,
         newPassword: pwForm.new,
       });
