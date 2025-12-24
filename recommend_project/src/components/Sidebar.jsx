@@ -466,7 +466,7 @@ const GroupHeader = ({ title, open, setOpen, checkboxRef, checked, onToggleAll }
       <div className="sidebar-section">
         <span className="filter-title">브랜드</span>
         <div className="filter-list">
-          {["삼성", "LG", "Apple", "ASUS", "Lenovo"].map((brand) => (
+          {["삼성전자", "LG전자", "Apple", "ASUS", "Lenovo"].map((brand) => (
             <label key={brand} className="filter-item">
               <input
                 type="checkbox"
