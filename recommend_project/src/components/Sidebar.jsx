@@ -93,7 +93,7 @@ const Sidebar = ({ filters, setFilters }) => {
     return keys.filter((k) => labelByKey[k]);
   }, [labelByKey]);
 
-  // ✅ 위 그룹/단일에 포함되지 않은 카테고리는 기타로
+  //  위 그룹/단일에 포함되지 않은 카테고리는 기타로
   const otherKeys = useMemo(() => {
     const used = new Set([
       ...desktopKeys,
@@ -107,16 +107,30 @@ const Sidebar = ({ filters, setFilters }) => {
       .sort((a, b) => (labelByKey[a] || a).localeCompare(labelByKey[b] || b, "ko"));
   }, [categoryOptions, desktopKeys, peripheralKeys, externalKeys, singleKeys, labelByKey]);
 
-  // ✅ 검색 적용
+  //  검색 적용
   const applySearch = () => {
     if (setFilters) setFilters((prev) => ({ ...prev, keyword: localKeyword }));
   };
+
+  //  타이핑 후 자동 검색 (300ms 디바운스)
+useEffect(() => {
+  if (!setFilters) return;
+
+  const timer = setTimeout(() => {
+    setFilters((prev) => ({
+      ...prev,
+      keyword: localKeyword,
+    }));
+  }, 300); // ← 여기 숫자 줄이면 더 즉각 반응
+
+  return () => clearTimeout(timer);
+}, [localKeyword, setFilters]);
 
   const handleKeyDown = (e) => {
     if (e.key === "Enter") applySearch();
   };
 
-  // ✅ 체크박스(단일 key) 토글
+  //  체크박스(단일 key) 토글
   const toggleKey = (key) => {
     if (!setFilters) return;
     setFilters((prev) => {
@@ -246,15 +260,15 @@ const GroupHeader = ({ title, open, setOpen, checkboxRef, checked, onToggleAll }
       aria-label={open ? "접기" : "펼치기"}
       title={open ? "접기" : "펼치기"}
       style={{
-        width: 24,
-        height: 24,
+        width: 32,
+        height: 32,
         border: "none",
         background: "transparent",
         cursor: "pointer",
         display: "flex",
         alignItems: "center",
         justifyContent: "center",
-        fontSize: 16,
+        fontSize: 30,
         lineHeight: 1,
         color: "rgba(0,0,0,0.55)",
         flexShrink: 0,

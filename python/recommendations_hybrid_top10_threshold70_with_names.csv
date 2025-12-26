@@ -1,0 +1,6 @@
+﻿user_no,item_no,product_name,brand,topcat_name,category_name,price,score_0_100,rank
+27,1,ITEM_1,UNKNOWN,,,,100.0,1
+27,2,ITEM_2,UNKNOWN,,,,100.0,2
+27,3,ITEM_3,UNKNOWN,,,,0.0,3
+27,4,ITEM_4,UNKNOWN,,,,0.0,4
+27,5,ITEM_5,UNKNOWN,,,,0.0,5

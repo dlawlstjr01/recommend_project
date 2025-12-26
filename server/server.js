@@ -13,7 +13,11 @@ const oauthRoutes = require('./routes/oauthRoutes');
 const chatbotRoutes = require("./routes/chatbotRoutes");
 const csRoutes = require("./routes/csRoutes");
 const csAdminRoutes = require("./routes/csAdminRoutes");
-const productsRoutes = require("./routes/productsRoutes")
+const productsRoutes = require("./routes/productsRoutes");
+const userLogRoutes = require("./routes/userLogRoutes");
+const recommendRoutes = require("./routes/recommendRoutes");
+
+
 const app = express();
 //  회원가입 / 인증 라우터
 app.use(cors({
@@ -23,6 +27,7 @@ app.use(cors({
 app.use(express.json());
 app.use(passport.initialize());
 app.use(cookieParser());
+app.use("/api/logs", userLogRoutes);
 app.use('/auth', authLocalRoutes);
 app.use('/auth', userRoutes);
 app.use('/auth', emailRoutes);
@@ -32,6 +37,7 @@ app.use("/api/chat", chatbotRoutes);
 app.use("/api/cs", csRoutes);
 app.use("/api/admin/cs", csAdminRoutes);
 app.use("/api/products", productsRoutes);
+app.use("/api/recommend", recommendRoutes);
 
 // 로컬 JSON 제품 전체 조회
 app.get('/api/local-products', (req, res) => {

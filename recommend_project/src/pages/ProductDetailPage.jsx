@@ -1,10 +1,17 @@
 import React, { useEffect, useMemo, useState, useRef } from "react";
 import { useLocation, useParams, Link } from "react-router-dom";
+import { groupSpecsByCategory } from "../utils/specMaps";
 
-const API_BASE = import.meta.env.VITE_API_BASE || "http://localhost:5000";
+const API_BASE =
+  import.meta.env.VITE_API_BASE || "http://localhost:5000";
+
+/* ================= helpers ================= */
 
 function stableImg(id) {
-  const seed = Array.from(String(id)).reduce((s, c) => s + c.charCodeAt(0), 0);
+  const seed = Array.from(String(id)).reduce(
+    (s, c) => s + c.charCodeAt(0),
+    0
+  );
   return `https://picsum.photos/800/800?random=${seed % 1000}`;
 }
 
@@ -19,18 +26,12 @@ function isHttpUrl(s) {
 }
 
 function isImageUrl(s) {
-  if (typeof s !== "string") return false;
   if (!isHttpUrl(s)) return false;
-  if (/\.(png|jpe?g|webp|gif|bmp|svg)(\?.*)?$/i.test(s)) return true;
-  if (/(img|image|photo|thumb|thumbnail|jpeg|jpg|png|webp)/i.test(s)) return true;
-  return false;
+  return /\.(png|jpe?g|webp|gif|bmp|svg)(\?.*)?$/i.test(s);
 }
 
-/**
- * SmartImg:
- * 1) 원본 url로 바로 로드
- * 2) 실패하면 /api/image 프록시로 1번 재시도
- */
+/* ================= SmartImg ================= */
+
 function SmartImg({ url, alt, style, className }) {
   const [src, setSrc] = useState(url);
   const triedProxy = useRef(false);
@@ -52,246 +53,282 @@ function SmartImg({ url, alt, style, className }) {
       onError={() => {
         if (!triedProxy.current) {
           triedProxy.current = true;
-          setSrc(`${API_BASE}/api/image?url=${encodeURIComponent(url)}`);
+          setSrc(
+            `${API_BASE}/api/image?url=${encodeURIComponent(
+              url
+            )}`
+          );
         }
       }}
     />
   );
 }
 
-function displayVal(v) {
-  if (v === null || v === undefined) return "-";
-  if (typeof v === "boolean") return yn(v);
-  if (Array.isArray(v)) return v.join(", ");
-  if (typeof v === "object") return JSON.stringify(v);
-  return String(v);
-}
+/* ================= Page ================= */
 
 export default function ProductDetailPage() {
   const { id } = useParams();
   const location = useLocation();
-  const initialProduct = location.state?.product || null;
+    // 🔥 추천에서 왔는지 여부
+  const fromRecommend = location.state?.from === "recommend";
 
+  // 🔥 추천에서 넘겨준 데이터
+  const initialProduct = location.state?.product || null;
   const [data, setData] = useState(initialProduct);
   const [raw, setRaw] = useState(null);
   const [loading, setLoading] = useState(!initialProduct);
   const [error, setError] = useState("");
 
-  useEffect(() => {
-    let ignore = false;
 
-    async function fetchDetail() {
-      try {
-        setError("");
-        setLoading(true);
+  /* 행동 로그 */
+  const enterTimeRef = useRef(Date.now());
+  const scrollCountRef = useRef(0);
+  const [me, setMe] = useState(null);
+  const userNoRef = useRef(null);
 
-        const res = await fetch(`${API_BASE}/api/products/${encodeURIComponent(id)}`);
-        if (!res.ok) throw new Error("fetch failed");
-        const detail = await res.json();
 
-        if (!ignore) {
-          setData(detail);
-          setRaw(detail.raw || null);
-        }
-      } catch (e) {
-        if (!ignore) {
-          setError("상세 정보를 불러오지 못했습니다.");
-          setData(null);
-          setRaw(null);
-        }
-      } finally {
-        if (!ignore) setLoading(false);
+  /* ---------------- fetch detail ---------------- */
+
+useEffect(() => {
+  let ignore = false;
+
+  async function fetchDetailIfNeeded() {
+    // 🔥 추천에서 온 경우 → Node API 절대 호출 금지
+    if (fromRecommend) return;
+
+    // 이미 raw 있으면 호출 안 함
+    if (raw?.Spec || raw?.DetailImages) return;
+
+    try {
+      setLoading(true);
+
+      const res = await fetch(
+        `${API_BASE}/api/products/${encodeURIComponent(id)}`
+      );
+      if (!res.ok) throw new Error("fetch failed");
+
+      const detail = await res.json();
+
+      if (!ignore) {
+        setData(detail);
+        setRaw(detail.raw || null);
       }
+    } catch {
+      if (!ignore) setError("상세 정보를 불러오지 못했습니다.");
+    } finally {
+      if (!ignore) setLoading(false);
     }
+  }
 
-    fetchDetail();
-    return () => {
-      ignore = true;
+  fetchDetailIfNeeded();
+
+  return () => {
+    ignore = true;
+  };
+}, [id, fromRecommend]);
+
+  /* ---------------- scroll attempt count ---------------- */
+
+  useEffect(() => {
+    const mark = () => {
+      scrollCountRef.current += 1;
     };
-  }, [id]);
 
-  // ✅ 대표 이미지: BaseImageURL 우선 → data.img → placeholder
+    window.addEventListener("wheel", mark, { passive: true });
+    window.addEventListener("touchmove", mark, {
+      passive: true,
+    });
+    window.addEventListener("keydown", (e) => {
+      if (
+        [
+          "ArrowDown",
+          "ArrowUp",
+          "PageDown",
+          "PageUp",
+          "Home",
+          "End",
+          " ",
+        ].includes(e.key)
+      ) {
+        mark();
+      }
+    });
+
+    return () => {
+      window.removeEventListener("wheel", mark);
+      window.removeEventListener("touchmove", mark);
+    };
+  }, []);
+
+useEffect(() => {
+  if (me?.user_no) {
+    userNoRef.current = me.user_no;
+  }
+  }, [me]);
+
+  useEffect(() => {
+  fetch("http://localhost:5000/auth/me", {
+    credentials: "include",
+  })
+    .then(res => res.json())
+    .then(data => {
+      setMe(data);
+    })
+    .catch(() => setMe(null));
+}, []);
+
+/* ---------------- send log ---------------- */
+useEffect(() => {
+  return () => {
+    if (!data?.id || !userNoRef.current) return;
+
+    const stay = Math.round(
+      (Date.now() - enterTimeRef.current) / 1000
+    );
+
+    fetch(`${API_BASE}/api/logs`, {
+      method: "POST",
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify({
+        user_id: userNoRef.current,   // user_no 정상 전달
+        product_id: data.id,
+        stay_time: stay,
+        scroll_depth: scrollCountRef.current,
+      }),
+      keepalive: true,
+    }).catch(() => {});
+  };
+  }, [data?.id]);
+
+  /* ---------------- images ---------------- */
+
   const mainImage = useMemo(() => {
-    const base = raw?.BaseImageURL || raw?.baseImageURL;
+    const base =
+      raw?.BaseImageURL || raw?.baseImageURL;
     if (isImageUrl(base)) return base;
-
-    if (typeof data?.img === "string" && isImageUrl(data.img)) return data.img;
-    if (typeof initialProduct?.img === "string" && isImageUrl(initialProduct.img)) return initialProduct.img;
-
+    if (isImageUrl(data?.img)) return data.img;
     return stableImg(data?.id || id);
-  }, [raw, data, initialProduct, id]);
+  }, [raw, data, id]);
 
-  // ✅ 상세설명 이미지(쿠팡처럼 아래로 길게)
   const detailImages = useMemo(() => {
     const arr =
-      Array.isArray(raw?.DetailImages) ? raw.DetailImages :
-      Array.isArray(raw?.detailImages) ? raw.detailImages :
-      [];
-
-    return arr.filter((u) => isImageUrl(u));
+      raw?.DetailImages || raw?.detailImages || [];
+    return Array.isArray(arr)
+      ? arr.filter(isImageUrl)
+      : [];
   }, [raw]);
 
-  // ✅ 스펙 섹션 (이미지 키는 빼서 라벨 안 보이게)
-  const specSections = useMemo(() => {
-    if (!raw) return [];
+  /* ---------------- spec logic ---------------- */
 
-    const isLaptop = !!(raw.model_name || raw.core_spec || raw.price_krw);
+  const isLaptop = !!(
+    raw?.model_name || raw?.core_spec
+  );
 
-    if (isLaptop) {
-      const sections = [];
+  const laptopSections = useMemo(() => {
+    if (!isLaptop) return [];
 
-      sections.push({
-        title: "기본 정보",
-        items: [
-          ["모델명", raw.model_name],
-          ["제품코드(pcode)", raw.pcode],
-        ].filter(([, v]) => v != null),
-      });
-
-      const cs = raw.core_spec || {};
-      sections.push({
-        title: "핵심 스펙",
-        items: [
-          ["CPU", cs.cpu_model],
-          ["CPU 클럭", cs.cpu_clock_ghz != null ? `${cs.cpu_clock_ghz}GHz` : null],
-          ["RAM", cs.ram_gb != null ? `${cs.ram_gb}GB` : null],
-          ["RAM 업그레이드", cs.ram_upgradable != null ? yn(cs.ram_upgradable) : null],
-          ["저장장치", cs.storage_gb != null ? `${cs.storage_gb}GB` : null],
-          ["GPU", cs.gpu_chipset],
-          ["VRAM", cs.vram_gb != null ? `${cs.vram_gb}GB` : null],
-          ["NPU TOPS", cs.npu_tops != null ? String(cs.npu_tops) : null],
-        ].filter(([, v]) => v != null),
-      });
-
-      const d = raw.display || {};
-      sections.push({
-        title: "디스플레이",
-        items: [
-          ["크기", d.inch != null ? `${d.inch}인치` : null],
-          ["주사율", d.refresh_rate_hz != null ? `${d.refresh_rate_hz}Hz` : null],
-          ["밝기", d.brightness_nit != null ? `${d.brightness_nit}nit` : null],
-          ["광시야각", d.wide_view != null ? yn(d.wide_view) : null],
-        ].filter(([, v]) => v != null),
-      });
-
-      return sections.filter((s) => s.items.length > 0);
-    }
-
-    // 다른 카테고리 fallback
-    const banKeys = new Set(["BaseImageURL", "DetailImages", "baseImageURL", "detailImages"]);
-    const entries = Object.entries(raw).filter(([k, v]) => {
-      if (banKeys.has(k)) return false;
-      if (typeof v === "boolean" && v === false) return false;
-      if (k.startsWith("Name_") || k.startsWith("ReleaseDate_") || k.startsWith("Type_")) return v === true;
-      return true;
-    });
+    const cs = raw.core_spec || {};
+    const d = raw.display || {};
 
     return [
       {
-        title: "제품 스펙",
-        items: entries.slice(0, 80).map(([k, v]) => [k, displayVal(v)]),
+        title: "기본 정보",
+        items: [
+          ["모델명", raw.model_name],
+          ["제품코드", raw.pcode],
+        ],
       },
-    ];
-  }, [raw]);
+      {
+        title: "핵심 스펙",
+        items: [
+          ["CPU", cs.cpu_model],
+          ["RAM", cs.ram_gb && `${cs.ram_gb}GB`],
+          ["GPU", cs.gpu_chipset],
+          ["VRAM", cs.vram_gb && `${cs.vram_gb}GB`],
+        ],
+      },
+      {
+        title: "디스플레이",
+        items: [
+          ["크기", d.inch && `${d.inch}인치`],
+          ["주사율", d.refresh_rate_hz && `${d.refresh_rate_hz}Hz`],
+          ["밝기", d.brightness_nit && `${d.brightness_nit}nit`],
+        ],
+      },
+    ].map((s) => ({
+      ...s,
+      items: s.items.filter(([, v]) => v != null),
+    }));
+  }, [raw, isLaptop]);
 
-  if (loading) return <div className="detail-container">로딩중...</div>;
-  if (error) return <div className="detail-container">{error}</div>;
+  const groupedSpecs = useMemo(() => {
+    if (isLaptop || !raw?.Spec) return {};
+    return groupSpecsByCategory(raw.Spec, data.category);
+  }, [raw, data, isLaptop]);
+
+  /* ---------------- render ---------------- */
+
+  if (loading)
+    return <div className="detail-container">로딩중...</div>;
+  if (error)
+    return <div className="detail-container">{error}</div>;
   if (!data) return null;
 
   return (
     <div className="detail-container">
-      <Link to="/products" className="back-link">← 목록으로</Link>
+      <Link to="/products" className="back-link">
+        ← 목록으로
+      </Link>
 
-      {/* ✅ 상단: 쿠팡처럼 대표 이미지 + 요약 */}
-      <div className="detail-top" style={{ display: "flex", gap: 28, alignItems: "flex-start" }}>
-        <div
-          style={{
-            width: 520,
-            height: 520,
-            border: "1px solid rgba(0,0,0,0.12)",
-            borderRadius: 12,
-            background: "#fff",
-            display: "flex",
-            alignItems: "center",
-            justifyContent: "center",
-            overflow: "hidden",
-            flexShrink: 0,
-          }}
-        >
-          <SmartImg
-            url={mainImage}
-            alt={data.name}
-            style={{ width: "100%", height: "100%", objectFit: "contain" }}
-          />
+      {/* top */}
+      <div className="detail-top">
+        <div className="detail-image">
+          <SmartImg url={mainImage} alt={data.name} />
         </div>
-
         <div className="detail-summary">
-          <span className="detail-brand">{data.brand || "브랜드 정보 없음"}</span>
-          <h1 className="detail-name">{data.name}</h1>
-          <p className="detail-price">{Number(data.price || 0).toLocaleString()}원</p>
-          <p style={{ opacity: 0.7 }}>카테고리: {data.category}</p>
-
-          {data.url && (
-            <p style={{ marginTop: 10 }}>
-              <a href={data.url} target="_blank" rel="noreferrer">제품 페이지 열기</a>
-            </p>
-          )}
+          <span>{data.brand}</span>
+          <h1>{data.name}</h1>
+          <p>{Number(data.price || 0).toLocaleString()}원</p>
+          <p>카테고리: {data.category}</p>
         </div>
       </div>
 
-      {/* ✅ 스펙 */}
-      {specSections.length > 0 && (
-        specSections.map((sec) => (
-          <section className="detail-section" key={sec.title}>
-            <h2>{sec.title}</h2>
-            <ul className="spec-list">
-              {sec.items.map(([k, v], idx) => (
-                <li key={`${k}-${idx}`}>
-                  <b>{k}</b> : {v}
-                </li>
-              ))}
-            </ul>
-          </section>
-        ))
-      )}
+      {/* specs */}
+      {isLaptop
+        ? laptopSections.map((sec) => (
+            <section key={sec.title}>
+              <h2>{sec.title}</h2>
+              <ul>
+                {sec.items.map(([k, v]) => (
+                  <li key={k}>
+                    <b>{k}</b> : {v}
+                  </li>
+                ))}
+              </ul>
+            </section>
+          ))
+        : Object.entries(groupedSpecs).map(
+            ([title, items]) => (
+              <section key={title}>
+                <h2>{title}</h2>
+                <ul>
+                  {items.map(([k, v]) => (
+                    <li key={k}>
+                      <b>{k}</b> : {String(v)}
+                    </li>
+                  ))}
+                </ul>
+              </section>
+            )
+          )}
 
-      {/* ✅ 핵심: 상세설명 이미지(DetailImages) 아래로 길게" */}
+      {/* detail images */}
       {detailImages.length > 0 && (
-        <section className="detail-section" style={{ marginTop: 24 }}>
+        <section>
           <h2>상세 설명</h2>
-
-          <div
-            style={{
-              width: "100%",
-              maxWidth: 860,
-              margin: "0 auto",
-              display: "flex",
-              flexDirection: "column",
-              gap: 14,
-            }}
-          >
-            {detailImages.map((u) => (
-              <div
-                key={u}
-                style={{
-                  border: "1px solid rgba(0,0,0,0.10)",
-                  borderRadius: 12,
-                  background: "#fff",
-                  overflow: "hidden",
-                }}
-              >
-                <SmartImg
-                  url={u}
-                  alt="detail"
-                  style={{
-                    width: "100%",
-                    height: "auto",
-                    display: "block",
-                  }}
-                />
-              </div>
-            ))}
-          </div>
+          {detailImages.map((u) => (
+            <SmartImg key={u} url={u} />
+          ))}
         </section>
       )}
     </div>

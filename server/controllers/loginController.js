@@ -7,10 +7,10 @@ const getCookieOptions = () => {
 
   return {
     httpOnly: true,
-    secure: isProd,          // 운영 HTTPS면 true
+    secure: false,       // 운영 HTTPS면 true
     sameSite: 'lax',         // 보통 'lax' (프론트/백 분리+크로스사이트면 'none' + secure 필요)
-    path: '/',
     maxAge: 1000 * 60 * 60,  // 1시간
+    path: '/',
   };
 };
 
@@ -95,11 +95,17 @@ exports.me = async (req, res) => {
     const userNo = req.user.userNo;
 
     const [rows] = await db.query(
-      `SELECT id, name, email, role FROM users WHERE user_no = ?`,
+      `SELECT user_no, id, name, email, role FROM users WHERE user_no = ?`,
       [userNo]
     );
 
-    res.json(rows[0]);
+        res.json({
+      user_no: rows[0].user_no,
+      id: rows[0].id,
+      name: rows[0].name,
+      email: rows[0].email,
+      role: rows[0].role,
+    });
   } catch (err) {
     res.status(500).json({ message: '서버 오류' });
   }
