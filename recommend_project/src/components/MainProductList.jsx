@@ -9,16 +9,13 @@ import {
   FaSearch,
 } from "react-icons/fa";
 
-const NODE_API = "http://localhost:5000";
+const API_BASE = import.meta.env.VITE_API_BASE || "http://localhost:5000";
 
 /* -------------------------------
    이미지 안정화
 -------------------------------- */
 function stableImg(id) {
-  const seed = Array.from(String(id)).reduce(
-    (s, c) => s + c.charCodeAt(0),
-    0
-  );
+  const seed = Array.from(String(id)).reduce((s, c) => s + c.charCodeAt(0), 0);
   return `https://picsum.photos/400/400?random=${seed % 1000}`;
 }
 
@@ -44,20 +41,50 @@ export default function MainProductList() {
   const [loadingRecommend, setLoadingRecommend] = useState(true);
 
   // 🔥 로그인 사용자 정보
-const [me, setMe] = useState(null);
+  const [me, setMe] = useState(null);
 
-useEffect(() => {
-  fetch("http://localhost:5000/auth/me", {
-    credentials: "include",
-  })
-    .then((res) => {
-      if (!res.ok) return null;
-      return res.json();
+  // ✅ (추가) category key -> label
+  const [labelByKey, setLabelByKey] = useState({});
+
+  // ✅ (추가) 카테고리 라벨 로드 (ProductsPage 방식 그대로)
+  useEffect(() => {
+    let ignore = false;
+
+    async function fetchCategoryLabels() {
+      try {
+        const res = await fetch(`${API_BASE}/api/products/categories`);
+        const list = await res.json();
+        if (ignore) return;
+
+        const map = {};
+        if (Array.isArray(list)) {
+          list.forEach((c) => {
+            if (c?.key) map[c.key] = c.label || c.key;
+          });
+        }
+        setLabelByKey(map);
+      } catch {
+        if (!ignore) setLabelByKey({});
+      }
+    }
+
+    fetchCategoryLabels();
+    return () => {
+      ignore = true;
+    };
+  }, []);
+
+  useEffect(() => {
+    fetch(`${API_BASE}/auth/me`, {
+      credentials: "include",
     })
-    .then((data) => setMe(data))
-    .catch(() => setMe(null));
-}, []);
-
+      .then((res) => {
+        if (!res.ok) return null;
+        return res.json();
+      })
+      .then((data) => setMe(data))
+      .catch(() => setMe(null));
+  }, []);
 
   /* -------------------------------
      전체 상품 로드
@@ -68,7 +95,7 @@ useEffect(() => {
     async function fetchProducts() {
       try {
         setLoading(true);
-        const res = await fetch(`${NODE_API}/api/products`);
+        const res = await fetch(`${API_BASE}/api/products`);
         const list = await res.json();
         if (ignore) return;
 
@@ -77,6 +104,8 @@ useEffect(() => {
           brand: p.brand || "기타",
           img: p.img || stableImg(p.id),
           tags: p.tags || [],
+          // ✅ (추가) categoryLabel 붙이기
+          categoryLabel: labelByKey[p.category] || p.category || "",
         }));
 
         setProducts(shuffleArray(normalized));
@@ -89,53 +118,54 @@ useEffect(() => {
     return () => {
       ignore = true;
     };
-  }, []);
+  }, [JSON.stringify(labelByKey)]); // ✅ (추가) 라벨맵 로드 후에도 categoryLabel 반영되게
 
   /* -------------------------------
      개인화 추천 로드
   -------------------------------- */
-useEffect(() => {
-  if (!me?.user_no) {
-    setPersonalRecommendList([]);
-    setLoadingRecommend(false);
-    return;
-  }
-
-  const loadRecommend = async () => {
-    try {
-      const res = await fetchRecommendations();
-      console.log("🔥 /api/recommend response:", res);
-
-      const items = Array.isArray(res?.items) ? res.items : [];
-
-      const normalized = items.map((p, idx) => {
-      const id = p.item_no ?? p.id ?? idx;
-
-      return {
-        id,                       // key + 라우팅용
-        product_id: id,
-        name: p.product_name ?? p.name ?? "상품명 없음",
-        brand: p.brand || "기타",
-        price: Number(p.price) || 0,
-        category: p.category,
-        img: p.thumbnail || p.img || stableImg(id), 
-        tags: ["추천"],
-      };
-    });
-
-
-      setPersonalRecommendList(normalized);
-    } catch (e) {
-      console.error("❌ recommend load error:", e);
+  useEffect(() => {
+    if (!me?.user_no) {
       setPersonalRecommendList([]);
-    } finally {
       setLoadingRecommend(false);
+      return;
     }
-  };
 
-  loadRecommend();
-}, [me]);
+    const loadRecommend = async () => {
+      try {
+        const res = await fetchRecommendations();
+        console.log("🔥 /api/recommend response:", res);
 
+        const items = Array.isArray(res?.items) ? res.items : [];
+
+        const normalized = items.map((p, idx) => {
+          const id = p.item_no ?? p.id ?? idx;
+          const category = p.category;
+
+          return {
+            id,
+            product_id: id,
+            name: p.product_name ?? p.name ?? "상품명 없음",
+            brand: p.brand || "기타",
+            price: Number(p.price) || 0,
+            category,
+            // ✅ (추가) 추천에도 categoryLabel 붙이기
+            categoryLabel: labelByKey[category] || category || "",
+            img: p.thumbnail || p.img || stableImg(id),
+            tags: ["추천"],
+          };
+        });
+
+        setPersonalRecommendList(normalized);
+      } catch (e) {
+        console.error("❌ recommend load error:", e);
+        setPersonalRecommendList([]);
+      } finally {
+        setLoadingRecommend(false);
+      }
+    };
+
+    loadRecommend();
+  }, [me, JSON.stringify(labelByKey)]); // ✅ (추가) 라벨맵 반영
 
   const goSearch = () => {
     if (keyword.trim()) {
@@ -148,28 +178,16 @@ useEffect(() => {
   const bestList = products.slice(5, 10);
   const newList = products.slice(10, 15);
 
-const renderGrid = (list) => (
-  <div className="product-grid">
-    {list.map((p) => {
-      const productForDetail = {
-        id: p.id,
-        category: p.category,
-        name: p.name,
-        price: p.price,
-        brand: p.brand,
-        img: p.img,
-        url: p.url || null,   // 없으면 null
-        raw: p.raw || p,      
-      };
-
-      return (
+  const renderGrid = (list) => (
+    <div className="product-grid">
+      {list.map((p) => (
         <Link
           key={p.id}
           to={`/products/${encodeURIComponent(p.id)}`}
-            state={{
+          state={{
             product: p,
             raw: p.raw || p,
-            from: "recommend"
+            from: "recommend",
           }}
           className="product-card"
           style={{ textDecoration: "none", color: "inherit" }}
@@ -179,19 +197,21 @@ const renderGrid = (list) => (
           </div>
 
           <div className="product-info">
-            <span className="product-brand">{p.brand || "기타"}</span>
+            <span className="product-brand">{p.brand}</span>
             <p className="product-name">{p.name}</p>
             <p className="product-price">
               {(Number(p.price) || 0).toLocaleString()}원
             </p>
+
+            {/* ✅ 여기 “아래 카테고리”가 이제 뜸 */}
+            <p style={{ fontSize: 12, opacity: 0.7 }}>
+              {p.categoryLabel || labelByKey[p.category] || p.category || ""}
+            </p>
           </div>
         </Link>
-      );
-    })}
-  </div>
-);
-
-
+      ))}
+    </div>
+  );
 
   if (loading) return <div style={{ padding: 40 }}>로딩중...</div>;
 
@@ -247,10 +267,7 @@ function Section({ title, icon, link, children }) {
         <h2 className="section-title">
           {icon} {title}
         </h2>
-        <span
-          className="more-link"
-          onClick={() => (window.location.href = link)}
-        >
+        <span className="more-link" onClick={() => (window.location.href = link)}>
           더보기 +
         </span>
       </div>
