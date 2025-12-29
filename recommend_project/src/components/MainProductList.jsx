@@ -5,6 +5,7 @@ import { FaArrowRight, FaSearch } from "react-icons/fa";
 
 const API_BASE = import.meta.env.VITE_API_BASE || "http://localhost:5000";
 
+
 function stableImg(id) {
   const seed = Array.from(String(id)).reduce((s, c) => s + c.charCodeAt(0), 0);
   return `https://picsum.photos/400/400?random=${seed % 1000}`;
@@ -29,6 +30,17 @@ export default function MainProductList() {
 
   const [me, setMe] = useState(null);
   const [labelByKey, setLabelByKey] = useState({});
+  
+  const baseKey = (fullId) => String(fullId ?? "").replace(/-[0-9a-f]{8}-\d+$/, "");
+
+  const productByBase = React.useMemo(() => {
+    const m = new Map();
+    products.forEach((p) => {
+      const bk = baseKey(p.id);
+      if (bk && !m.has(bk)) m.set(bk, p);
+    });
+    return m;
+  }, [products]);
 
   useEffect(() => {
     let ignore = false;
@@ -112,25 +124,26 @@ export default function MainProductList() {
 
         const items = Array.isArray(res?.items) ? res.items : [];
 
-        const normalized = items.map((p, idx) => {
-          const id = p.id ?? idx; // ✅ main.py는 id 내려줌
-          const category = p.category;
+        const normalized = items
+          .map((rec, idx) => {
+            const bk = rec.base_id ?? rec.product_id ?? baseKey(rec.id); // ✅ basekey
+            const matched = productByBase.get(bk);                       // ✅ 5000 상품
 
-          return {
-            id,
-            product_id: p.id, // (원하면 p.url 같은 것도 붙일 수 있음)
-            name: p.name ?? "상품명 없음",
-            brand: p.brand || "기타",
-            price: Number(p.price) || 0,
-            category,
-            categoryLabel: labelByKey[category] || category || "",
-            img: p.img || stableImg(id),
-            tags: ["추천"],
-            url: p.url,
-          };
-        });
+            if (!matched) return null; // 매칭 안되면 상세 못 가니까 제외
+
+            return {
+              ...matched,                 // ✅ 여기 id가 5000의 진짜 id로 유지됨 (상세 OK)
+              tags: ["추천"],
+              score: rec.score,
+              rec_rank: rec.rec_rank,
+              _key: `${bk}-${idx}`,       // React key용
+            };
+          })
+          .filter(Boolean);
 
         setPersonalRecommendList(normalized);
+
+
       } catch (e) {
         console.error("❌ recommend load error:", e);
         setPersonalRecommendList([]);
@@ -140,7 +153,7 @@ export default function MainProductList() {
     };
 
     loadRecommend();
-  }, [me, JSON.stringify(labelByKey)]);
+  }, [me, products, JSON.stringify(labelByKey)]);
 
   const goSearch = () => {
     if (keyword.trim()) {
@@ -154,28 +167,31 @@ export default function MainProductList() {
 
   const renderGrid = (list) => (
     <div className="product-grid">
-      {list.map((p) => (
-        <Link
-          key={p.id}
-          to={`/products/${encodeURIComponent(p.id)}`}
-          state={{ product: p, raw: p.raw || p, from: "recommend" }}
-          className="product-card"
-          style={{ textDecoration: "none", color: "inherit" }}
-        >
-          <div className="product-img-wrapper">
-            <img src={p.img} alt={p.name} />
-          </div>
+      {list.map((p) => {
 
-          <div className="product-info">
-            <span className="product-brand">{p.brand}</span>
-            <p className="product-name">{p.name}</p>
-            <p className="product-price">{(Number(p.price) || 0).toLocaleString()}원</p>
-            <p style={{ fontSize: 12, opacity: 0.7 }}>
-              {p.categoryLabel || labelByKey[p.category] || p.category || ""}
-            </p>
-          </div>
-        </Link>
-      ))}
+        return (
+          <Link
+            key={p._key ?? p.id}
+            to={`/products/${encodeURIComponent(p.id)}`}
+            state={{ product: p, raw: p.raw || p, from: "recommend" }}
+            className="product-card"
+            style={{ textDecoration: "none", color: "inherit" }}
+          >
+            <div className="product-img-wrapper">
+              <img src={p.img} alt={p.name} />
+            </div>
+
+            <div className="product-info">
+              <span className="product-brand">{p.brand}</span>
+              <p className="product-name">{p.name}</p>
+              <p className="product-price">{(Number(p.price) || 0).toLocaleString()}원</p>
+              <p style={{ fontSize: 12, opacity: 0.7 }}>
+                {p.categoryLabel || labelByKey[p.category] || p.category || ""}
+              </p>
+            </div>
+          </Link>
+        );
+      })}
     </div>
   );
 

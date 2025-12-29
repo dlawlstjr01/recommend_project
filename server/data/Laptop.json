@@ -15,7 +15,7 @@
             "wide_view": true,
             "brightness_nit": 500
         },
-        "core_spec": {
+        "Spec": {
             "cpu_model": "8940HX (5.3GHz)",
             "cpu_clock_ghz": 5.3,
             "ram_gb": 0,
@@ -81,7 +81,7 @@
             "wide_view": false,
             "brightness_nit": 500
         },
-        "core_spec": {
+        "Spec": {
             "cpu_model": "350 (5.0GHz)",
             "cpu_clock_ghz": 5.0,
             "ram_gb": 0,
@@ -147,7 +147,7 @@
             "wide_view": false,
             "brightness_nit": 0
         },
-        "core_spec": {
+        "Spec": {
             "cpu_model": "i5-1334U (1.3GHz)",
             "cpu_clock_ghz": 1.3,
             "ram_gb": 0,
@@ -213,7 +213,7 @@
             "wide_view": false,
             "brightness_nit": 400
         },
-        "core_spec": {
+        "Spec": {
             "cpu_model": "255H (5.1GHz)",
             "cpu_clock_ghz": 5.1,
             "ram_gb": 0,
@@ -277,7 +277,7 @@
             "wide_view": false,
             "brightness_nit": 0
         },
-        "core_spec": {
+        "Spec": {
             "cpu_model": "i5-1335U (1.3GHz)",
             "cpu_clock_ghz": 1.3,
             "ram_gb": 0,
@@ -341,7 +341,7 @@
             "wide_view": true,
             "brightness_nit": 400
         },
-        "core_spec": {
+        "Spec": {
             "cpu_model": "i7-14650HX (5.2GHz)",
             "cpu_clock_ghz": 5.2,
             "ram_gb": 0,
@@ -406,7 +406,7 @@
             "wide_view": false,
             "brightness_nit": 500
         },
-        "core_spec": {
+        "Spec": {
             "cpu_model": "275HX (5.4GHz)",
             "cpu_clock_ghz": 5.4,
             "ram_gb": 0,
@@ -472,7 +472,7 @@
             "wide_view": false,
             "brightness_nit": 350
         },
-        "core_spec": {
+        "Spec": {
             "cpu_model": "225H (4.9GHz)",
             "cpu_clock_ghz": 4.9,
             "ram_gb": 0,
@@ -537,7 +537,7 @@
             "wide_view": false,
             "brightness_nit": 400
         },
-        "core_spec": {
+        "Spec": {
             "cpu_model": "226V (4.5GHz)",
             "cpu_clock_ghz": 4.5,
             "ram_gb": 0,
@@ -605,7 +605,7 @@
             "wide_view": false,
             "brightness_nit": 400
         },
-        "core_spec": {
+        "Spec": {
             "cpu_model": "226V (4.5GHz)",
             "cpu_clock_ghz": 4.5,
             "ram_gb": 0,
@@ -671,7 +671,7 @@
             "wide_view": false,
             "brightness_nit": 400
         },
-        "core_spec": {
+        "Spec": {
             "cpu_model": "350 (5.0GHz)",
             "cpu_clock_ghz": 5.0,
             "ram_gb": 0,
@@ -755,7 +755,7 @@
             "wide_view": false,
             "brightness_nit": 400
         },
-        "core_spec": {
+        "Spec": {
             "cpu_model": "258V (4.8GHz)",
             "cpu_clock_ghz": 4.8,
             "ram_gb": 0,
@@ -822,7 +822,7 @@
             "wide_view": false,
             "brightness_nit": 400
         },
-        "core_spec": {
+        "Spec": {
             "cpu_model": "260 (5.1GHz)",
             "cpu_clock_ghz": 5.1,
             "ram_gb": 0,
@@ -887,7 +887,7 @@
             "wide_view": false,
             "brightness_nit": 250
         },
-        "core_spec": {
+        "Spec": {
             "cpu_model": "8845HS (3.8GHz)",
             "cpu_clock_ghz": 3.8,
             "ram_gb": 0,
@@ -952,7 +952,7 @@
             "wide_view": false,
             "brightness_nit": 400
         },
-        "core_spec": {
+        "Spec": {
             "cpu_model": "226V (4.5GHz)",
             "cpu_clock_ghz": 4.5,
             "ram_gb": 0,
@@ -1017,7 +1017,7 @@
             "wide_view": false,
             "brightness_nit": 500
         },
-        "core_spec": {
+        "Spec": {
             "cpu_model": "9955HX3D (5.4GHz)",
             "cpu_clock_ghz": 5.4,
             "ram_gb": 0,
@@ -1105,7 +1105,7 @@
             "wide_view": false,
             "brightness_nit": 300
         },
-        "core_spec": {
+        "Spec": {
             "cpu_model": "250 (5.1GHz)",
             "cpu_clock_ghz": 5.1,
             "ram_gb": 0,
@@ -1184,7 +1184,7 @@
             "wide_view": false,
             "brightness_nit": 400
         },
-        "core_spec": {
+        "Spec": {
             "cpu_model": "255H (5.1GHz)",
             "cpu_clock_ghz": 5.1,
             "ram_gb": 0,
@@ -1249,7 +1249,7 @@
             "wide_view": false,
             "brightness_nit": 400
         },
-        "core_spec": {
+        "Spec": {
             "cpu_model": "258V (4.8GHz)",
             "cpu_clock_ghz": 4.8,
             "ram_gb": 0,
@@ -1314,7 +1314,7 @@
             "wide_view": false,
             "brightness_nit": 400
         },
-        "core_spec": {
+        "Spec": {
             "cpu_model": "225H (4.9GHz)",
             "cpu_clock_ghz": 4.9,
             "ram_gb": 0,
@@ -1379,7 +1379,7 @@
             "wide_view": false,
             "brightness_nit": 500
         },
-        "core_spec": {
+        "Spec": {
             "cpu_model": "270 (5.2GHz)",
             "cpu_clock_ghz": 5.2,
             "ram_gb": 0,
@@ -1468,7 +1468,7 @@
             "wide_view": true,
             "brightness_nit": 300
         },
-        "core_spec": {
+        "Spec": {
             "cpu_model": "210H (4.8GHz)",
             "cpu_clock_ghz": 4.8,
             "ram_gb": 0,
@@ -1552,7 +1552,7 @@
             "wide_view": false,
             "brightness_nit": 500
         },
-        "core_spec": {
+        "Spec": {
             "cpu_model": "7945HX (2.5Hz)",
             "cpu_clock_ghz": 0.0,
             "ram_gb": 0,
@@ -1618,7 +1618,7 @@
             "wide_view": false,
             "brightness_nit": 500
         },
-        "core_spec": {
+        "Spec": {
             "cpu_model": "7945HX (2.5Hz)",
             "cpu_clock_ghz": 0.0,
             "ram_gb": 0,
@@ -1683,7 +1683,7 @@
             "wide_view": true,
             "brightness_nit": 400
         },
-        "core_spec": {
+        "Spec": {
             "cpu_model": "260 (5.1GHz)",
             "cpu_clock_ghz": 5.1,
             "ram_gb": 0,
@@ -1751,7 +1751,7 @@
             "wide_view": false,
             "brightness_nit": 0
         },
-        "core_spec": {
+        "Spec": {
             "cpu_model": "i5-1335U (1.3GHz)",
             "cpu_clock_ghz": 1.3,
             "ram_gb": 0,
@@ -1818,7 +1818,7 @@
             "wide_view": false,
             "brightness_nit": 400
         },
-        "core_spec": {
+        "Spec": {
             "cpu_model": "255H (5.1GHz)",
             "cpu_clock_ghz": 5.1,
             "ram_gb": 0,
@@ -1883,7 +1883,7 @@
             "wide_view": false,
             "brightness_nit": 0
         },
-        "core_spec": {
+        "Spec": {
             "cpu_model": "i5-1334U (1.3GHz)",
             "cpu_clock_ghz": 1.3,
             "ram_gb": 0,
@@ -1948,7 +1948,7 @@
             "wide_view": false,
             "brightness_nit": 250
         },
-        "core_spec": {
+        "Spec": {
             "cpu_model": "8845HS (3.8GHz)",
             "cpu_clock_ghz": 3.8,
             "ram_gb": 0,
@@ -2013,7 +2013,7 @@
             "wide_view": false,
             "brightness_nit": 0
         },
-        "core_spec": {
+        "Spec": {
             "cpu_model": "i5-1334U (1.3GHz)",
             "cpu_clock_ghz": 1.3,
             "ram_gb": 0,
@@ -2079,7 +2079,7 @@
             "wide_view": false,
             "brightness_nit": 300
         },
-        "core_spec": {
+        "Spec": {
             "cpu_model": "i9-13900H (2.6GHz)",
             "cpu_clock_ghz": 2.6,
             "ram_gb": 0,
@@ -2144,7 +2144,7 @@
             "wide_view": false,
             "brightness_nit": 350
         },
-        "core_spec": {
+        "Spec": {
             "cpu_model": "340 (4.8GHz)",
             "cpu_clock_ghz": 4.8,
             "ram_gb": 0,
@@ -2210,7 +2210,7 @@
             "wide_view": false,
             "brightness_nit": 1000
         },
-        "core_spec": {
+        "Spec": {
             "cpu_model": "",
             "cpu_clock_ghz": 0.0,
             "ram_gb": 0,
@@ -2276,7 +2276,7 @@
             "wide_view": false,
             "brightness_nit": 400
         },
-        "core_spec": {
+        "Spec": {
             "cpu_model": "8640U (3.5GHz)",
             "cpu_clock_ghz": 3.5,
             "ram_gb": 0,
@@ -2341,7 +2341,7 @@
             "wide_view": false,
             "brightness_nit": 250
         },
-        "core_spec": {
+        "Spec": {
             "cpu_model": "7430U (2.3Hz)",
             "cpu_clock_ghz": 0.0,
             "ram_gb": 0,
@@ -2410,7 +2410,7 @@
             "wide_view": false,
             "brightness_nit": 350
         },
-        "core_spec": {
+        "Spec": {
             "cpu_model": "125H (4.5GHz)",
             "cpu_clock_ghz": 4.5,
             "ram_gb": 0,
@@ -2477,7 +2477,7 @@
             "wide_view": false,
             "brightness_nit": 400
         },
-        "core_spec": {
+        "Spec": {
             "cpu_model": "225H (4.9GHz)",
             "cpu_clock_ghz": 4.9,
             "ram_gb": 0,
@@ -2542,7 +2542,7 @@
             "wide_view": false,
             "brightness_nit": 400
         },
-        "core_spec": {
+        "Spec": {
             "cpu_model": "275HX (5.4GHz)",
             "cpu_clock_ghz": 5.4,
             "ram_gb": 0,
@@ -2606,7 +2606,7 @@
             "wide_view": false,
             "brightness_nit": 350
         },
-        "core_spec": {
+        "Spec": {
             "cpu_model": "125H (4.5GHz)",
             "cpu_clock_ghz": 4.5,
             "ram_gb": 0,
@@ -2670,7 +2670,7 @@
             "wide_view": true,
             "brightness_nit": 300
         },
-        "core_spec": {
+        "Spec": {
             "cpu_model": "8945HS (4.0GHz)",
             "cpu_clock_ghz": 4.0,
             "ram_gb": 0,
@@ -2735,7 +2735,7 @@
             "wide_view": false,
             "brightness_nit": 500
         },
-        "core_spec": {
+        "Spec": {
             "cpu_model": "350 (5.0GHz)",
             "cpu_clock_ghz": 5.0,
             "ram_gb": 0,
@@ -2799,7 +2799,7 @@
             "wide_view": false,
             "brightness_nit": 250
         },
-        "core_spec": {
+        "Spec": {
             "cpu_model": "260 (5.1GHz)",
             "cpu_clock_ghz": 5.1,
             "ram_gb": 0,
@@ -2864,7 +2864,7 @@
             "wide_view": false,
             "brightness_nit": 400
         },
-        "core_spec": {
+        "Spec": {
             "cpu_model": "125H (4.5GHz)",
             "cpu_clock_ghz": 4.5,
             "ram_gb": 0,
@@ -2930,7 +2930,7 @@
             "wide_view": false,
             "brightness_nit": 300
         },
-        "core_spec": {
+        "Spec": {
             "cpu_model": "7430U (2.3Hz)",
             "cpu_clock_ghz": 0.0,
             "ram_gb": 0,
@@ -2993,7 +2993,7 @@
             "wide_view": false,
             "brightness_nit": 300
         },
-        "core_spec": {
+        "Spec": {
             "cpu_model": "i5-13420H (2.1GHz)",
             "cpu_clock_ghz": 2.1,
             "ram_gb": 1,
@@ -3062,7 +3062,7 @@
             "wide_view": false,
             "brightness_nit": 350
         },
-        "core_spec": {
+        "Spec": {
             "cpu_model": "125H (4.5GHz)",
             "cpu_clock_ghz": 4.5,
             "ram_gb": 0,
@@ -3127,7 +3127,7 @@
             "wide_view": false,
             "brightness_nit": 0
         },
-        "core_spec": {
+        "Spec": {
             "cpu_model": "i5-1340P (1.9GHz)",
             "cpu_clock_ghz": 1.9,
             "ram_gb": 0,
@@ -3194,7 +3194,7 @@
             "wide_view": false,
             "brightness_nit": 1000
         },
-        "core_spec": {
+        "Spec": {
             "cpu_model": "i9-14900HX (5.8GHz)",
             "cpu_clock_ghz": 5.8,
             "ram_gb": 0,
@@ -3260,7 +3260,7 @@
             "wide_view": true,
             "brightness_nit": 500
         },
-        "core_spec": {
+        "Spec": {
             "cpu_model": "255H (5.1GHz)",
             "cpu_clock_ghz": 5.1,
             "ram_gb": 0,
@@ -3325,7 +3325,7 @@
             "wide_view": true,
             "brightness_nit": 500
         },
-        "core_spec": {
+        "Spec": {
             "cpu_model": "350 (5.0GHz)",
             "cpu_clock_ghz": 5.0,
             "ram_gb": 0,
@@ -3403,7 +3403,7 @@
             "wide_view": false,
             "brightness_nit": 0
         },
-        "core_spec": {
+        "Spec": {
             "cpu_model": "225U (4.8GHz)",
             "cpu_clock_ghz": 4.8,
             "ram_gb": 0,
@@ -3469,7 +3469,7 @@
             "wide_view": true,
             "brightness_nit": 500
         },
-        "core_spec": {
+        "Spec": {
             "cpu_model": "255H (5.1GHz)",
             "cpu_clock_ghz": 5.1,
             "ram_gb": 0,
@@ -3549,7 +3549,7 @@
             "wide_view": true,
             "brightness_nit": 500
         },
-        "core_spec": {
+        "Spec": {
             "cpu_model": "350 (5.0GHz)",
             "cpu_clock_ghz": 5.0,
             "ram_gb": 0,
@@ -3627,7 +3627,7 @@
             "wide_view": false,
             "brightness_nit": 0
         },
-        "core_spec": {
+        "Spec": {
             "cpu_model": "i5-1334U (1.3GHz)",
             "cpu_clock_ghz": 1.3,
             "ram_gb": 0,
@@ -3692,7 +3692,7 @@
             "wide_view": false,
             "brightness_nit": 300
         },
-        "core_spec": {
+        "Spec": {
             "cpu_model": "i3-1215U (1.2GHz)",
             "cpu_clock_ghz": 1.2,
             "ram_gb": 1,
@@ -3756,7 +3756,7 @@
             "wide_view": false,
             "brightness_nit": 400
         },
-        "core_spec": {
+        "Spec": {
             "cpu_model": "125H (4.5GHz)",
             "cpu_clock_ghz": 4.5,
             "ram_gb": 0,
@@ -3821,7 +3821,7 @@
             "wide_view": false,
             "brightness_nit": 400
         },
-        "core_spec": {
+        "Spec": {
             "cpu_model": "125H (4.5GHz)",
             "cpu_clock_ghz": 4.5,
             "ram_gb": 0,
@@ -3888,7 +3888,7 @@
             "wide_view": false,
             "brightness_nit": 500
         },
-        "core_spec": {
+        "Spec": {
             "cpu_model": "275HX (5.4GHz)",
             "cpu_clock_ghz": 5.4,
             "ram_gb": 0,
@@ -3958,7 +3958,7 @@
             "wide_view": false,
             "brightness_nit": 350
         },
-        "core_spec": {
+        "Spec": {
             "cpu_model": "7530U (2.0Hz)",
             "cpu_clock_ghz": 0.0,
             "ram_gb": 0,
@@ -4023,7 +4023,7 @@
             "wide_view": false,
             "brightness_nit": 500
         },
-        "core_spec": {
+        "Spec": {
             "cpu_model": "395 (5.1GHz)",
             "cpu_clock_ghz": 5.1,
             "ram_gb": 0,
@@ -4093,7 +4093,7 @@
             "wide_view": false,
             "brightness_nit": 250
         },
-        "core_spec": {
+        "Spec": {
             "cpu_model": "i7-13620H (2.4GHz)",
             "cpu_clock_ghz": 2.4,
             "ram_gb": 0,
@@ -4158,7 +4158,7 @@
             "wide_view": false,
             "brightness_nit": 300
         },
-        "core_spec": {
+        "Spec": {
             "cpu_model": "i9-14900HX (5.8GHz)",
             "cpu_clock_ghz": 5.8,
             "ram_gb": 0,
@@ -4223,7 +4223,7 @@
             "wide_view": true,
             "brightness_nit": 400
         },
-        "core_spec": {
+        "Spec": {
             "cpu_model": "8940HX (5.3GHz)",
             "cpu_clock_ghz": 5.3,
             "ram_gb": 0,
@@ -4292,7 +4292,7 @@
             "wide_view": false,
             "brightness_nit": 400
         },
-        "core_spec": {
+        "Spec": {
             "cpu_model": "255H (5.1GHz)",
             "cpu_clock_ghz": 5.1,
             "ram_gb": 0,
@@ -4357,7 +4357,7 @@
             "wide_view": true,
             "brightness_nit": 300
         },
-        "core_spec": {
+        "Spec": {
             "cpu_model": "i5-13420H (2.1GHz)",
             "cpu_clock_ghz": 2.1,
             "ram_gb": 0,
@@ -4422,7 +4422,7 @@
             "wide_view": false,
             "brightness_nit": 300
         },
-        "core_spec": {
+        "Spec": {
             "cpu_model": "i3-1315U (1.2GHz)",
             "cpu_clock_ghz": 1.2,
             "ram_gb": 0,
@@ -4489,7 +4489,7 @@
             "wide_view": true,
             "brightness_nit": 400
         },
-        "core_spec": {
+        "Spec": {
             "cpu_model": "258V (4.8GHz)",
             "cpu_clock_ghz": 4.8,
             "ram_gb": 0,
@@ -4565,7 +4565,7 @@
             "wide_view": false,
             "brightness_nit": 500
         },
-        "core_spec": {
+        "Spec": {
             "cpu_model": "8845HS (3.8GHz)",
             "cpu_clock_ghz": 3.8,
             "ram_gb": 0,
@@ -4631,7 +4631,7 @@
             "wide_view": false,
             "brightness_nit": 1000
         },
-        "core_spec": {
+        "Spec": {
             "cpu_model": "i9-14900HX (5.8GHz)",
             "cpu_clock_ghz": 5.8,
             "ram_gb": 0,
@@ -4697,7 +4697,7 @@
             "wide_view": false,
             "brightness_nit": 400
         },
-        "core_spec": {
+        "Spec": {
             "cpu_model": "225H (4.9GHz)",
             "cpu_clock_ghz": 4.9,
             "ram_gb": 0,
@@ -4762,7 +4762,7 @@
             "wide_view": false,
             "brightness_nit": 0
         },
-        "core_spec": {
+        "Spec": {
             "cpu_model": "275HX (5.4GHz)",
             "cpu_clock_ghz": 5.4,
             "ram_gb": 0,
@@ -4844,7 +4844,7 @@
             "wide_view": true,
             "brightness_nit": 300
         },
-        "core_spec": {
+        "Spec": {
             "cpu_model": "240H (5.2GHz)",
             "cpu_clock_ghz": 5.2,
             "ram_gb": 0,
@@ -4909,7 +4909,7 @@
             "wide_view": false,
             "brightness_nit": 500
         },
-        "core_spec": {
+        "Spec": {
             "cpu_model": "275HX (5.4GHz)",
             "cpu_clock_ghz": 5.4,
             "ram_gb": 0,
@@ -4974,7 +4974,7 @@
             "wide_view": false,
             "brightness_nit": 400
         },
-        "core_spec": {
+        "Spec": {
             "cpu_model": "225H (4.9GHz)",
             "cpu_clock_ghz": 4.9,
             "ram_gb": 0,
@@ -5039,7 +5039,7 @@
             "wide_view": false,
             "brightness_nit": 1000
         },
-        "core_spec": {
+        "Spec": {
             "cpu_model": "275HX (5.4GHz)",
             "cpu_clock_ghz": 5.4,
             "ram_gb": 0,
@@ -5108,7 +5108,7 @@
             "wide_view": false,
             "brightness_nit": 300
         },
-        "core_spec": {
+        "Spec": {
             "cpu_model": "i5-13450HX (2.0GHz)",
             "cpu_clock_ghz": 2.0,
             "ram_gb": 0,
@@ -5173,7 +5173,7 @@
             "wide_view": false,
             "brightness_nit": 1000
         },
-        "core_spec": {
+        "Spec": {
             "cpu_model": "285HX (5.5GHz)",
             "cpu_clock_ghz": 5.5,
             "ram_gb": 0,
@@ -5242,7 +5242,7 @@
             "wide_view": false,
             "brightness_nit": 400
         },
-        "core_spec": {
+        "Spec": {
             "cpu_model": "255H (5.1GHz)",
             "cpu_clock_ghz": 5.1,
             "ram_gb": 0,
@@ -5307,7 +5307,7 @@
             "wide_view": false,
             "brightness_nit": 400
         },
-        "core_spec": {
+        "Spec": {
             "cpu_model": "258V (4.8GHz)",
             "cpu_clock_ghz": 4.8,
             "ram_gb": 0,
@@ -5373,7 +5373,7 @@
             "wide_view": false,
             "brightness_nit": 400
         },
-        "core_spec": {
+        "Spec": {
             "cpu_model": "255H (5.1GHz)",
             "cpu_clock_ghz": 5.1,
             "ram_gb": 0,
@@ -5438,7 +5438,7 @@
             "wide_view": false,
             "brightness_nit": 400
         },
-        "core_spec": {
+        "Spec": {
             "cpu_model": "288V (5.1GHz)",
             "cpu_clock_ghz": 5.1,
             "ram_gb": 0,
@@ -5506,7 +5506,7 @@
             "wide_view": false,
             "brightness_nit": 300
         },
-        "core_spec": {
+        "Spec": {
             "cpu_model": "260 (5.1GHz)",
             "cpu_clock_ghz": 5.1,
             "ram_gb": 0,
@@ -5571,7 +5571,7 @@
             "wide_view": false,
             "brightness_nit": 400
         },
-        "core_spec": {
+        "Spec": {
             "cpu_model": "225H (4.9GHz)",
             "cpu_clock_ghz": 4.9,
             "ram_gb": 0,
@@ -5636,7 +5636,7 @@
             "wide_view": false,
             "brightness_nit": 500
         },
-        "core_spec": {
+        "Spec": {
             "cpu_model": "255HX (5.2GHz)",
             "cpu_clock_ghz": 5.2,
             "ram_gb": 0,
@@ -5701,7 +5701,7 @@
             "wide_view": false,
             "brightness_nit": 400
         },
-        "core_spec": {
+        "Spec": {
             "cpu_model": "i9-13980HX (2.2GHz)",
             "cpu_clock_ghz": 2.2,
             "ram_gb": 0,
@@ -5766,7 +5766,7 @@
             "wide_view": false,
             "brightness_nit": 350
         },
-        "core_spec": {
+        "Spec": {
             "cpu_model": "340 (4.8GHz)",
             "cpu_clock_ghz": 4.8,
             "ram_gb": 0,
@@ -5831,7 +5831,7 @@
             "wide_view": false,
             "brightness_nit": 400
         },
-        "core_spec": {
+        "Spec": {
             "cpu_model": "255H (5.1GHz)",
             "cpu_clock_ghz": 5.1,
             "ram_gb": 0,
@@ -5896,7 +5896,7 @@
             "wide_view": false,
             "brightness_nit": 300
         },
-        "core_spec": {
+        "Spec": {
             "cpu_model": "260 (5.1GHz)",
             "cpu_clock_ghz": 5.1,
             "ram_gb": 0,
@@ -5980,7 +5980,7 @@
             "wide_view": false,
             "brightness_nit": 0
         },
-        "core_spec": {
+        "Spec": {
             "cpu_model": "i5-1334U (1.3GHz)",
             "cpu_clock_ghz": 1.3,
             "ram_gb": 0,
@@ -6045,7 +6045,7 @@
             "wide_view": false,
             "brightness_nit": 250
         },
-        "core_spec": {
+        "Spec": {
             "cpu_model": "8845HS (3.8GHz)",
             "cpu_clock_ghz": 3.8,
             "ram_gb": 0,
@@ -6115,7 +6115,7 @@
             "wide_view": false,
             "brightness_nit": 350
         },
-        "core_spec": {
+        "Spec": {
             "cpu_model": "225H (4.9GHz)",
             "cpu_clock_ghz": 4.9,
             "ram_gb": 0,
@@ -6181,7 +6181,7 @@
             "wide_view": false,
             "brightness_nit": 350
         },
-        "core_spec": {
+        "Spec": {
             "cpu_model": "225H (4.9GHz)",
             "cpu_clock_ghz": 4.9,
             "ram_gb": 0,
@@ -6247,7 +6247,7 @@
             "wide_view": false,
             "brightness_nit": 400
         },
-        "core_spec": {
+        "Spec": {
             "cpu_model": "255H (5.1GHz)",
             "cpu_clock_ghz": 5.1,
             "ram_gb": 0,
@@ -6312,7 +6312,7 @@
             "wide_view": false,
             "brightness_nit": 300
         },
-        "core_spec": {
+        "Spec": {
             "cpu_model": "340 (4.8GHz)",
             "cpu_clock_ghz": 4.8,
             "ram_gb": 0,
@@ -6389,7 +6389,7 @@
             "wide_view": true,
             "brightness_nit": 500
         },
-        "core_spec": {
+        "Spec": {
             "cpu_model": "8940HX (5.3GHz)",
             "cpu_clock_ghz": 5.3,
             "ram_gb": 0,
@@ -6455,7 +6455,7 @@
             "wide_view": false,
             "brightness_nit": 0
         },
-        "core_spec": {
+        "Spec": {
             "cpu_model": "",
             "cpu_clock_ghz": 0.0,
             "ram_gb": 8,
@@ -6522,7 +6522,7 @@
             "wide_view": false,
             "brightness_nit": 500
         },
-        "core_spec": {
+        "Spec": {
             "cpu_model": "255HX (5.2GHz)",
             "cpu_clock_ghz": 5.2,
             "ram_gb": 0,
@@ -6592,7 +6592,7 @@
             "wide_view": false,
             "brightness_nit": 250
         },
-        "core_spec": {
+        "Spec": {
             "cpu_model": "120U (5.0GHz)",
             "cpu_clock_ghz": 5.0,
             "ram_gb": 1,
@@ -6657,7 +6657,7 @@
             "wide_view": false,
             "brightness_nit": 400
         },
-        "core_spec": {
+        "Spec": {
             "cpu_model": "225H (4.9GHz)",
             "cpu_clock_ghz": 4.9,
             "ram_gb": 0,
@@ -6723,7 +6723,7 @@
             "wide_view": false,
             "brightness_nit": 400
         },
-        "core_spec": {
+        "Spec": {
             "cpu_model": "255H (5.1GHz)",
             "cpu_clock_ghz": 5.1,
             "ram_gb": 0,
@@ -6788,7 +6788,7 @@
             "wide_view": false,
             "brightness_nit": 350
         },
-        "core_spec": {
+        "Spec": {
             "cpu_model": "350 (5.0GHz)",
             "cpu_clock_ghz": 5.0,
             "ram_gb": 0,
@@ -6853,7 +6853,7 @@
             "wide_view": false,
             "brightness_nit": 300
         },
-        "core_spec": {
+        "Spec": {
             "cpu_model": "210H (4.8GHz)",
             "cpu_clock_ghz": 4.8,
             "ram_gb": 0,
@@ -6931,7 +6931,7 @@
             "wide_view": true,
             "brightness_nit": 500
         },
-        "core_spec": {
+        "Spec": {
             "cpu_model": "275HX (5.4GHz)",
             "cpu_clock_ghz": 5.4,
             "ram_gb": 0,
@@ -7013,7 +7013,7 @@
             "wide_view": false,
             "brightness_nit": 300
         },
-        "core_spec": {
+        "Spec": {
             "cpu_model": "350 (5.0GHz)",
             "cpu_clock_ghz": 5.0,
             "ram_gb": 16,
@@ -7092,7 +7092,7 @@
             "wide_view": false,
             "brightness_nit": 0
         },
-        "core_spec": {
+        "Spec": {
             "cpu_model": "120U (5.0GHz)",
             "cpu_clock_ghz": 5.0,
             "ram_gb": 0,
@@ -7158,7 +7158,7 @@
             "wide_view": false,
             "brightness_nit": 0
         },
-        "core_spec": {
+        "Spec": {
             "cpu_model": "i5-1334U (1.3GHz)",
             "cpu_clock_ghz": 1.3,
             "ram_gb": 0,
@@ -7223,7 +7223,7 @@
             "wide_view": false,
             "brightness_nit": 500
         },
-        "core_spec": {
+        "Spec": {
             "cpu_model": "350 (5.0GHz)",
             "cpu_clock_ghz": 5.0,
             "ram_gb": 0,
@@ -7289,7 +7289,7 @@
             "wide_view": false,
             "brightness_nit": 500
         },
-        "core_spec": {
+        "Spec": {
             "cpu_model": "275HX (5.4GHz)",
             "cpu_clock_ghz": 5.4,
             "ram_gb": 0,
@@ -7419,7 +7419,7 @@
             "wide_view": false,
             "brightness_nit": 1000
         },
-        "core_spec": {
+        "Spec": {
             "cpu_model": "APL1103",
             "cpu_clock_ghz": 0.0,
             "ram_gb": 0,
@@ -7486,7 +7486,7 @@
             "wide_view": true,
             "brightness_nit": 300
         },
-        "core_spec": {
+        "Spec": {
             "cpu_model": "210H (4.8GHz)",
             "cpu_clock_ghz": 4.8,
             "ram_gb": 0,
@@ -7570,7 +7570,7 @@
             "wide_view": false,
             "brightness_nit": 0
         },
-        "core_spec": {
+        "Spec": {
             "cpu_model": "i5-1334U (1.3GHz)",
             "cpu_clock_ghz": 1.3,
             "ram_gb": 0,
@@ -7635,7 +7635,7 @@
             "wide_view": false,
             "brightness_nit": 300
         },
-        "core_spec": {
+        "Spec": {
             "cpu_model": "i7-14650HX (5.2GHz)",
             "cpu_clock_ghz": 5.2,
             "ram_gb": 0,
@@ -7706,7 +7706,7 @@
             "wide_view": false,
             "brightness_nit": 400
         },
-        "core_spec": {
+        "Spec": {
             "cpu_model": "258V (4.8GHz)",
             "cpu_clock_ghz": 4.8,
             "ram_gb": 0,
@@ -7771,7 +7771,7 @@
             "wide_view": false,
             "brightness_nit": 0
         },
-        "core_spec": {
+        "Spec": {
             "cpu_model": "i3-1315U (1.2GHz)",
             "cpu_clock_ghz": 1.2,
             "ram_gb": 0,
@@ -7837,7 +7837,7 @@
             "wide_view": false,
             "brightness_nit": 400
         },
-        "core_spec": {
+        "Spec": {
             "cpu_model": "255H (5.1GHz)",
             "cpu_clock_ghz": 5.1,
             "ram_gb": 0,
@@ -7903,7 +7903,7 @@
             "wide_view": false,
             "brightness_nit": 0
         },
-        "core_spec": {
+        "Spec": {
             "cpu_model": "i5-1334U (1.3GHz)",
             "cpu_clock_ghz": 1.3,
             "ram_gb": 0,
@@ -7968,7 +7968,7 @@
             "wide_view": false,
             "brightness_nit": 350
         },
-        "core_spec": {
+        "Spec": {
             "cpu_model": "125H (4.5GHz)",
             "cpu_clock_ghz": 4.5,
             "ram_gb": 0,
@@ -8033,7 +8033,7 @@
             "wide_view": false,
             "brightness_nit": 400
         },
-        "core_spec": {
+        "Spec": {
             "cpu_model": "155H (4.8GHz)",
             "cpu_clock_ghz": 4.8,
             "ram_gb": 0,
@@ -8098,7 +8098,7 @@
             "wide_view": false,
             "brightness_nit": 350
         },
-        "core_spec": {
+        "Spec": {
             "cpu_model": "225H (4.9GHz)",
             "cpu_clock_ghz": 4.9,
             "ram_gb": 0,
@@ -8163,7 +8163,7 @@
             "wide_view": false,
             "brightness_nit": 500
         },
-        "core_spec": {
+        "Spec": {
             "cpu_model": "285H (5.4GHz)",
             "cpu_clock_ghz": 5.4,
             "ram_gb": 0,
@@ -8251,7 +8251,7 @@
             "wide_view": false,
             "brightness_nit": 300
         },
-        "core_spec": {
+        "Spec": {
             "cpu_model": "255H (5.1GHz)",
             "cpu_clock_ghz": 5.1,
             "ram_gb": 0,
@@ -8331,7 +8331,7 @@
             "wide_view": false,
             "brightness_nit": 350
         },
-        "core_spec": {
+        "Spec": {
             "cpu_model": "225H (4.9GHz)",
             "cpu_clock_ghz": 4.9,
             "ram_gb": 0,
@@ -8396,7 +8396,7 @@
             "wide_view": false,
             "brightness_nit": 400
         },
-        "core_spec": {
+        "Spec": {
             "cpu_model": "288V (5.1GHz)",
             "cpu_clock_ghz": 5.1,
             "ram_gb": 0,
@@ -8466,7 +8466,7 @@
             "wide_view": false,
             "brightness_nit": 400
         },
-        "core_spec": {
+        "Spec": {
             "cpu_model": "255H (5.1GHz)",
             "cpu_clock_ghz": 5.1,
             "ram_gb": 0,
@@ -8532,7 +8532,7 @@
             "wide_view": false,
             "brightness_nit": 400
         },
-        "core_spec": {
+        "Spec": {
             "cpu_model": "258V (4.8GHz)",
             "cpu_clock_ghz": 4.8,
             "ram_gb": 0,
@@ -8602,7 +8602,7 @@
             "wide_view": false,
             "brightness_nit": 250
         },
-        "core_spec": {
+        "Spec": {
             "cpu_model": "i5-1334U (1.3GHz)",
             "cpu_clock_ghz": 1.3,
             "ram_gb": 0,
@@ -8667,7 +8667,7 @@
             "wide_view": true,
             "brightness_nit": 300
         },
-        "core_spec": {
+        "Spec": {
             "cpu_model": "365 (5.0GHz)",
             "cpu_clock_ghz": 5.0,
             "ram_gb": 0,
@@ -8731,7 +8731,7 @@
             "wide_view": false,
             "brightness_nit": 0
         },
-        "core_spec": {
+        "Spec": {
             "cpu_model": "i5-1135G7 (2.4GHz)",
             "cpu_clock_ghz": 2.4,
             "ram_gb": 0,
@@ -8793,7 +8793,7 @@
             "wide_view": false,
             "brightness_nit": 300
         },
-        "core_spec": {
+        "Spec": {
             "cpu_model": "155H (4.8GHz)",
             "cpu_clock_ghz": 4.8,
             "ram_gb": 0,
@@ -8858,7 +8858,7 @@
             "wide_view": false,
             "brightness_nit": 400
         },
-        "core_spec": {
+        "Spec": {
             "cpu_model": "255H (5.1GHz)",
             "cpu_clock_ghz": 5.1,
             "ram_gb": 0,
@@ -8923,7 +8923,7 @@
             "wide_view": false,
             "brightness_nit": 300
         },
-        "core_spec": {
+        "Spec": {
             "cpu_model": "125H (4.5GHz)",
             "cpu_clock_ghz": 4.5,
             "ram_gb": 0,
@@ -9004,7 +9004,7 @@
             "wide_view": false,
             "brightness_nit": 400
         },
-        "core_spec": {
+        "Spec": {
             "cpu_model": "258V (4.8GHz)",
             "cpu_clock_ghz": 4.8,
             "ram_gb": 0,
@@ -9071,7 +9071,7 @@
             "wide_view": false,
             "brightness_nit": 400
         },
-        "core_spec": {
+        "Spec": {
             "cpu_model": "255H (5.1GHz)",
             "cpu_clock_ghz": 5.1,
             "ram_gb": 0,
@@ -9136,7 +9136,7 @@
             "wide_view": false,
             "brightness_nit": 400
         },
-        "core_spec": {
+        "Spec": {
             "cpu_model": "X1P-42-100 (3.2GHz)",
             "cpu_clock_ghz": 3.2,
             "ram_gb": 0,
@@ -9202,7 +9202,7 @@
             "wide_view": true,
             "brightness_nit": 300
         },
-        "core_spec": {
+        "Spec": {
             "cpu_model": "8845HS (3.8GHz)",
             "cpu_clock_ghz": 3.8,
             "ram_gb": 0,
@@ -9280,7 +9280,7 @@
             "wide_view": false,
             "brightness_nit": 300
         },
-        "core_spec": {
+        "Spec": {
             "cpu_model": "i5-13420H (2.1GHz)",
             "cpu_clock_ghz": 2.1,
             "ram_gb": 1,
@@ -9345,7 +9345,7 @@
             "wide_view": false,
             "brightness_nit": 300
         },
-        "core_spec": {
+        "Spec": {
             "cpu_model": "7535HS (3.3Hz)",
             "cpu_clock_ghz": 0.0,
             "ram_gb": 0,
@@ -9422,7 +9422,7 @@
             "wide_view": false,
             "brightness_nit": 400
         },
-        "core_spec": {
+        "Spec": {
             "cpu_model": "i9-13980HX (2.2GHz)",
             "cpu_clock_ghz": 2.2,
             "ram_gb": 0,
@@ -9487,7 +9487,7 @@
             "wide_view": false,
             "brightness_nit": 300
         },
-        "core_spec": {
+        "Spec": {
             "cpu_model": "i5-13500H (2.6GHz)",
             "cpu_clock_ghz": 2.6,
             "ram_gb": 0,
@@ -9544,7 +9544,7 @@
             "wide_view": false,
             "brightness_nit": 250
         },
-        "core_spec": {
+        "Spec": {
             "cpu_model": "i7-13620H (2.4GHz)",
             "cpu_clock_ghz": 2.4,
             "ram_gb": 0,
@@ -9613,7 +9613,7 @@
             "wide_view": false,
             "brightness_nit": 350
         },
-        "core_spec": {
+        "Spec": {
             "cpu_model": "i5-1334U (1.3GHz)",
             "cpu_clock_ghz": 1.3,
             "ram_gb": 0,
@@ -9678,7 +9678,7 @@
             "wide_view": false,
             "brightness_nit": 0
         },
-        "core_spec": {
+        "Spec": {
             "cpu_model": "i5-1135G7 (2.4GHz)",
             "cpu_clock_ghz": 2.4,
             "ram_gb": 1,
@@ -9743,7 +9743,7 @@
             "wide_view": false,
             "brightness_nit": 500
         },
-        "core_spec": {
+        "Spec": {
             "cpu_model": "275HX (5.4GHz)",
             "cpu_clock_ghz": 5.4,
             "ram_gb": 0,
@@ -9809,7 +9809,7 @@
             "wide_view": false,
             "brightness_nit": 300
         },
-        "core_spec": {
+        "Spec": {
             "cpu_model": "225U (4.8GHz)",
             "cpu_clock_ghz": 4.8,
             "ram_gb": 0,
@@ -9882,7 +9882,7 @@
             "wide_view": false,
             "brightness_nit": 500
         },
-        "core_spec": {
+        "Spec": {
             "cpu_model": "7945HX (2.5Hz)",
             "cpu_clock_ghz": 0.0,
             "ram_gb": 0,
@@ -9947,7 +9947,7 @@
             "wide_view": false,
             "brightness_nit": 400
         },
-        "core_spec": {
+        "Spec": {
             "cpu_model": "275HX (5.4GHz)",
             "cpu_clock_ghz": 5.4,
             "ram_gb": 0,
@@ -10015,7 +10015,7 @@
             "wide_view": false,
             "brightness_nit": 400
         },
-        "core_spec": {
+        "Spec": {
             "cpu_model": "225H (4.9GHz)",
             "cpu_clock_ghz": 4.9,
             "ram_gb": 0,
@@ -10080,7 +10080,7 @@
             "wide_view": false,
             "brightness_nit": 400
         },
-        "core_spec": {
+        "Spec": {
             "cpu_model": "i9-13950HX (2.2GHz)",
             "cpu_clock_ghz": 2.2,
             "ram_gb": 0,
@@ -10135,7 +10135,7 @@
             "wide_view": false,
             "brightness_nit": 300
         },
-        "core_spec": {
+        "Spec": {
             "cpu_model": "i9-14900HX (5.8GHz)",
             "cpu_clock_ghz": 5.8,
             "ram_gb": 0,
@@ -10205,7 +10205,7 @@
             "wide_view": false,
             "brightness_nit": 500
         },
-        "core_spec": {
+        "Spec": {
             "cpu_model": "HX 370 (5.1GHz)",
             "cpu_clock_ghz": 5.1,
             "ram_gb": 0,
@@ -10296,7 +10296,7 @@
             "wide_view": false,
             "brightness_nit": 400
         },
-        "core_spec": {
+        "Spec": {
             "cpu_model": "X1-26-100 (3.0GHz)",
             "cpu_clock_ghz": 3.0,
             "ram_gb": 0,
@@ -10385,7 +10385,7 @@
             "wide_view": false,
             "brightness_nit": 350
         },
-        "core_spec": {
+        "Spec": {
             "cpu_model": "i5-1334U (1.3GHz)",
             "cpu_clock_ghz": 1.3,
             "ram_gb": 0,
@@ -10451,7 +10451,7 @@
             "wide_view": false,
             "brightness_nit": 250
         },
-        "core_spec": {
+        "Spec": {
             "cpu_model": "260 (5.1GHz)",
             "cpu_clock_ghz": 5.1,
             "ram_gb": 0,
@@ -10516,7 +10516,7 @@
             "wide_view": false,
             "brightness_nit": 350
         },
-        "core_spec": {
+        "Spec": {
             "cpu_model": "125H (4.5GHz)",
             "cpu_clock_ghz": 4.5,
             "ram_gb": 0,
@@ -10581,7 +10581,7 @@
             "wide_view": false,
             "brightness_nit": 400
         },
-        "core_spec": {
+        "Spec": {
             "cpu_model": "225H (4.9GHz)",
             "cpu_clock_ghz": 4.9,
             "ram_gb": 0,
@@ -10646,7 +10646,7 @@
             "wide_view": false,
             "brightness_nit": 250
         },
-        "core_spec": {
+        "Spec": {
             "cpu_model": "210H (4.8GHz)",
             "cpu_clock_ghz": 4.8,
             "ram_gb": 0,
@@ -10717,7 +10717,7 @@
             "wide_view": false,
             "brightness_nit": 300
         },
-        "core_spec": {
+        "Spec": {
             "cpu_model": "7945HX (2.5Hz)",
             "cpu_clock_ghz": 0.0,
             "ram_gb": 0,
@@ -10782,7 +10782,7 @@
             "wide_view": false,
             "brightness_nit": 400
         },
-        "core_spec": {
+        "Spec": {
             "cpu_model": "285H (5.4GHz)",
             "cpu_clock_ghz": 5.4,
             "ram_gb": 0,
@@ -10867,7 +10867,7 @@
             "wide_view": false,
             "brightness_nit": 400
         },
-        "core_spec": {
+        "Spec": {
             "cpu_model": "225H (4.9GHz)",
             "cpu_clock_ghz": 4.9,
             "ram_gb": 0,
@@ -10931,7 +10931,7 @@
             "wide_view": false,
             "brightness_nit": 500
         },
-        "core_spec": {
+        "Spec": {
             "cpu_model": "275HX (5.4GHz)",
             "cpu_clock_ghz": 5.4,
             "ram_gb": 0,
@@ -10996,7 +10996,7 @@
             "wide_view": false,
             "brightness_nit": 400
         },
-        "core_spec": {
+        "Spec": {
             "cpu_model": "275HX (5.4GHz)",
             "cpu_clock_ghz": 5.4,
             "ram_gb": 0,
@@ -11065,7 +11065,7 @@
             "wide_view": false,
             "brightness_nit": 300
         },
-        "core_spec": {
+        "Spec": {
             "cpu_model": "7530U (2.0Hz)",
             "cpu_clock_ghz": 0.0,
             "ram_gb": 0,
@@ -11136,7 +11136,7 @@
             "wide_view": false,
             "brightness_nit": 500
         },
-        "core_spec": {
+        "Spec": {
             "cpu_model": "275HX (5.4GHz)",
             "cpu_clock_ghz": 5.4,
             "ram_gb": 0,
@@ -11201,7 +11201,7 @@
             "wide_view": false,
             "brightness_nit": 500
         },
-        "core_spec": {
+        "Spec": {
             "cpu_model": "7945HX (2.5Hz)",
             "cpu_clock_ghz": 0.0,
             "ram_gb": 0,
@@ -11266,7 +11266,7 @@
             "wide_view": false,
             "brightness_nit": 500
         },
-        "core_spec": {
+        "Spec": {
             "cpu_model": "275HX (5.4GHz)",
             "cpu_clock_ghz": 5.4,
             "ram_gb": 0,
@@ -11330,7 +11330,7 @@
             "wide_view": false,
             "brightness_nit": 500
         },
-        "core_spec": {
+        "Spec": {
             "cpu_model": "i9-14900HX (5.8GHz)",
             "cpu_clock_ghz": 5.8,
             "ram_gb": 0,
@@ -11395,7 +11395,7 @@
             "wide_view": false,
             "brightness_nit": 500
         },
-        "core_spec": {
+        "Spec": {
             "cpu_model": "7945HX (2.5Hz)",
             "cpu_clock_ghz": 0.0,
             "ram_gb": 0,
@@ -11460,7 +11460,7 @@
             "wide_view": false,
             "brightness_nit": 350
         },
-        "core_spec": {
+        "Spec": {
             "cpu_model": "i5-1334U (1.3GHz)",
             "cpu_clock_ghz": 1.3,
             "ram_gb": 0,
@@ -11526,7 +11526,7 @@
             "wide_view": true,
             "brightness_nit": 300
         },
-        "core_spec": {
+        "Spec": {
             "cpu_model": "350 (5.0GHz)",
             "cpu_clock_ghz": 5.0,
             "ram_gb": 0,
@@ -11590,7 +11590,7 @@
             "wide_view": false,
             "brightness_nit": 300
         },
-        "core_spec": {
+        "Spec": {
             "cpu_model": "i7-14700HX (5.5GHz)",
             "cpu_clock_ghz": 5.5,
             "ram_gb": 0,
@@ -11655,7 +11655,7 @@
             "wide_view": false,
             "brightness_nit": 400
         },
-        "core_spec": {
+        "Spec": {
             "cpu_model": "275HX (5.4GHz)",
             "cpu_clock_ghz": 5.4,
             "ram_gb": 0,
@@ -11720,7 +11720,7 @@
             "wide_view": false,
             "brightness_nit": 250
         },
-        "core_spec": {
+        "Spec": {
             "cpu_model": "i7-12650H (2.3GHz)",
             "cpu_clock_ghz": 2.3,
             "ram_gb": 0,
@@ -11784,7 +11784,7 @@
             "wide_view": false,
             "brightness_nit": 250
         },
-        "core_spec": {
+        "Spec": {
             "cpu_model": "i5-13420H (2.1GHz)",
             "cpu_clock_ghz": 2.1,
             "ram_gb": 0,
@@ -11854,7 +11854,7 @@
             "wide_view": false,
             "brightness_nit": 250
         },
-        "core_spec": {
+        "Spec": {
             "cpu_model": "8845HS (3.8GHz)",
             "cpu_clock_ghz": 3.8,
             "ram_gb": 0,
@@ -11918,7 +11918,7 @@
             "wide_view": true,
             "brightness_nit": 400
         },
-        "core_spec": {
+        "Spec": {
             "cpu_model": "PRO 395 (5.1GHz)",
             "cpu_clock_ghz": 5.1,
             "ram_gb": 0,
@@ -11999,7 +11999,7 @@
             "wide_view": false,
             "brightness_nit": 300
         },
-        "core_spec": {
+        "Spec": {
             "cpu_model": "7530U (2.0Hz)",
             "cpu_clock_ghz": 0.0,
             "ram_gb": 0,
@@ -12064,7 +12064,7 @@
             "wide_view": false,
             "brightness_nit": 400
         },
-        "core_spec": {
+        "Spec": {
             "cpu_model": "258V (4.8GHz)",
             "cpu_clock_ghz": 4.8,
             "ram_gb": 0,
@@ -12159,7 +12159,7 @@
             "wide_view": false,
             "brightness_nit": 500
         },
-        "core_spec": {
+        "Spec": {
             "cpu_model": "275HX (5.4GHz)",
             "cpu_clock_ghz": 5.4,
             "ram_gb": 0,
@@ -12224,7 +12224,7 @@
             "wide_view": false,
             "brightness_nit": 250
         },
-        "core_spec": {
+        "Spec": {
             "cpu_model": "260 (5.1GHz)",
             "cpu_clock_ghz": 5.1,
             "ram_gb": 0,
@@ -12289,7 +12289,7 @@
             "wide_view": false,
             "brightness_nit": 400
         },
-        "core_spec": {
+        "Spec": {
             "cpu_model": "HX 370 (5.1GHz)",
             "cpu_clock_ghz": 5.1,
             "ram_gb": 0,
@@ -12356,7 +12356,7 @@
             "wide_view": false,
             "brightness_nit": 250
         },
-        "core_spec": {
+        "Spec": {
             "cpu_model": "i7-13620H (2.4GHz)",
             "cpu_clock_ghz": 2.4,
             "ram_gb": 0,
@@ -12420,7 +12420,7 @@
             "wide_view": false,
             "brightness_nit": 300
         },
-        "core_spec": {
+        "Spec": {
             "cpu_model": "7945HX (2.5Hz)",
             "cpu_clock_ghz": 0.0,
             "ram_gb": 0,
@@ -12489,7 +12489,7 @@
             "wide_view": false,
             "brightness_nit": 250
         },
-        "core_spec": {
+        "Spec": {
             "cpu_model": "260 (5.1GHz)",
             "cpu_clock_ghz": 5.1,
             "ram_gb": 0,
@@ -12559,7 +12559,7 @@
             "wide_view": false,
             "brightness_nit": 250
         },
-        "core_spec": {
+        "Spec": {
             "cpu_model": "i9-14900HX (5.8GHz)",
             "cpu_clock_ghz": 5.8,
             "ram_gb": 0,
@@ -12624,7 +12624,7 @@
             "wide_view": false,
             "brightness_nit": 500
         },
-        "core_spec": {
+        "Spec": {
             "cpu_model": "185H (5.1GHz)",
             "cpu_clock_ghz": 5.1,
             "ram_gb": 0,
@@ -12687,7 +12687,7 @@
             "wide_view": false,
             "brightness_nit": 400
         },
-        "core_spec": {
+        "Spec": {
             "cpu_model": "225H (4.9GHz)",
             "cpu_clock_ghz": 4.9,
             "ram_gb": 0,
@@ -12752,7 +12752,7 @@
             "wide_view": false,
             "brightness_nit": 400
         },
-        "core_spec": {
+        "Spec": {
             "cpu_model": "255HX (5.2GHz)",
             "cpu_clock_ghz": 5.2,
             "ram_gb": 0,
@@ -12817,7 +12817,7 @@
             "wide_view": false,
             "brightness_nit": 250
         },
-        "core_spec": {
+        "Spec": {
             "cpu_model": "i5-13420H (2.1GHz)",
             "cpu_clock_ghz": 2.1,
             "ram_gb": 0,
@@ -12882,7 +12882,7 @@
             "wide_view": false,
             "brightness_nit": 300
         },
-        "core_spec": {
+        "Spec": {
             "cpu_model": "i7-14650HX (5.2GHz)",
             "cpu_clock_ghz": 5.2,
             "ram_gb": 0,
@@ -12946,7 +12946,7 @@
             "wide_view": false,
             "brightness_nit": 400
         },
-        "core_spec": {
+        "Spec": {
             "cpu_model": "155H (4.8GHz)",
             "cpu_clock_ghz": 4.8,
             "ram_gb": 0,
@@ -13011,7 +13011,7 @@
             "wide_view": false,
             "brightness_nit": 350
         },
-        "core_spec": {
+        "Spec": {
             "cpu_model": "125H (4.5GHz)",
             "cpu_clock_ghz": 4.5,
             "ram_gb": 0,
@@ -13076,7 +13076,7 @@
             "wide_view": false,
             "brightness_nit": 400
         },
-        "core_spec": {
+        "Spec": {
             "cpu_model": "275HX (5.4GHz)",
             "cpu_clock_ghz": 5.4,
             "ram_gb": 0,
@@ -13142,7 +13142,7 @@
             "wide_view": false,
             "brightness_nit": 1000
         },
-        "core_spec": {
+        "Spec": {
             "cpu_model": "285HX (5.5GHz)",
             "cpu_clock_ghz": 5.5,
             "ram_gb": 0,
@@ -13212,7 +13212,7 @@
             "wide_view": true,
             "brightness_nit": 400
         },
-        "core_spec": {
+        "Spec": {
             "cpu_model": "i7-14650HX (5.2GHz)",
             "cpu_clock_ghz": 5.2,
             "ram_gb": 0,
@@ -13276,7 +13276,7 @@
             "wide_view": false,
             "brightness_nit": 500
         },
-        "core_spec": {
+        "Spec": {
             "cpu_model": "275HX (5.4GHz)",
             "cpu_clock_ghz": 5.4,
             "ram_gb": 0,
@@ -13340,7 +13340,7 @@
             "wide_view": false,
             "brightness_nit": 300
         },
-        "core_spec": {
+        "Spec": {
             "cpu_model": "7945HX (2.5Hz)",
             "cpu_clock_ghz": 0.0,
             "ram_gb": 0,
@@ -13405,7 +13405,7 @@
             "wide_view": false,
             "brightness_nit": 1000
         },
-        "core_spec": {
+        "Spec": {
             "cpu_model": "9955HX3D (5.4GHz)",
             "cpu_clock_ghz": 5.4,
             "ram_gb": 0,
@@ -13474,7 +13474,7 @@
             "wide_view": false,
             "brightness_nit": 250
         },
-        "core_spec": {
+        "Spec": {
             "cpu_model": "255H (5.1GHz)",
             "cpu_clock_ghz": 5.1,
             "ram_gb": 0,
@@ -13539,7 +13539,7 @@
             "wide_view": false,
             "brightness_nit": 250
         },
-        "core_spec": {
+        "Spec": {
             "cpu_model": "8845HS (3.8GHz)",
             "cpu_clock_ghz": 3.8,
             "ram_gb": 0,
@@ -13603,7 +13603,7 @@
             "wide_view": false,
             "brightness_nit": 400
         },
-        "core_spec": {
+        "Spec": {
             "cpu_model": "255H (5.1GHz)",
             "cpu_clock_ghz": 5.1,
             "ram_gb": 0,
@@ -13667,7 +13667,7 @@
             "wide_view": false,
             "brightness_nit": 300
         },
-        "core_spec": {
+        "Spec": {
             "cpu_model": "8945HS (4.0GHz)",
             "cpu_clock_ghz": 4.0,
             "ram_gb": 0,
@@ -13736,7 +13736,7 @@
             "wide_view": false,
             "brightness_nit": 300
         },
-        "core_spec": {
+        "Spec": {
             "cpu_model": "330 (4.5GHz)",
             "cpu_clock_ghz": 4.5,
             "ram_gb": 16,
@@ -13811,7 +13811,7 @@
             "wide_view": false,
             "brightness_nit": 250
         },
-        "core_spec": {
+        "Spec": {
             "cpu_model": "210H (4.8GHz)",
             "cpu_clock_ghz": 4.8,
             "ram_gb": 0,
@@ -13876,7 +13876,7 @@
             "wide_view": false,
             "brightness_nit": 250
         },
-        "core_spec": {
+        "Spec": {
             "cpu_model": "i7-13620H (2.4GHz)",
             "cpu_clock_ghz": 2.4,
             "ram_gb": 0,
@@ -13941,7 +13941,7 @@
             "wide_view": false,
             "brightness_nit": 1000
         },
-        "core_spec": {
+        "Spec": {
             "cpu_model": "",
             "cpu_clock_ghz": 0.0,
             "ram_gb": 0,
@@ -14007,7 +14007,7 @@
             "wide_view": false,
             "brightness_nit": 250
         },
-        "core_spec": {
+        "Spec": {
             "cpu_model": "260 (5.1GHz)",
             "cpu_clock_ghz": 5.1,
             "ram_gb": 0,
@@ -14070,7 +14070,7 @@
             "wide_view": true,
             "brightness_nit": 500
         },
-        "core_spec": {
+        "Spec": {
             "cpu_model": "275HX (5.4GHz)",
             "cpu_clock_ghz": 5.4,
             "ram_gb": 0,
@@ -14153,7 +14153,7 @@
             "wide_view": false,
             "brightness_nit": 250
         },
-        "core_spec": {
+        "Spec": {
             "cpu_model": "255H (5.1GHz)",
             "cpu_clock_ghz": 5.1,
             "ram_gb": 0,
@@ -14218,7 +14218,7 @@
             "wide_view": false,
             "brightness_nit": 250
         },
-        "core_spec": {
+        "Spec": {
             "cpu_model": "155H (4.8GHz)",
             "cpu_clock_ghz": 4.8,
             "ram_gb": 0,
@@ -14282,7 +14282,7 @@
             "wide_view": false,
             "brightness_nit": 300
         },
-        "core_spec": {
+        "Spec": {
             "cpu_model": "225H (4.9GHz)",
             "cpu_clock_ghz": 4.9,
             "ram_gb": 1,
@@ -14348,7 +14348,7 @@
             "wide_view": false,
             "brightness_nit": 250
         },
-        "core_spec": {
+        "Spec": {
             "cpu_model": "i7-13620H (2.4GHz)",
             "cpu_clock_ghz": 2.4,
             "ram_gb": 0,
@@ -14411,7 +14411,7 @@
             "wide_view": false,
             "brightness_nit": 250
         },
-        "core_spec": {
+        "Spec": {
             "cpu_model": "260 (5.1GHz)",
             "cpu_clock_ghz": 5.1,
             "ram_gb": 0,
@@ -14476,7 +14476,7 @@
             "wide_view": false,
             "brightness_nit": 300
         },
-        "core_spec": {
+        "Spec": {
             "cpu_model": "125H (4.5GHz)",
             "cpu_clock_ghz": 4.5,
             "ram_gb": 5600,
@@ -14540,7 +14540,7 @@
             "wide_view": false,
             "brightness_nit": 400
         },
-        "core_spec": {
+        "Spec": {
             "cpu_model": "258V (4.8GHz)",
             "cpu_clock_ghz": 4.8,
             "ram_gb": 0,
@@ -14605,7 +14605,7 @@
             "wide_view": false,
             "brightness_nit": 0
         },
-        "core_spec": {
+        "Spec": {
             "cpu_model": "i5-1335U (1.3GHz)",
             "cpu_clock_ghz": 1.3,
             "ram_gb": 0,
@@ -14670,7 +14670,7 @@
             "wide_view": false,
             "brightness_nit": 250
         },
-        "core_spec": {
+        "Spec": {
             "cpu_model": "8845HS (3.8GHz)",
             "cpu_clock_ghz": 3.8,
             "ram_gb": 0,
@@ -14735,7 +14735,7 @@
             "wide_view": false,
             "brightness_nit": 400
         },
-        "core_spec": {
+        "Spec": {
             "cpu_model": "350 (5.0GHz)",
             "cpu_clock_ghz": 5.0,
             "ram_gb": 0,
@@ -14805,7 +14805,7 @@
             "wide_view": false,
             "brightness_nit": 250
         },
-        "core_spec": {
+        "Spec": {
             "cpu_model": "240H (5.2GHz)",
             "cpu_clock_ghz": 5.2,
             "ram_gb": 0,
@@ -14874,7 +14874,7 @@
             "wide_view": false,
             "brightness_nit": 250
         },
-        "core_spec": {
+        "Spec": {
             "cpu_model": "240H (5.2GHz)",
             "cpu_clock_ghz": 5.2,
             "ram_gb": 0,
@@ -14944,7 +14944,7 @@
             "wide_view": false,
             "brightness_nit": 300
         },
-        "core_spec": {
+        "Spec": {
             "cpu_model": "X1-26-100 (3.0GHz)",
             "cpu_clock_ghz": 3.0,
             "ram_gb": 0,
@@ -15031,7 +15031,7 @@
             "wide_view": false,
             "brightness_nit": 250
         },
-        "core_spec": {
+        "Spec": {
             "cpu_model": "i7-13620H (2.4GHz)",
             "cpu_clock_ghz": 2.4,
             "ram_gb": 0,
@@ -15095,7 +15095,7 @@
             "wide_view": false,
             "brightness_nit": 400
         },
-        "core_spec": {
+        "Spec": {
             "cpu_model": "258V (4.8GHz)",
             "cpu_clock_ghz": 4.8,
             "ram_gb": 0,
@@ -15164,7 +15164,7 @@
             "wide_view": false,
             "brightness_nit": 400
         },
-        "core_spec": {
+        "Spec": {
             "cpu_model": "228V (4.5GHz)",
             "cpu_clock_ghz": 4.5,
             "ram_gb": 0,
@@ -15231,7 +15231,7 @@
             "wide_view": false,
             "brightness_nit": 250
         },
-        "core_spec": {
+        "Spec": {
             "cpu_model": "i5-13420H (2.1GHz)",
             "cpu_clock_ghz": 2.1,
             "ram_gb": 0,
@@ -15296,7 +15296,7 @@
             "wide_view": false,
             "brightness_nit": 400
         },
-        "core_spec": {
+        "Spec": {
             "cpu_model": "225H (4.9GHz)",
             "cpu_clock_ghz": 4.9,
             "ram_gb": 0,
@@ -15362,7 +15362,7 @@
             "wide_view": false,
             "brightness_nit": 350
         },
-        "core_spec": {
+        "Spec": {
             "cpu_model": "350 (5.0GHz)",
             "cpu_clock_ghz": 5.0,
             "ram_gb": 0,
@@ -15427,7 +15427,7 @@
             "wide_view": false,
             "brightness_nit": 250
         },
-        "core_spec": {
+        "Spec": {
             "cpu_model": "i7-13620H (2.4GHz)",
             "cpu_clock_ghz": 2.4,
             "ram_gb": 0,
@@ -15492,7 +15492,7 @@
             "wide_view": false,
             "brightness_nit": 300
         },
-        "core_spec": {
+        "Spec": {
             "cpu_model": "i9-14900HX (5.8GHz)",
             "cpu_clock_ghz": 5.8,
             "ram_gb": 0,
@@ -15557,7 +15557,7 @@
             "wide_view": false,
             "brightness_nit": 300
         },
-        "core_spec": {
+        "Spec": {
             "cpu_model": "7945HX (2.5Hz)",
             "cpu_clock_ghz": 0.0,
             "ram_gb": 0,
@@ -15622,7 +15622,7 @@
             "wide_view": false,
             "brightness_nit": 400
         },
-        "core_spec": {
+        "Spec": {
             "cpu_model": "155H (4.8GHz)",
             "cpu_clock_ghz": 4.8,
             "ram_gb": 0,
@@ -15692,7 +15692,7 @@
             "wide_view": false,
             "brightness_nit": 400
         },
-        "core_spec": {
+        "Spec": {
             "cpu_model": "226V (4.5GHz)",
             "cpu_clock_ghz": 4.5,
             "ram_gb": 0,
@@ -15756,7 +15756,7 @@
             "wide_view": false,
             "brightness_nit": 400
         },
-        "core_spec": {
+        "Spec": {
             "cpu_model": "275HX (5.4GHz)",
             "cpu_clock_ghz": 5.4,
             "ram_gb": 0,
@@ -15822,7 +15822,7 @@
             "wide_view": false,
             "brightness_nit": 400
         },
-        "core_spec": {
+        "Spec": {
             "cpu_model": "256V (4.8GHz)",
             "cpu_clock_ghz": 4.8,
             "ram_gb": 0,
@@ -15889,7 +15889,7 @@
             "wide_view": false,
             "brightness_nit": 300
         },
-        "core_spec": {
+        "Spec": {
             "cpu_model": "i7-12700H (2.3GHz)",
             "cpu_clock_ghz": 2.3,
             "ram_gb": 0,
@@ -15946,7 +15946,7 @@
             "wide_view": false,
             "brightness_nit": 300
         },
-        "core_spec": {
+        "Spec": {
             "cpu_model": "5625U (2.3GHz)",
             "cpu_clock_ghz": 2.3,
             "ram_gb": 0,
@@ -16016,7 +16016,7 @@
             "wide_view": false,
             "brightness_nit": 500
         },
-        "core_spec": {
+        "Spec": {
             "cpu_model": "255HX (5.2GHz)",
             "cpu_clock_ghz": 5.2,
             "ram_gb": 0,
@@ -16081,7 +16081,7 @@
             "wide_view": false,
             "brightness_nit": 400
         },
-        "core_spec": {
+        "Spec": {
             "cpu_model": "340 (4.8GHz)",
             "cpu_clock_ghz": 4.8,
             "ram_gb": 0,
@@ -16174,7 +16174,7 @@
             "wide_view": false,
             "brightness_nit": 300
         },
-        "core_spec": {
+        "Spec": {
             "cpu_model": "225H (4.9GHz)",
             "cpu_clock_ghz": 4.9,
             "ram_gb": 16,
@@ -16240,7 +16240,7 @@
             "wide_view": false,
             "brightness_nit": 400
         },
-        "core_spec": {
+        "Spec": {
             "cpu_model": "258V (4.8GHz)",
             "cpu_clock_ghz": 4.8,
             "ram_gb": 0,
@@ -16325,7 +16325,7 @@
             "wide_view": false,
             "brightness_nit": 500
         },
-        "core_spec": {
+        "Spec": {
             "cpu_model": "9955HX (5.4GHz)",
             "cpu_clock_ghz": 5.4,
             "ram_gb": 0,
@@ -16396,7 +16396,7 @@
             "wide_view": false,
             "brightness_nit": 250
         },
-        "core_spec": {
+        "Spec": {
             "cpu_model": "210H (4.8GHz)",
             "cpu_clock_ghz": 4.8,
             "ram_gb": 0,
@@ -16461,7 +16461,7 @@
             "wide_view": false,
             "brightness_nit": 250
         },
-        "core_spec": {
+        "Spec": {
             "cpu_model": "120U (5.0GHz)",
             "cpu_clock_ghz": 5.0,
             "ram_gb": 0,
@@ -16526,7 +16526,7 @@
             "wide_view": false,
             "brightness_nit": 250
         },
-        "core_spec": {
+        "Spec": {
             "cpu_model": "7445HS (3.55Hz)",
             "cpu_clock_ghz": 0.0,
             "ram_gb": 0,
@@ -16592,7 +16592,7 @@
             "wide_view": false,
             "brightness_nit": 500
         },
-        "core_spec": {
+        "Spec": {
             "cpu_model": "255HX (5.2GHz)",
             "cpu_clock_ghz": 5.2,
             "ram_gb": 0,
@@ -16657,7 +16657,7 @@
             "wide_view": false,
             "brightness_nit": 500
         },
-        "core_spec": {
+        "Spec": {
             "cpu_model": "258V (4.8GHz)",
             "cpu_clock_ghz": 4.8,
             "ram_gb": 0,
@@ -16723,7 +16723,7 @@
             "wide_view": false,
             "brightness_nit": 250
         },
-        "core_spec": {
+        "Spec": {
             "cpu_model": "240H (5.2GHz)",
             "cpu_clock_ghz": 5.2,
             "ram_gb": 0,
@@ -16788,7 +16788,7 @@
             "wide_view": false,
             "brightness_nit": 500
         },
-        "core_spec": {
+        "Spec": {
             "cpu_model": "275HX (5.4GHz)",
             "cpu_clock_ghz": 5.4,
             "ram_gb": 0,
@@ -16853,7 +16853,7 @@
             "wide_view": false,
             "brightness_nit": 250
         },
-        "core_spec": {
+        "Spec": {
             "cpu_model": "240H (5.2GHz)",
             "cpu_clock_ghz": 5.2,
             "ram_gb": 0,
@@ -16918,7 +16918,7 @@
             "wide_view": false,
             "brightness_nit": 250
         },
-        "core_spec": {
+        "Spec": {
             "cpu_model": "i7-13620H (2.4GHz)",
             "cpu_clock_ghz": 2.4,
             "ram_gb": 0,
@@ -16984,7 +16984,7 @@
             "wide_view": false,
             "brightness_nit": 400
         },
-        "core_spec": {
+        "Spec": {
             "cpu_model": "HX 370 (5.1GHz)",
             "cpu_clock_ghz": 5.1,
             "ram_gb": 0,
@@ -17053,7 +17053,7 @@
             "wide_view": false,
             "brightness_nit": 250
         },
-        "core_spec": {
+        "Spec": {
             "cpu_model": "210H (4.8GHz)",
             "cpu_clock_ghz": 4.8,
             "ram_gb": 0,
@@ -17118,7 +17118,7 @@
             "wide_view": false,
             "brightness_nit": 400
         },
-        "core_spec": {
+        "Spec": {
             "cpu_model": "255HX (5.2GHz)",
             "cpu_clock_ghz": 5.2,
             "ram_gb": 0,
@@ -17184,7 +17184,7 @@
             "wide_view": false,
             "brightness_nit": 400
         },
-        "core_spec": {
+        "Spec": {
             "cpu_model": "155H (4.8GHz)",
             "cpu_clock_ghz": 4.8,
             "ram_gb": 0,
@@ -17249,7 +17249,7 @@
             "wide_view": false,
             "brightness_nit": 500
         },
-        "core_spec": {
+        "Spec": {
             "cpu_model": "9955HX (5.4GHz)",
             "cpu_clock_ghz": 5.4,
             "ram_gb": 0,
@@ -17320,7 +17320,7 @@
             "wide_view": false,
             "brightness_nit": 250
         },
-        "core_spec": {
+        "Spec": {
             "cpu_model": "225H (4.9GHz)",
             "cpu_clock_ghz": 4.9,
             "ram_gb": 0,
@@ -17385,7 +17385,7 @@
             "wide_view": false,
             "brightness_nit": 250
         },
-        "core_spec": {
+        "Spec": {
             "cpu_model": "8845HS (3.8GHz)",
             "cpu_clock_ghz": 3.8,
             "ram_gb": 0,
@@ -17450,7 +17450,7 @@
             "wide_view": false,
             "brightness_nit": 500
         },
-        "core_spec": {
+        "Spec": {
             "cpu_model": "275HX (5.4GHz)",
             "cpu_clock_ghz": 5.4,
             "ram_gb": 0,
@@ -17515,7 +17515,7 @@
             "wide_view": false,
             "brightness_nit": 300
         },
-        "core_spec": {
+        "Spec": {
             "cpu_model": "7530U (2.0Hz)",
             "cpu_clock_ghz": 0.0,
             "ram_gb": 0,
@@ -17579,7 +17579,7 @@
             "wide_view": false,
             "brightness_nit": 600
         },
-        "core_spec": {
+        "Spec": {
             "cpu_model": "275HX (5.4GHz)",
             "cpu_clock_ghz": 5.4,
             "ram_gb": 0,
@@ -17645,7 +17645,7 @@
             "wide_view": false,
             "brightness_nit": 400
         },
-        "core_spec": {
+        "Spec": {
             "cpu_model": "125H (4.5GHz)",
             "cpu_clock_ghz": 4.5,
             "ram_gb": 0,
@@ -17709,7 +17709,7 @@
             "wide_view": false,
             "brightness_nit": 250
         },
-        "core_spec": {
+        "Spec": {
             "cpu_model": "i9-14900HX (5.8GHz)",
             "cpu_clock_ghz": 5.8,
             "ram_gb": 0,
@@ -17780,7 +17780,7 @@
             "wide_view": false,
             "brightness_nit": 400
         },
-        "core_spec": {
+        "Spec": {
             "cpu_model": "i9-13980HX (2.2GHz)",
             "cpu_clock_ghz": 2.2,
             "ram_gb": 0,
@@ -17844,7 +17844,7 @@
             "wide_view": false,
             "brightness_nit": 250
         },
-        "core_spec": {
+        "Spec": {
             "cpu_model": "260 (5.1GHz)",
             "cpu_clock_ghz": 5.1,
             "ram_gb": 0,
@@ -17913,7 +17913,7 @@
             "wide_view": false,
             "brightness_nit": 250
         },
-        "core_spec": {
+        "Spec": {
             "cpu_model": "225H (4.9GHz)",
             "cpu_clock_ghz": 4.9,
             "ram_gb": 0,
@@ -17978,7 +17978,7 @@
             "wide_view": false,
             "brightness_nit": 400
         },
-        "core_spec": {
+        "Spec": {
             "cpu_model": "125H (4.5GHz)",
             "cpu_clock_ghz": 4.5,
             "ram_gb": 0,
@@ -18068,7 +18068,7 @@
             "wide_view": false,
             "brightness_nit": 300
         },
-        "core_spec": {
+        "Spec": {
             "cpu_model": "7945HX (2.5Hz)",
             "cpu_clock_ghz": 0.0,
             "ram_gb": 0,
@@ -18133,7 +18133,7 @@
             "wide_view": false,
             "brightness_nit": 300
         },
-        "core_spec": {
+        "Spec": {
             "cpu_model": "i7-14650HX (5.2GHz)",
             "cpu_clock_ghz": 5.2,
             "ram_gb": 0,
@@ -18197,7 +18197,7 @@
             "wide_view": false,
             "brightness_nit": 350
         },
-        "core_spec": {
+        "Spec": {
             "cpu_model": "i5-1340P (1.9GHz)",
             "cpu_clock_ghz": 1.9,
             "ram_gb": 0,
@@ -18276,7 +18276,7 @@
             "wide_view": false,
             "brightness_nit": 400
         },
-        "core_spec": {
+        "Spec": {
             "cpu_model": "255H (5.1GHz)",
             "cpu_clock_ghz": 5.1,
             "ram_gb": 0,
@@ -18360,7 +18360,7 @@
             "wide_view": false,
             "brightness_nit": 250
         },
-        "core_spec": {
+        "Spec": {
             "cpu_model": "8845HS (3.8GHz)",
             "cpu_clock_ghz": 3.8,
             "ram_gb": 0,
@@ -18425,7 +18425,7 @@
             "wide_view": false,
             "brightness_nit": 250
         },
-        "core_spec": {
+        "Spec": {
             "cpu_model": "i7-13620H (2.4GHz)",
             "cpu_clock_ghz": 2.4,
             "ram_gb": 0,
@@ -18495,7 +18495,7 @@
             "wide_view": false,
             "brightness_nit": 400
         },
-        "core_spec": {
+        "Spec": {
             "cpu_model": "258V (4.8GHz)",
             "cpu_clock_ghz": 4.8,
             "ram_gb": 0,
@@ -18560,7 +18560,7 @@
             "wide_view": false,
             "brightness_nit": 250
         },
-        "core_spec": {
+        "Spec": {
             "cpu_model": "240H (5.2GHz)",
             "cpu_clock_ghz": 5.2,
             "ram_gb": 0,
@@ -18625,7 +18625,7 @@
             "wide_view": false,
             "brightness_nit": 250
         },
-        "core_spec": {
+        "Spec": {
             "cpu_model": "i5-13420H (2.1GHz)",
             "cpu_clock_ghz": 2.1,
             "ram_gb": 0,
@@ -18690,7 +18690,7 @@
             "wide_view": false,
             "brightness_nit": 300
         },
-        "core_spec": {
+        "Spec": {
             "cpu_model": "7530U (2.0Hz)",
             "cpu_clock_ghz": 0.0,
             "ram_gb": 0,
@@ -18761,7 +18761,7 @@
             "wide_view": false,
             "brightness_nit": 250
         },
-        "core_spec": {
+        "Spec": {
             "cpu_model": "i7-13620H (2.4GHz)",
             "cpu_clock_ghz": 2.4,
             "ram_gb": 0,
@@ -18831,7 +18831,7 @@
             "wide_view": false,
             "brightness_nit": 250
         },
-        "core_spec": {
+        "Spec": {
             "cpu_model": "260 (5.1GHz)",
             "cpu_clock_ghz": 5.1,
             "ram_gb": 0,
@@ -18896,7 +18896,7 @@
             "wide_view": false,
             "brightness_nit": 500
         },
-        "core_spec": {
+        "Spec": {
             "cpu_model": "275HX (5.4GHz)",
             "cpu_clock_ghz": 5.4,
             "ram_gb": 0,
@@ -18967,7 +18967,7 @@
             "wide_view": false,
             "brightness_nit": 500
         },
-        "core_spec": {
+        "Spec": {
             "cpu_model": "275HX (5.4GHz)",
             "cpu_clock_ghz": 5.4,
             "ram_gb": 0,
@@ -19033,7 +19033,7 @@
             "wide_view": false,
             "brightness_nit": 250
         },
-        "core_spec": {
+        "Spec": {
             "cpu_model": "120U (5.0GHz)",
             "cpu_clock_ghz": 5.0,
             "ram_gb": 0,
@@ -19098,7 +19098,7 @@
             "wide_view": false,
             "brightness_nit": 300
         },
-        "core_spec": {
+        "Spec": {
             "cpu_model": "i7-14650HX (5.2GHz)",
             "cpu_clock_ghz": 5.2,
             "ram_gb": 0,
@@ -19163,7 +19163,7 @@
             "wide_view": false,
             "brightness_nit": 400
         },
-        "core_spec": {
+        "Spec": {
             "cpu_model": "155H (4.8GHz)",
             "cpu_clock_ghz": 4.8,
             "ram_gb": 0,
@@ -19227,7 +19227,7 @@
             "wide_view": false,
             "brightness_nit": 300
         },
-        "core_spec": {
+        "Spec": {
             "cpu_model": "i7-14650HX (5.2GHz)",
             "cpu_clock_ghz": 5.2,
             "ram_gb": 0,
@@ -19291,7 +19291,7 @@
             "wide_view": false,
             "brightness_nit": 250
         },
-        "core_spec": {
+        "Spec": {
             "cpu_model": "240H (5.2GHz)",
             "cpu_clock_ghz": 5.2,
             "ram_gb": 0,
@@ -19356,7 +19356,7 @@
             "wide_view": false,
             "brightness_nit": 400
         },
-        "core_spec": {
+        "Spec": {
             "cpu_model": "X1-26-100 (3.0GHz)",
             "cpu_clock_ghz": 3.0,
             "ram_gb": 0,
@@ -19442,7 +19442,7 @@
             "wide_view": false,
             "brightness_nit": 500
         },
-        "core_spec": {
+        "Spec": {
             "cpu_model": "275HX (5.4GHz)",
             "cpu_clock_ghz": 5.4,
             "ram_gb": 0,
@@ -19507,7 +19507,7 @@
             "wide_view": false,
             "brightness_nit": 250
         },
-        "core_spec": {
+        "Spec": {
             "cpu_model": "120U (5.0GHz)",
             "cpu_clock_ghz": 5.0,
             "ram_gb": 0,
@@ -19572,7 +19572,7 @@
             "wide_view": false,
             "brightness_nit": 500
         },
-        "core_spec": {
+        "Spec": {
             "cpu_model": "275HX (5.4GHz)",
             "cpu_clock_ghz": 5.4,
             "ram_gb": 0,
@@ -19637,7 +19637,7 @@
             "wide_view": false,
             "brightness_nit": 300
         },
-        "core_spec": {
+        "Spec": {
             "cpu_model": "8845HS (3.8GHz)",
             "cpu_clock_ghz": 3.8,
             "ram_gb": 0,
@@ -19701,7 +19701,7 @@
             "wide_view": false,
             "brightness_nit": 500
         },
-        "core_spec": {
+        "Spec": {
             "cpu_model": "275HX (5.4GHz)",
             "cpu_clock_ghz": 5.4,
             "ram_gb": 0,
@@ -19767,7 +19767,7 @@
             "wide_view": false,
             "brightness_nit": 300
         },
-        "core_spec": {
+        "Spec": {
             "cpu_model": "i7-14650HX (5.2GHz)",
             "cpu_clock_ghz": 5.2,
             "ram_gb": 0,
@@ -19832,7 +19832,7 @@
             "wide_view": false,
             "brightness_nit": 400
         },
-        "core_spec": {
+        "Spec": {
             "cpu_model": "225H (4.9GHz)",
             "cpu_clock_ghz": 4.9,
             "ram_gb": 0,
@@ -19897,7 +19897,7 @@
             "wide_view": false,
             "brightness_nit": 300
         },
-        "core_spec": {
+        "Spec": {
             "cpu_model": "260 (5.1GHz)",
             "cpu_clock_ghz": 5.1,
             "ram_gb": 16,
@@ -19965,7 +19965,7 @@
             "wide_view": false,
             "brightness_nit": 300
         },
-        "core_spec": {
+        "Spec": {
             "cpu_model": "i7-14650HX (5.2GHz)",
             "cpu_clock_ghz": 5.2,
             "ram_gb": 0,
@@ -20030,7 +20030,7 @@
             "wide_view": false,
             "brightness_nit": 350
         },
-        "core_spec": {
+        "Spec": {
             "cpu_model": "125H (4.5GHz)",
             "cpu_clock_ghz": 4.5,
             "ram_gb": 0,
@@ -20114,7 +20114,7 @@
             "wide_view": false,
             "brightness_nit": 250
         },
-        "core_spec": {
+        "Spec": {
             "cpu_model": "240H (5.2GHz)",
             "cpu_clock_ghz": 5.2,
             "ram_gb": 0,
@@ -20179,7 +20179,7 @@
             "wide_view": false,
             "brightness_nit": 500
         },
-        "core_spec": {
+        "Spec": {
             "cpu_model": "275HX (5.4GHz)",
             "cpu_clock_ghz": 5.4,
             "ram_gb": 0,
@@ -20244,7 +20244,7 @@
             "wide_view": false,
             "brightness_nit": 250
         },
-        "core_spec": {
+        "Spec": {
             "cpu_model": "i9-14900HX (5.8GHz)",
             "cpu_clock_ghz": 5.8,
             "ram_gb": 0,
@@ -20309,7 +20309,7 @@
             "wide_view": false,
             "brightness_nit": 1000
         },
-        "core_spec": {
+        "Spec": {
             "cpu_model": "9955HX3D (5.4GHz)",
             "cpu_clock_ghz": 5.4,
             "ram_gb": 0,
@@ -20378,7 +20378,7 @@
             "wide_view": false,
             "brightness_nit": 400
         },
-        "core_spec": {
+        "Spec": {
             "cpu_model": "i9-13980HX (2.2GHz)",
             "cpu_clock_ghz": 2.2,
             "ram_gb": 0,

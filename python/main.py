@@ -181,7 +181,7 @@ def recommend():
     with engine.connect() as conn:
         rows = conn.execute(q, {"u": int(user_no)}).fetchall()
 
-    # ✅ DEBUG는 rows 만든 뒤에 찍어야 함
+    #  DEBUG는 rows 만든 뒤에 찍어야 함
     print("DEBUG user_no:", user_no)
     print("DEBUG rows:", len(rows))
     print("DEBUG first pid:", rows[0].product_id if rows else None)
@@ -190,30 +190,36 @@ def recommend():
     used = set()
 
     for r in rows:
-        pid = str(r.product_id)
+        pid = str(r.product_id)   # DB에 저장된 값: laptop:... (basekey) 혹은 full id
+        chosen = None
 
-        # 1) full id 저장된 경우
-        if pid in PRODUCT_BY_ID and pid not in used:
-            items.append(PRODUCT_BY_ID[pid])
-            used.add(pid)
-
-        # 2) basekey 저장된 경우(category:slug)
+        if pid in PRODUCT_BY_ID:
+            if pid not in used:
+                chosen = PRODUCT_BY_ID[pid]
         elif pid in BASEKEY_TO_FULLIDS:
             for full_id in BASEKEY_TO_FULLIDS[pid]:
                 if full_id not in used:
-                    items.append(PRODUCT_BY_ID[full_id])
-                    used.add(full_id)
+                    chosen = PRODUCT_BY_ID[full_id]
                     break
+
+        if chosen:
+            item = dict(chosen)
+            item["base_id"] = pid              #  이게 핵심 (DB의 basekey 그대로)
+            item["rec_rank"] = int(r.rec_rank)
+            item["score"] = float(r.score)
+
+            items.append(item)
+            used.add(chosen["id"])
 
         if len(items) >= 10:
             break
 
-    # 부족하면 랜덤 채움
-    if len(items) < 10:
-        remain = 10 - len(items)
-        pool = [p for p in PRODUCTS if p["id"] not in used]
-        if pool:
-            items.extend(random.sample(pool, min(remain, len(pool))))
+        # 부족하면 랜덤 채움
+        if len(items) < 10:
+            remain = 10 - len(items)
+            pool = [p for p in PRODUCTS if p["id"] not in used]
+            if pool:
+                items.extend(random.sample(pool, min(remain, len(pool))))
 
     return jsonify({"type": "personalized", "items": items})
 
