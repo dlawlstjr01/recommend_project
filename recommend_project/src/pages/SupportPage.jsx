@@ -45,6 +45,12 @@ const SupportPage = () => {
   const [me, setMe] = useState(null);
   const isAdmin = me?.role === "admin";
 
+  // ✅ 공지 (유저): 상세 모달 상태를 먼저 선언 (ESC useEffect에서 사용)
+  const [selectedNotice, setSelectedNotice] = useState(null);
+
+  // ✅ 모달 닫기(중복 제거)
+  const closeModal = () => setSelectedNotice(null);
+
   useEffect(() => {
     (async () => {
       try {
@@ -56,13 +62,24 @@ const SupportPage = () => {
     })();
   }, []);
 
+  // ✅ ESC 키로 모달 닫기 (selectedNotice 선언 이후에 와야 함)
+  useEffect(() => {
+    if (!selectedNotice) return;
+
+    const onKeyDown = (e) => {
+      if (e.key === "Escape") closeModal();
+    };
+
+    window.addEventListener("keydown", onKeyDown);
+    return () => window.removeEventListener("keydown", onKeyDown);
+  }, [selectedNotice]);
+
   // 탭/공통
   const [tab, setTab] = useState("notice");
   const [loading, setLoading] = useState(false);
   const [errorMsg, setErrorMsg] = useState("");
 
   // 공지 (유저)
-  const [selectedNotice, setSelectedNotice] = useState(null);
   const [notices, setNotices] = useState([]);
 
   // FAQ (유저)
@@ -267,60 +284,59 @@ const SupportPage = () => {
   };
 
   const newAdminFaq = () => {
-      setAdminFaqForm({
-        id: null,
-        category: "general",
-        question: "",
-        answer: "",
-        is_published: true,
-      });
-    };
+    setAdminFaqForm({
+      id: null,
+      category: "general",
+      question: "",
+      answer: "",
+      is_published: true,
+    });
+  };
 
-    const saveAdminFaq = async () => {
-      if (!adminFaqForm.question.trim() || !adminFaqForm.answer.trim()) {
-        alert("질문/답변을 입력하세요.");
-        return;
+  const saveAdminFaq = async () => {
+    if (!adminFaqForm.question.trim() || !adminFaqForm.answer.trim()) {
+      alert("질문/답변을 입력하세요.");
+      return;
+    }
+
+    setErrorMsg("");
+    setLoading(true);
+
+    try {
+      if (adminFaqForm.id) {
+        await fetchJson(`${API_BASE}/api/admin/cs/faqs/${adminFaqForm.id}`, {
+          method: "PATCH",
+          headers: { "Content-Type": "application/json" },
+          body: JSON.stringify({
+            category: adminFaqForm.category,
+            question: adminFaqForm.question,
+            answer: adminFaqForm.answer,
+            is_published: adminFaqForm.is_published,
+          }),
+        });
+        alert("FAQ 수정 완료");
+      } else {
+        await fetchJson(`${API_BASE}/api/admin/cs/faqs`, {
+          method: "POST",
+          headers: { "Content-Type": "application/json" },
+          body: JSON.stringify({
+            category: adminFaqForm.category,
+            question: adminFaqForm.question,
+            answer: adminFaqForm.answer,
+            is_published: adminFaqForm.is_published,
+          }),
+        });
+        alert("FAQ 등록 완료");
       }
 
-      setErrorMsg("");
-      setLoading(true);
-
-      try {
-        if (adminFaqForm.id) {
-          await fetchJson(`${API_BASE}/api/admin/cs/faqs/${adminFaqForm.id}`, {
-            method: "PATCH",
-            headers: { "Content-Type": "application/json" },
-            body: JSON.stringify({
-              category: adminFaqForm.category,
-              question: adminFaqForm.question,
-              answer: adminFaqForm.answer,
-              is_published: adminFaqForm.is_published,
-            }),
-          });
-          alert("FAQ 수정 완료");
-        } else {
-          await fetchJson(`${API_BASE}/api/admin/cs/faqs`, {
-            method: "POST",
-            headers: { "Content-Type": "application/json" },
-            body: JSON.stringify({
-              category: adminFaqForm.category,
-              question: adminFaqForm.question,
-              answer: adminFaqForm.answer,
-              is_published: adminFaqForm.is_published,
-            }),
-          });
-          alert("FAQ 등록 완료");
-        }
-
-        await reloadAdminFaqs();
-        newAdminFaq();
-      } catch (e) {
-        alert(e.message);
-      } finally {
-        setLoading(false);
-      }
-    };
-
+      await reloadAdminFaqs();
+      newAdminFaq();
+    } catch (e) {
+      alert(e.message);
+    } finally {
+      setLoading(false);
+    }
+  };
 
   const deleteAdminFaq = async (id) => {
     if (!id) return;
@@ -411,8 +427,6 @@ const SupportPage = () => {
     }
   };
 
-  const closeModal = () => setSelectedNotice(null);
-
   // 문의(유저): 입력/등록
   const handleInquiryChange = (e) => {
     const { name, value } = e.target;
@@ -492,36 +506,26 @@ const SupportPage = () => {
     }));
   };
 
-const onAdminFaqChange = (e) => {
-  const { name, value, type, checked } = e.target;
-  setAdminFaqForm((prev) => ({
-    ...prev,
-    [name]: type === "checkbox" ? checked : value,
-  }));
-};
-
+  const onAdminFaqChange = (e) => {
+    const { name, value, type, checked } = e.target;
+    setAdminFaqForm((prev) => ({
+      ...prev,
+      [name]: type === "checkbox" ? checked : value,
+    }));
+  };
 
   return (
     <div className="support-container">
       <h2 className="support-title">고객센터</h2>
 
       <div className="tab-menu">
-        <button
-          onClick={() => setTab("notice")}
-          className={`tab-btn ${tab === "notice" ? "active" : ""}`}
-        >
+        <button onClick={() => setTab("notice")} className={`tab-btn ${tab === "notice" ? "active" : ""}`}>
           공지사항
         </button>
-        <button
-          onClick={() => setTab("faq")}
-          className={`tab-btn ${tab === "faq" ? "active" : ""}`}
-        >
+        <button onClick={() => setTab("faq")} className={`tab-btn ${tab === "faq" ? "active" : ""}`}>
           자주 묻는 질문 (FAQ)
         </button>
-        <button
-          onClick={() => setTab("qna")}
-          className={`tab-btn ${tab === "qna" ? "active" : ""}`}
-        >
+        <button onClick={() => setTab("qna")} className={`tab-btn ${tab === "qna" ? "active" : ""}`}>
           1:1 문의
         </button>
       </div>
@@ -570,9 +574,7 @@ const onAdminFaqChange = (e) => {
               </div>
 
               <div className="inquiry-form-section" style={{ marginTop: 30 }}>
-                <h3 className="section-title">
-                  {adminNoticeForm.id ? "공지 수정" : "공지 등록"}
-                </h3>
+                <h3 className="section-title">{adminNoticeForm.id ? "공지 수정" : "공지 등록"}</h3>
 
                 <div className="inquiry-form">
                   <div className="form-row">
@@ -595,21 +597,11 @@ const onAdminFaqChange = (e) => {
 
                   <div style={{ display: "flex", gap: 12, alignItems: "center", marginTop: 10 }}>
                     <label style={{ display: "flex", gap: 6, alignItems: "center" }}>
-                      <input
-                        type="checkbox"
-                        name="is_pinned"
-                        checked={adminNoticeForm.is_pinned}
-                        onChange={onAdminNoticeChange}
-                      />
+                      <input type="checkbox" name="is_pinned" checked={adminNoticeForm.is_pinned} onChange={onAdminNoticeChange} />
                       상단 고정
                     </label>
                     <label style={{ display: "flex", gap: 6, alignItems: "center" }}>
-                      <input
-                        type="checkbox"
-                        name="is_published"
-                        checked={adminNoticeForm.is_published}
-                        onChange={onAdminNoticeChange}
-                      />
+                      <input type="checkbox" name="is_published" checked={adminNoticeForm.is_published} onChange={onAdminNoticeChange} />
                       공개
                     </label>
                   </div>
@@ -618,12 +610,7 @@ const onAdminFaqChange = (e) => {
                     <button type="button" className="submit-btn" onClick={saveAdminNotice}>
                       저장
                     </button>
-                    <button
-                      type="button"
-                      className="submit-btn"
-                      onClick={newAdminNotice}
-                      style={{ opacity: 0.9 }}
-                    >
+                    <button type="button" className="submit-btn" onClick={newAdminNotice} style={{ opacity: 0.9 }}>
                       새로작성
                     </button>
                     {adminNoticeForm.id && (
@@ -644,18 +631,13 @@ const onAdminFaqChange = (e) => {
             // ===== 유저 공지 보기 UI =====
             <ul className="notice-list">
               {notices.map((item) => (
-                <li
-                  key={item.id}
-                  className="notice-item"
-                  onClick={() => handleNoticeClick(item)}
-                >
-                  <span>{item.title}</span>
+                <li key={item.id} className="notice-item" onClick={() => handleNoticeClick(item)}>
+                  <span className="notice-number">{item.id}</span>
+                  <span className="notice-title">{item.title}</span>
                   <span className="notice-date">{formatDate(item.created_at)}</span>
                 </li>
               ))}
-              {notices.length === 0 && !loading && (
-                <div className="no-history">공지사항이 없습니다.</div>
-              )}
+              {notices.length === 0 && !loading && <div className="no-history">공지사항이 없습니다.</div>}
             </ul>
           ))}
 
@@ -700,23 +682,15 @@ const onAdminFaqChange = (e) => {
               </div>
 
               <div className="inquiry-form-section" style={{ marginTop: 30 }}>
-                <h3 className="section-title">
-                  {adminFaqForm.id ? "FAQ 수정" : "FAQ 등록"}
-                </h3>
+                <h3 className="section-title">{adminFaqForm.id ? "FAQ 수정" : "FAQ 등록"}</h3>
 
                 <div className="inquiry-form">
                   <div className="form-row">
-                    <select
-                      name="category"
-                      value={adminFaqForm.category}
-                      onChange={onAdminFaqChange}
-                      className="inquiry-select"
-                    >
+                    <select name="category" value={adminFaqForm.category} onChange={onAdminFaqChange} className="inquiry-select">
                       <option value="general">일반</option>
                       <option value="product">상품</option>
                       <option value="shipping">배송</option>
                     </select>
-                
                   </div>
 
                   <input
@@ -738,12 +712,7 @@ const onAdminFaqChange = (e) => {
 
                   <div style={{ display: "flex", gap: 12, alignItems: "center", marginTop: 10 }}>
                     <label style={{ display: "flex", gap: 6, alignItems: "center" }}>
-                      <input
-                        type="checkbox"
-                        name="is_published"
-                        checked={adminFaqForm.is_published}
-                        onChange={onAdminFaqChange}
-                      />
+                      <input type="checkbox" name="is_published" checked={adminFaqForm.is_published} onChange={onAdminFaqChange} />
                       공개
                     </label>
                   </div>
@@ -752,12 +721,7 @@ const onAdminFaqChange = (e) => {
                     <button type="button" className="submit-btn" onClick={saveAdminFaq}>
                       저장
                     </button>
-                    <button
-                      type="button"
-                      className="submit-btn"
-                      onClick={newAdminFaq}
-                      style={{ opacity: 0.9 }}
-                    >
+                    <button type="button" className="submit-btn" onClick={newAdminFaq} style={{ opacity: 0.9 }}>
                       새로작성
                     </button>
                     {adminFaqForm.id && (
@@ -779,13 +743,19 @@ const onAdminFaqChange = (e) => {
             <div className="faq-list">
               {faqs.map((f) => (
                 <details key={f.id} className="faq-details">
-                  <summary className="faq-summary">Q. {f.question}</summary>
-                  <p className="faq-answer">A. {f.answer}</p>
+                  <summary className="faq-summary">
+                    <span className="faq-qbadge">Q</span>
+                    <span className="faq-qtext">{f.question}</span>
+                  </summary>
+
+                  <p className="faq-answer">
+                    <span className="faq-abedge">A</span>
+                    <span className="faq-atext">{f.answer}</span>
+                  </p>
+
                 </details>
               ))}
-              {faqs.length === 0 && !loading && (
-                <div className="no-history">FAQ가 없습니다.</div>
-              )}
+              {faqs.length === 0 && !loading && <div className="no-history">FAQ가 없습니다.</div>}
             </div>
           ))}
 
@@ -820,9 +790,7 @@ const onAdminFaqChange = (e) => {
                             className={`history-row ${adminSelectedId === item.id ? "active" : ""}`}
                             onClick={() => openAdminInquiry(item.id)}
                           >
-                            <span className={`col-status status-${isDone ? "done" : "wait"}`}>
-                              {koStatus}
-                            </span>
+                            <span className={`col-status status-${isDone ? "done" : "wait"}`}>{koStatus}</span>
                             <span className="col-category">{categoryToKo(item.category)}</span>
                             <span className="col-title">{item.title}</span>
                             <span className="col-date">{formatDate(item.created_at)}</span>
@@ -931,9 +899,7 @@ const onAdminFaqChange = (e) => {
                             className={`history-row ${expandedInquiryId === item.id ? "active" : ""}`}
                             onClick={() => toggleInquiry(item.id)}
                           >
-                            <span className={`col-status status-${isDone ? "done" : "wait"}`}>
-                              {koStatus}
-                            </span>
+                            <span className={`col-status status-${isDone ? "done" : "wait"}`}>{koStatus}</span>
                             <span className="col-category">{categoryToKo(item.category)}</span>
                             <span className="col-title">{item.title}</span>
                             <span className="col-date">{formatDate(item.created_at)}</span>
@@ -989,12 +955,6 @@ const onAdminFaqChange = (e) => {
                     </React.Fragment>
                   ))}
               </div>
-            </div>
-
-            <div className="modal-footer">
-              <button className="modal-close-btn" onClick={closeModal}>
-                닫기
-              </button>
             </div>
           </div>
         </div>
