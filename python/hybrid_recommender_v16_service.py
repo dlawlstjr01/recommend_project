@@ -59,7 +59,7 @@ W_POP_GRID = [0.0, 0.2, 0.4]
 
 THRESHOLD_0_100 = 70.0
 OUT_NAME = "recommendations_hybrid_top10_threshold70_with_names.csv"
-TOPN_SAVE = 50
+TOPN_SAVE = 30
 
 RATIO_TOPCAT_POP   = 0.30
 RATIO_TOPCAT_TAIL  = 0.10
@@ -440,7 +440,7 @@ df["category_id"] = pd.to_numeric(df.get("category_id", -1), errors="coerce").fi
 df["topcat_id"]   = pd.to_numeric(df.get("topcat_id", -1), errors="coerce").fillna(-1).astype(int)
 df["w"] = df["implicit_score"] + BETA_FINAL * df["final_score"]
 
-# ✅ 서비스용 전체 로그(최근 클릭 반영)
+#  서비스용 전체 로그(최근 클릭 반영)
 df_service = df.copy()
 
 def split_leave_k_out(df_in: pd.DataFrame, k_test=5, k_val=5, min_train=3):
