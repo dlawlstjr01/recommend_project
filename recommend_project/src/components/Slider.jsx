@@ -14,9 +14,8 @@ const Slider = () => {
   const slides = [
     { id: 1, text : "최신 트렌드",img: latestTrend, link: "/products" },
     { id: 2, text : "가격 비교 분석",img: priceAnalysis, link: "/analysis/price" },
-    { id: 3, text : "스펙 벤치마크",img: benchmark, link: "/analysis/benchmark" },
-    { id: 4, text : "맞춤 추천",img: recommend, link: "/products" },
-    { id: 5, text : "공지사항",img: notice, link: "/support" }
+    { id: 3, text : "맞춤 추천",img: recommend, link: "/products" },
+    { id: 4, text : "공지사항",img: notice, link: "/support" }
   ];
 
   return (

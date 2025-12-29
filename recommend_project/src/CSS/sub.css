@@ -6,34 +6,37 @@
    4. ★ 공지사항 모달 (Modal) - 필수 확인
 ============================== */
 .modal-overlay {
-    position: fixed;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-    background-color: rgba(0, 0, 0, 0.5);
-    /* 반투명 검은 배경 */
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    z-index: 9999;
-    /* 최상위 레이어 */
-    animation: fadeIn 0.2s ease-in-out;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.5);
+  /* 반투명 검은 배경 */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  z-index: 9999;
+  /* 최상위 레이어 */
+  animation: fadeIn 0.2s ease-in-out;
 }
 
 .modal-content {
   background: white;
-  padding: 30px; /* 내부 여백도 넉넉하게 */
+  padding: 30px;
+  /* 내부 여백도 넉넉하게 */
   border-radius: 12px;
-  
+
   /* 너비 설정 */
-  width: 90%;          /* 모바일 대응: 화면의 90% 차지 */
-  max-width: 800px;    /* PC 대응: 최대 800px까지 커짐 (기존 500px 등보다 크게 설정) */
-  
+  width: 90%;
+  /* 모바일 대응: 화면의 90% 차지 */
+  max-width: 800px;
+  /* PC 대응: 최대 800px까지 커짐 (기존 500px 등보다 크게 설정) */
+
   /* 높이가 너무 커지면 스크롤 생기게 설정 */
   max-height: 85vh;
   overflow-y: auto;
-  
+
   position: relative;
   box-shadow: 0 4px 20px rgba(0, 0, 0, 0.15);
 }
@@ -41,14 +44,15 @@
 /* (선택사항) 아주 큰 화면에서는 더 크게 */
 @media (min-width: 1200px) {
   .modal-content {
-    max-width: 1000px; /* 초대형 화면에서는 1000px까지 확장 */
+    max-width: 1000px;
+    /* 초대형 화면에서는 1000px까지 확장 */
   }
 }
 
 /* ===== Modal Header ===== */
 .modal-header {
   padding: 22px 26px;
-  border-bottom: 1px solid rgba(226,232,240,0.9);
+  border-bottom: 1px solid rgba(226, 232, 240, 0.9);
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -60,7 +64,8 @@
 }
 
 .modal-header h3 {
-  font-size: 28px;          /* ✅ 너무 크면 26 */
+  font-size: 28px;
+  /* ✅ 너무 크면 26 */
   font-weight: 900;
   margin: 0;
   color: #0f172a;
@@ -78,8 +83,8 @@
   align-items: center;
   justify-content: center;
 
-  background: rgba(241,245,249,0.9);
-  border: 1px solid rgba(226,232,240,0.95);
+  background: rgba(241, 245, 249, 0.9);
+  border: 1px solid rgba(226, 232, 240, 0.95);
 
   font-size: 22px;
   cursor: pointer;
@@ -90,9 +95,9 @@
 }
 
 .close-btn:hover {
-  background: rgba(255,255,255,0.95);
+  background: rgba(255, 255, 255, 0.95);
   color: #0f172a;
-  box-shadow: 0 10px 24px rgba(15,23,42,0.10);
+  box-shadow: 0 10px 24px rgba(15, 23, 42, 0.10);
   transform: scale(1.06);
 }
 
@@ -116,12 +121,12 @@
 
   /* ✅ 날짜 라인 살짝 구분 */
   padding-bottom: 10px;
-  border-bottom: 1px dashed rgba(226,232,240,0.9);
+  border-bottom: 1px dashed rgba(226, 232, 240, 0.9);
 }
 
 /* 본문 */
 .modal-text {
-  font-size: 17px;      
+  font-size: 17px;
   line-height: 1.7;
   color: #334155;
   white-space: pre-wrap;
@@ -131,7 +136,7 @@
 .modal-footer {
   padding: 16px 20px;
   background: linear-gradient(180deg, #fbfdff 0%, #f7f9fb 100%);
-  border-top: 1px solid rgba(226,232,240,0.9);
+  border-top: 1px solid rgba(226, 232, 240, 0.9);
   text-align: right;
 
   border-bottom-left-radius: 14px;
@@ -144,29 +149,42 @@
   background: color-mix(in srgb, #3b82f6 88%, #0f172a 12%);
   color: white;
   border: none;
-  border-radius: 999px;      /* ✅ pill 버튼 */
+  border-radius: 999px;
+  /* ✅ pill 버튼 */
   font-weight: 900;
   cursor: pointer;
 
-  box-shadow: 0 10px 22px rgba(59,130,246,0.18);
+  box-shadow: 0 10px 22px rgba(59, 130, 246, 0.18);
   transition: transform 160ms ease, box-shadow 160ms ease, background 160ms ease;
 }
 
 .modal-close-btn:hover {
   background: color-mix(in srgb, #2563eb 90%, #0f172a 10%);
-  box-shadow: 0 14px 28px rgba(37,99,235,0.24);
+  box-shadow: 0 14px 28px rgba(37, 99, 235, 0.24);
   transform: scale(1.05);
 }
 
 /* ===== Animations ===== */
 @keyframes fadeIn {
-  from { opacity: 0; }
-  to   { opacity: 1; }
+  from {
+    opacity: 0;
+  }
+
+  to {
+    opacity: 1;
+  }
 }
 
 @keyframes slideUp {
-  from { transform: translateY(18px); opacity: 0; }
-  to   { transform: translateY(0); opacity: 1; }
+  from {
+    transform: translateY(18px);
+    opacity: 0;
+  }
+
+  to {
+    transform: translateY(0);
+    opacity: 1;
+  }
 }
 
 
@@ -176,10 +194,11 @@
   flex-shrink: 0;
   display: flex;
   flex-direction: column;
-  gap: 0; /* 섹션 사이 간격 제거 (구분선으로 대체) */
-  padding-right: 20px; 
-  border-right: 1px solid #bbb; 
-  margin-right: 10px; 
+  gap: 0;
+  /* 섹션 사이 간격 제거 (구분선으로 대체) */
+  padding-right: 20px;
+  border-right: 1px solid #bbb;
+  margin-right: 10px;
 }
 
 /* 헤더 */
@@ -230,11 +249,12 @@
 /* 카드형 섹션 */
 .sidebar-section {
   background: transparent;
-  padding: 10px 0; /* 위아래 여백 */
+  padding: 10px 0;
+  /* 위아래 여백 */
   border: none;
   box-shadow: none;
   border-radius: 0;
-  border-bottom: 2px solid #000; 
+  border-bottom: 2px solid #000;
 }
 
 .sidebar-section:last-child {
@@ -244,7 +264,8 @@
 
 .filter-title {
   font-size: 16px;
-  font-weight: 900; /* 아주 굵게 */
+  font-weight: 900;
+  /* 아주 굵게 */
   color: #000;
   margin-bottom: 8px;
   display: block;
@@ -326,7 +347,8 @@
 .filter-item {
   display: flex;
   align-items: center;
-  margin-bottom: 12px; /* 항목 간 간격 */
+  margin-bottom: 12px;
+  /* 항목 간 간격 */
   font-size: 15px;
   color: #333;
   font-weight: 500;
@@ -343,14 +365,17 @@
   -webkit-appearance: none;
   width: 22px;
   height: 22px;
-  border: 2px solid #333; /* 테두리 */
-  border-radius: 4px;     /* 살짝 둥근 네모 */
+  border: 2px solid #333;
+  /* 테두리 */
+  border-radius: 4px;
+  /* 살짝 둥근 네모 */
   background-color: #fff;
   cursor: pointer;
   flex-shrink: 0;
   position: relative;
   transition: all 0.2s;
-  margin-right: 10px; /* 텍스트와의 간격 */
+  margin-right: 10px;
+  /* 텍스트와의 간격 */
 }
 
 /* 체크되었을 때: 검은색 배경 */
@@ -367,30 +392,55 @@
   position: absolute;
   top: 50%;
   left: 50%;
-  transform: translate(-50%, -45%); /* 위치 미세 조정 */
+  transform: translate(-50%, -45%);
+  /* 위치 미세 조정 */
   font-weight: bold;
 }
 
 /* 라디오 버튼 */
 input[type="radio"].filter-checkbox {
-  border-radius: 50%; /* 원형 */
-  border: 2px solid #ccc; /* 기본 회색 테두리 */
+  border-radius: 50%;
+  /* 원형 */
+  border: 2px solid #ccc;
+  /* 기본 회색 테두리 */
 }
 
 input[type="radio"].filter-checkbox:checked {
-  background-color: #fff; /* 배경은 흰색 */
-  border: 6px solid #3b82f6; /* 굵은 파란색 테두리로 도넛 모양 만듦 */
+  background-color: #fff;
+  /* 배경은 흰색 */
+  border: 6px solid #3b82f6;
+  /* 굵은 파란색 테두리로 도넛 모양 만듦 */
 }
 
 input[type="radio"].filter-checkbox:checked::after {
   content: none;
 }
 
-.offer-table { width: 100%; border-collapse: collapse; }
-.offer-table th, .offer-table td { border: 1px solid #ddd; padding: 10px; }
-.best-offer { font-weight: 600; }
-.best-badge { margin-left: 8px; padding: 2px 6px; border-radius: 8px; font-size: 12px; }
-.detail-bestprice { margin-top: 8px; }
+.offer-table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.offer-table th,
+.offer-table td {
+  border: 1px solid #ddd;
+  padding: 10px;
+}
+
+.best-offer {
+  font-weight: 600;
+}
+
+.best-badge {
+  margin-left: 8px;
+  padding: 2px 6px;
+  border-radius: 8px;
+  font-size: 12px;
+}
+
+.detail-bestprice {
+  margin-top: 8px;
+}
 
 /* 전체 화면 덮는 오버레이 */
 .loading-overlay {
@@ -751,3 +801,49 @@ input[type="radio"].filter-checkbox:checked::after {
   opacity: 0.6;
   font-weight: 900;
 }
+/* ✅ detail-top을 relative로 (기존 JSX에서 style로 주던 것) */
+.detail-top {
+  position: relative;
+}
+
+/* 버튼 위치(빨간 동그라미 자리) */
+.compare-btn-wrap {
+  position: fixed;
+  right: 180px;
+  top: 50%;
+  transform: translateY(-50%);
+  z-index: 1000; /* 다른 요소 위로 */
+}
+
+/* 비교 분석하기 버튼 */
+.gotolist {
+  padding: 12px 16px;
+  border-radius: 10px;
+  border: 1px solid #e5e7eb;
+  background: #ffffff;
+  color: #111827;
+  cursor: pointer;
+  font-weight: 800;
+  white-space: nowrap;
+  transition: transform 120ms ease, background-color 120ms ease, color 120ms ease,
+    border-color 120ms ease;
+}
+
+.gotolist:hover {
+  transform: translateY(-1px);
+}
+
+/* 담김(활성) 상태 */
+.gotolist.is-active {
+  background: #111827;
+  color: #ffffff;
+  border-color: #111827;
+}
+
+/* 모바일에서 버튼이 너무 오른쪽/중앙에 떠있으면 아래처럼 조정 가능 */
+@media (max-width: 768px) {
+  .compare-btn-wrap {
+    right: 12px;
+  }
+}
+

@@ -4,6 +4,25 @@ import { groupSpecsByCategory } from "../utils/specMaps";
 
 const API_BASE = import.meta.env.VITE_API_BASE || "http://localhost:5000";
 
+/* ================= compare (NEW) ================= */
+// ✅ 비교 목록 저장 키 (AnalysisPage와 동일해야 함)
+const COMPARE_KEY = "compare_products_v1";
+
+function readCompareList() {
+  try {
+    const raw = localStorage.getItem(COMPARE_KEY);
+    const parsed = raw ? JSON.parse(raw) : [];
+    return Array.isArray(parsed) ? parsed : [];
+  } catch {
+    return [];
+  }
+}
+function writeCompareList(list) {
+  try {
+    localStorage.setItem(COMPARE_KEY, JSON.stringify(list));
+  } catch {}
+}
+
 /* ================= helpers ================= */
 
 function stableImg(id) {
@@ -88,6 +107,9 @@ export default function ProductDetailPage() {
   const [loading, setLoading] = useState(!initialProduct);
   const [error, setError] = useState("");
 
+  // ✅ 비교목록에 담겼는지 UI 상태 (NEW)
+  const [inCompare, setInCompare] = useState(false);
+
   /* 행동 로그 */
   const enterTimeRef = useRef(Date.now());
   const scrollCountRef = useRef(0);
@@ -95,12 +117,10 @@ export default function ProductDetailPage() {
   const userNoRef = useRef(null);
 
   /* ---------------- fetch detail ---------------- */
-
   useEffect(() => {
     let ignore = false;
 
     async function fetchDetailIfNeeded() {
-      // ✅ 추천에서 넘어왔고 raw에 BaseImageURL이 있으면 굳이 재요청 안함(원래 로직 유지)
       if (fromRecommend && raw && raw.BaseImageURL) {
         setLoading(false);
         return;
@@ -108,14 +128,12 @@ export default function ProductDetailPage() {
 
       try {
         setLoading(true);
-
         const res = await fetch(
           `${API_BASE}/api/products/${encodeURIComponent(id)}`
         );
         if (!res.ok) throw new Error("fetch failed");
 
         const detail = await res.json();
-
         if (!ignore) {
           setData(detail);
           setRaw(detail.raw || null);
@@ -131,11 +149,46 @@ export default function ProductDetailPage() {
     return () => {
       ignore = true;
     };
-    // 원래 코드처럼 id만 dependency 유지(원본 최대 유지)
   }, [id]);
 
-  /* ---------------- scroll attempt count ---------------- */
+  // ✅ 비교목록 포함 여부 동기화 (NEW)
+  useEffect(() => {
+    const list = readCompareList();
+    const exists = list.some((x) => String(x?.id ?? x) === String(data?.id));
+    setInCompare(exists);
+  }, [data?.id]);
 
+  // ✅ 비교목록 담기/제거 토글 (NEW)
+  const handleCompareClick = () => {
+    if (!data?.id) return;
+
+    const curId = String(data.id);
+    const curCategory = data.category || "";
+
+    const list = readCompareList();
+    const existsIdx = list.findIndex((x) => String(x?.id ?? x) === curId);
+
+    if (existsIdx >= 0) {
+      const next = [...list];
+      next.splice(existsIdx, 1);
+      writeCompareList(next);
+      setInCompare(false);
+      alert("비교 목록에서 제거했어요.");
+      return;
+    }
+
+    if (list.length >= 5) {
+      alert("비교 목록은 최대 5개까지 담을 수 있어요.");
+      return;
+    }
+
+    const next = [...list, { id: data.id, category: curCategory }];
+    writeCompareList(next);
+    setInCompare(true);
+    alert("비교 목록에 담았어요! (분석 페이지에서 확인 가능)");
+  };
+
+  /* ---------------- scroll attempt count ---------------- */
   useEffect(() => {
     const mark = () => {
       scrollCountRef.current += 1;
@@ -176,9 +229,7 @@ export default function ProductDetailPage() {
       credentials: "include",
     })
       .then((res) => res.json())
-      .then((data) => {
-        setMe(data);
-      })
+      .then((data) => setMe(data))
       .catch(() => setMe(null));
   }, []);
 
@@ -187,15 +238,13 @@ export default function ProductDetailPage() {
     return () => {
       if (!data?.id || !userNoRef.current) return;
 
-      const stay = Math.round(
-        (Date.now() - enterTimeRef.current) / 1000
-      );
+      const stay = Math.round((Date.now() - enterTimeRef.current) / 1000);
 
       fetch(`${API_BASE}/api/logs`, {
         method: "POST",
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify({
-          user_id: userNoRef.current, // user_no 정상 전달
+          user_id: userNoRef.current,
           product_id: data.id,
           stay_time: stay,
           scroll_depth: scrollCountRef.current,
@@ -206,7 +255,6 @@ export default function ProductDetailPage() {
   }, [data?.id]);
 
   /* ---------------- images ---------------- */
-
   const mainImage = useMemo(() => {
     const base = raw?.BaseImageURL || raw?.baseImageURL;
     if (isImageUrl(base)) return base;
@@ -220,12 +268,10 @@ export default function ProductDetailPage() {
   }, [raw]);
 
   /* ---------------- spec logic ---------------- */
-
   const isLaptop = !!(raw?.model_name || raw?.core_spec);
 
   const laptopSections = useMemo(() => {
     if (!isLaptop) return [];
-
     const cs = raw.core_spec || {};
     const d = raw.display || {};
 
@@ -265,26 +311,27 @@ export default function ProductDetailPage() {
     return groupSpecsByCategory(raw.Spec, data?.category);
   }, [raw, data, isLaptop]);
 
-  // ✅ "상품 정보" 섹션에 가격/카테고리 포함(요청사항)
   const baseInfoSection = useMemo(() => {
     return {
       title: "상품 정보",
       items: [
         ["브랜드", data?.brand],
-        ["가격", data?.price != null ? `${Number(data.price || 0).toLocaleString()}원` : "-"],
+        [
+          "가격",
+          data?.price != null
+            ? `${Number(data.price || 0).toLocaleString()}원`
+            : "-",
+        ],
         ["카테고리", data?.category],
         ["상품번호", data?.id],
       ].filter(([, v]) => v != null && v !== ""),
     };
   }, [data]);
 
-  // ✅ 오른쪽에 보여줄 섹션 리스트(노트북/비노트북 공통)
   const displaySections = useMemo(() => {
     if (isLaptop) {
-      // 노트북: 기존 "기본 정보" 섹션에 baseInfo 합치기(중복 방지)
       const patched = laptopSections.map((sec) => {
         if (sec.title !== "기본 정보") return sec;
-
         const existing = new Set(sec.items.map(([k]) => k));
         return {
           ...sec,
@@ -299,95 +346,102 @@ export default function ProductDetailPage() {
       return hasBasic ? patched : [baseInfoSection, ...patched];
     }
 
-    // 비노트북: baseInfo + groupedSpecs
     const others = Object.entries(groupedSpecs).map(([title, items]) => ({
       title,
       items: items.filter(([, v]) => v != null && v !== ""),
     }));
 
-    return [baseInfoSection, ...others].filter((s) => s.items?.length);
+    return others.filter((s) => s.items?.length);
+
   }, [isLaptop, laptopSections, groupedSpecs, baseInfoSection]);
 
   /* ---------------- UI actions ---------------- */
-
   const handleBack = () => {
     if (window.history.length > 1) navigate(-1);
     else navigate("/products");
   };
 
   /* ---------------- render ---------------- */
-
   if (loading) return <div className="detail-container">로딩중...</div>;
   if (error) return <div className="detail-container">{error}</div>;
   if (!data) return null;
 
- return (
-  <div className="detail-container">
-    {/* ✅ 돌아가기 버튼 */}
-    <button type="button" className="back-btn" onClick={handleBack}>
-      <span className="back-btn__icon">←</span>
-      <span>목록으로</span>
-    </button>
+  return (
+    <div className="detail-container">
+      <button type="button" className="back-btn" onClick={handleBack}>
+        <span className="back-btn__icon">←</span>
+        <span>목록으로</span>
+      </button>
 
-    {/* ✅ 좌(이미지 + 스펙 + 상세설명) + 우(요약만) */}
-    <div className="detail-layout">
-      {/* LEFT */}
-      <main className="detail-main">
-        <div className="detail-image-card">
-          <SmartImg url={mainImage} alt={data.name} className="detail-main-img" />
-        </div>
+      <div className="detail-layout">
+        {/* LEFT */}
+        <main className="detail-main">
+          <div className="detail-image-card">
+            <SmartImg
+              url={mainImage}
+              alt={data.name}
+              className="detail-main-img"
+            />
+          </div>
 
-        {/* ✅ 스펙 패널을 "이미지 아래"로 이동 */}
-        <div className="spec-panel spec-panel--under-image">
-          {displaySections.map((sec, idx) => (
-            <details key={sec.title} className="spec-acc" open={idx === 0}>
-              <summary className="spec-acc__summary">{sec.title}</summary>
+          {/* ✅ 스펙(이미지 아래) */}
+          <div className="spec-panel spec-panel--under-image">
+            {displaySections.map((sec, idx) => (
+              <details key={sec.title} className="spec-acc" open={idx === 0}>
+                <summary className="spec-acc__summary">{sec.title}</summary>
 
-              <table className="spec-table">
-                <tbody>
-                  {sec.items.map(([k, v]) => (
-                    <tr key={`${sec.title}-${k}`}>
-                      <th scope="row">{k}</th>
-                      <td>{formatSpecValue(v)}</td>
-                    </tr>
-                  ))}
-                </tbody>
-              </table>
-            </details>
-          ))}
-        </div>
+                <table className="spec-table">
+                  <tbody>
+                    {sec.items.map(([k, v]) => (
+                      <tr key={`${sec.title}-${k}`}>
+                        <th scope="row">{k}</th>
+                        <td>{formatSpecValue(v)}</td>
+                      </tr>
+                    ))}
+                  </tbody>
+                </table>
+              </details>
+            ))}
+          </div>
 
-        {/* ✅ 상세설명(상세 이미지)은 스펙 밑으로 */}
-        {detailImages.length > 0 && (
-          <section className="detail-desc">
-            <h2>상세 설명</h2>
-            <div className="detail-images">
-              {detailImages.map((u) => (
-                <SmartImg key={u} url={u} className="detail-images__img" />
-              ))}
+          {/* ✅ 상세설명(상세 이미지) */}
+          {detailImages.length > 0 && (
+            <section className="detail-desc">
+              <h2>상세 설명</h2>
+              <div className="detail-images">
+                {detailImages.map((u) => (
+                  <SmartImg key={u} url={u} className="detail-images__img" />
+                ))}
+              </div>
+            </section>
+          )}
+        </main>
+
+        {/* RIGHT */}
+        <aside className="detail-aside">
+          <div className="summary-card summary-card--big">
+            <div className="summary-brand">{data.brand}</div>
+            <div className="summary-title">{data.name}</div>
+            <div className="summary-price">
+              {Number(data.price || 0).toLocaleString()}원
             </div>
-          </section>
-        )}
-      </main>
 
-      {/* RIGHT */}
-      <aside className="detail-aside">
-        {/* ✅ 오른쪽은 요약 카드만 */}
-        <div className="summary-card summary-card--big">
-          <div className="summary-brand">{data.brand}</div>
-          <div className="summary-title">{data.name}</div>
-          <div className="summary-price">
-            {Number(data.price || 0).toLocaleString()}원
-          </div>
+            <div className="summary-meta">
+              <span>카테고리</span>
+              <b>{data.category}</b>
+            </div>
 
-          <div className="summary-meta">
-            <span>카테고리</span>
-            <b>{data.category}</b>
+            {/* ✅ NEW: 비교 분석하기(목록 담기만) */}
+            <button
+              type="button"
+              className={`compare-btn ${inCompare ? "is-active" : ""}`}
+              onClick={handleCompareClick}
+            >
+              {inCompare ? "비교목록 제거" : "비교 분석하기"}
+            </button>
           </div>
-        </div>
-      </aside>
+        </aside>
+      </div>
     </div>
-  </div>
-);
-
+  );
 }
