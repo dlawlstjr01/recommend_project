@@ -9,7 +9,7 @@
             "https://iws.danawa.com/prod_img/500000/601/003/desc/prod_70003601/add_1/20250306160903493_8MY0YWKA.jpg",
             "https://iws.danawa.com/prod_img/500000/601/003/desc/prod_70003601/add_1/20250306160911527_TDU6ON3C.jpg"
         ],
-        "Spec_Detail": {
+        "Spec": {
             "보증기간(년)": 1,
             "크기(가로x세로x높이)(mm)": "445.17 x 138.89 x 41.35",
             "배터리 용량(mAh)": "8000",
@@ -57,7 +57,7 @@
         "DetailImages": [
             "https://iws.danawa.com/prod_img/500000/476/026/desc/prod_94026476/add_1/20250714150252594_HQ8AYYNK.jpg"
         ],
-        "Spec_Detail": {
+        "Spec": {
             "보증기간(년)": 1,
             "크기(가로x세로x높이)(mm)": "445.17 x 141.47 x 42.93",
             "무게(g)": "1020",
@@ -105,7 +105,7 @@
         "DetailImages": [
             "https://iws.danawa.com/prod_img/500000/965/244/desc/prod_98244965/add_1/20251001130724798_HJDSV344.jpg"
         ],
-        "Spec_Detail": {
+        "Spec": {
             "보증기간(년)": 2,
             "크기(가로x세로x높이)(mm)": "388 x 141 x 43",
             "무게(g)": "1095",
@@ -147,7 +147,7 @@
         "DetailImages": [
             "https://iws.danawa.com/prod_img/500000/761/552/desc/prod_12552761/add_1/20250311103954193_GQCWU0V0.jpg"
         ],
-        "Spec_Detail": {
+        "Spec": {
             "보증기간(년)": 1,
             "크기(가로x세로x높이)(mm)": "441 x 149 x 18",
             "무게(g)": "498",
@@ -173,7 +173,7 @@
         "DetailImages": [
             "https://iws.danawa.com/prod_img/500000/190/363/desc/prod_13363190/add_1/20241114083116829_NYHSWL62.jpg"
         ],
-        "Spec_Detail": {
+        "Spec": {
             "보증기간(년)": 1,
             "크기(가로x세로x높이)(mm)": "439 x 134 x 18",
             "무게(g)": "840",
@@ -210,7 +210,7 @@
         "DetailImages": [
             "https://iws.danawa.com/prod_img/500000/682/046/desc/prod_102046682/add_1/20251211112211964_MPUYEQJB.jpg"
         ],
-        "Spec_Detail": {
+        "Spec": {
             "보증기간(년)": 2,
             "크기(가로x세로x높이)(mm)": "331.49 x 145.15 x 52.19",
             "무게(g)": "916.2",
@@ -248,7 +248,7 @@
         "DetailImages": [
             "https://iws.danawa.com/prod_img/500000/976/466/desc/prod_63466976/add_1/20240820125259178_XXM3LOL6.jpg"
         ],
-        "Spec_Detail": {
+        "Spec": {
             "보증기간(년)": 1,
             "크기(가로x세로x높이)(mm)": "365 x 139 x 41.1",
             "무게(g)": "916",
@@ -293,7 +293,7 @@
         "DetailImages": [
             "https://iws.danawa.com/prod_img/500000/129/205/desc/prod_94205129/add_1/20250717161901965_CE9YJ5G3.jpg"
         ],
-        "Spec_Detail": {
+        "Spec": {
             "보증기간(년)": 1,
             "크기(가로x세로x높이)(mm)": "370 x 137 x 23",
             "무게(g)": "380",
@@ -318,7 +318,7 @@
         "DetailImages": [
             "https://iws.danawa.com/prod_img/500000/382/164/desc/prod_62164382/add_1/20250311105104203_SXH5YI9P.jpg"
         ],
-        "Spec_Detail": {
+        "Spec": {
             "보증기간(년)": 1,
             "크기(가로x세로x높이)(mm)": "250 x 105 x 8.97",
             "무게(g)": "222",
@@ -344,7 +344,7 @@
         "DetailImages": [
             "https://iws.danawa.com/prod_img/500000/155/826/desc/prod_59826155/add_1/20240709094857362_2EAXRC61.jpg"
         ],
-        "Spec_Detail": {
+        "Spec": {
             "크기(가로x세로x높이)(mm)": "365.9 x 139 x 41.1",
             "무게(g)": "916",
             "배터리 용량(mAh)": "4000",
@@ -390,7 +390,7 @@
         "DetailImages": [
             "https://iws.danawa.com/prod_img/500000/852/118/desc/prod_91118852/add_1/20250522175441712_JZWGNL05.jpg"
         ],
-        "Spec_Detail": {
+        "Spec": {
             "보증기간(년)": 1,
             "크기(가로x세로x높이)(mm)": "400.5 x 130 x 30.4",
             "무게(g)": "490",
@@ -421,7 +421,7 @@
             "https://iws.danawa.com/prod_img/500000/035/560/desc/prod_91560035/add_1/20250820130248526_MMEJD7D7.gif",
             "https://iws.danawa.com/prod_img/500000/035/560/desc/prod_91560035/add_1/20250820130251895_4WOBMEIJ.jpg"
         ],
-        "Spec_Detail": {
+        "Spec": {
             "보증기간(년)": 1,
             "크기(가로x세로x높이)(mm)": "438.47 x 138.46 x 43.09",
             "무게(g)": "1163",
@@ -466,7 +466,7 @@
         "DetailImages": [
             "https://iws.danawa.com/prod_img/500000/243/878/desc/prod_18878243/add_1/20230511080925606_F6C74T9W.jpg"
         ],
-        "Spec_Detail": {
+        "Spec": {
             "크기(가로x세로x높이)(mm)": "445 x 134 x 34",
             "무게(g)": "820",
             "키압(g)": "45",
@@ -504,7 +504,7 @@
         "DetailImages": [
             "https://iws.danawa.com/prod_img/500000/404/998/desc/prod_49998404/add_1/20250311103913318_Z88M4MJN.jpg"
         ],
-        "Spec_Detail": {
+        "Spec": {
             "보증기간(년)": 1,
             "크기(가로x세로x높이)(mm)": "434 x 135 x 23",
             "무게(g)": "685",
@@ -530,7 +530,7 @@
         "DetailImages": [
             "https://iws.danawa.com/prod_img/500000/527/437/desc/prod_61437527/add_1/20240723103449564_Y3I5X6M9.jpg"
         ],
-        "Spec_Detail": {
+        "Spec": {
             "크기(가로x세로x높이)(mm)": "365.9 x 139 x 41.1",
             "무게(g)": "916",
             "배터리 용량(mAh)": "4000",
@@ -577,7 +577,7 @@
             "https://iws.danawa.com/prod_img/500000/084/709/desc/prod_4709084/add_2/20210407133650303_2ABM4GIN.jpg",
             "https://iws.danawa.com/prod_img/500000/084/709/desc/prod_4709084/add_2/20210407133650664_DI1RU5LU.jpg"
         ],
-        "Spec_Detail": {
+        "Spec": {
             "보증기간(년)": 1,
             "크기(가로x세로x높이)(mm)": "435 x 125 x 34",
             "무게(g)": "1050",
@@ -619,7 +619,7 @@
         "DetailImages": [
             "https://iws.danawa.com/prod_img/500000/812/708/desc/prod_36708812/add_1/20241114083252283_46BSCO14.jpg"
         ],
-        "Spec_Detail": {
+        "Spec": {
             "보증기간(년)": 1,
             "크기(가로x세로x높이)(mm)": "439.4 x 134.1 x 38",
             "무게(g)": "867",
@@ -659,7 +659,7 @@
         "Price": "74,310",
         "Purchase_Link": "https://prod.danawa.com/bridge/loadingBridge.html?cate1=861&cate2=881&cate3=1005&cate4=0&pcode=91038650&cmpnyc=EE715&safe_trade=4&fee_type=T&link_pcode=E931669610&package=0&setpc=0&r=17659031363772",
         "DetailImages": [],
-        "Spec_Detail": {
+        "Spec": {
             "크기(가로x세로x높이)(mm)": "401 x 147 x 39.6",
             "무게(g)": "1100",
             "키압(g)": "40",
@@ -695,7 +695,7 @@
         "DetailImages": [
             "https://iws.danawa.com/prod_img/500000/697/437/desc/prod_20437697/add_1/20250311105313953_D0IHWOY4.jpg"
         ],
-        "Spec_Detail": {
+        "Spec": {
             "보증기간(년)": 1,
             "크기(가로x세로x높이)(mm)": "430 x 132 x 21",
             "무게(g)": "810",
@@ -726,7 +726,7 @@
             "https://iws.danawa.com/prod_img/500000/519/752/desc/prod_72752519/add_1/20250430160601331_0BJV019D.jpg",
             "https://iws.danawa.com/prod_img/500000/519/752/desc/prod_72752519/add_1/20250430160601436_GBXOXZ30.jpg"
         ],
-        "Spec_Detail": {
+        "Spec": {
             "보증기간(년)": 1,
             "크기(가로x세로x높이)(mm)": "437 x 133 x 17",
             "무게(g)": "768",
@@ -776,7 +776,7 @@
             "https://iws.danawa.com/prod_img/500000/860/460/desc/prod_77460860/add_1/20250721083507674_ME1JHV1O.jpg",
             "https://iws.danawa.com/prod_img/500000/860/460/desc/prod_77460860/add_1/20250721083509604_94923G7X.jpg"
         ],
-        "Spec_Detail": {
+        "Spec": {
             "보증기간(년)": 1,
             "크기(가로x세로x높이)(mm)": "442 x 145 x 40",
             "무게(g)": "1300",
@@ -830,7 +830,7 @@
             "https://iws.danawa.com/prod_img/500000/654/100/desc/prod_58100654/add_1/20251105100322153_LAE0T2TY.gif",
             "https://iws.danawa.com/prod_img/500000/654/100/desc/prod_58100654/add_1/20251105100322352_Z91WIHMX.jpg"
         ],
-        "Spec_Detail": {
+        "Spec": {
             "보증기간(년)": 1,
             "크기(가로x세로x높이)(mm)": "360 x 145 x 40",
             "무게(g)": "1100",
@@ -875,7 +875,7 @@
             "https://iws.danawa.com/prod_img/500000/153/581/desc/prod_1581153/add_1/87_op01.jpg",
             "https://iws.danawa.com/prod_img/500000/153/581/desc/prod_1581153/add_1/info_82.jpg"
         ],
-        "Spec_Detail": {
+        "Spec": {
             "크기(가로x세로x높이)(mm)": "450 x 160 x 30",
             "제조회사": "로지텍",
             "등록년월": "2012년 01월",
@@ -899,7 +899,7 @@
         "DetailImages": [
             "https://iws.danawa.com/prod_img/500000/857/763/desc/prod_17763857/add_1/20250311103814771_22O00AIR.jpg"
         ],
-        "Spec_Detail": {
+        "Spec": {
             "보증기간(년)": 1,
             "크기(가로x세로x높이)(mm)": "457 x 194 x 24",
             "무게(g)": "700",
@@ -939,7 +939,7 @@
             "https://iws.danawa.com/prod_img/500000/850/887/desc/prod_32887850/add_1/20250714123936993_YVAAGY0D.jpg",
             "https://iws.danawa.com/prod_img/500000/850/887/desc/prod_32887850/add_1/20250714123937156_Z6D6MP1S.jpg"
         ],
-        "Spec_Detail": {
+        "Spec": {
             "보증기간(년)": 1,
             "크기(가로x세로x높이)(mm)": "442 x 133 x 38",
             "무게(g)": "1097",
@@ -979,7 +979,7 @@
         "Price": "39,550",
         "Purchase_Link": "https://prod.danawa.com/bridge/loadingBridge.html?cate1=861&cate2=881&cate3=1005&cate4=0&pcode=98412419&cmpnyc=TH201&safe_trade=4&fee_type=T&link_pcode=8639949667&package=0&setpc=0&r=17659031921332",
         "DetailImages": [],
-        "Spec_Detail": {
+        "Spec": {
             "크기(가로x세로x높이)(mm)": "362.47 x 137.96 x 41.72",
             "폴링레이트(Hz)": "8000",
             "제조회사": "AULA",
@@ -1008,7 +1008,7 @@
         "DetailImages": [
             "https://iws.danawa.com/prod_img/500000/991/316/desc/prod_45316991/add_1/20251106154644250_TAMR7EV7.jpg"
         ],
-        "Spec_Detail": {
+        "Spec": {
             "크기(가로x세로x높이)(mm)": "376 x 219 x 31",
             "무게(g)": "750",
             "제조회사": "로지텍",
@@ -1035,7 +1035,7 @@
         "DetailImages": [
             "https://iws.danawa.com/prod_img/500000/412/145/desc/prod_60145412/add_1/20240703134559584_DQEZWB83.jpg"
         ],
-        "Spec_Detail": {
+        "Spec": {
             "크기(가로x세로x높이)(mm)": "390.63 x 146.78 x 42.57",
             "무게(g)": "1183",
             "배터리 용량(mAh)": "8000",
@@ -1076,7 +1076,7 @@
         "DetailImages": [
             "https://iws.danawa.com/prod_img/500000/285/268/desc/prod_100268285/add_1/20251118144812383_7IMPQ5R1.png"
         ],
-        "Spec_Detail": {
+        "Spec": {
             "보증기간(년)": 2,
             "크기(가로x세로x높이)(mm)": "427 x 134 x 27",
             "배터리 용량(mAh)": "4000",
@@ -1108,7 +1108,7 @@
         "Price": "82,000",
         "Purchase_Link": "https://prod.danawa.com/bridge/loadingBridge.html?cate1=861&cate2=881&cate3=1005&cate4=0&pcode=97122386&cmpnyc=TH201&safe_trade=4&fee_type=T&link_pcode=8813137659&package=0&setpc=0&r=17659032247760",
         "DetailImages": [],
-        "Spec_Detail": {
+        "Spec": {
             "보증기간(년)": 1,
             "크기(가로x세로x높이)(mm)": "442.7 x 150 x 38",
             "무게(g)": "1180",
@@ -1153,7 +1153,7 @@
         "DetailImages": [
             "https://iws.danawa.com/prod_img/500000/155/692/desc/prod_67692155/add_1/20241029130447809_9NAULE2H.jpg"
         ],
-        "Spec_Detail": {
+        "Spec": {
             "보증기간(년)": 2,
             "크기(가로x세로x높이)(mm)": "366 x 135 x 39.8",
             "무게(g)": "967.14",
@@ -1193,7 +1193,7 @@
         "DetailImages": [
             "https://iws.danawa.com/prod_img/500000/021/467/desc/prod_63467021/add_1/20240820125259178_XXM3LOL6.jpg"
         ],
-        "Spec_Detail": {
+        "Spec": {
             "보증기간(년)": 1,
             "크기(가로x세로x높이)(mm)": "365 x 139 x 41.1",
             "무게(g)": "916",
@@ -1238,7 +1238,7 @@
         "DetailImages": [
             "https://iws.danawa.com/prod_img/500000/342/151/desc/prod_16151342/add_1/20250311105250111_7SG0HLPB.jpg"
         ],
-        "Spec_Detail": {
+        "Spec": {
             "보증기간(년)": 1,
             "크기(가로x세로x높이)(mm)": "296 x 132 x 21",
             "무게(g)": "506",
@@ -1273,7 +1273,7 @@
             "https://iws.danawa.com/prod_img/500000/980/850/desc/prod_95850980/add_1/20251215172637353_WZO74GEM.gif",
             "https://iws.danawa.com/prod_img/500000/980/850/desc/prod_95850980/add_1/20251215172637426_YWQT1YN8.jpg"
         ],
-        "Spec_Detail": {
+        "Spec": {
             "크기(가로x세로x높이)(mm)": "445.15 x 139.59 x 41.8",
             "무게(g)": "1500",
             "배터리 용량(mAh)": "8000",
@@ -1320,7 +1320,7 @@
         "DetailImages": [
             "https://iws.danawa.com/prod_img/500000/440/278/desc/prod_6278440/add_1/20220126123529695_TYEO0BNX.jpg"
         ],
-        "Spec_Detail": {
+        "Spec": {
             "보증기간(년)": 1,
             "크기(가로x세로x높이)(mm)": "436 x 124 x 36",
             "무게(g)": "993",
@@ -1360,7 +1360,7 @@
             "https://iws.danawa.com/prod_img/500000/461/720/desc/prod_4720461/add_1/logitech_MK235_DB.jpg",
             "https://iws.danawa.com/prod_img/500000/461/720/desc/prod_4720461/add_1/MK235_Keyskin.jpg"
         ],
-        "Spec_Detail": {
+        "Spec": {
             "보증기간(년)": 1,
             "크기(가로x세로x높이)(mm)": "435.5 x 137.5 x 20.5",
             "무게(g)": "475",
@@ -1389,7 +1389,7 @@
             "https://iws.danawa.com/prod_img/500000/625/003/desc/prod_70003625/add_1/20250306161044700_UI1N33D9.jpg",
             "https://iws.danawa.com/prod_img/500000/625/003/desc/prod_70003625/add_1/20250306161122293_Z99XJB2E.jpg"
         ],
-        "Spec_Detail": {
+        "Spec": {
             "보증기간(년)": 1,
             "크기(가로x세로x높이)(mm)": "445.17 x 138.89 x 41.35",
             "배터리 용량(mAh)": "8000",
@@ -1437,7 +1437,7 @@
         "DetailImages": [
             "https://iws.danawa.com/prod_img/500000/863/546/desc/prod_27546863/add_1/20241106165013286_NVH2IESC.jpg"
         ],
-        "Spec_Detail": {
+        "Spec": {
             "보증기간(년)": 2,
             "크기(가로x세로x높이)(mm)": "442 x 166 x 39.2",
             "무게(g)": "1390",
@@ -1477,7 +1477,7 @@
         "Price": "329,000",
         "Purchase_Link": "https://prod.danawa.com/bridge/loadingBridge.html?cate1=861&cate2=881&cate3=1005&cate4=0&pcode=99746921&cmpnyc=PY506&safe_trade=1&fee_type=J&link_pcode=31135679&package=0&setpc=0&r=17659032892309",
         "DetailImages": [],
-        "Spec_Detail": {
+        "Spec": {
             "보증기간(년)": 2,
             "크기(가로x세로x높이)(mm)": "363 x 139 x 39",
             "무게(g)": "932",
@@ -1516,7 +1516,7 @@
         "DetailImages": [
             "https://iws.danawa.com/prod_img/500000/406/061/desc/prod_72061406/add_1/20241128101522934_CAWXRZXL.png"
         ],
-        "Spec_Detail": {
+        "Spec": {
             "보증기간(년)": 1,
             "크기(가로x세로x높이)(mm)": "362 x 134 x 41",
             "무게(g)": "839",
@@ -1560,7 +1560,7 @@
             "https://iws.danawa.com/prod_img/500000/547/991/desc/prod_75991547/add_1/20250304135005101_8A6X99FL.jpg",
             "https://iws.danawa.com/prod_img/500000/547/991/desc/prod_75991547/add_1/20250304135008742_C6PZ74Y4.jpg"
         ],
-        "Spec_Detail": {
+        "Spec": {
             "보증기간(년)": 1,
             "크기(가로x세로x높이)(mm)": "440 x 138 x 38",
             "무게(g)": "1240",
@@ -1613,7 +1613,7 @@
             "https://iws.danawa.com/prod_img/500000/996/649/desc/prod_28649996/add_1/20231013155415639_VUWNYDE8.jpg",
             "https://iws.danawa.com/prod_img/500000/996/649/desc/prod_28649996/add_1/20231013155425878_N7TH5WVD.jpg"
         ],
-        "Spec_Detail": {
+        "Spec": {
             "보증기간(년)": 1,
             "크기(가로x세로x높이)(mm)": "352.8 x 123 x 44",
             "무게(g)": "1022",
@@ -1654,7 +1654,7 @@
         "DetailImages": [
             "https://iws.danawa.com/prod_img/500000/674/244/desc/prod_68244674/add_1/20250721084508895_4NNX2Z3C.jpg"
         ],
-        "Spec_Detail": {
+        "Spec": {
             "보증기간(년)": 1,
             "크기(가로x세로x높이)(mm)": "445 x 142 x 43",
             "무게(g)": "1186",
@@ -1698,7 +1698,7 @@
         "DetailImages": [
             "https://iws.danawa.com/prod_img/500000/483/076/desc/prod_13076483/add_1/20230706080850388_7IUNJWDN.jpg"
         ],
-        "Spec_Detail": {
+        "Spec": {
             "보증기간(년)": 1,
             "크기(가로x세로x높이)(mm)": "441.5 x 129 x 24",
             "무게(g)": "372",
@@ -1726,7 +1726,7 @@
         "DetailImages": [
             "https://iws.danawa.com/prod_img/500000/387/171/desc/prod_17171387/add_1/20250311105348460_ZOM962FR.jpg"
         ],
-        "Spec_Detail": {
+        "Spec": {
             "보증기간(년)": 1,
             "크기(가로x세로x높이)(mm)": "434 x 132 x 26",
             "무게(g)": "828",
@@ -1775,7 +1775,7 @@
             "https://iws.danawa.com/prod_img/500000/040/885/desc/prod_73885040/add_1/20250721082531910_IX79YB7N.jpg",
             "https://iws.danawa.com/prod_img/500000/040/885/desc/prod_73885040/add_1/20250721082534398_F8BHSUPL.jpg"
         ],
-        "Spec_Detail": {
+        "Spec": {
             "보증기간(년)": 1,
             "크기(가로x세로x높이)(mm)": "360 x 145 x 40",
             "무게(g)": "1100",
@@ -1834,7 +1834,7 @@
             "https://iws.danawa.com/prod_img/500000/774/591/desc/prod_47591774/add_1/20250714123620531_UF0X5YHY.jpg",
             "https://iws.danawa.com/prod_img/500000/774/591/desc/prod_47591774/add_1/20250714123620702_BM0D7RM2.jpg"
         ],
-        "Spec_Detail": {
+        "Spec": {
             "보증기간(년)": 1,
             "크기(가로x세로x높이)(mm)": "442 x 133 x 38",
             "무게(g)": "1097",
@@ -1877,7 +1877,7 @@
             "https://iws.danawa.com/prod_img/500000/998/633/desc/prod_93633998/add_1/20250707171400433_94FCI7GS.jpg",
             "https://iws.danawa.com/prod_img/500000/998/633/desc/prod_93633998/add_1/20250707171408917_VNOTJDR5.jpg"
         ],
-        "Spec_Detail": {
+        "Spec": {
             "보증기간(년)": 1,
             "크기(가로x세로x높이)(mm)": "445 x 140 x 30",
             "무게(g)": "1110",
@@ -1920,7 +1920,7 @@
             "https://iws.danawa.com/prod_img/500000/995/633/desc/prod_93633995/add_1/20250707171400433_94FCI7GS.jpg",
             "https://iws.danawa.com/prod_img/500000/995/633/desc/prod_93633995/add_1/20250707171408917_VNOTJDR5.jpg"
         ],
-        "Spec_Detail": {
+        "Spec": {
             "보증기간(년)": 1,
             "크기(가로x세로x높이)(mm)": "445 x 140 x 30",
             "무게(g)": "1110",
@@ -1962,7 +1962,7 @@
         "DetailImages": [
             "https://iws.danawa.com/prod_img/500000/386/108/desc/prod_15108386/add_1/20240311110946809_1SRTHIIH.jpg"
         ],
-        "Spec_Detail": {
+        "Spec": {
             "크기(가로x세로x높이)(mm)": "440 x 135 x 35",
             "무게(g)": "955",
             "제조회사": "앱코",
@@ -2007,7 +2007,7 @@
             "https://iws.danawa.com/prod_img/500000/503/102/desc/prod_39102503/add_1/20241209081520689_7A4QX4D1.gif",
             "https://iws.danawa.com/prod_img/500000/503/102/desc/prod_39102503/add_1/20241209081522640_UQMSFTGX.jpg"
         ],
-        "Spec_Detail": {
+        "Spec": {
             "보증기간(년)": 1,
             "크기(가로x세로x높이)(mm)": "422 x 133 x 38",
             "무게(g)": "1035",
@@ -2052,7 +2052,7 @@
             "https://iws.danawa.com/prod_img/500000/897/887/desc/prod_90887897/add_1/20250610162019845_K2ODDC1C.gif",
             "https://iws.danawa.com/prod_img/500000/897/887/desc/prod_90887897/add_1/20250610162019978_JWYYYAKQ.jpg"
         ],
-        "Spec_Detail": {
+        "Spec": {
             "크기(가로x세로x높이)(mm)": "445 x 140 x 36",
             "무게(g)": "1200",
             "키압(g)": "40",
@@ -2094,7 +2094,7 @@
         "DetailImages": [
             "https://iws.danawa.com/prod_img/500000/188/230/desc/prod_6230188/add_1/20220718125349183_SY8VS01V.jpg"
         ],
-        "Spec_Detail": {
+        "Spec": {
             "크기(가로x세로x높이)(mm)": "447 x 152 x 27",
             "무게(g)": "468",
             "제조회사": "HP",
@@ -2120,7 +2120,7 @@
         "DetailImages": [
             "https://iws.danawa.com/prod_img/500000/520/946/desc/prod_99946520/add_1/20251106154829649_GNTV7Q1R.png"
         ],
-        "Spec_Detail": {
+        "Spec": {
             "보증기간(년)": 2,
             "크기(가로x세로x높이)(mm)": "348 x 121 x 38",
             "배터리 용량(mAh)": "8000",
@@ -2155,7 +2155,7 @@
         "DetailImages": [
             "https://iws.danawa.com/prod_img/500000/077/305/desc/prod_97305077/add_1/20250908102821539_M2LOXXQW.jpg"
         ],
-        "Spec_Detail": {
+        "Spec": {
             "보증기간(년)": 1,
             "크기(가로x세로x높이)(mm)": "360 x 144 x 41",
             "무게(g)": "800",
@@ -2198,7 +2198,7 @@
         "DetailImages": [
             "https://iws.danawa.com/prod_img/500000/868/341/desc/prod_74341868/add_1/20250114175155132_B5B862MP.jpg"
         ],
-        "Spec_Detail": {
+        "Spec": {
             "보증기간(년)": 1,
             "크기(가로x세로x높이)(mm)": "310.7 x 101.7 x 38.1",
             "무게(g)": "680",
@@ -2241,7 +2241,7 @@
         "DetailImages": [
             "https://iws.danawa.com/prod_img/500000/715/450/desc/prod_28450715/add_1/20230922164656312_TI1CS59Q.jpg"
         ],
-        "Spec_Detail": {
+        "Spec": {
             "보증기간(년)": 1,
             "크기(가로x세로x높이)(mm)": "443.4 x 138.5 x 35",
             "무게(g)": "1260",
@@ -2280,7 +2280,7 @@
         "DetailImages": [
             "https://iws.danawa.com/prod_img/500000/551/319/desc/prod_77319551/add_1/20250305172428511_VIJCGAIL.jpg"
         ],
-        "Spec_Detail": {
+        "Spec": {
             "보증기간(년)": 1,
             "크기(가로x세로x높이)(mm)": "326.3 x 123.5 x 18.3",
             "무게(g)": "286",
@@ -2310,7 +2310,7 @@
         "DetailImages": [
             "https://iws.danawa.com/prod_img/500000/543/326/desc/prod_60326543/add_1/20240718164514107_CWALLN14.jpg"
         ],
-        "Spec_Detail": {
+        "Spec": {
             "보증기간(년)": 2,
             "폴링레이트(Hz)": "8000",
             "응답속도(ms)": "0.125",
@@ -2349,7 +2349,7 @@
         "DetailImages": [
             "https://iws.danawa.com/prod_img/500000/375/037/desc/prod_13037375/add_1/20201230144425784_3JBRXUI8.jpg"
         ],
-        "Spec_Detail": {
+        "Spec": {
             "보증기간(년)": 1,
             "크기(가로x세로x높이)(mm)": "444 x 132 x 33",
             "무게(g)": "620",
@@ -2380,7 +2380,7 @@
             "https://iws.danawa.com/prod_img/500000/948/887/desc/prod_90887948/add_1/20250610162031801_41S4T9OH.gif",
             "https://iws.danawa.com/prod_img/500000/948/887/desc/prod_90887948/add_1/20250610162032689_550UIFZK.jpg"
         ],
-        "Spec_Detail": {
+        "Spec": {
             "크기(가로x세로x높이)(mm)": "445 x 140 x 36",
             "무게(g)": "1200",
             "키압(g)": "40",
@@ -2431,7 +2431,7 @@
             "https://iws.danawa.com/prod_img/500000/366/971/desc/prod_78971366/add_1/20250410124225121_66JHMVRU.gif",
             "https://iws.danawa.com/prod_img/500000/366/971/desc/prod_78971366/add_1/20250410124225852_CLED15ZA.jpg"
         ],
-        "Spec_Detail": {
+        "Spec": {
             "보증기간(년)": 1,
             "크기(가로x세로x높이)(mm)": "302.4 x 118.5 x 39.5",
             "무게(g)": "888",
@@ -2468,7 +2468,7 @@
         "Price": "399,000",
         "Purchase_Link": "https://prod.danawa.com/bridge/loadingBridge.html?cate1=861&cate2=881&cate3=1005&cate4=0&pcode=67980074&cmpnyc=PY506&safe_trade=1&fee_type=J&link_pcode=30812452&package=0&setpc=0&r=17659034528606",
         "DetailImages": [],
-        "Spec_Detail": {
+        "Spec": {
             "보증기간(년)": 2,
             "크기(가로x세로x높이)(mm)": "329 x 160 x 40",
             "무게(g)": "984",
@@ -2513,7 +2513,7 @@
         "DetailImages": [
             "https://iws.danawa.com/prod_img/500000/832/387/desc/prod_16387832/add_1/20221111100144746_C8FL2D0Y.jpg"
         ],
-        "Spec_Detail": {
+        "Spec": {
             "보증기간(년)": 2,
             "크기(가로x세로x높이)(mm)": "444 x 166 x 40",
             "무게(g)": "1150",
@@ -2561,7 +2561,7 @@
             "https://iws.danawa.com/prod_img/500000/947/251/desc/prod_79251947/add_1/20251105100231615_5FTRVMLF.gif",
             "https://iws.danawa.com/prod_img/500000/947/251/desc/prod_79251947/add_1/20251105100231911_TTY0IXX1.jpg"
         ],
-        "Spec_Detail": {
+        "Spec": {
             "보증기간(년)": 1,
             "크기(가로x세로x높이)(mm)": "442 x 145 x 40",
             "무게(g)": "1300",
@@ -2608,7 +2608,7 @@
             "https://iws.danawa.com/prod_img/500000/767/347/desc/prod_91347767/add_1/20251106083847421_9PAVWAV7.jpg",
             "https://iws.danawa.com/prod_img/500000/767/347/desc/prod_91347767/add_1/20251106083847721_V57QQD1H.jpg"
         ],
-        "Spec_Detail": {
+        "Spec": {
             "보증기간(년)": 1,
             "크기(가로x세로x높이)(mm)": "443 x 145 x 30",
             "무게(g)": "1165",
@@ -2654,7 +2654,7 @@
         "DetailImages": [
             "https://iws.danawa.com/prod_img/500000/157/009/desc/prod_58009157/add_1/20240624134554847_QA5FPP9E.jpg"
         ],
-        "Spec_Detail": {
+        "Spec": {
             "크기(가로x세로x높이)(mm)": "306 x 110 x 26.5",
             "무게(g)": "595",
             "키압(g)": "40",
@@ -2693,7 +2693,7 @@
         "DetailImages": [
             "https://iws.danawa.com/prod_img/500000/790/473/desc/prod_9473790/add_1/20221130163401564_9N8EMKHX.jpg"
         ],
-        "Spec_Detail": {
+        "Spec": {
             "제조회사": "마이크로닉스",
             "등록년월": "2019년 09월 KC인증 적합성평가인증 상세설명 / 판매 사이트 문의 인증번호 확인 안전확인인증 상세설명 / 판매 사이트 문의 인증번호 확인"
         }
@@ -2707,7 +2707,7 @@
         "DetailImages": [
             "https://iws.danawa.com/prod_img/500000/483/770/desc/prod_10770483/add_1/20200310141035658_1SI41PK7.jpg"
         ],
-        "Spec_Detail": {
+        "Spec": {
             "보증기간(년)": 2,
             "크기(가로x세로x높이)(mm)": "202 x 151 x 63.5",
             "무게(g)": "364.1",
@@ -2735,7 +2735,7 @@
             "https://iws.danawa.com/prod_img/500000/601/693/desc/prod_100693601/add_1/20251121173127138_N8M8OOU1.jpg",
             "https://iws.danawa.com/prod_img/500000/601/693/desc/prod_100693601/add_1/20251121173128445_LS6T0G9L.jpg"
         ],
-        "Spec_Detail": {
+        "Spec": {
             "보증기간(년)": 1,
             "크기(가로x세로x높이)(mm)": "447.78 x 138.51 x 39.1",
             "무게(g)": "2130",
@@ -2777,7 +2777,7 @@
         "DetailImages": [
             "https://iws.danawa.com/prod_img/500000/410/766/desc/prod_98766410/add_1/20251013094153139_ST2236PI.jpg"
         ],
-        "Spec_Detail": {
+        "Spec": {
             "보증기간(년)": 1,
             "크기(가로x세로x높이)(mm)": "444 x 141 x 42",
             "무게(g)": "1230",
@@ -2822,7 +2822,7 @@
         "DetailImages": [
             "https://iws.danawa.com/prod_img/500000/324/688/desc/prod_34688324/add_1/20240614080707193_VHS1IZQW.jpg"
         ],
-        "Spec_Detail": {
+        "Spec": {
             "크기(가로x세로x높이)(mm)": "306 x 110 x 26.5",
             "무게(g)": "595",
             "키압(g)": "40",
@@ -2869,7 +2869,7 @@
             "https://iws.danawa.com/prod_img/500000/296/560/desc/prod_73560296/add_1/20241230092315748_DNVJ336L.gif",
             "https://iws.danawa.com/prod_img/500000/296/560/desc/prod_73560296/add_1/20241230092317542_S51QF7OH.jpg"
         ],
-        "Spec_Detail": {
+        "Spec": {
             "보증기간(년)": 1,
             "크기(가로x세로x높이)(mm)": "502 x 200 x 56",
             "무게(g)": "1275",
@@ -2914,7 +2914,7 @@
             "https://iws.danawa.com/prod_img/500000/033/633/desc/prod_5633033/add_1/20211018140519394_J9Z97W8G.jpg",
             "https://iws.danawa.com/prod_img/500000/033/633/desc/prod_5633033/add_1/20211018140519807_L215JAYI.jpg"
         ],
-        "Spec_Detail": {
+        "Spec": {
             "보증기간(년)": 1,
             "크기(가로x세로x높이)(mm)": "440 x 138 x 38",
             "무게(g)": "1240",
@@ -2955,7 +2955,7 @@
             "https://iws.danawa.com/prod_img/500000/154/581/desc/prod_1581154/add_1/86_op01.jpg",
             "https://iws.danawa.com/prod_img/500000/154/581/desc/prod_1581154/add_1/info_82.jpg"
         ],
-        "Spec_Detail": {
+        "Spec": {
             "크기(가로x세로x높이)(mm)": "450 x 160 x 30",
             "제조회사": "로지텍",
             "등록년월": "2012년 01월",
@@ -2977,7 +2977,7 @@
         "DetailImages": [
             "https://iws.danawa.com/prod_img/500000/612/147/desc/prod_5147612/add_1/20170516_logitech_MK850_PDP.jpg"
         ],
-        "Spec_Detail": {
+        "Spec": {
             "보증기간(년)": 1,
             "크기(가로x세로x높이)(mm)": "431 x 213 x 28",
             "무게(g)": "730",
@@ -3002,7 +3002,7 @@
         "DetailImages": [
             "https://iws.danawa.com/prod_img/500000/028/347/desc/prod_38347028/add_1/20240814163102237_CPE62RD8.jpg"
         ],
-        "Spec_Detail": {
+        "Spec": {
             "보증기간(년)": 1,
             "크기(가로x세로x높이)(mm)": "362 x 145 x 40",
             "무게(g)": "568",
@@ -3033,7 +3033,7 @@
             "https://iws.danawa.com/prod_img/500000/445/440/desc/prod_14440445/add_1/20210610155625794_R2G7BJE3.jpg",
             "https://iws.danawa.com/prod_img/500000/445/440/desc/prod_14440445/add_1/20210610155626106_A68N2INA.jpg"
         ],
-        "Spec_Detail": {
+        "Spec": {
             "보증기간(년)": 1,
             "크기(가로x세로x높이)(mm)": "370 x 134 x 34",
             "무게(g)": "700",
@@ -3073,7 +3073,7 @@
             "https://iws.danawa.com/prod_img/500000/976/992/desc/prod_1992976/add_1/87_op01.jpg",
             "https://iws.danawa.com/prod_img/500000/976/992/desc/prod_1992976/add_1/Logitech_M90.jpg"
         ],
-        "Spec_Detail": {
+        "Spec": {
             "크기(가로x세로x높이)(mm)": "450 x 160 x 30",
             "제조회사": "로지텍",
             "등록년월": "2013년 04월",
@@ -3095,7 +3095,7 @@
         "DetailImages": [
             "https://iws.danawa.com/prod_img/500000/134/340/desc/prod_4340134/add_1/Llogitech_mk275.jpg"
         ],
-        "Spec_Detail": {
+        "Spec": {
             "크기(가로x세로x높이)(mm)": "440 x 180 x 30",
             "무게(g)": "480",
             "제조회사": "로지텍",
@@ -3119,7 +3119,7 @@
             "https://iws.danawa.com/prod_img/500000/142/519/desc/prod_94519142/add_1/20250723150520979_G4ZW9WJG.jpg",
             "https://iws.danawa.com/prod_img/500000/142/519/desc/prod_94519142/add_1/20250723150524931_DVZ37SMT.jpg"
         ],
-        "Spec_Detail": {
+        "Spec": {
             "보증기간(년)": 1,
             "크기(가로x세로x높이)(mm)": "383 x 144 x 25",
             "무게(g)": "1442.6",
@@ -3160,7 +3160,7 @@
         "DetailImages": [
             "https://iws.danawa.com/prod_img/500000/911/479/desc/prod_13479911/add_1/20210315125731101_9H48W5DQ.jpg"
         ],
-        "Spec_Detail": {
+        "Spec": {
             "보증기간(년)": 1,
             "크기(가로x세로x높이)(mm)": "456 x 233 x 48",
             "무게(g)": "1160",
@@ -3192,7 +3192,7 @@
             "https://iws.danawa.com/prod_img/500000/011/416/desc/prod_8416011/add_1/20191029100029173_SCDS3QGV.jpg",
             "https://iws.danawa.com/images/banner/dnwCopyrightBanner.jpg"
         ],
-        "Spec_Detail": {
+        "Spec": {
             "크기(가로x세로x높이)(mm)": "373.5 x 143.9 x 21.3",
             "무게(g)": "558",
             "제조회사": "로지텍",
@@ -3216,7 +3216,7 @@
             "https://iws.danawa.com/prod_img/500000/503/015/desc/prod_93015503/add_1/20250625093337142_VXYZOAG3.jpg",
             "https://iws.danawa.com/prod_img/500000/503/015/desc/prod_93015503/add_1/20250625093346215_AYH448EE.jpg"
         ],
-        "Spec_Detail": {
+        "Spec": {
             "보증기간(년)": 1,
             "크기(가로x세로x높이)(mm)": "445.38 x 142.38 x 38.13",
             "무게(g)": "1117",
@@ -3258,7 +3258,7 @@
         "Price": "62,000",
         "Purchase_Link": "https://prod.danawa.com/bridge/loadingBridge.html?cate1=861&cate2=881&cate3=1005&cate4=0&pcode=73696682&cmpnyc=TP40F&safe_trade=4&fee_type=T&link_pcode=I25233798103&package=0&setpc=0&r=17659035947858",
         "DetailImages": [],
-        "Spec_Detail": {
+        "Spec": {
             "보증기간(년)": 1,
             "크기(가로x세로x높이)(mm)": "235.90 x 115.62 x 43.81",
             "무게(g)": "804",
@@ -3305,7 +3305,7 @@
         "DetailImages": [
             "https://iws.danawa.com/prod_img/500000/731/367/desc/prod_29367731/add_1/20231026154224334_4U0WL2WV.jpg"
         ],
-        "Spec_Detail": {
+        "Spec": {
             "보증기간(년)": 2,
             "크기(가로x세로x높이)(mm)": "445 x 139 x 39",
             "무게(g)": "880",
@@ -3340,7 +3340,7 @@
         "Price": "50,850",
         "Purchase_Link": "https://prod.danawa.com/bridge/loadingBridge.html?cate1=861&cate2=881&cate3=1005&cate4=0&pcode=76331351&cmpnyc=TP40F&safe_trade=4&fee_type=T&link_pcode=I24777341110&package=0&setpc=0&r=17659036137534",
         "DetailImages": [],
-        "Spec_Detail": {
+        "Spec": {
             "크기(가로x세로x높이)(mm)": "445.17 x 144.47 x 42.93",
             "무게(g)": "930",
             "배터리 용량(mAh)": "8000",
@@ -3377,7 +3377,7 @@
         "DetailImages": [
             "https://iws.danawa.com/prod_img/500000/199/789/desc/prod_76789199/add_1/20250220163241165_47TYZ91O.jpg"
         ],
-        "Spec_Detail": {
+        "Spec": {
             "보증기간(년)": 1,
             "크기(가로x세로x높이)(mm)": "435 x 125 x 38",
             "무게(g)": "719",
@@ -3409,7 +3409,7 @@
         "DetailImages": [
             "https://iws.danawa.com/prod_img/500000/302/787/desc/prod_68787302/add_1/20241016110417972_OLMSZDUT.jpg"
         ],
-        "Spec_Detail": {
+        "Spec": {
             "보증기간(년)": 1,
             "크기(가로x세로x높이)(mm)": "424 x 146 x 20",
             "무게(g)": "580",
@@ -3435,7 +3435,7 @@
         "DetailImages": [
             "https://iws.danawa.com/prod_img/500000/001/677/desc/prod_1677001/add_1/Logitech_MK200_new.jpg"
         ],
-        "Spec_Detail": {
+        "Spec": {
             "크기(가로x세로x높이)(mm)": "455 x 150 x 33",
             "제조회사": "로지텍",
             "등록년월": "2012년 05월",
@@ -3457,7 +3457,7 @@
         "Price": "119,800",
         "Purchase_Link": "https://prod.danawa.com/bridge/loadingBridge.html?cate1=861&cate2=881&cate3=1005&cate4=0&pcode=78781517&cmpnyc=TY327A&safe_trade=4&fee_type=N&link_pcode=9745562573&package=0&setpc=0&r=17659036485897",
         "DetailImages": [],
-        "Spec_Detail": {
+        "Spec": {
             "보증기간(년)": 1,
             "크기(가로x세로x높이)(mm)": "445 x 134 x 35",
             "무게(g)": "840",
@@ -3492,7 +3492,7 @@
         "DetailImages": [
             "https://iws.danawa.com/prod_img/500000/313/245/desc/prod_98245313/add_1/20251001130806311_FP5L8WDP.jpg"
         ],
-        "Spec_Detail": {
+        "Spec": {
             "보증기간(년)": 2,
             "크기(가로x세로x높이)(mm)": "388 x 141 x 43",
             "무게(g)": "994",
@@ -3533,7 +3533,7 @@
         "Price": "29,900",
         "Purchase_Link": "https://prod.danawa.com/bridge/loadingBridge.html?cate1=861&cate2=881&cate3=16098&cate4=16102&pcode=905540&cmpnyc=EE128&safe_trade=4&fee_type=T&link_pcode=169161079&package=0&setpc=0&r=17659036663591",
         "DetailImages": [],
-        "Spec_Detail": {
+        "Spec": {
             "제조회사": "동진OA",
             "등록년월": "2009년 06월 KC인증 적합성평가인증 상세설명 / 판매 사이트 문의 인증번호 확인 안전확인인증 상세설명 / 판매 사이트 문의 인증번호 확인"
         }
@@ -3548,7 +3548,7 @@
             "https://iws.danawa.com/prod_img/500000/644/410/desc/prod_97410644/add_1/20251001172529877_VA6NPPPC.jpg",
             "https://iws.danawa.com/prod_img/500000/644/410/desc/prod_97410644/add_1/20251114170450598_VC998YXT.jpg"
         ],
-        "Spec_Detail": {
+        "Spec": {
             "크기(가로x세로x높이)(mm)": "409 x 142 x 40",
             "무게(g)": "1000",
             "배터리 용량(mAh)": "4000",
@@ -3592,7 +3592,7 @@
             "https://iws.danawa.com/prod_img/500000/001/185/desc/prod_101185001/add_1/20251127150512752_HQY21JBB.jpg",
             "https://iws.danawa.com/prod_img/500000/001/185/desc/prod_101185001/add_1/20251127150517844_F1LKMCKA.jpg"
         ],
-        "Spec_Detail": {
+        "Spec": {
             "크기(가로x세로x높이)(mm)": "450 x 140 x 44",
             "무게(g)": "1268",
             "배터리 용량(mAh)": "8000",
@@ -3628,7 +3628,7 @@
         "Price": "129,000",
         "Purchase_Link": "https://prod.danawa.com/bridge/loadingBridge.html?cate1=861&cate2=881&cate3=1005&cate4=0&pcode=97361648&cmpnyc=TP40F&safe_trade=4&fee_type=T&link_pcode=I26687325973&package=0&setpc=0&r=17659036893686",
         "DetailImages": [],
-        "Spec_Detail": {
+        "Spec": {
             "보증기간(년)": 1,
             "크기(가로x세로x높이)(mm)": "401 x 147 x 39.6",
             "무게(g)": "1100",
@@ -3673,7 +3673,7 @@
             "https://iws.danawa.com/prod_img/500000/500/862/desc/prod_32862500/add_1/20240126104415401_W61RHGNY.jpg",
             "https://iws.danawa.com/prod_img/500000/500/862/desc/prod_32862500/add_1/20240126104415531_INFGRMER.jpg"
         ],
-        "Spec_Detail": {
+        "Spec": {
             "보증기간(년)": 1,
             "크기(가로x세로x높이)(mm)": "429.7 x 127.7 x 41.4",
             "키압(g)": "45",
@@ -3704,7 +3704,7 @@
         "DetailImages": [
             "https://iws.danawa.com/prod_img/500000/348/185/desc/prod_15185348/add_1/20210907101358996_ZJGE4ZU9.jpg"
         ],
-        "Spec_Detail": {
+        "Spec": {
             "보증기간(년)": 1,
             "크기(가로x세로x높이)(mm)": "380 x 134 x 34",
             "무게(g)": "700",
@@ -3739,7 +3739,7 @@
         "Price": "62,000",
         "Purchase_Link": "https://prod.danawa.com/bridge/loadingBridge.html?cate1=861&cate2=881&cate3=1005&cate4=0&pcode=73325126&cmpnyc=TSC128&safe_trade=4&fee_type=N&link_pcode=11259081976&package=0&setpc=0&r=17659037133588",
         "DetailImages": [],
-        "Spec_Detail": {
+        "Spec": {
             "보증기간(년)": 1,
             "크기(가로x세로x높이)(mm)": "235.90 x 115.62 x 43.81",
             "무게(g)": "804",
@@ -3795,7 +3795,7 @@
             "https://iws.danawa.com/prod_img/500000/044/843/desc/prod_78843044/add_1/20250402150843628_2QK6IT0H.jpg",
             "https://iws.danawa.com/prod_img/500000/044/843/desc/prod_78843044/add_1/20250402150843803_2BODA8YJ.jpg"
         ],
-        "Spec_Detail": {
+        "Spec": {
             "보증기간(년)": 1,
             "크기(가로x세로x높이)(mm)": "315 x 133 x 15",
             "무게(g)": "515",
@@ -3829,7 +3829,7 @@
         "DetailImages": [
             "https://iws.danawa.com/prod_img/500000/483/037/desc/prod_13037483/add_1/20201230144928700_81K7A2SU.jpg"
         ],
-        "Spec_Detail": {
+        "Spec": {
             "보증기간(년)": 1,
             "크기(가로x세로x높이)(mm)": "440 x 147 x 35",
             "무게(g)": "655",
@@ -3856,7 +3856,7 @@
         "DetailImages": [
             "https://iws.danawa.com/prod_img/500000/343/466/desc/prod_63466343/add_1/20240820112149395_O1BX7TOY.jpg"
         ],
-        "Spec_Detail": {
+        "Spec": {
             "보증기간(년)": 1,
             "크기(가로x세로x높이)(mm)": "390.63 x 146.78 x 42.57",
             "무게(g)": "1183",
@@ -3900,7 +3900,7 @@
         "DetailImages": [
             "https://iws.danawa.com/prod_img/500000/441/185/desc/prod_15185441/add_1/20210907101753366_31X2J0OM.jpg"
         ],
-        "Spec_Detail": {
+        "Spec": {
             "보증기간(년)": 1,
             "크기(가로x세로x높이)(mm)": "450 x 134 x 34",
             "무게(g)": "784",
@@ -3933,7 +3933,7 @@
         "DetailImages": [
             "https://iws.danawa.com/prod_img/500000/419/696/desc/prod_69696419/add_1/20241024112719742_LEMCQW42.jpg"
         ],
-        "Spec_Detail": {
+        "Spec": {
             "크기(가로x세로x높이)(mm)": "448 x 139 x 39",
             "무게(g)": "898",
             "제조회사": "MSI",
@@ -3963,7 +3963,7 @@
         "DetailImages": [
             "https://iws.danawa.com/prod_img/500000/512/706/desc/prod_77706512/add_1/20250311125716897_PUJ01E71.jpg"
         ],
-        "Spec_Detail": {
+        "Spec": {
             "보증기간(년)": 1,
             "크기(가로x세로x높이)(mm)": "360 x 135 x 40",
             "무게(g)": "604",
@@ -4002,7 +4002,7 @@
         "DetailImages": [
             "https://iws.danawa.com/prod_img/500000/029/830/desc/prod_19830029/add_1/20240909111415406_ZAUA13BF.jpg"
         ],
-        "Spec_Detail": {
+        "Spec": {
             "보증기간(년)": 1,
             "크기(가로x세로x높이)(mm)": "440 x 128 x 39",
             "무게(g)": "1160",
@@ -4040,7 +4040,7 @@
             "https://iws.danawa.com/prod_img/500000/168/355/desc/prod_5355168/add_1/CKM500_DB2_01.jpg",
             "https://iws.danawa.com/prod_img/500000/168/355/desc/prod_5355168/add_1/CKM500_DB2_02.jpg"
         ],
-        "Spec_Detail": {
+        "Spec": {
             "크기(가로x세로x높이)(mm)": "468 x 172 x 39",
             "무게(g)": "798",
             "제조회사": "COX",
@@ -4070,7 +4070,7 @@
         "DetailImages": [
             "https://iws.danawa.com/prod_img/500000/857/825/desc/prod_15825857/add_1/20221125150724109_W7EI3T68.jpg"
         ],
-        "Spec_Detail": {
+        "Spec": {
             "보증기간(년)": 1,
             "크기(가로x세로x높이)(mm)": "440 x 142 x 38",
             "무게(g)": "870",
@@ -4112,7 +4112,7 @@
             "https://iws.danawa.com/prod_img/500000/288/768/desc/prod_98768288/add_1/20251106083912382_XQ63ENL9.jpg",
             "https://iws.danawa.com/prod_img/500000/288/768/desc/prod_98768288/add_1/20251106083912583_AOMGJY58.jpg"
         ],
-        "Spec_Detail": {
+        "Spec": {
             "보증기간(년)": 1,
             "크기(가로x세로x높이)(mm)": "443 x 145 x 30",
             "무게(g)": "1165",
@@ -4159,7 +4159,7 @@
             "https://iws.danawa.com/prod_img/500000/698/630/desc/prod_18630698/add_1/20230102150300864_VR4Z4X47.jpg",
             "https://iws.danawa.com/prod_img/500000/698/630/desc/prod_18630698/add_1/20230102150303127_T1I7P3MR.jpg"
         ],
-        "Spec_Detail": {
+        "Spec": {
             "보증기간(년)": 1,
             "크기(가로x세로x높이)(mm)": "456 x 233 x 48",
             "무게(g)": "1160",
@@ -4189,7 +4189,7 @@
             "https://iws.danawa.com/prod_img/500000/480/143/desc/prod_63143480/add_1/20250905180105335_ZJ2MMZJE.jpg",
             "https://iws.danawa.com/prod_img/500000/480/143/desc/prod_63143480/add_1/20250710124258215_VSWK1BQ7.jpg"
         ],
-        "Spec_Detail": {
+        "Spec": {
             "보증기간(년)": 1,
             "크기(가로x세로x높이)(mm)": "441 x 144 x 40",
             "무게(g)": "711",
@@ -4228,7 +4228,7 @@
             "https://iws.danawa.com/prod_img/500000/486/889/desc/prod_28889486/add_1/20231127095648112_DX2913A1.jpg",
             "https://iws.danawa.com/prod_img/500000/486/889/desc/prod_28889486/add_1/20231127095703761_8EN5PR35.jpg"
         ],
-        "Spec_Detail": {
+        "Spec": {
             "크기(가로x세로x높이)(mm)": "311 x 101 x 38",
             "무게(g)": "943",
             "배터리 용량(mAh)": "1200",
@@ -4272,7 +4272,7 @@
             "https://iws.danawa.com/prod_img/500000/589/991/desc/prod_75991589/add_1/20250304135052447_NNV3GCH1.jpg",
             "https://iws.danawa.com/prod_img/500000/589/991/desc/prod_75991589/add_1/20250304135055979_NDZ68FMZ.jpg"
         ],
-        "Spec_Detail": {
+        "Spec": {
             "보증기간(년)": 1,
             "크기(가로x세로x높이)(mm)": "440 x 138 x 38",
             "무게(g)": "1240",
@@ -4315,7 +4315,7 @@
             "https://iws.danawa.com/prod_img/500000/504/883/desc/prod_73883504/add_1/20250106085029953_MFSXFRKD.jpg",
             "https://iws.danawa.com/prod_img/500000/504/883/desc/prod_73883504/add_1/20250106085032498_JOOL89LL.jpg"
         ],
-        "Spec_Detail": {
+        "Spec": {
             "보증기간(년)": 1,
             "크기(가로x세로x높이)(mm)": "318 x 134 x 36",
             "무게(g)": "1279",
@@ -4359,7 +4359,7 @@
             "https://iws.danawa.com/prod_img/500000/727/830/desc/prod_74830727/add_1/20250331081503493_B8RZFV5G.jpg",
             "https://iws.danawa.com/prod_img/500000/727/830/desc/prod_74830727/add_1/20250331081506473_MSBXVY11.jpg"
         ],
-        "Spec_Detail": {
+        "Spec": {
             "보증기간(년)": 1,
             "크기(가로x세로x높이)(mm)": "373.4 x 140.3 x 37",
             "무게(g)": "1024",
@@ -4403,7 +4403,7 @@
         "Price": "64,800",
         "Purchase_Link": "https://prod.danawa.com/bridge/loadingBridge.html?cate1=861&cate2=881&cate3=1005&cate4=0&pcode=96364556&cmpnyc=TH201&safe_trade=4&fee_type=T&link_pcode=8813180034&package=0&setpc=0&r=17659038327168",
         "DetailImages": [],
-        "Spec_Detail": {
+        "Spec": {
             "보증기간(년)": 1,
             "크기(가로x세로x높이)(mm)": "363.3 x 144 x 44",
             "무게(g)": "910",
@@ -4448,7 +4448,7 @@
         "DetailImages": [
             "https://iws.danawa.com/prod_img/500000/439/603/desc/prod_28603439/add_1/20231012135110817_ITDGPNMX.png"
         ],
-        "Spec_Detail": {
+        "Spec": {
             "보증기간(년)": 2,
             "크기(가로x세로x높이)(mm)": "448 x 153 x 35.4",
             "무게(g)": "934",
@@ -4491,7 +4491,7 @@
             "https://iws.danawa.com/prod_img/500000/332/912/desc/prod_99912332/add_1/20251030111328932_VI6KE3DF.jpg",
             "https://iws.danawa.com/prod_img/500000/332/912/desc/prod_99912332/add_1/20251030111329281_WMZ822AO.jpg"
         ],
-        "Spec_Detail": {
+        "Spec": {
             "보증기간(년)": 1,
             "크기(가로x세로x높이)(mm)": "443 x 145 x 30",
             "무게(g)": "1165",
@@ -4536,7 +4536,7 @@
         "DetailImages": [
             "https://iws.danawa.com/prod_img/500000/410/960/desc/prod_90960410/add_1/20250520161336697_ZY2MRBEI.jpg"
         ],
-        "Spec_Detail": {
+        "Spec": {
             "보증기간(년)": 1,
             "크기(가로x세로x높이)(mm)": "333 x 144 x 41",
             "무게(g)": "942",
@@ -4579,7 +4579,7 @@
             "https://iws.danawa.com/prod_img/500000/794/566/desc/prod_94566794/add_1/20250723092726887_5ZJPEDKY.jpg",
             "https://iws.danawa.com/prod_img/500000/794/566/desc/prod_94566794/add_1/20250723092734153_6P71R62A.jpg"
         ],
-        "Spec_Detail": {
+        "Spec": {
             "보증기간(년)": 1,
             "크기(가로x세로x높이)(mm)": "365 x 140 x 35",
             "무게(g)": "952",
@@ -4626,7 +4626,7 @@
         "DetailImages": [
             "https://iws.danawa.com/prod_img/500000/312/278/desc/prod_6278312/add_1/20220126123529695_TYEO0BNX.jpg"
         ],
-        "Spec_Detail": {
+        "Spec": {
             "보증기간(년)": 1,
             "크기(가로x세로x높이)(mm)": "436 x 124 x 36",
             "무게(g)": "993",
@@ -4665,7 +4665,7 @@
         "DetailImages": [
             "https://iws.danawa.com/prod_img/500000/558/519/desc/prod_80519558/add_1/20250403080936668_CJ8UVGPK.jpg"
         ],
-        "Spec_Detail": {
+        "Spec": {
             "보증기간(년)": 1,
             "크기(가로x세로x높이)(mm)": "439 x 131 x 29",
             "무게(g)": "495",
@@ -4694,7 +4694,7 @@
             "https://iws.danawa.com/prod_img/500000/505/063/desc/prod_11063505/add_1/20200410171627245_H9E4L9R8.jpg",
             "https://iws.danawa.com/prod_img/500000/505/063/desc/prod_11063505/add_1/20200410171627632_ES8MYNJ1.jpg"
         ],
-        "Spec_Detail": {
+        "Spec": {
             "보증기간(년)": 1,
             "크기(가로x세로x높이)(mm)": "361 x 145 x 47",
             "무게(g)": "935",
@@ -4736,7 +4736,7 @@
             "https://iws.danawa.com/prod_img/500000/917/984/desc/prod_96984917/add_1/20251201103303821_FSPV4C4P.jpg",
             "https://iws.danawa.com/prod_img/500000/917/984/desc/prod_96984917/add_1/20251201103303986_0S8GOHHK.jpg"
         ],
-        "Spec_Detail": {
+        "Spec": {
             "보증기간(년)": 1,
             "크기(가로x세로x높이)(mm)": "436 x 149 x 35",
             "무게(g)": "655",
@@ -4796,7 +4796,7 @@
             "https://iws.danawa.com/prod_img/500000/074/722/desc/prod_40722074/add_1/20250702155959290_5U6O4Q7Z.jpg",
             "https://iws.danawa.com/prod_img/500000/074/722/desc/prod_40722074/add_1/20250702160001231_8T4YN4Q5.jpg"
         ],
-        "Spec_Detail": {
+        "Spec": {
             "보증기간(년)": 1,
             "크기(가로x세로x높이)(mm)": "361 x 140 x 38",
             "무게(g)": "875",
@@ -4850,7 +4850,7 @@
             "https://iws.danawa.com/prod_img/500000/479/607/desc/prod_47607479/add_1/20250714123344371_CYGQ2SXL.jpg",
             "https://iws.danawa.com/prod_img/500000/479/607/desc/prod_47607479/add_1/20250714123344544_HEVC2QL4.jpg"
         ],
-        "Spec_Detail": {
+        "Spec": {
             "보증기간(년)": 1,
             "크기(가로x세로x높이)(mm)": "318 x 109 x 36",
             "무게(g)": "630",
@@ -4897,7 +4897,7 @@
             "https://iws.danawa.com/prod_img/500000/091/862/desc/prod_93862091/add_1/20251106084116541_VYYB3G8W.jpg",
             "https://iws.danawa.com/prod_img/500000/091/862/desc/prod_93862091/add_1/20251106084116721_8YHIS5JW.jpg"
         ],
-        "Spec_Detail": {
+        "Spec": {
             "보증기간(년)": 1,
             "크기(가로x세로x높이)(mm)": "362 x 145 x 30",
             "무게(g)": "985",
@@ -4948,7 +4948,7 @@
             "https://iws.danawa.com/prod_img/500000/511/953/desc/prod_101953511/add_1/20251210083040802_QMWO31FS.gif",
             "https://iws.danawa.com/prod_img/500000/511/953/desc/prod_101953511/add_1/20251210083040903_VHIOW1IS.jpg"
         ],
-        "Spec_Detail": {
+        "Spec": {
             "보증기간(년)": 1,
             "크기(가로x세로x높이)(mm)": "445.17 x 141.47 x 42.93",
             "무게(g)": "1029",
@@ -4990,7 +4990,7 @@
         "DetailImages": [
             "https://iws.danawa.com/prod_img/500000/135/239/desc/prod_45239135/add_1/20240401164828745_6A11JHAT.jpg"
         ],
-        "Spec_Detail": {
+        "Spec": {
             "보증기간(년)": 2,
             "크기(가로x세로x높이)(mm)": "435 x 138 x 35",
             "무게(g)": "1120",
@@ -5033,7 +5033,7 @@
             "https://iws.danawa.com/prod_img/500000/028/862/desc/prod_93862028/add_1/20251106084108562_CB82DEBW.jpg",
             "https://iws.danawa.com/prod_img/500000/028/862/desc/prod_93862028/add_1/20251106084108753_UGJDF4K6.jpg"
         ],
-        "Spec_Detail": {
+        "Spec": {
             "보증기간(년)": 1,
             "크기(가로x세로x높이)(mm)": "362 x 145 x 30",
             "무게(g)": "985",
@@ -5080,7 +5080,7 @@
             "https://iws.danawa.com/prod_img/500000/414/790/desc/prod_76790414/add_1/20250422155430245_JYR4IMV3.jpg",
             "https://iws.danawa.com/prod_img/500000/414/790/desc/prod_76790414/add_1/20250422155432573_N3VP0FWR.jpg"
         ],
-        "Spec_Detail": {
+        "Spec": {
             "보증기간(년)": 1,
             "크기(가로x세로x높이)(mm)": "322 x 138.5 x 24",
             "무게(g)": "791.3",
@@ -5125,7 +5125,7 @@
         "DetailImages": [
             "https://iws.danawa.com/prod_img/500000/356/495/desc/prod_12495356/add_1/20201020143901458_GUGJPGIU.jpg"
         ],
-        "Spec_Detail": {
+        "Spec": {
             "보증기간(년)": 2,
             "크기(가로x세로x높이)(mm)": "450.7 x 245.1 x 42.1",
             "무게(g)": "1282",
@@ -5155,7 +5155,7 @@
         "Price": "257,790",
         "Purchase_Link": "https://prod.danawa.com/bridge/loadingBridge.html?cate1=861&cate2=881&cate3=1005&cate4=0&pcode=20607614&cmpnyc=TH201&safe_trade=4&fee_type=T&link_pcode=6380948505&package=0&setpc=0&r=17659039476009",
         "DetailImages": [],
-        "Spec_Detail": {
+        "Spec": {
             "크기(가로x세로x높이)(mm)": "302 x 116 x 38",
             "무게(g)": "605",
             "키압(g)": "40",
@@ -5194,7 +5194,7 @@
             "https://iws.danawa.com/prod_img/500000/816/345/desc/prod_17345816/add_1/20220708091924398_XQROXYB9.jpg",
             "https://iws.danawa.com/prod_img/500000/816/345/desc/prod_17345816/add_1/20220708091928303_B2NN37Y5.jpg"
         ],
-        "Spec_Detail": {
+        "Spec": {
             "보증기간(년)": 1,
             "크기(가로x세로x높이)(mm)": "315 x 110 x 25",
             "무게(g)": "688",
@@ -5238,7 +5238,7 @@
         "DetailImages": [
             "https://iws.danawa.com/prod_img/500000/322/647/desc/prod_9647322/add_1/20230111105945699_9MTOJW5A.jpg"
         ],
-        "Spec_Detail": {
+        "Spec": {
             "보증기간(년)": 1,
             "크기(가로x세로x높이)(mm)": "157 x 96 x 32.5",
             "무게(g)": "265",
@@ -5265,7 +5265,7 @@
         "DetailImages": [
             "https://iws.danawa.com/prod_img/500000/912/515/desc/prod_18515912/add_1/20221219080846569_QHVOL4R0.jpg"
         ],
-        "Spec_Detail": {
+        "Spec": {
             "보증기간(년)": 1,
             "크기(가로x세로x높이)(mm)": "446 x 135 x 37",
             "무게(g)": "1059",
@@ -5305,7 +5305,7 @@
         "DetailImages": [
             "https://iws.danawa.com/prod_img/500000/100/699/desc/prod_100699100/add_1/20251119143429840_6YITAR8Q.png"
         ],
-        "Spec_Detail": {
+        "Spec": {
             "보증기간(년)": 2,
             "크기(가로x세로x높이)(mm)": "365 x 156 x 44",
             "무게(g)": "1250",
@@ -5353,7 +5353,7 @@
         "DetailImages": [
             "https://iws.danawa.com/prod_img/500000/836/928/desc/prod_59928836/add_1/20250311123621593_73U0AFY8.jpg"
         ],
-        "Spec_Detail": {
+        "Spec": {
             "보증기간(년)": 2,
             "크기(가로x세로x높이)(mm)": "368 x 150 x 22",
             "무게(g)": "880",
@@ -5390,7 +5390,7 @@
             "https://iws.danawa.com/prod_img/500000/570/903/desc/prod_71903570/add_1/20250820130334990_OY7QVCYE.gif",
             "https://iws.danawa.com/prod_img/500000/570/903/desc/prod_71903570/add_1/20250820130338364_G05L9EP4.jpg"
         ],
-        "Spec_Detail": {
+        "Spec": {
             "보증기간(년)": 1,
             "크기(가로x세로x높이)(mm)": "438.47 x 138.46 x 43.09",
             "무게(g)": "1163",
@@ -5435,7 +5435,7 @@
         "DetailImages": [
             "https://iws.danawa.com/prod_img/500000/244/059/desc/prod_56059244/add_1/20240617091707838_DSCSGJWR.jpg"
         ],
-        "Spec_Detail": {
+        "Spec": {
             "보증기간(년)": 1,
             "크기(가로x세로x높이)(mm)": "360 x 133 x 38",
             "무게(g)": "900",
@@ -5477,7 +5477,7 @@
             "https://iws.danawa.com/prod_img/500000/947/128/desc/prod_5128947/add_2/20210407133650303_2ABM4GIN.jpg",
             "https://iws.danawa.com/prod_img/500000/947/128/desc/prod_5128947/add_2/20210407133650664_DI1RU5LU.jpg"
         ],
-        "Spec_Detail": {
+        "Spec": {
             "보증기간(년)": 1,
             "크기(가로x세로x높이)(mm)": "435 x 125 x 34",
             "무게(g)": "1050",
@@ -5519,7 +5519,7 @@
         "DetailImages": [
             "https://iws.danawa.com/prod_img/500000/002/125/desc/prod_73125002/add_1/20241219175642682_FMXBOS8F.jpg"
         ],
-        "Spec_Detail": {
+        "Spec": {
             "보증기간(년)": 1,
             "크기(가로x세로x높이)(mm)": "322 x 127 x 23",
             "무게(g)": "485",
@@ -5566,7 +5566,7 @@
         "DetailImages": [
             "https://iws.danawa.com/prod_img/500000/703/932/desc/prod_17932703/add_1/20221111101010547_4LA8ZEWD.jpg"
         ],
-        "Spec_Detail": {
+        "Spec": {
             "보증기간(년)": 2,
             "크기(가로x세로x높이)(mm)": "437 x 156 x 17",
             "무게(g)": "780",
@@ -5602,7 +5602,7 @@
         "DetailImages": [
             "https://iws.danawa.com/prod_img/500000/279/297/desc/prod_68297279/add_1/20250311123651649_RXOWD8Y1.jpg"
         ],
-        "Spec_Detail": {
+        "Spec": {
             "보증기간(년)": 2,
             "크기(가로x세로x높이)(mm)": "475 x 150 x 22.6",
             "무게(g)": "1080",
@@ -5638,7 +5638,7 @@
             "https://iws.danawa.com/prod_img/500000/411/508/desc/prod_76508411/add_1/20250326082704101_U0ZNGOYL.jpg",
             "https://iws.danawa.com/prod_img/500000/411/508/desc/prod_76508411/add_1/20250326082707422_9F3GQA59.jpg"
         ],
-        "Spec_Detail": {
+        "Spec": {
             "보증기간(년)": 1,
             "크기(가로x세로x높이)(mm)": "446 x 136 x 37",
             "무게(g)": "1157",
@@ -5679,7 +5679,7 @@
         "DetailImages": [
             "https://iws.danawa.com/prod_img/500000/203/206/desc/prod_88206203/add_1/20250424153550766_NQXIM4U8.jpg"
         ],
-        "Spec_Detail": {
+        "Spec": {
             "보증기간(년)": 1,
             "크기(가로x세로x높이)(mm)": "437 x 123 x 21",
             "무게(g)": "445",
@@ -5708,7 +5708,7 @@
             "https://iws.danawa.com/prod_img/500000/639/828/desc/prod_74828639/add_1/20250331081446234_44TZ2JI1.jpg",
             "https://iws.danawa.com/prod_img/500000/639/828/desc/prod_74828639/add_1/20250331081449109_374KEVMR.jpg"
         ],
-        "Spec_Detail": {
+        "Spec": {
             "보증기간(년)": 1,
             "크기(가로x세로x높이)(mm)": "373.4 x 140.3 x 37",
             "무게(g)": "1024",
@@ -5754,7 +5754,7 @@
             "https://iws.danawa.com/prod_img/500000/057/533/desc/prod_78533057/add_1/20250324153531426_B8T6942G.jpg",
             "https://iws.danawa.com/prod_img/500000/057/533/desc/prod_78533057/add_1/20250324153538657_B271UM3B.jpg"
         ],
-        "Spec_Detail": {
+        "Spec": {
             "보증기간(년)": 1,
             "크기(가로x세로x높이)(mm)": "146.9 x 121.1 x 45.7",
             "무게(g)": "304",
@@ -5789,7 +5789,7 @@
         "Price": "82,000",
         "Purchase_Link": "https://prod.danawa.com/bridge/loadingBridge.html?cate1=861&cate2=881&cate3=1005&cate4=0&pcode=97122407&cmpnyc=TH201&safe_trade=4&fee_type=T&link_pcode=8813137916&package=0&setpc=0&r=17659040574107",
         "DetailImages": [],
-        "Spec_Detail": {
+        "Spec": {
             "보증기간(년)": 1,
             "크기(가로x세로x높이)(mm)": "442.7 x 150 x 38",
             "무게(g)": "1180",
@@ -5841,7 +5841,7 @@
             "https://iws.danawa.com/prod_img/500000/296/404/desc/prod_79404296/add_1/20250410081547241_IUKAI5R8.gif",
             "https://iws.danawa.com/prod_img/500000/296/404/desc/prod_79404296/add_1/20250410081550223_9ZXAP8SW.jpg"
         ],
-        "Spec_Detail": {
+        "Spec": {
             "보증기간(년)": 1,
             "크기(가로x세로x높이)(mm)": "360 x 133 x 36",
             "무게(g)": "735",
@@ -5884,7 +5884,7 @@
             "https://iws.danawa.com/prod_img/500000/645/186/desc/prod_101186645/add_1/20251201103343703_3ESFAARP.gif",
             "https://iws.danawa.com/prod_img/500000/645/186/desc/prod_101186645/add_1/20251201103343766_F35AUSV0.jpg"
         ],
-        "Spec_Detail": {
+        "Spec": {
             "보증기간(년)": 1,
             "크기(가로x세로x높이)(mm)": "367.5 x 141.5 x 43.3",
             "무게(g)": "860",
@@ -5928,7 +5928,7 @@
             "https://iws.danawa.com/prod_img/500000/848/721/desc/prod_101721848/add_1/20251204164608755_Q0JWBMFF.jpg",
             "https://iws.danawa.com/prod_img/500000/848/721/desc/prod_101721848/add_1/20251204164613251_FKNGBLB8.jpg"
         ],
-        "Spec_Detail": {
+        "Spec": {
             "보증기간(년)": 1,
             "크기(가로x세로x높이)(mm)": "450.15 x 143.5 x 35.31",
             "무게(g)": "810",
@@ -5963,7 +5963,7 @@
         "DetailImages": [
             "https://iws.danawa.com/prod_img/500000/445/542/desc/prod_101542445/add_1/20251201125117583_YO0SPB62.jpg"
         ],
-        "Spec_Detail": {
+        "Spec": {
             "보증기간(년)": 2,
             "크기(가로x세로x높이)(mm)": "320 x 136 x 35",
             "무게(g)": "922",
@@ -6010,7 +6010,7 @@
         "DetailImages": [
             "https://iws.danawa.com/prod_img/500000/811/342/desc/prod_8342811/add_1/20250526172522324_CMPAUN8A.jpg"
         ],
-        "Spec_Detail": {
+        "Spec": {
             "크기(가로x세로x높이)(mm)": "448 x 138 x 40.5",
             "무게(g)": "1300",
             "키압(g)": "35",
@@ -6048,7 +6048,7 @@
         "DetailImages": [
             "https://iws.danawa.com/prod_img/500000/421/795/desc/prod_16795421/add_1/20221111100605533_LJGTAUQK.jpg"
         ],
-        "Spec_Detail": {
+        "Spec": {
             "보증기간(년)": 2,
             "크기(가로x세로x높이)(mm)": "360 x 164 x 40",
             "무게(g)": "930",
@@ -6087,7 +6087,7 @@
         "DetailImages": [
             "https://iws.danawa.com/prod_img/500000/380/618/desc/prod_12618380/add_1/20221111094722626_OYAR5RHI.jpg"
         ],
-        "Spec_Detail": {
+        "Spec": {
             "보증기간(년)": 2,
             "크기(가로x세로x높이)(mm)": "441 x 137 x 35",
             "무게(g)": "880",
@@ -6122,7 +6122,7 @@
         "DetailImages": [
             "https://iws.danawa.com/prod_img/500000/371/998/desc/prod_94998371/add_1/20250731124500647_EBW9HCSG.jpg"
         ],
-        "Spec_Detail": {
+        "Spec": {
             "보증기간(년)": 2,
             "크기(가로x세로x높이)(mm)": "369.8 x 141.1 x 35",
             "무게(g)": "617",
@@ -6157,7 +6157,7 @@
         "DetailImages": [
             "https://iws.danawa.com/prod_img/500000/278/465/desc/prod_69465278/add_1/20241022112921597_1EEWPQ95.jpg"
         ],
-        "Spec_Detail": {
+        "Spec": {
             "보증기간(년)": 1,
             "크기(가로x세로x높이)(mm)": "376 x 130 x 30",
             "무게(g)": "500",
@@ -6197,7 +6197,7 @@
             "https://iws.danawa.com/prod_img/500000/511/965/desc/prod_92965511/add_1/20250827105357352_0AVICR1X.jpg",
             "https://iws.danawa.com/prod_img/500000/511/965/desc/prod_92965511/add_1/20250827105359658_F1KPM9XS.jpg"
         ],
-        "Spec_Detail": {
+        "Spec": {
             "보증기간(년)": 1,
             "크기(가로x세로x높이)(mm)": "450 x 144 x 35",
             "무게(g)": "810",
@@ -6224,7 +6224,7 @@
         "DetailImages": [
             "https://iws.danawa.com/prod_img/500000/981/934/desc/prod_58934981/add_1/20240703134559584_DQEZWB83.jpg"
         ],
-        "Spec_Detail": {
+        "Spec": {
             "크기(가로x세로x높이)(mm)": "390.63 x 146.78 x 42.57",
             "무게(g)": "1183",
             "배터리 용량(mAh)": "8000",
@@ -6265,7 +6265,7 @@
         "DetailImages": [
             "https://iws.danawa.com/prod_img/500000/744/083/desc/prod_63083744/add_1/20240813133933767_5GQ7KRCJ.jpg"
         ],
-        "Spec_Detail": {
+        "Spec": {
             "보증기간(년)": 1,
             "크기(가로x세로x높이)(mm)": "440 x 135 x 35",
             "무게(g)": "1500",
@@ -6306,7 +6306,7 @@
         "DetailImages": [
             "https://iws.danawa.com/prod_img/500000/261/217/desc/prod_5217261/add_1/20221111095108372_ALFAGXRP.jpg"
         ],
-        "Spec_Detail": {
+        "Spec": {
             "보증기간(년)": 2,
             "크기(가로x세로x높이)(mm)": "455 x 170 x 39",
             "무게(g)": "1120",
@@ -6342,7 +6342,7 @@
         "DetailImages": [
             "https://iws.danawa.com/prod_img/500000/080/568/desc/prod_17568080/add_1/20230706080636752_A4H2RX8F.jpg"
         ],
-        "Spec_Detail": {
+        "Spec": {
             "보증기간(년)": 1,
             "크기(가로x세로x높이)(mm)": "430.7 x 121.3 x 22",
             "무게(g)": "523",
@@ -6370,7 +6370,7 @@
         "DetailImages": [
             "https://iws.danawa.com/prod_img/500000/626/787/desc/prod_68787626/add_1/20241025105359100_OC79OJNH.jpg"
         ],
-        "Spec_Detail": {
+        "Spec": {
             "보증기간(년)": 1,
             "크기(가로x세로x높이)(mm)": "393.6 x 144 x 38.5",
             "무게(g)": "989",
@@ -6419,7 +6419,7 @@
             "https://iws.danawa.com/prod_img/500000/732/596/desc/prod_75596732/add_1/20250212164941502_0DP0GMKI.jpg",
             "https://iws.danawa.com/prod_img/500000/732/596/desc/prod_75596732/add_1/20250212164941223_4JRE0W9K.jpg"
         ],
-        "Spec_Detail": {
+        "Spec": {
             "보증기간(년)": 1,
             "크기(가로x세로x높이)(mm)": "442 x 132 x 52",
             "무게(g)": "720",
@@ -6461,7 +6461,7 @@
             "https://iws.danawa.com/prod_img/500000/548/848/desc/prod_58848548/add_1/20240701155627712_Y6YAGO3O.gif",
             "https://iws.danawa.com/prod_img/500000/548/848/desc/prod_58848548/add_1/20240701155640636_8YBRX2ST.jpg"
         ],
-        "Spec_Detail": {
+        "Spec": {
             "보증기간(년)": 1,
             "크기(가로x세로x높이)(mm)": "360 x 133 x 38",
             "무게(g)": "900",
@@ -6512,7 +6512,7 @@
             "https://iws.danawa.com/prod_img/500000/544/410/desc/prod_98410544/add_1/20250929095443218_83INP7B3.jpg",
             "https://iws.danawa.com/prod_img/500000/544/410/desc/prod_98410544/add_1/20250929095443551_XZDYLOJY.jpg"
         ],
-        "Spec_Detail": {
+        "Spec": {
             "보증기간(년)": 1,
             "크기(가로x세로x높이)(mm)": "438.47 x 138.46 x 43.09",
             "무게(g)": "1140",
@@ -6554,7 +6554,7 @@
         "DetailImages": [
             "https://iws.danawa.com/prod_img/500000/818/060/desc/prod_96060818/add_1/20251201140003299_NALH9XTS.png"
         ],
-        "Spec_Detail": {
+        "Spec": {
             "배터리 용량(mAh)": "4000",
             "제조회사": "KiiBOOM",
             "등록년월": "2025년 08월",
@@ -6583,7 +6583,7 @@
         "DetailImages": [
             "https://iws.danawa.com/prod_img/500000/260/108/desc/prod_15108260/add_1/20210827144910977_VRM9DM5O.jpg"
         ],
-        "Spec_Detail": {
+        "Spec": {
             "보증기간(년)": 1,
             "크기(가로x세로x높이)(mm)": "372 x 151 x 37",
             "무게(g)": "550",
@@ -6617,7 +6617,7 @@
             "https://iws.danawa.com/prod_img/500000/624/759/desc/prod_92759624/add_1/20250924164753212_QW82LKSL.jpg",
             "https://iws.danawa.com/prod_img/500000/624/759/desc/prod_92759624/add_1/20250924164756611_NZGS6ZDV.jpg"
         ],
-        "Spec_Detail": {
+        "Spec": {
             "보증기간(년)": 1,
             "크기(가로x세로x높이)(mm)": "444 x 134 x 41",
             "무게(g)": "1231",
@@ -6660,7 +6660,7 @@
         "DetailImages": [
             "https://iws.danawa.com/prod_img/500000/960/424/desc/prod_31424960/add_1/20231222093306650_W0X1UN2G.jpg"
         ],
-        "Spec_Detail": {
+        "Spec": {
             "보증기간(년)": 1,
             "크기(가로x세로x높이)(mm)": "364.4 x 147.1 x 42.9",
             "무게(g)": "940",
@@ -6702,7 +6702,7 @@
         "DetailImages": [
             "https://iws.danawa.com/prod_img/500000/590/696/desc/prod_69696590/add_1/20241024124004838_VEVV9ZB6.jpg"
         ],
-        "Spec_Detail": {
+        "Spec": {
             "크기(가로x세로x높이)(mm)": "454 x 186 x 40",
             "무게(g)": "864",
             "제조회사": "MSI",
@@ -6732,7 +6732,7 @@
             "https://iws.danawa.com/prod_img/500000/514/348/desc/prod_91348514/add_1/20251106083834475_I5AB3DW5.jpg",
             "https://iws.danawa.com/prod_img/500000/514/348/desc/prod_91348514/add_1/20251106083834380_NBDH8RL8.jpg"
         ],
-        "Spec_Detail": {
+        "Spec": {
             "보증기간(년)": 1,
             "크기(가로x세로x높이)(mm)": "443 x 145 x 30",
             "무게(g)": "1165",
@@ -6777,7 +6777,7 @@
         "DetailImages": [
             "https://iws.danawa.com/prod_img/500000/374/113/desc/prod_91113374/add_1/20250522095844445_2X7RS96E.jpg"
         ],
-        "Spec_Detail": {
+        "Spec": {
             "보증기간(년)": 1,
             "크기(가로x세로x높이)(mm)": "443 x 135 x 40",
             "무게(g)": "500",
@@ -6815,7 +6815,7 @@
         "DetailImages": [
             "https://iws.danawa.com/prod_img/500000/701/080/desc/prod_94080701/add_1/20250721082117290_LID9QUJT.jpg"
         ],
-        "Spec_Detail": {
+        "Spec": {
             "보증기간(년)": 1,
             "크기(가로x세로x높이)(mm)": "432.78 x 134.28 x 24.16",
             "무게(g)": "776",
@@ -6847,7 +6847,7 @@
         "Price": "32,170",
         "Purchase_Link": "https://prod.danawa.com/bridge/loadingBridge.html?cate1=861&cate2=881&cate3=1005&cate4=0&pcode=76338974&cmpnyc=TP40F&safe_trade=4&fee_type=T&link_pcode=I24680361225&package=0&setpc=0&r=17659042459381",
         "DetailImages": [],
-        "Spec_Detail": {
+        "Spec": {
             "크기(가로x세로x높이)(mm)": "445.17 x 138.89 x 41.35",
             "무게(g)": "930",
             "배터리 용량(mAh)": "4000",
@@ -6891,7 +6891,7 @@
             "https://iws.danawa.com/prod_img/500000/919/887/desc/prod_74887919/add_1/20251105100408636_C4ATXBTV.gif",
             "https://iws.danawa.com/prod_img/500000/919/887/desc/prod_74887919/add_1/20251105100408920_AM9WQ1PB.jpg"
         ],
-        "Spec_Detail": {
+        "Spec": {
             "보증기간(년)": 1,
             "크기(가로x세로x높이)(mm)": "442 x 145 x 40",
             "무게(g)": "1300",
@@ -6935,7 +6935,7 @@
             "https://iws.danawa.com/prod_img/500000/087/471/desc/prod_14471087/add_1/20210614171925125_IT4W3AKF.jpg",
             "https://iws.danawa.com/prod_img/500000/087/471/desc/prod_14471087/add_1/20210614171925507_VXKA7AHD.jpg"
         ],
-        "Spec_Detail": {
+        "Spec": {
             "보증기간(년)": 1,
             "크기(가로x세로x높이)(mm)": "436 x 124 x 36",
             "무게(g)": "744",
@@ -6972,7 +6972,7 @@
         "DetailImages": [
             "https://iws.danawa.com/prod_img/500000/500/993/desc/prod_75993500/add_1/20250212174732628_MF4HVC1M.jpg"
         ],
-        "Spec_Detail": {
+        "Spec": {
             "보증기간(년)": 1,
             "크기(가로x세로x높이)(mm)": "132 x 86 x 42.1",
             "무게(g)": "264",
@@ -7003,7 +7003,7 @@
         "DetailImages": [
             "https://iws.danawa.com/prod_img/500000/855/446/desc/prod_15446855/add_1/20211015153122213_E0UHARSE.jpg"
         ],
-        "Spec_Detail": {
+        "Spec": {
             "보증기간(년)": 1,
             "크기(가로x세로x높이)(mm)": "368 x 144 x 36",
             "무게(g)": "1010",
@@ -7044,7 +7044,7 @@
         "DetailImages": [
             "https://iws.danawa.com/prod_img/500000/101/979/desc/prod_14979101/add_1/20211101145559281_MSW19MPT.jpg"
         ],
-        "Spec_Detail": {
+        "Spec": {
             "보증기간(년)": 1,
             "크기(가로x세로x높이)(mm)": "440 x 135 x 40",
             "무게(g)": "1100",
@@ -7082,7 +7082,7 @@
         "DetailImages": [
             "https://iws.danawa.com/prod_img/500000/167/589/desc/prod_11589167/add_1/20200617144508819_IAU584P7.jpg"
         ],
-        "Spec_Detail": {
+        "Spec": {
             "보증기간(년)": 1,
             "크기(가로x세로x높이)(mm)": "439 x 203 x 26",
             "무게(g)": "695",
@@ -7113,7 +7113,7 @@
         "DetailImages": [
             "https://iws.danawa.com/prod_img/500000/193/338/desc/prod_17338193/add_1/20230731084452716_BFPJVIRN.jpg"
         ],
-        "Spec_Detail": {
+        "Spec": {
             "보증기간(년)": 1,
             "크기(가로x세로x높이)(mm)": "443 x 144 x 28",
             "무게(g)": "464",
@@ -7142,7 +7142,7 @@
         "DetailImages": [
             "https://iws.danawa.com/prod_img/500000/130/006/desc/prod_19006130/add_1/20230214155546114_H56LVPWQ.jpg"
         ],
-        "Spec_Detail": {
+        "Spec": {
             "보증기간(년)": 1,
             "크기(가로x세로x높이)(mm)": "363 x 135 x 34",
             "무게(g)": "650",
@@ -7182,7 +7182,7 @@
         "DetailImages": [
             "https://iws.danawa.com/prod_img/500000/353/113/desc/prod_91113353/add_1/20250522095844445_2X7RS96E.jpg"
         ],
-        "Spec_Detail": {
+        "Spec": {
             "보증기간(년)": 1,
             "크기(가로x세로x높이)(mm)": "443 x 135 x 40",
             "무게(g)": "500",
@@ -7220,7 +7220,7 @@
         "DetailImages": [
             "https://iws.danawa.com/prod_img/500000/755/127/desc/prod_7127755/add_1/20250526172134580_74982TBV.jpg"
         ],
-        "Spec_Detail": {
+        "Spec": {
             "크기(가로x세로x높이)(mm)": "367 x 138 x 40.5",
             "무게(g)": "1100",
             "키압(g)": "50",
@@ -7260,7 +7260,7 @@
             "https://iws.danawa.com/prod_img/500000/496/821/desc/prod_74821496/add_1/20250331081429638_F3MZG9P8.jpg",
             "https://iws.danawa.com/prod_img/500000/496/821/desc/prod_74821496/add_1/20250331081432600_RJA0V0FM.jpg"
         ],
-        "Spec_Detail": {
+        "Spec": {
             "보증기간(년)": 1,
             "크기(가로x세로x높이)(mm)": "373.4 x 140.3 x 37",
             "무게(g)": "1024",
@@ -7310,7 +7310,7 @@
             "https://iws.danawa.com/prod_img/500000/203/717/desc/prod_18717203/add_1/20240328161155683_QT3ANIHD.jpg",
             "https://iws.danawa.com/prod_img/500000/203/717/desc/prod_18717203/add_1/2024032816115660_8T8CBJE1.jpg"
         ],
-        "Spec_Detail": {
+        "Spec": {
             "보증기간(년)": 1,
             "크기(가로x세로x높이)(mm)": "330 x 142 x 41",
             "무게(g)": "1020",
@@ -7355,7 +7355,7 @@
         "DetailImages": [
             "https://iws.danawa.com/prod_img/500000/100/686/desc/prod_17686100/add_1/20221206153904692_KWA50KOW.jpg"
         ],
-        "Spec_Detail": {
+        "Spec": {
             "폴링레이트(Hz)": "1000",
             "응답속도(ms)": "1",
             "제조회사": "Razer",
@@ -7386,7 +7386,7 @@
         "DetailImages": [
             "https://iws.danawa.com/prod_img/500000/087/977/desc/prod_12977087/add_1/20201224143522528_YMQR9APV.jpg"
         ],
-        "Spec_Detail": {
+        "Spec": {
             "제조회사": "앱코",
             "등록년월": "2020년 12월 재질 아크릴 KC인증 적합성평가인증 상세설명 / 판매 사이트 문의 인증번호 확인 안전확인인증 상세설명 / 판매 사이트 문의 인증번호 확인"
         }
@@ -7400,7 +7400,7 @@
         "DetailImages": [
             "https://iws.danawa.com/prod_img/500000/088/245/desc/prod_98245088/add_1/20251001130856833_7OT1NUMV.jpg"
         ],
-        "Spec_Detail": {
+        "Spec": {
             "보증기간(년)": 2,
             "크기(가로x세로x높이)(mm)": "388 x 141 x 43",
             "무게(g)": "994",
@@ -7440,7 +7440,7 @@
         "DetailImages": [
             "https://iws.danawa.com/prod_img/500000/669/058/desc/prod_16058669/add_1/20211229140123325_OPA6IY91.jpg"
         ],
-        "Spec_Detail": {
+        "Spec": {
             "보증기간(년)": 2,
             "크기(가로x세로x높이)(mm)": "448 x 140 x 38.8",
             "무게(g)": "1210",
@@ -7494,7 +7494,7 @@
             "https://iws.danawa.com/prod_img/500000/571/577/desc/prod_10577571/add_1/20250703083940300_L1BJK0Y6.jpg",
             "https://iws.danawa.com/prod_img/500000/571/577/desc/prod_10577571/add_1/20250703083941876_2HU1BF5W.jpg"
         ],
-        "Spec_Detail": {
+        "Spec": {
             "크기(가로x세로x높이)(mm)": "435.30 x 127.26 x 36.99",
             "무게(g)": "875",
             "폴링레이트(Hz)": "1000",
@@ -7535,7 +7535,7 @@
             "https://iws.danawa.com/prod_img/500000/483/336/desc/prod_74336483/add_1/20250120083251978_R8L1OXP0.gif",
             "https://iws.danawa.com/prod_img/500000/483/336/desc/prod_74336483/add_1/20250120083255216_BWV5VF5M.jpg"
         ],
-        "Spec_Detail": {
+        "Spec": {
             "보증기간(년)": 1,
             "크기(가로x세로x높이)(mm)": "393.6 x 144 x 38.5",
             "무게(g)": "852",
@@ -7594,7 +7594,7 @@
             "https://iws.danawa.com/prod_img/500000/457/671/desc/prod_2671457/add_1/0.111234001403666013.jpg",
             "https://iws.danawa.com/images/banner/dnwCopyrightBanner.jpg"
         ],
-        "Spec_Detail": {
+        "Spec": {
             "보증기간(년)": 2,
             "크기(가로x세로x높이)(mm)": "359 x 138 x 39",
             "무게(g)": "932",
@@ -7628,7 +7628,7 @@
         "DetailImages": [
             "https://iws.danawa.com/prod_img/500000/936/138/desc/prod_4138936/add_1/20221111095442496_OCLJKJP7.jpg"
         ],
-        "Spec_Detail": {
+        "Spec": {
             "보증기간(년)": 2,
             "크기(가로x세로x높이)(mm)": "436 x 165 x 38",
             "무게(g)": "1200",
@@ -7670,7 +7670,7 @@
             "https://iws.danawa.com/prod_img/500000/551/505/desc/prod_71505551/add_1/20241119163620967_KGFS2LO8.gif",
             "https://iws.danawa.com/prod_img/500000/551/505/desc/prod_71505551/add_1/20241119163624132_4260B5FM.jpg"
         ],
-        "Spec_Detail": {
+        "Spec": {
             "보증기간(년)": 1,
             "크기(가로x세로x높이)(mm)": "359.2 x 131.3 x 47",
             "무게(g)": "935",
@@ -7713,7 +7713,7 @@
         "DetailImages": [
             "https://iws.danawa.com/prod_img/500000/379/706/desc/prod_12706379/add_1/20201117165015698_UIJBAJ4P.jpg"
         ],
-        "Spec_Detail": {
+        "Spec": {
             "제조회사": "COX",
             "등록년월": "2020년 11월 재질 나무 KC인증 적합성평가인증 상세설명 / 판매 사이트 문의 인증번호 확인 안전확인인증 상세설명 / 판매 사이트 문의 인증번호 확인"
         }
@@ -7725,7 +7725,7 @@
         "Price": "115,430",
         "Purchase_Link": "https://prod.danawa.com/bridge/loadingBridge.html?cate1=861&cate2=881&cate3=1005&cate4=0&pcode=90501722&cmpnyc=TP40F&safe_trade=4&fee_type=T&link_pcode=I27182961023&package=0&setpc=0&r=17659044017015",
         "DetailImages": [],
-        "Spec_Detail": {
+        "Spec": {
             "크기(가로x세로x높이)(mm)": "325.5 x 146 x 79.6",
             "무게(g)": "2000",
             "배터리 용량(mAh)": "6000",
@@ -7767,7 +7767,7 @@
         "Price": "113,050",
         "Purchase_Link": "https://prod.danawa.com/bridge/loadingBridge.html?cate1=861&cate2=881&cate3=1005&cate4=0&pcode=77015201&cmpnyc=EE715&safe_trade=4&fee_type=T&link_pcode=F260069399&package=0&setpc=0&r=17659044137685",
         "DetailImages": [],
-        "Spec_Detail": {
+        "Spec": {
             "크기(가로x세로x높이)(mm)": "325.5 x 146 x 79.6",
             "무게(g)": "2000",
             "배터리 용량(mAh)": "6000",
@@ -7811,7 +7811,7 @@
         "DetailImages": [
             "https://iws.danawa.com/prod_img/500000/364/466/desc/prod_63466364/add_1/20240820112149395_O1BX7TOY.jpg"
         ],
-        "Spec_Detail": {
+        "Spec": {
             "보증기간(년)": 1,
             "크기(가로x세로x높이)(mm)": "390.63 x 146.78 x 42.57",
             "무게(g)": "1183",
@@ -7855,7 +7855,7 @@
         "DetailImages": [
             "https://iws.danawa.com/prod_img/500000/878/708/desc/prod_36708878/add_1/20241114083307731_BT5SX5O8.jpg"
         ],
-        "Spec_Detail": {
+        "Spec": {
             "보증기간(년)": 1,
             "크기(가로x세로x높이)(mm)": "439.4 x 134.1 x 38",
             "무게(g)": "867",
@@ -7900,7 +7900,7 @@
             "https://iws.danawa.com/prod_img/500000/203/717/desc/prod_18717203/add_1/20240328161155683_QT3ANIHD.jpg",
             "https://iws.danawa.com/prod_img/500000/203/717/desc/prod_18717203/add_1/2024032816115660_8T8CBJE1.jpg"
         ],
-        "Spec_Detail": {
+        "Spec": {
             "보증기간(년)": 1,
             "크기(가로x세로x높이)(mm)": "330 x 142 x 41",
             "무게(g)": "1020",
@@ -7945,7 +7945,7 @@
         "DetailImages": [
             "https://iws.danawa.com/prod_img/500000/164/206/desc/prod_88206164/add_1/20250424153113355_ZTYJR663.jpg"
         ],
-        "Spec_Detail": {
+        "Spec": {
             "보증기간(년)": 1,
             "크기(가로x세로x높이)(mm)": "448 x 139 x 39",
             "무게(g)": "780",
@@ -7976,7 +7976,7 @@
         "Price": "105,730",
         "Purchase_Link": "https://prod.danawa.com/bridge/loadingBridge.html?cate1=861&cate2=881&cate3=1005&cate4=0&pcode=90501644&cmpnyc=EE128&safe_trade=4&fee_type=T&link_pcode=4518506676&package=0&setpc=0&r=17659044512697",
         "DetailImages": [],
-        "Spec_Detail": {
+        "Spec": {
             "크기(가로x세로x높이)(mm)": "325.5 x 121.7 x 46.6",
             "무게(g)": "1530",
             "배터리 용량(mAh)": "6000",
@@ -8019,7 +8019,7 @@
         "DetailImages": [
             "https://iws.danawa.com/prod_img/500000/181/245/desc/prod_98245181/add_1/20251001131053193_C951QJHF.jpg"
         ],
-        "Spec_Detail": {
+        "Spec": {
             "보증기간(년)": 2,
             "크기(가로x세로x높이)(mm)": "388 x 141 x 43",
             "무게(g)": "994",
@@ -8059,7 +8059,7 @@
         "DetailImages": [
             "https://iws.danawa.com/prod_img/500000/857/669/desc/prod_12669857/add_1/20221111094753353_Y7NGNS8B.jpg"
         ],
-        "Spec_Detail": {
+        "Spec": {
             "보증기간(년)": 2,
             "크기(가로x세로x높이)(mm)": "441 x 137 x 31",
             "무게(g)": "820",
@@ -8094,7 +8094,7 @@
         "DetailImages": [
             "https://iws.danawa.com/prod_img/500000/224/993/desc/prod_75993224/add_1/20250212165733806_APD9N72O.jpg"
         ],
-        "Spec_Detail": {
+        "Spec": {
             "보증기간(년)": 1,
             "크기(가로x세로x높이)(mm)": "132.5 x 87 x 43",
             "무게(g)": "255",
@@ -8127,7 +8127,7 @@
             "https://iws.danawa.com/prod_img/500000/738/062/desc/prod_81062738/add_1/20250626131800485_O8CDTUJA.jpg",
             "https://iws.danawa.com/prod_img/500000/738/062/desc/prod_81062738/add_1/20250626131803174_W2E4D9PG.jpg"
         ],
-        "Spec_Detail": {
+        "Spec": {
             "보증기간(년)": 1,
             "크기(가로x세로x높이)(mm)": "363.95 x 132.65 x 37",
             "무게(g)": "862",
@@ -8198,7 +8198,7 @@
             "https://iws.danawa.com/prod_img/500000/446/769/desc/prod_35769446/add_1/20240213155306687_ISLOIYS5.jpg",
             "https://iws.danawa.com/prod_img/500000/446/769/desc/prod_35769446/add_1/20240213155306871_6RSU8YMY.jpg"
         ],
-        "Spec_Detail": {
+        "Spec": {
             "보증기간(년)": 1,
             "크기(가로x세로x높이)(mm)": "354 x 128 x 35",
             "무게(g)": "730",
@@ -8244,7 +8244,7 @@
             "https://iws.danawa.com/prod_img/500000/443/964/desc/prod_92964443/add_1/20250827105535855_KWZPX94A.jpg",
             "https://iws.danawa.com/prod_img/500000/443/964/desc/prod_92964443/add_1/20250827105537876_8OYXNVPP.jpg"
         ],
-        "Spec_Detail": {
+        "Spec": {
             "보증기간(년)": 1,
             "크기(가로x세로x높이)(mm)": "450 x 144 x 35",
             "무게(g)": "810",
@@ -8274,7 +8274,7 @@
             "https://iws.danawa.com/prod_img/500000/614/282/desc/prod_15282614/add_1/20210923104250787_4GT52HRP.jpg",
             "https://iws.danawa.com/prod_img/500000/614/282/desc/prod_15282614/add_1/20210923104251494_GWJLE0WJ.jpg"
         ],
-        "Spec_Detail": {
+        "Spec": {
             "보증기간(년)": 1,
             "크기(가로x세로x높이)(mm)": "353 x 123 x 22",
             "무게(g)": "572",
@@ -8316,7 +8316,7 @@
             "https://iws.danawa.com/prod_img/500000/090/556/desc/prod_79556090/add_1/20250626131624841_97AF0NK8.jpg",
             "https://iws.danawa.com/prod_img/500000/090/556/desc/prod_79556090/add_1/20250626131626981_T7W9K779.jpg"
         ],
-        "Spec_Detail": {
+        "Spec": {
             "보증기간(년)": 1,
             "크기(가로x세로x높이)(mm)": "443.8 x 132.65 x 37",
             "무게(g)": "945",
@@ -8356,7 +8356,7 @@
         "DetailImages": [
             "https://iws.danawa.com/prod_img/500000/494/802/desc/prod_14802494/add_1/20210721150244323_SAJP3U43.png"
         ],
-        "Spec_Detail": {
+        "Spec": {
             "보증기간(년)": 1,
             "제조회사": "COX",
             "등록년월": "2021년 07월"
@@ -8372,7 +8372,7 @@
             "https://iws.danawa.com/prod_img/500000/451/888/desc/prod_94888451/add_1/20250915152021461_KIXFFB92.jpg",
             "https://iws.danawa.com/prod_img/500000/451/888/desc/prod_94888451/add_1/20250915152023526_E8IWBHPS.jpg"
         ],
-        "Spec_Detail": {
+        "Spec": {
             "보증기간(년)": 1,
             "크기(가로x세로x높이)(mm)": "358 x 132 x 25",
             "무게(g)": "817",
@@ -8418,7 +8418,7 @@
         "DetailImages": [
             "https://iws.danawa.com/prod_img/500000/725/721/desc/prod_101721725/add_1/20251204162522533_H5QA72X3.jpg"
         ],
-        "Spec_Detail": {
+        "Spec": {
             "보증기간(년)": 1,
             "크기(가로x세로x높이)(mm)": "365.34 x 143.5 x 35.31",
             "무게(g)": "640",
@@ -8449,7 +8449,7 @@
         "Price": "249,920",
         "Purchase_Link": "https://prod.danawa.com/bridge/loadingBridge.html?cate1=861&cate2=881&cate3=1005&cate4=0&pcode=31643681&cmpnyc=TP40F&safe_trade=4&fee_type=T&link_pcode=I21494962937&package=0&setpc=0&r=17659045404128",
         "DetailImages": [],
-        "Spec_Detail": {
+        "Spec": {
             "보증기간(년)": 2,
             "크기(가로x세로x높이)(mm)": "352 x 150 x 34",
             "제조회사": "로지텍",
@@ -8481,7 +8481,7 @@
             "https://iws.danawa.com/prod_img/500000/550/547/desc/prod_87547550/add_1/20250626131642672_M3L98JPL.jpg",
             "https://iws.danawa.com/prod_img/500000/550/547/desc/prod_87547550/add_1/20250626131645545_YJM9RPXS.jpg"
         ],
-        "Spec_Detail": {
+        "Spec": {
             "보증기간(년)": 1,
             "크기(가로x세로x높이)(mm)": "443.8 x 132.65 x 37",
             "무게(g)": "945",
@@ -8519,7 +8519,7 @@
         "Price": "292,980",
         "Purchase_Link": "https://prod.danawa.com/bridge/loadingBridge.html?cate1=861&cate2=881&cate3=1006&cate4=0&pcode=20437769&cmpnyc=EE715&safe_trade=4&fee_type=T&link_pcode=F354730563&package=0&setpc=0&r=17659045597688",
         "DetailImages": [],
-        "Spec_Detail": {
+        "Spec": {
             "보증기간(년)": 1,
             "크기(가로x세로x높이)(mm)": "430 x 132 x 21",
             "무게(g)": "810",
@@ -8545,7 +8545,7 @@
         "DetailImages": [
             "https://iws.danawa.com/prod_img/500000/124/091/desc/prod_18091124/add_1/20221026110118227_7LIAREZE.jpg"
         ],
-        "Spec_Detail": {
+        "Spec": {
             "보증기간(년)": 1,
             "크기(가로x세로x높이)(mm)": "445 x 134 x 34",
             "무게(g)": "812",
@@ -8585,7 +8585,7 @@
             "https://iws.danawa.com/prod_img/500000/777/312/desc/prod_29312777/add_1/20240612170617249_NT6UF939.jpg",
             "https://iws.danawa.com/prod_img/500000/777/312/desc/prod_29312777/add_1/20240612170621225_Z6H0XNXM.jpg"
         ],
-        "Spec_Detail": {
+        "Spec": {
             "보증기간(년)": 1,
             "크기(가로x세로x높이)(mm)": "443.4 x 138.5 x 35",
             "무게(g)": "1260",
@@ -8628,7 +8628,7 @@
             "https://iws.danawa.com/prod_img/500000/845/642/desc/prod_90642845/add_1/20250515092657513_B5OFG2JS.jpg",
             "https://iws.danawa.com/prod_img/500000/845/642/desc/prod_90642845/add_1/20250515092704332_Q70IZCES.jpg"
         ],
-        "Spec_Detail": {
+        "Spec": {
             "보증기간(년)": 1,
             "크기(가로x세로x높이)(mm)": "393.7 x 144.6 x 42.8",
             "무게(g)": "862",
@@ -8672,7 +8672,7 @@
         "DetailImages": [
             "https://iws.danawa.com/prod_img/500000/260/635/desc/prod_94635260/add_1/20250811084304725_RRO8UPAG.jpg"
         ],
-        "Spec_Detail": {
+        "Spec": {
             "크기(가로x세로x높이)(mm)": "350 x 140 x 42",
             "배터리 용량(mAh)": "4000",
             "폴링레이트(Hz)": "1000",
@@ -8713,7 +8713,7 @@
             "https://iws.danawa.com/prod_img/500000/633/208/desc/prod_13208633/add_1/20210122141816250_9B5FOUB0.jpg",
             "https://iws.danawa.com/prod_img/500000/633/208/desc/prod_13208633/add_1/20210122141816655_CCBWO3HG.jpg"
         ],
-        "Spec_Detail": {
+        "Spec": {
             "보증기간(년)": 1,
             "크기(가로x세로x높이)(mm)": "449 x 144 x 35",
             "무게(g)": "1267",
@@ -8752,7 +8752,7 @@
         "DetailImages": [
             "https://iws.danawa.com/prod_img/500000/567/755/desc/prod_27755567/add_1/20230824102601667_Y5D5PR8Z.jpg"
         ],
-        "Spec_Detail": {
+        "Spec": {
             "보증기간(년)": 1,
             "크기(가로x세로x높이)(mm)": "440 x 138 x 38",
             "무게(g)": "1240",
@@ -8790,7 +8790,7 @@
         "DetailImages": [
             "https://iws.danawa.com/prod_img/500000/001/123/desc/prod_11123001/add_1/20210128144352922_Z0OVPTWN.jpg"
         ],
-        "Spec_Detail": {
+        "Spec": {
             "보증기간(년)": 1,
             "크기(가로x세로x높이)(mm)": "441 x 141 x 33",
             "무게(g)": "492",
@@ -8816,7 +8816,7 @@
         "DetailImages": [
             "https://iws.danawa.com/prod_img/500000/884/270/desc/prod_30270884/add_1/20231207105431947_N57LE79U.jpg"
         ],
-        "Spec_Detail": {
+        "Spec": {
             "보증기간(년)": 1,
             "크기(가로x세로x높이)(mm)": "355 x 130 x 40",
             "무게(g)": "1300",
@@ -8867,7 +8867,7 @@
             "https://iws.danawa.com/prod_img/500000/238/235/desc/prod_60235238/add_1/20240717110004641_BIMV6KYT.gif",
             "https://iws.danawa.com/prod_img/500000/238/235/desc/prod_60235238/add_1/20240718103720389_WYQ3JY1A.jpg"
         ],
-        "Spec_Detail": {
+        "Spec": {
             "보증기간(년)": 1,
             "크기(가로x세로x높이)(mm)": "291.3 x 104.4 x 33.5",
             "무게(g)": "550",
@@ -8915,7 +8915,7 @@
             "https://iws.danawa.com/prod_img/500000/026/096/desc/prod_78096026/add_1/20250317123704991_O411HTX3.gif",
             "https://iws.danawa.com/prod_img/500000/026/096/desc/prod_78096026/add_1/20250317123709716_TKA1DNZO.jpg"
         ],
-        "Spec_Detail": {
+        "Spec": {
             "보증기간(년)": 1,
             "크기(가로x세로x높이)(mm)": "392.7 x 169.5 x 35.3",
             "무게(g)": "825",
@@ -8954,7 +8954,7 @@
             "https://iws.danawa.com/prod_img/500000/029/708/desc/prod_36708029/add_1/20240219152540835_UIQ0YNT8.jpg",
             "https://iws.danawa.com/prod_img/500000/029/708/desc/prod_36708029/add_1/20240219152547723_P1P7UADD.jpg"
         ],
-        "Spec_Detail": {
+        "Spec": {
             "보증기간(년)": 1,
             "크기(가로x세로x높이)(mm)": "467.5 x 169 x 40",
             "무게(g)": "1370",
@@ -8998,7 +8998,7 @@
         "DetailImages": [
             "https://iws.danawa.com/prod_img/500000/133/075/desc/prod_73075133/add_1/20241219175642682_FMXBOS8F.jpg"
         ],
-        "Spec_Detail": {
+        "Spec": {
             "보증기간(년)": 1,
             "크기(가로x세로x높이)(mm)": "322 x 127 x 23",
             "무게(g)": "485",
@@ -9046,7 +9046,7 @@
             "https://iws.danawa.com/prod_img/500000/670/223/desc/prod_72223670/add_1/20250905180142968_BUWEO4C8.jpg",
             "https://iws.danawa.com/prod_img/500000/670/223/desc/prod_72223670/add_1/20250710124344852_MRE4YF3K.jpg"
         ],
-        "Spec_Detail": {
+        "Spec": {
             "보증기간(년)": 1,
             "크기(가로x세로x높이)(mm)": "441 x 144 x 40",
             "무게(g)": "715",
@@ -9080,7 +9080,7 @@
         "DetailImages": [
             "https://iws.danawa.com/prod_img/500000/933/519/desc/prod_14519933/add_1/20210618140624706_6JY7O52C.jpg"
         ],
-        "Spec_Detail": {
+        "Spec": {
             "보증기간(년)": 2,
             "크기(가로x세로x높이)(mm)": "450.7 x 245.1 x 42.1",
             "무게(g)": "1282",
@@ -9115,7 +9115,7 @@
         "DetailImages": [
             "https://iws.danawa.com/prod_img/500000/168/180/desc/prod_17180168/add_1/20220908083657696_4RSPS1XK.jpg"
         ],
-        "Spec_Detail": {
+        "Spec": {
             "보증기간(년)": 2,
             "크기(가로x세로x높이)(mm)": "313 x 105 x 37.5",
             "무게(g)": "880",
@@ -9145,7 +9145,7 @@
         "DetailImages": [
             "https://iws.danawa.com/prod_img/500000/367/064/desc/prod_60064367/add_1/20240626083503904_P4CWM46M.jpg"
         ],
-        "Spec_Detail": {
+        "Spec": {
             "크기(가로x세로x높이)(mm)": "377 x 131 x 40",
             "무게(g)": "1012",
             "키압(g)": "65",
@@ -9202,7 +9202,7 @@
             "https://iws.danawa.com/prod_img/500000/845/449/desc/prod_28449845/add_1/20230922162523205_CX7GWLWU.jpg",
             "https://iws.danawa.com/prod_img/500000/845/449/desc/prod_28449845/add_1/20230922162528301_6DM05CVG.jpg"
         ],
-        "Spec_Detail": {
+        "Spec": {
             "보증기간(년)": 1,
             "크기(가로x세로x높이)(mm)": "370 x 120 x 44",
             "무게(g)": "920",
@@ -9244,7 +9244,7 @@
             "https://iws.danawa.com/prod_img/500000/130/103/desc/prod_39103130/add_1/20240307135435384_QB3KTWIA.jpg",
             "https://iws.danawa.com/prod_img/500000/130/103/desc/prod_39103130/add_1/20240307135446792_DA4LE6RS.jpg"
         ],
-        "Spec_Detail": {
+        "Spec": {
             "보증기간(년)": 1,
             "크기(가로x세로x높이)(mm)": "330 x 142 x 41",
             "무게(g)": "1020",
@@ -9292,7 +9292,7 @@
         "DetailImages": [
             "https://iws.danawa.com/prod_img/500000/602/692/desc/prod_67692602/add_1/20240927142824359_SHG14LVK.jpg"
         ],
-        "Spec_Detail": {
+        "Spec": {
             "보증기간(년)": 2,
             "크기(가로x세로x높이)(mm)": "365.6 x 134.8 x 39.4",
             "무게(g)": "803.5",
@@ -9335,7 +9335,7 @@
             "https://iws.danawa.com/prod_img/500000/130/103/desc/prod_39103130/add_1/20240307135435384_QB3KTWIA.jpg",
             "https://iws.danawa.com/prod_img/500000/130/103/desc/prod_39103130/add_1/20240307135446792_DA4LE6RS.jpg"
         ],
-        "Spec_Detail": {
+        "Spec": {
             "보증기간(년)": 1,
             "크기(가로x세로x높이)(mm)": "330 x 142 x 41",
             "무게(g)": "1020",
@@ -9383,7 +9383,7 @@
         "DetailImages": [
             "https://iws.danawa.com/prod_img/500000/697/463/desc/prod_75463697/add_1/20250416111243500_L27TS85J.jpg"
         ],
-        "Spec_Detail": {
+        "Spec": {
             "보증기간(년)": 1,
             "크기(가로x세로x높이)(mm)": "445 x 140 x 41",
             "무게(g)": "774",
@@ -9413,7 +9413,7 @@
         "DetailImages": [
             "https://iws.danawa.com/prod_img/500000/554/706/desc/prod_77706554/add_1/20250311125716897_PUJ01E71.jpg"
         ],
-        "Spec_Detail": {
+        "Spec": {
             "보증기간(년)": 1,
             "크기(가로x세로x높이)(mm)": "360 x 135 x 40",
             "무게(g)": "604",
@@ -9450,7 +9450,7 @@
         "Price": "74,950",
         "Purchase_Link": "https://prod.danawa.com/bridge/loadingBridge.html?cate1=861&cate2=881&cate3=1005&cate4=0&pcode=91038722&cmpnyc=EE715&safe_trade=4&fee_type=T&link_pcode=F362723607&package=0&setpc=0&r=17659047184879",
         "DetailImages": [],
-        "Spec_Detail": {
+        "Spec": {
             "크기(가로x세로x높이)(mm)": "344 x 147 x 39.6",
             "무게(g)": "950",
             "키압(g)": "40",
@@ -9487,7 +9487,7 @@
         "DetailImages": [
             "https://iws.danawa.com/prod_img/500000/888/562/desc/prod_73562888/add_1/20241230152641648_AQXJOVHN.jpg"
         ],
-        "Spec_Detail": {
+        "Spec": {
             "보증기간(년)": 1,
             "크기(가로x세로x높이)(mm)": "412.3 x 158 x 51.6",
             "무게(g)": "630",
@@ -9522,7 +9522,7 @@
         "DetailImages": [
             "https://iws.danawa.com/prod_img/500000/448/770/desc/prod_35770448/add_1/20250813131209774_OCLKDEZC.jpg"
         ],
-        "Spec_Detail": {
+        "Spec": {
             "보증기간(년)": 2,
             "크기(가로x세로x높이)(mm)": "451.35 x 141.15 x 35",
             "무게(g)": "752",
@@ -9554,7 +9554,7 @@
         "DetailImages": [
             "https://iws.danawa.com/prod_img/500000/524/367/desc/prod_29367524/add_1/20231026154747695_XP7H6R1V.jpg"
         ],
-        "Spec_Detail": {
+        "Spec": {
             "보증기간(년)": 2,
             "크기(가로x세로x높이)(mm)": "363 x 139 x 38",
             "무게(g)": "719",
@@ -9601,7 +9601,7 @@
             "https://iws.danawa.com/prod_img/500000/058/252/desc/prod_79252058/add_1/20251105100128987_BEPG5C79.gif",
             "https://iws.danawa.com/prod_img/500000/058/252/desc/prod_79252058/add_1/20251105100129230_6K11CBQJ.jpg"
         ],
-        "Spec_Detail": {
+        "Spec": {
             "보증기간(년)": 1,
             "크기(가로x세로x높이)(mm)": "360 x 145 x 40",
             "무게(g)": "1100",
@@ -9645,7 +9645,7 @@
         "DetailImages": [
             "https://iws.danawa.com/prod_img/500000/033/886/desc/prod_73886033/add_1/20250106133108717_8OK0RG1W.jpg"
         ],
-        "Spec_Detail": {
+        "Spec": {
             "보증기간(년)": 1,
             "크기(가로x세로x높이)(mm)": "434.2 x 126.05 x 19.4",
             "무게(g)": "615",
@@ -9693,7 +9693,7 @@
             "https://iws.danawa.com/prod_img/500000/327/888/desc/prod_32888327/add_1/20250714123508479_OMD4XIQD.jpg",
             "https://iws.danawa.com/prod_img/500000/327/888/desc/prod_32888327/add_1/20250714123508652_RZPKR4EV.jpg"
         ],
-        "Spec_Detail": {
+        "Spec": {
             "보증기간(년)": 1,
             "크기(가로x세로x높이)(mm)": "361 x 133 x 38",
             "무게(g)": "897",
@@ -9741,7 +9741,7 @@
             "https://iws.danawa.com/prod_img/500000/553/410/desc/prod_98410553/add_1/20250929095443218_83INP7B3.jpg",
             "https://iws.danawa.com/prod_img/500000/553/410/desc/prod_98410553/add_1/20250929095443551_XZDYLOJY.jpg"
         ],
-        "Spec_Detail": {
+        "Spec": {
             "보증기간(년)": 1,
             "크기(가로x세로x높이)(mm)": "438.47 x 138.46 x 43.09",
             "무게(g)": "1140",
@@ -9783,7 +9783,7 @@
         "DetailImages": [
             "https://iws.danawa.com/prod_img/500000/849/112/desc/prod_97112849/add_1/20250903161409485_PHXCGB14.jpg"
         ],
-        "Spec_Detail": {
+        "Spec": {
             "보증기간(년)": 2,
             "크기(가로x세로x높이)(mm)": "321 x 137 x 41",
             "무게(g)": "540",
@@ -9842,7 +9842,7 @@
             "https://iws.danawa.com/prod_img/500000/838/810/desc/prod_34810838/add_1/20250702155817822_ZNGXEH3S.jpg",
             "https://iws.danawa.com/prod_img/500000/838/810/desc/prod_34810838/add_1/20250702155819522_PURN6NN9.jpg"
         ],
-        "Spec_Detail": {
+        "Spec": {
             "보증기간(년)": 1,
             "크기(가로x세로x높이)(mm)": "390 x 159 x 39",
             "무게(g)": "1052",
@@ -9884,7 +9884,7 @@
         "DetailImages": [
             "https://iws.danawa.com/prod_img/500000/613/133/desc/prod_24133613/add_1/20231123173238430_DJWFCOE3.jpg"
         ],
-        "Spec_Detail": {
+        "Spec": {
             "보증기간(년)": 1,
             "크기(가로x세로x높이)(mm)": "442 x 133 x 38",
             "무게(g)": "1035",
@@ -9927,7 +9927,7 @@
             "https://iws.danawa.com/prod_img/500000/419/620/desc/prod_100620419/add_1/20251121173110401_XQ0JV2R3.jpg",
             "https://iws.danawa.com/prod_img/500000/419/620/desc/prod_100620419/add_1/20251121173114256_OM4LR8XL.jpg"
         ],
-        "Spec_Detail": {
+        "Spec": {
             "보증기간(년)": 1,
             "크기(가로x세로x높이)(mm)": "447.78 x 138.51 x 39.1",
             "무게(g)": "2130",
@@ -9971,7 +9971,7 @@
             "https://iws.danawa.com/prod_img/500000/514/645/desc/prod_19645514/add_1/20230410090220347_R74O47HI.gif",
             "https://iws.danawa.com/prod_img/500000/514/645/desc/prod_19645514/add_1/20230410090221161_0LXIPNOW.jpg"
         ],
-        "Spec_Detail": {
+        "Spec": {
             "보증기간(년)": 1,
             "크기(가로x세로x높이)(mm)": "442 x 133 x 38",
             "무게(g)": "1060",
@@ -10007,7 +10007,7 @@
         "DetailImages": [
             "https://iws.danawa.com/prod_img/500000/253/715/desc/prod_78715253/add_1/20250326161300347_HWNCGI17.jpg"
         ],
-        "Spec_Detail": {
+        "Spec": {
             "보증기간(년)": 1,
             "크기(가로x세로x높이)(mm)": "454 x 186 x 40",
             "무게(g)": "756",
@@ -10037,7 +10037,7 @@
         "DetailImages": [
             "https://iws.danawa.com/prod_img/500000/893/825/desc/prod_15825893/add_1/20221125150858670_2E365YEC.jpg"
         ],
-        "Spec_Detail": {
+        "Spec": {
             "보증기간(년)": 1,
             "크기(가로x세로x높이)(mm)": "440 x 142 x 38",
             "무게(g)": "870",
@@ -10079,7 +10079,7 @@
             "https://iws.danawa.com/prod_img/500000/909/998/desc/prod_78998909/add_1/20250611124103777_6MBGYZMP.jpg",
             "https://iws.danawa.com/prod_img/500000/909/998/desc/prod_78998909/add_1/20250611124103999_C2SMUP6Z.jpg"
         ],
-        "Spec_Detail": {
+        "Spec": {
             "보증기간(년)": 1,
             "크기(가로x세로x높이)(mm)": "444 x 134 x 44",
             "무게(g)": "1100",
@@ -10123,7 +10123,7 @@
         "DetailImages": [
             "https://iws.danawa.com/prod_img/500000/877/342/desc/prod_8342877/add_1/20250526172415347_L7KVNKDF.jpg"
         ],
-        "Spec_Detail": {
+        "Spec": {
             "크기(가로x세로x높이)(mm)": "448 x 138 x 40.5",
             "무게(g)": "1300",
             "키압(g)": "35",
@@ -10163,7 +10163,7 @@
             "https://iws.danawa.com/prod_img/500000/074/319/desc/prod_62319074/add_1/20240821160059380_VFOAZ4B4.gif",
             "https://iws.danawa.com/prod_img/500000/074/319/desc/prod_62319074/add_1/20240821160102642_3ILYL71N.jpg"
         ],
-        "Spec_Detail": {
+        "Spec": {
             "보증기간(년)": 1,
             "크기(가로x세로x높이)(mm)": "362 x 138 x 36",
             "무게(g)": "1007",
@@ -10202,7 +10202,7 @@
         "DetailImages": [
             "https://iws.danawa.com/prod_img/500000/248/244/desc/prod_14244248/add_1/20210521130116606_B9HRE8T8.jpg"
         ],
-        "Spec_Detail": {
+        "Spec": {
             "보증기간(년)": 2,
             "크기(가로x세로x높이)(mm)": "362 x 154 x 41",
             "무게(g)": "837",
@@ -10247,7 +10247,7 @@
             "https://iws.danawa.com/prod_img/500000/110/967/desc/prod_17967110/add_1/20230522123554423_7ETIGNJ3.jpg",
             "https://iws.danawa.com/prod_img/500000/110/967/desc/prod_17967110/add_1/20230522123556987_BXMVO9K8.jpg"
         ],
-        "Spec_Detail": {
+        "Spec": {
             "크기(가로x세로x높이)(mm)": "311 x 121 x 25.1",
             "무게(g)": "369",
             "제조회사": "주연테크",
@@ -10277,7 +10277,7 @@
         "DetailImages": [
             "https://iws.danawa.com/prod_img/500000/228/804/desc/prod_14804228/add_1/20210721160245918_TCYPY8CL.png"
         ],
-        "Spec_Detail": {
+        "Spec": {
             "보증기간(년)": 1,
             "제조회사": "COX",
             "등록년월": "2021년 07월"
@@ -10292,7 +10292,7 @@
         "DetailImages": [
             "https://iws.danawa.com/prod_img/500000/573/109/desc/prod_19109573/add_1/20230227142406989_F75S71LI.jpg"
         ],
-        "Spec_Detail": {
+        "Spec": {
             "보증기간(년)": 2,
             "크기(가로x세로x높이)(mm)": "466 x 152.5 x 43.9",
             "무게(g)": "1639",
@@ -10331,7 +10331,7 @@
             "https://iws.danawa.com/prod_img/500000/843/204/desc/prod_77204843/add_1/20250304082156121_IPTUPR01.jpg",
             "https://iws.danawa.com/prod_img/500000/843/204/desc/prod_77204843/add_1/20250304082159881_TP1K47BR.jpg"
         ],
-        "Spec_Detail": {
+        "Spec": {
             "보증기간(년)": 1,
             "크기(가로x세로x높이)(mm)": "442 x 133 x 38",
             "무게(g)": "1200",
@@ -10368,7 +10368,7 @@
         "DetailImages": [
             "https://iws.danawa.com/prod_img/500000/291/297/desc/prod_68297291/add_1/20250311123714593_VYER8PRM.jpg"
         ],
-        "Spec_Detail": {
+        "Spec": {
             "보증기간(년)": 2,
             "크기(가로x세로x높이)(mm)": "368 x 150 x 22.6",
             "무게(g)": "860",
@@ -10408,7 +10408,7 @@
             "https://iws.danawa.com/prod_img/500000/290/070/desc/prod_62070290/add_1/20240729104338623_ELJQLFQS.jpg",
             "https://iws.danawa.com/prod_img/500000/290/070/desc/prod_62070290/add_1/20240729104355598_YS9GZ2OT.jpg"
         ],
-        "Spec_Detail": {
+        "Spec": {
             "보증기간(년)": 1,
             "크기(가로x세로x높이)(mm)": "355 x 130 x 40",
             "무게(g)": "1300",
@@ -10449,7 +10449,7 @@
         "DetailImages": [
             "https://iws.danawa.com/prod_img/500000/683/979/desc/prod_11979683/add_1/20240311134459960_P4JDCUKO.jpg"
         ],
-        "Spec_Detail": {
+        "Spec": {
             "보증기간(년)": 1,
             "크기(가로x세로x높이)(mm)": "435 x 129 x 23",
             "무게(g)": "345",
@@ -10477,7 +10477,7 @@
             "https://iws.danawa.com/prod_img/500000/566/423/desc/prod_12423566/add_1/20201008170830423_857U0A78.jpg",
             "https://iws.danawa.com/prod_img/500000/566/423/desc/prod_12423566/add_1/20201008170832177_BEWTT5HP.jpg"
         ],
-        "Spec_Detail": {
+        "Spec": {
             "보증기간(년)": 1,
             "크기(가로x세로x높이)(mm)": "326 x 169 x 43",
             "무게(g)": "730",
@@ -10511,7 +10511,7 @@
         "Price": "109,000",
         "Purchase_Link": "https://prod.danawa.com/bridge/loadingBridge.html?cate1=861&cate2=881&cate3=1005&cate4=0&pcode=77312540&cmpnyc=TH201&safe_trade=4&fee_type=T&link_pcode=8012303736&package=0&setpc=0&r=17659049059479",
         "DetailImages": [],
-        "Spec_Detail": {
+        "Spec": {
             "보증기간(년)": 1,
             "크기(가로x세로x높이)(mm)": "323 x 138 x 44.4",
             "무게(g)": "1600",
@@ -10558,7 +10558,7 @@
         "DetailImages": [
             "https://iws.danawa.com/prod_img/500000/723/696/desc/prod_11696723/add_1/20210618175153636_UOXJRIZE.png"
         ],
-        "Spec_Detail": {
+        "Spec": {
             "보증기간(년)": 1,
             "크기(가로x세로x높이)(mm)": "450 x 134 x 34",
             "무게(g)": "784",
@@ -10597,7 +10597,7 @@
         "DetailImages": [
             "https://iws.danawa.com/prod_img/500000/663/969/desc/prod_92969663/add_1/20250624153227761_0N9KXT8Q.png"
         ],
-        "Spec_Detail": {
+        "Spec": {
             "보증기간(년)": 1,
             "크기(가로x세로x높이)(mm)": "362 x 134 x 41",
             "무게(g)": "839",
@@ -10640,7 +10640,7 @@
         "DetailImages": [
             "https://iws.danawa.com/prod_img/500000/087/970/desc/prod_19970087/add_1/20230428092001693_UNWMVKW2.jpg"
         ],
-        "Spec_Detail": {
+        "Spec": {
             "보증기간(년)": 2,
             "크기(가로x세로x높이)(mm)": "363 x 144 x 31",
             "무게(g)": "644",
@@ -10670,7 +10670,7 @@
         "Price": "78,900",
         "Purchase_Link": "https://prod.danawa.com/bridge/loadingBridge.html?cate1=861&cate2=881&cate3=1005&cate4=0&pcode=74006246&cmpnyc=TP40F&safe_trade=4&fee_type=T&link_pcode=I24680962917&package=0&setpc=0&r=17659049408202",
         "DetailImages": [],
-        "Spec_Detail": {
+        "Spec": {
             "크기(가로x세로x높이)(mm)": "316.8 x 138 x 23.5",
             "무게(g)": "550",
             "배터리 용량(mAh)": "2000",
@@ -10706,7 +10706,7 @@
         "DetailImages": [
             "https://iws.danawa.com/prod_img/500000/662/787/desc/prod_68787662/add_1/20241025105436286_LGMV7H5C.jpg"
         ],
-        "Spec_Detail": {
+        "Spec": {
             "보증기간(년)": 1,
             "크기(가로x세로x높이)(mm)": "393.6 x 144 x 38.5",
             "무게(g)": "989",
@@ -10765,7 +10765,7 @@
             "https://iws.danawa.com/prod_img/500000/946/599/desc/prod_47599946/add_1/20250728133918749_8RINMGLF.jpg",
             "https://iws.danawa.com/prod_img/500000/946/599/desc/prod_47599946/add_1/20250728133918908_99AYDDUQ.jpg"
         ],
-        "Spec_Detail": {
+        "Spec": {
             "보증기간(년)": 1,
             "크기(가로x세로x높이)(mm)": "361 x 133 x 38",
             "무게(g)": "897",
@@ -10808,7 +10808,7 @@
         "DetailImages": [
             "https://iws.danawa.com/prod_img/500000/165/305/desc/prod_57305165/add_1/20240619140828451_3ZIWUZK2.jpg"
         ],
-        "Spec_Detail": {
+        "Spec": {
             "보증기간(년)": 2,
             "크기(가로x세로x높이)(mm)": "363 x 139 x 38",
             "무게(g)": "719",
@@ -10857,7 +10857,7 @@
             "https://iws.danawa.com/prod_img/500000/806/850/desc/prod_95850806/add_1/20250814100135509_Q8HSI4L1.gif",
             "https://iws.danawa.com/prod_img/500000/806/850/desc/prod_95850806/add_1/20250814100135581_QAEPNPCO.jpg"
         ],
-        "Spec_Detail": {
+        "Spec": {
             "보증기간(년)": 1,
             "크기(가로x세로x높이)(mm)": "366.5 x 142.44 x 42.05",
             "무게(g)": "960",
@@ -10904,7 +10904,7 @@
         "Price": "215,200",
         "Purchase_Link": "https://prod.danawa.com/bridge/loadingBridge.html?cate1=861&cate2=881&cate3=1005&cate4=0&pcode=33387233&cmpnyc=TP40F&safe_trade=4&fee_type=T&link_pcode=I23611262774&package=0&setpc=0&r=17659049787251",
         "DetailImages": [],
-        "Spec_Detail": {
+        "Spec": {
             "보증기간(년)": 2,
             "크기(가로x세로x높이)(mm)": "298 x 144 x 38",
             "무게(g)": "492",
@@ -10938,7 +10938,7 @@
         "DetailImages": [
             "https://iws.danawa.com/prod_img/500000/607/855/desc/prod_13855607/add_1/20221111100440259_XEFS7WEN.jpg"
         ],
-        "Spec_Detail": {
+        "Spec": {
             "보증기간(년)": 2,
             "크기(가로x세로x높이)(mm)": "360 x 164 x 40",
             "무게(g)": "930",
@@ -10982,7 +10982,7 @@
         "DetailImages": [
             "https://iws.danawa.com/prod_img/500000/560/350/desc/prod_16350560/add_1/20220218132420812_K5FKRBG4.jpg"
         ],
-        "Spec_Detail": {
+        "Spec": {
             "보증기간(년)": 1,
             "제조회사": "앱코",
             "등록년월": "2022년 02월"
@@ -10998,7 +10998,7 @@
             "https://iws.danawa.com/prod_img/500000/773/721/desc/prod_101721773/add_1/20251204163513912_P17ALT43.jpg",
             "https://iws.danawa.com/prod_img/500000/773/721/desc/prod_101721773/add_1/20251204163517680_37145XJS.jpg"
         ],
-        "Spec_Detail": {
+        "Spec": {
             "보증기간(년)": 1,
             "크기(가로x세로x높이)(mm)": "365.34 x 143.5 x 35.31",
             "무게(g)": "640",
@@ -11034,7 +11034,7 @@
         "DetailImages": [
             "https://iws.danawa.com/prod_img/500000/578/811/desc/prod_14811578/add_3/20220325152341177_V6IJFC2Y.png"
         ],
-        "Spec_Detail": {
+        "Spec": {
             "보증기간(년)": 3,
             "크기(가로x세로x높이)(mm)": "472 x 151 x 38",
             "무게(g)": "1130",
@@ -11069,7 +11069,7 @@
         "DetailImages": [
             "https://iws.danawa.com/prod_img/500000/447/288/desc/prod_17288447/add_1/20230726124524800_DKWNZ3WN.jpg"
         ],
-        "Spec_Detail": {
+        "Spec": {
             "보증기간(년)": 1,
             "크기(가로x세로x높이)(mm)": "361 x 133 x 38",
             "무게(g)": "830",
@@ -11115,7 +11115,7 @@
             "https://iws.danawa.com/prod_img/500000/633/269/desc/prod_30269633/add_1/20240715082213710_4PGS8S2U.jpg",
             "https://iws.danawa.com/prod_img/500000/633/269/desc/prod_30269633/add_1/20240715082213841_1UKQCQ2Q.jpg"
         ],
-        "Spec_Detail": {
+        "Spec": {
             "보증기간(년)": 1,
             "크기(가로x세로x높이)(mm)": "440 x 135 x 35",
             "무게(g)": "1500",
@@ -11155,7 +11155,7 @@
         "DetailImages": [
             "https://iws.danawa.com/prod_img/500000/741/656/desc/prod_96656741/add_1/20250826174120528_FWU9TANM.jpg"
         ],
-        "Spec_Detail": {
+        "Spec": {
             "크기(가로x세로x높이)(mm)": "450.15 x 144.15 x 35.31",
             "무게(g)": "811",
             "폴링레이트(Hz)": "125",
@@ -11186,7 +11186,7 @@
         "DetailImages": [
             "https://iws.danawa.com/prod_img/500000/786/191/desc/prod_18191786/add_1/20221104170415387_CUWIW3KQ.jpg"
         ],
-        "Spec_Detail": {
+        "Spec": {
             "보증기간(년)": 1,
             "크기(가로x세로x높이)(mm)": "367 x 138 x 41",
             "무게(g)": "1100",
@@ -11227,7 +11227,7 @@
         "DetailImages": [
             "https://iws.danawa.com/prod_img/500000/159/065/desc/prod_5065159/add_1/20221111094854298_M97JF8J1.jpg"
         ],
-        "Spec_Detail": {
+        "Spec": {
             "보증기간(년)": 2,
             "크기(가로x세로x높이)(mm)": "365 x 171 x 41",
             "무게(g)": "1120",
@@ -11262,7 +11262,7 @@
         "DetailImages": [
             "https://iws.danawa.com/prod_img/500000/325/982/desc/prod_12982325/add_1/20201222161206411_D4XWHA8A.jpg"
         ],
-        "Spec_Detail": {
+        "Spec": {
             "제조회사": "앱코",
             "등록년월": "2020년 12월 재질 아크릴 KC인증 적합성평가인증 상세설명 / 판매 사이트 문의 인증번호 확인 안전확인인증 상세설명 / 판매 사이트 문의 인증번호 확인"
         }
@@ -11274,7 +11274,7 @@
         "Price": "113,050",
         "Purchase_Link": "https://prod.danawa.com/bridge/loadingBridge.html?cate1=861&cate2=881&cate3=1005&cate4=0&pcode=77015186&cmpnyc=EE128&safe_trade=4&fee_type=T&link_pcode=4458399229&package=0&setpc=0&r=17659050555920",
         "DetailImages": [],
-        "Spec_Detail": {
+        "Spec": {
             "크기(가로x세로x높이)(mm)": "325.5 x 146 x 79.6",
             "무게(g)": "2000",
             "배터리 용량(mAh)": "6000",
@@ -11318,7 +11318,7 @@
         "DetailImages": [
             "https://iws.danawa.com/prod_img/500000/573/903/desc/prod_71903573/add_1/20250320112746735_0O4WE5RJ.png"
         ],
-        "Spec_Detail": {
+        "Spec": {
             "보증기간(년)": 2,
             "크기(가로x세로x높이)(mm)": "430 x 123 x 25",
             "무게(g)": "1350",
@@ -11364,7 +11364,7 @@
             "https://iws.danawa.com/prod_img/500000/014/604/desc/prod_89604014/add_1/20250429110442866_QBU7IZD6.gif",
             "https://iws.danawa.com/prod_img/500000/014/604/desc/prod_89604014/add_1/20250429110443439_859XQ78S.jpg"
         ],
-        "Spec_Detail": {
+        "Spec": {
             "보증기간(년)": 1,
             "크기(가로x세로x높이)(mm)": "446 x 136 x 38",
             "무게(g)": "1200",
@@ -11408,7 +11408,7 @@
             "https://iws.danawa.com/prod_img/500000/833/566/desc/prod_94566833/add_1/20250723092726887_5ZJPEDKY.jpg",
             "https://iws.danawa.com/prod_img/500000/833/566/desc/prod_94566833/add_1/20250723092734153_6P71R62A.jpg"
         ],
-        "Spec_Detail": {
+        "Spec": {
             "보증기간(년)": 1,
             "크기(가로x세로x높이)(mm)": "365 x 140 x 35",
             "무게(g)": "952",
@@ -11455,7 +11455,7 @@
         "DetailImages": [
             "https://iws.danawa.com/prod_img/500000/558/154/desc/prod_70154558/add_1/20241030132505131_035HD73Q.png"
         ],
-        "Spec_Detail": {
+        "Spec": {
             "보증기간(년)": 1,
             "크기(가로x세로x높이)(mm)": "410 x 144 x 42",
             "무게(g)": "1060",
@@ -11497,7 +11497,7 @@
         "DetailImages": [
             "https://iws.danawa.com/prod_img/500000/553/292/desc/prod_57292553/add_1/20240625123245488_FCSV0LTR.jpg"
         ],
-        "Spec_Detail": {
+        "Spec": {
             "크기(가로x세로x높이)(mm)": "326 x 136 x 40",
             "무게(g)": "1186",
             "키압(g)": "65",
@@ -11542,7 +11542,7 @@
             "https://iws.danawa.com/prod_img/500000/059/224/desc/prod_13224059/add_1/20210125170034157_G6HJSYT2.jpg",
             "https://iws.danawa.com/prod_img/500000/059/224/desc/prod_13224059/add_1/20210125170034607_ADA866FV.jpg"
         ],
-        "Spec_Detail": {
+        "Spec": {
             "보증기간(년)": 1,
             "크기(가로x세로x높이)(mm)": "450 x 134 x 34",
             "무게(g)": "828",
@@ -11578,7 +11578,7 @@
         "DetailImages": [
             "https://iws.danawa.com/prod_img/500000/574/843/desc/prod_6843574/add_1/20211013085304744_VMX38UVZ.jpg"
         ],
-        "Spec_Detail": {
+        "Spec": {
             "크기(가로x세로x높이)(mm)": "434 x 125 x 39",
             "무게(g)": "730",
             "제조회사": "앱코",
@@ -11605,7 +11605,7 @@
         "DetailImages": [
             "https://iws.danawa.com/prod_img/500000/567/585/desc/prod_9585567/add_1/20221006130501771_QA4JYJOB.jpg"
         ],
-        "Spec_Detail": {
+        "Spec": {
             "보증기간(년)": 1,
             "크기(가로x세로x높이)(mm)": "450 x 154 x 22.3",
             "무게(g)": "494",
@@ -11631,7 +11631,7 @@
             "https://iws.danawa.com/prod_img/500000/979/976/desc/prod_96976979/add_1/20250901092949685_40C4P7WV.jpg",
             "https://iws.danawa.com/prod_img/500000/979/976/desc/prod_96976979/add_1/20250901093023882_WGQCIRCI.jpg"
         ],
-        "Spec_Detail": {
+        "Spec": {
             "보증기간(년)": 1,
             "크기(가로x세로x높이)(mm)": "356.61 x 140.01 x 34.75",
             "무게(g)": "1850",
@@ -11672,7 +11672,7 @@
         "DetailImages": [
             "https://iws.danawa.com/prod_img/500000/491/635/desc/prod_94635491/add_1/20250811084338374_YV24L7WT.jpg"
         ],
-        "Spec_Detail": {
+        "Spec": {
             "크기(가로x세로x높이)(mm)": "344 x 146 x 46",
             "배터리 용량(mAh)": "4000",
             "폴링레이트(Hz)": "1000",
@@ -11712,7 +11712,7 @@
         "DetailImages": [
             "https://iws.danawa.com/prod_img/500000/312/076/desc/prod_13076312/add_1/20230711081228669_M1NC8ADW.jpg"
         ],
-        "Spec_Detail": {
+        "Spec": {
             "보증기간(년)": 1,
             "크기(가로x세로x높이)(mm)": "441.5 x 129 x 24",
             "무게(g)": "372",

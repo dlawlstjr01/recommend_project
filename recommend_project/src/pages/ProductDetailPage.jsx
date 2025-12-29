@@ -74,8 +74,9 @@ export default function ProductDetailPage() {
 
   // 🔥 추천에서 넘겨준 데이터
   const initialProduct = location.state?.product || null;
+  const initialRaw = location.state?.raw || null;
   const [data, setData] = useState(initialProduct);
-  const [raw, setRaw] = useState(null);
+  const [raw, setRaw] = useState(initialRaw);
   const [loading, setLoading] = useState(!initialProduct);
   const [error, setError] = useState("");
 
@@ -93,12 +94,12 @@ useEffect(() => {
   let ignore = false;
 
   async function fetchDetailIfNeeded() {
-    // 🔥 추천에서 온 경우 → Node API 절대 호출 금지
-    if (fromRecommend) return;
+    if (fromRecommend && raw && raw.BaseImageURL) {
+      setLoading(false);
+      return;
+    }
 
-    // 이미 raw 있으면 호출 안 함
-    if (raw?.Spec || raw?.DetailImages) return;
-
+    // 기존 로직 유지
     try {
       setLoading(true);
 
@@ -121,11 +122,11 @@ useEffect(() => {
   }
 
   fetchDetailIfNeeded();
-
   return () => {
     ignore = true;
   };
-}, [id, fromRecommend]);
+}, [id]);
+
 
   /* ---------------- scroll attempt count ---------------- */
 

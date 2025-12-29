@@ -8,7 +8,7 @@
             "https://iws.danawa.com/prod_img/500000/381/367/desc/prod_11367381/add_1/20240509124801846_36ZD0MTQ.jpg",
             "https://iws.danawa.com/prod_img/500000/381/367/desc/prod_11367381/add_1/20240509124809990_9KCVIVUA.jpg"
         ],
-        "Specs": {
+        "Spec": {
             "제조회사": "삼성전자",
             "등록년월(월)": "2020년 05",
             "제품 분류": "외장 SSD",
@@ -40,7 +40,7 @@
         "DetailImages": [
             "https://iws.danawa.com/prod_img/500000/963/165/desc/prod_20165963/add_1/20241120172604738_MPIUMKZU.jpg"
         ],
-        "Specs": {
+        "Spec": {
             "제조회사": "SK하이닉스",
             "등록년월(월)": "2023년 05",
             "제품 분류": "외장 SSD",
@@ -73,7 +73,7 @@
         "DetailImages": [
             "https://iws.danawa.com/prod_img/500000/593/915/desc/prod_12915593/add_2/20240220131730161_J2BM2X8K.jpg"
         ],
-        "Specs": {
+        "Spec": {
             "제조회사": "Sandisk",
             "등록년월(월)": "2020년 12",
             "제품 분류": "외장 SSD",
@@ -113,7 +113,7 @@
             "https://iws.danawa.com/prod_img/500000/187/621/desc/prod_28621187/add_1/20240104144217394_5O7W9ZDU.jpg",
             "https://iws.danawa.com/prod_img/500000/187/621/desc/prod_28621187/add_1/20240104144234473_U41S93KS.jpg"
         ],
-        "Specs": {
+        "Spec": {
             "제조회사": "삼성전자",
             "등록년월(월)": "2023년 10",
             "제품 분류": "외장 SSD",
@@ -146,7 +146,7 @@
         "DetailImages": [
             "https://iws.danawa.com/prod_img/500000/347/647/desc/prod_31647347/add_1/20231228173422201_7TB8S699.jpg"
         ],
-        "Specs": {
+        "Spec": {
             "제조회사": "SK하이닉스",
             "등록년월(월)": "2023년 12",
             "제품 분류": "외장 SSD",
@@ -180,7 +180,7 @@
         "DetailImages": [
             "https://iws.danawa.com/prod_img/500000/847/533/desc/prod_89533847/add_1/20250428160420808_RKUWJWTS.jpg"
         ],
-        "Specs": {
+        "Spec": {
             "제조회사": "키오시아",
             "등록년월(월)": "2025년 04",
             "제품 분류": "외장 SSD",
@@ -210,7 +210,7 @@
             "https://iws.danawa.com/prod_img/500000/618/054/desc/prod_17054618/add_1/20240104140213286_PYI86UT4.jpg",
             "https://iws.danawa.com/prod_img/500000/618/054/desc/prod_17054618/add_1/20240104140241107_LOJ7HDJ3.jpg"
         ],
-        "Specs": {
+        "Spec": {
             "제조회사": "삼성전자",
             "등록년월(월)": "2022년 05",
             "제품 분류": "외장 SSD",
@@ -251,7 +251,7 @@
             "https://iws.danawa.com/prod_img/500000/438/786/desc/prod_77786438/add_1/20250901102005938_DZRCLUAW.jpg",
             "https://iws.danawa.com/prod_img/500000/438/786/desc/prod_77786438/add_1/20250901102010836_BJJZ68DE.jpg"
         ],
-        "Specs": {
+        "Spec": {
             "제조회사": "Seagate",
             "등록년월(월)": "2025년 03",
             "제품 분류": "외장 SSD",
@@ -279,7 +279,7 @@
         "DetailImages": [
             "https://iws.danawa.com/prod_img/500000/515/072/desc/prod_75072515/add_1/20251029160928234_L4LFOFIK.jpg"
         ],
-        "Specs": {
+        "Spec": {
             "제조회사": "CORSAIR",
             "등록년월(월)": "2025년 01",
             "제품 분류": "외장 SSD",
@@ -307,7 +307,7 @@
         "DetailImages": [
             "https://iws.danawa.com/prod_img/500000/746/080/desc/prod_25080746/add_1/20230808163738314_IZJMKSGT.png"
         ],
-        "Specs": {
+        "Spec": {
             "제조회사": "마이크론",
             "등록년월(월)": "2023년 08",
             "제품 분류": "외장 SSD",
@@ -354,7 +354,7 @@
             "https://iws.danawa.com/prod_img/500000/145/995/desc/prod_74995145/add_1/20250904110556212_CL6CTFPT.jpg",
             "https://iws.danawa.com/prod_img/500000/145/995/desc/prod_74995145/add_1/20250904110559366_I3ZPKV6H.jpg"
         ],
-        "Specs": {
+        "Spec": {
             "제조회사": "LaCie",
             "등록년월(월)": "2025년 02",
             "제품 분류": "외장 SSD",
@@ -397,7 +397,7 @@
             "https://iws.danawa.com/prod_img/500000/189/695/desc/prod_69695189/add_1/20250904110158772_QNL7LYYR.jpg",
             "https://iws.danawa.com/prod_img/500000/189/695/desc/prod_69695189/add_1/20250904110202161_S46EQGRN.jpg"
         ],
-        "Specs": {
+        "Spec": {
             "제조회사": "LaCie",
             "등록년월(월)": "2024년 10",
             "제품 분류": "외장 SSD",
@@ -441,7 +441,7 @@
             "https://iws.danawa.com/prod_img/500000/127/853/desc/prod_96853127/add_1/20250905172212789_6EATUHXF.jpg",
             "https://iws.danawa.com/prod_img/500000/127/853/desc/prod_96853127/add_1/20250905172217566_1TAQ7XPL.jpg"
         ],
-        "Specs": {
+        "Spec": {
             "제조회사": "EFM",
             "등록년월(월)": "2025년 08",
             "제품 분류": "외장 SSD",
@@ -477,7 +477,7 @@
             "https://iws.danawa.com/prod_img/500000/071/373/desc/prod_14373071/add_1/20250901101637794_CHZN2UMT.jpg",
             "https://iws.danawa.com/prod_img/500000/071/373/desc/prod_14373071/add_1/20250901101644619_X4V39VZ0.jpg"
         ],
-        "Specs": {
+        "Spec": {
             "제조회사": "Seagate",
             "등록년월(월)": "2021년 05",
             "제품 분류": "외장 SSD",
@@ -506,7 +506,7 @@
         "DetailImages": [
             "https://iws.danawa.com/prod_img/500000/951/557/desc/prod_99557951/add_1/20251029143800133_HMA9SMFW.jpg"
         ],
-        "Specs": {
+        "Spec": {
             "제조회사": "CORSAIR",
             "등록년월(월)": "2025년 10",
             "제품 분류": "외장 SSD",
@@ -535,7 +535,7 @@
             "https://iws.danawa.com/prod_img/500000/062/735/desc/prod_30735062/add_1/20240104123602902_VMEGM9TC.jpg",
             "https://iws.danawa.com/prod_img/500000/062/735/desc/prod_30735062/add_1/20240104123646711_R4V1GTUM.jpg"
         ],
-        "Specs": {
+        "Spec": {
             "제조회사": "삼성전자",
             "등록년월(월)": "2023년 12",
             "제품 분류": "외장 SSD",
@@ -576,7 +576,7 @@
             "https://iws.danawa.com/prod_img/500000/152/229/desc/prod_98229152/add_1/20250929162615968_32LPAHPC.png",
             "https://iws.danawa.com/prod_img/500000/152/229/desc/prod_98229152/add_1/20250929162622558_YAE2JVHI.png"
         ],
-        "Specs": {
+        "Spec": {
             "제조회사": "LaCie",
             "등록년월(월)": "2025년 09",
             "제품 분류": "외장 SSD",
@@ -606,7 +606,7 @@
         "DetailImages": [
             "https://iws.danawa.com/prod_img/500000/211/459/desc/prod_11459211/add_1/20230830170201713_SHU493KH.png"
         ],
-        "Specs": {
+        "Spec": {
             "제조회사": "Seagate",
             "등록년월(월)": "2020년 06",
             "제품 분류": "외장 SSD",
@@ -637,7 +637,7 @@
         "DetailImages": [
             "https://iws.danawa.com/prod_img/500000/324/434/desc/prod_12434324/add_1/20211112151443405_Y9EO9BS0.jpg"
         ],
-        "Specs": {
+        "Spec": {
             "제조회사": "Western Digital",
             "등록년월(월)": "2020년 10",
             "제품 분류": "외장 SSD",
@@ -669,7 +669,7 @@
         "DetailImages": [
             "https://iws.danawa.com/prod_img/500000/397/575/desc/prod_17575397/add_2/20231110131832144_OKE1Y7IK.jpg"
         ],
-        "Specs": {
+        "Spec": {
             "제조회사": "Western Digital",
             "등록년월(월)": "2022년 08",
             "제품 분류": "외장 SSD",
@@ -706,7 +706,7 @@
             "https://iws.danawa.com/prod_img/500000/755/372/desc/prod_10372755/add_1/20250904135621593_7MV0CT3C.jpg",
             "https://iws.danawa.com/prod_img/500000/755/372/desc/prod_10372755/add_1/20250904135625336_WGXW2JG5.jpg"
         ],
-        "Specs": {
+        "Spec": {
             "제조회사": "LaCie",
             "등록년월(월)": "2020년 01",
             "제품 분류": "외장 SSD",
@@ -757,7 +757,7 @@
             "https://iws.danawa.com/prod_img/500000/457/655/desc/prod_5655457/add_1/hdd3125plus_sale_15.jpg",
             "https://iws.danawa.com/prod_img/500000/457/655/desc/prod_5655457/add_1/hdd3125plus_sale_16.jpg"
         ],
-        "Specs": {
+        "Spec": {
             "제조회사": "EFM ipTIME",
             "등록년월(월)": "2018년 03",
             "제품 분류": "외장 SSD",
@@ -782,7 +782,7 @@
         "DetailImages": [
             "https://iws.danawa.com/prod_img/500000/905/555/desc/prod_99555905/add_1/20251023113357730_EFAQXLMA.jpg"
         ],
-        "Specs": {
+        "Spec": {
             "제조회사": "CORSAIR",
             "등록년월(월)": "2025년 10",
             "제품 분류": "외장 SSD",
@@ -813,7 +813,7 @@
         "Price": 3000,
         "BaseImageURL": "https://img.danawa.com/prod_img/500000/744/339/img/17339744_1.jpg?shrink=330:*&_v=20220627161647",
         "DetailImages": [],
-        "Specs": {
+        "Spec": {
             "제조회사": "EFM",
             "등록년월(월)": "2022년 06",
             "제품 분류": "외장 SSD",
@@ -851,7 +851,7 @@
             "https://iws.danawa.com/prod_img/500000/155/372/desc/prod_10372155/add_1/20250904105417371_F2B2AHCD.jpg",
             "https://iws.danawa.com/prod_img/500000/155/372/desc/prod_10372155/add_1/20250904105420586_FJY9FRL0.jpg"
         ],
-        "Specs": {
+        "Spec": {
             "제조회사": "LaCie",
             "등록년월(월)": "2020년 01",
             "제품 분류": "외장 SSD",
@@ -884,7 +884,7 @@
         "Price": 169000,
         "BaseImageURL": "https://img.danawa.com/prod_img/500000/734/869/img/6869734_1.jpg?shrink=330:*&_v=20191028153812",
         "DetailImages": [],
-        "Specs": {
+        "Spec": {
             "제조회사": "LaCie",
             "등록년월(월)": "2018년 12",
             "제품 분류": "외장 SSD",
@@ -914,7 +914,7 @@
         "DetailImages": [
             "https://iws.danawa.com/prod_img/500000/471/091/desc/prod_25091471/add_1/20240409105917243_1WG0WV2B.jpg"
         ],
-        "Specs": {
+        "Spec": {
             "제조회사": "마이크론",
             "등록년월(월)": "2023년 08",
             "제품 분류": "외장 SSD",
@@ -950,7 +950,7 @@
         "DetailImages": [
             "https://iws.danawa.com/prod_img/500000/132/160/desc/prod_6160132/add_1/20191210154256309_LEBYU08H.jpg"
         ],
-        "Specs": {
+        "Spec": {
             "제조회사": "Sandisk",
             "등록년월(월)": "2018년 05",
             "제품 분류": "외장 SSD",
@@ -981,7 +981,7 @@
         "DetailImages": [
             "https://iws.danawa.com/prod_img/500000/591/755/desc/prod_15755591/add_1/20220630132427828_9FDE139M.jpg"
         ],
-        "Specs": {
+        "Spec": {
             "제조회사": "Seagate",
             "등록년월(월)": "2021년 11",
             "제품 분류": "외장 SSD",
@@ -1006,7 +1006,7 @@
         "DetailImages": [
             "https://iws.danawa.com/prod_img/500000/648/366/desc/prod_68366648/add_1/20241007175323545_PMXGQFK0.jpg"
         ],
-        "Specs": {
+        "Spec": {
             "제조회사": "Seagate",
             "등록년월(월)": "2024년 10",
             "제품 분류": "외장 SSD",
@@ -1030,7 +1030,7 @@
         "DetailImages": [
             "https://iws.danawa.com/prod_img/500000/804/900/desc/prod_14900804/add_1/20210802174235303_WQV4EV2Z.jpg"
         ],
-        "Specs": {
+        "Spec": {
             "제조회사": "Western Digital",
             "등록년월(월)": "2021년 08",
             "제품 분류": "외장 SSD",
@@ -1072,7 +1072,7 @@
             "https://iws.danawa.com/prod_img/500000/038/949/desc/prod_5949038/add_1/hdd3225_sale_15.jpg",
             "https://iws.danawa.com/prod_img/500000/038/949/desc/prod_5949038/add_1/hdd3225_sale_16.jpg"
         ],
-        "Specs": {
+        "Spec": {
             "제조회사": "EFM ipTIME",
             "등록년월(월)": "2018년 03",
             "제품 분류": "외장 SSD",
@@ -1099,7 +1099,7 @@
             "https://timg.danawa.com/brand/DetailImages/goodsImage/20059/56296136.jpg",
             "https://iws.danawa.com/prod_img/500000/136/296/desc/prod_56296136/add_1/20240613124409284_32OD0NC8.jpg"
         ],
-        "Specs": {
+        "Spec": {
             "제조회사": "ASUS",
             "등록년월(월)": "2024년 06",
             "제품 분류": "외장 SSD",
@@ -1129,7 +1129,7 @@
         "DetailImages": [
             "https://iws.danawa.com/prod_img/500000/758/076/desc/prod_98076758/add_1/20250924170209999_SKI3ZC5K.jpg"
         ],
-        "Specs": {
+        "Spec": {
             "제조회사": "Lexar",
             "등록년월(월)": "2025년 09",
             "제품 분류": "외장 SSD",
@@ -1160,7 +1160,7 @@
             "https://timg.danawa.com/brand/DetailImages/goodsImage/20059/11909437.jpg",
             "https://iws.danawa.com/prod_img/500000/513/433/desc/prod_11433513/add_1/20210218175102406_QHU8GRKV.jpg"
         ],
-        "Specs": {
+        "Spec": {
             "제조회사": "ASUS",
             "등록년월(월)": "2020년 05",
             "제품 분류": "외장 SSD",
@@ -1185,7 +1185,7 @@
         "Price": null,
         "BaseImageURL": "https://img.danawa.com/prod_img/500000/733/122/img/38122733_1.jpg?shrink=330:*&_v=20240228125419",
         "DetailImages": [],
-        "Specs": {
+        "Spec": {
             "제조회사": "ESSENCORE",
             "등록년월(월)": "2024년 02",
             "제품 분류": "외장 SSD",
@@ -1216,7 +1216,7 @@
         "DetailImages": [
             "https://iws.danawa.com/prod_img/500000/960/451/desc/prod_13451960/add_1/20230428094159381_R79HVMTG.png"
         ],
-        "Specs": {
+        "Spec": {
             "제조회사": "마이크론",
             "등록년월(월)": "2021년 02",
             "제품 분류": "외장 SSD",
@@ -1244,7 +1244,7 @@
         "DetailImages": [
             "https://iws.danawa.com/prod_img/500000/309/614/desc/prod_78614309/add_1/20250325162332455_8M6PB3FN.jpg"
         ],
-        "Specs": {
+        "Spec": {
             "제조회사": "OWC",
             "등록년월(월)": "2025년 03",
             "제품 분류": "외장 SSD",
@@ -1271,7 +1271,7 @@
         "DetailImages": [
             "https://iws.danawa.com/prod_img/500000/180/769/desc/prod_28769180/add_1/20231016091648851_6YO4BKIL.jpg"
         ],
-        "Specs": {
+        "Spec": {
             "제조회사": "마이크론",
             "등록년월(월)": "2023년 10",
             "제품 분류": "외장 SSD",
@@ -1296,7 +1296,7 @@
         "DetailImages": [
             "https://iws.danawa.com/prod_img/500000/422/066/desc/prod_18066422/add_1/20221021162708333_WVP7KSZL.jpg"
         ],
-        "Specs": {
+        "Spec": {
             "제조회사": "CORSAIR",
             "등록년월(월)": "2022년 10",
             "제품 분류": "외장 SSD",
@@ -1322,7 +1322,7 @@
         "Price": 3000,
         "BaseImageURL": "https://img.danawa.com/prod_img/500000/084/045/img/7045084_1.jpg?shrink=330:*&_v=20190115151243",
         "DetailImages": [],
-        "Specs": {
+        "Spec": {
             "제조회사": "Western Digital WD",
             "등록년월(월)": "2019년 01",
             "제품 분류": "외장 SSD",
@@ -1350,7 +1350,7 @@
         "DetailImages": [
             "https://iws.danawa.com/prod_img/500000/240/818/desc/prod_12818240/add_1/20231110131604721_GBO9APYX.jpg"
         ],
-        "Specs": {
+        "Spec": {
             "제조회사": "Western Digital",
             "등록년월(월)": "2020년 12",
             "제품 분류": "외장 SSD",
@@ -1379,7 +1379,7 @@
         "DetailImages": [
             "https://iws.danawa.com/prod_img/500000/887/218/desc/prod_13218887/add_1/20210125133153256_LSYST9FW.jpg"
         ],
-        "Specs": {
+        "Spec": {
             "제조회사": "PNY",
             "등록년월(월)": "2021년 01",
             "제품 분류": "외장 SSD",
@@ -1408,7 +1408,7 @@
         "DetailImages": [
             "https://iws.danawa.com/prod_img/500000/771/636/desc/prod_9636771/add_1/20191210155907273_8JFB0PYL.jpg"
         ],
-        "Specs": {
+        "Spec": {
             "제조회사": "Sandisk",
             "등록년월(월)": "2019년 10",
             "제품 분류": "외장 SSD",
@@ -1436,7 +1436,7 @@
         "DetailImages": [
             "https://iws.danawa.com/prod_img/500000/098/311/desc/prod_16311098/add_1/20220203143734610_MUO5OK1B.jpg"
         ],
-        "Specs": {
+        "Spec": {
             "제조회사": "키오시아",
             "등록년월(월)": "2022년 02",
             "제품 분류": "외장 SSD",
@@ -1468,7 +1468,7 @@
         "DetailImages": [
             "https://iws.danawa.com/prod_img/500000/789/762/desc/prod_14762789/add_1/20210720161340930_ZFYGI3YN.jpg"
         ],
-        "Specs": {
+        "Spec": {
             "제조회사": "Western Digital",
             "등록년월(월)": "2020년 01",
             "제품 분류": "외장 SSD",
@@ -1520,7 +1520,7 @@
             "https://iws.danawa.com/prod_img/500000/810/564/desc/prod_11564810/add_1/hdd1025_sale_18.jpg",
             "https://iws.danawa.com/prod_img/500000/810/564/desc/prod_11564810/add_1/hdd1025_sale_19.jpg"
         ],
-        "Specs": {
+        "Spec": {
             "제조회사": "EFM ipTIME",
             "등록년월(월)": "2012년 02",
             "제품 분류": "외장 SSD",
@@ -1547,7 +1547,7 @@
         "DetailImages": [
             "https://iws.danawa.com/upload_img/av_keyvisual_20121025_02:38:50.jpg"
         ],
-        "Specs": {
+        "Spec": {
             "제조회사": "Sandisk",
             "등록년월(월)": "2019년 10",
             "제품 분류": "외장 SSD",
@@ -1575,7 +1575,7 @@
         "DetailImages": [
             "https://iws.danawa.com/prod_img/500000/224/263/desc/prod_52263224/add_1/20250911164045557_DL6ZBMT6.jpg"
         ],
-        "Specs": {
+        "Spec": {
             "제조회사": "트랜센드",
             "등록년월(월)": "2024년 05",
             "제품 분류": "외장 SSD",
@@ -1607,7 +1607,7 @@
         "DetailImages": [
             "https://iws.danawa.com/prod_img/500000/575/811/desc/prod_9811575/add_1/20230427171437755_7X4JZJEK.png"
         ],
-        "Specs": {
+        "Spec": {
             "제조회사": "Seagate",
             "등록년월(월)": "2019년 10",
             "제품 분류": "외장 SSD",
@@ -1632,7 +1632,7 @@
         "Price": 3000,
         "BaseImageURL": "https://img.danawa.com/prod_img/500000/028/686/img/2686028_1.jpg?shrink=330:*&_v=20191031174614",
         "DetailImages": [],
-        "Specs": {
+        "Spec": {
             "제조회사": "트랜센드",
             "등록년월(월)": "2014년 07",
             "제품 분류": "외장 SSD",
@@ -1657,7 +1657,7 @@
         "DetailImages": [
             "https://iws.danawa.com/prod_img/500000/008/478/desc/prod_14478008/add_1/20231110131737380_19WYVL8L.jpg"
         ],
-        "Specs": {
+        "Spec": {
             "제조회사": "Western Digital",
             "등록년월(월)": "2021년 06",
             "제품 분류": "외장 SSD",
@@ -1683,7 +1683,7 @@
         "DetailImages": [
             "https://iws.danawa.com/prod_img/500000/974/787/desc/prod_32787974/add_1/20250910165654549_EOKL8HRC.jpg"
         ],
-        "Specs": {
+        "Spec": {
             "제조회사": "트랜센드",
             "등록년월(월)": "2024년 01",
             "제품 분류": "외장 SSD",
@@ -1714,7 +1714,7 @@
         "Price": 2500,
         "BaseImageURL": "https://img.danawa.com/prod_img/500000/673/372/img/28372673_1.jpg?shrink=330:*&_v=20251023124234",
         "DetailImages": [],
-        "Specs": {
+        "Spec": {
             "제조회사": "Sandisk",
             "등록년월(월)": "2023년 09",
             "제품 분류": "외장 SSD",
@@ -1738,7 +1738,7 @@
         "Price": 632360,
         "BaseImageURL": "https://img.danawa.com/prod_img/500000/304/434/img/14434304_1.jpg?shrink=330:*&_v=20250930083516",
         "DetailImages": [],
-        "Specs": {
+        "Spec": {
             "제조회사": "Sandisk",
             "등록년월(월)": "2020년 12",
             "제품 분류": "외장 SSD",
@@ -1766,7 +1766,7 @@
         "Price": 166050,
         "BaseImageURL": "https://img.danawa.com/prod_img/500000/851/559/img/17559851_1.jpg?shrink=330:*&_v=20250428151702",
         "DetailImages": [],
-        "Specs": {
+        "Spec": {
             "제조회사": "삼성전자",
             "등록년월(월)": "2022년 07",
             "제품 분류": "외장 SSD",
@@ -1797,7 +1797,7 @@
         "Price": 239150,
         "BaseImageURL": "https://img.danawa.com/prod_img/500000/366/158/img/15158366_1.jpg?shrink=330:*&_v=20230919151646",
         "DetailImages": [],
-        "Specs": {
+        "Spec": {
             "제조회사": "Sandisk",
             "등록년월(월)": "2021년 09",
             "제품 분류": "외장 SSD",
@@ -1821,7 +1821,7 @@
         "Price": 527820,
         "BaseImageURL": "https://img.danawa.com/prod_img/500000/441/059/img/87059441_1.jpg?shrink=330:*&_v=20250512120144",
         "DetailImages": [],
-        "Specs": {
+        "Spec": {
             "제조회사": "Sandisk",
             "등록년월(월)": "2025년 04",
             "제품 분류": "외장 SSD",
@@ -1849,7 +1849,7 @@
         "Price": 196930,
         "BaseImageURL": "https://img.danawa.com/prod_img/500000/176/021/img/18021176_1.jpg?shrink=330:*&_v=20251204185955",
         "DetailImages": [],
-        "Specs": {
+        "Spec": {
             "제조회사": "이메이션",
             "등록년월(월)": "2022년 10",
             "제품 분류": "외장 SSD",
@@ -1872,7 +1872,7 @@
         "Price": 196070,
         "BaseImageURL": "https://img.danawa.com/prod_img/500000/255/332/img/30332255_1.jpg?shrink=330:*&_v=20231211182850",
         "DetailImages": [],
-        "Specs": {
+        "Spec": {
             "제조회사": "삼성전자",
             "등록년월(월)": "2023년 12",
             "제품 분류": "외장 SSD",
@@ -1911,7 +1911,7 @@
             "https://iws.danawa.com/prod_img/500000/902/787/desc/prod_77787902/add_2/20250904110958708_DU4K2BO8.jpg",
             "https://iws.danawa.com/prod_img/500000/902/787/desc/prod_77787902/add_2/20250904111001305_35AOTBWM.jpg"
         ],
-        "Specs": {
+        "Spec": {
             "제조회사": "LaCie",
             "등록년월(월)": "2025년 03",
             "제품 분류": "외장 SSD",
@@ -1939,7 +1939,7 @@
         "DetailImages": [
             "https://iws.danawa.com/upload_img/av_keyvisual_20121025_02:38:50.jpg"
         ],
-        "Specs": {
+        "Spec": {
             "제조회사": "삼성전자",
             "등록년월(월)": "2020년 05",
             "제품 분류": "외장 SSD",
@@ -1967,7 +1967,7 @@
         "Price": 91290,
         "BaseImageURL": "https://img.danawa.com/prod_img/500000/003/346/img/25346003_1.jpg?shrink=330:*&_v=20230801172103",
         "DetailImages": [],
-        "Specs": {
+        "Spec": {
             "제조회사": "SK하이닉스",
             "등록년월(월)": "2023년 08",
             "제품 분류": "외장 SSD",
@@ -1999,7 +1999,7 @@
         "DetailImages": [
             "https://iws.danawa.com/prod_img/500000/737/701/desc/prod_97701737/add_1/20241125084422150_V5Z6OYU7.jpg"
         ],
-        "Specs": {
+        "Spec": {
             "제조회사": "ACASIS",
             "등록년월(월)": "2024년 08",
             "제품 분류": "외장 SSD",
@@ -2028,7 +2028,7 @@
         "DetailImages": [
             "https://iws.danawa.com/prod_img/500000/008/862/desc/prod_77862008/add_1/20250313165750866_JNXYXSMR.jpg"
         ],
-        "Specs": {
+        "Spec": {
             "제조회사": "위즈플랫",
             "등록년월(월)": "2025년 03",
             "제품 분류": "외장 SSD",
@@ -2055,7 +2055,7 @@
         "Price": 30000,
         "BaseImageURL": "https://img.danawa.com/prod_img/500000/657/556/img/13556657_1.jpg?shrink=330:*&_v=20250623083650",
         "DetailImages": [],
-        "Specs": {
+        "Spec": {
             "제조회사": "Sandisk",
             "등록년월(월)": "2020년 12",
             "제품 분류": "외장 SSD",
@@ -2082,7 +2082,7 @@
         "Price": 39800,
         "BaseImageURL": "https://img.danawa.com/prod_img/500000/396/183/img/98183396_1.jpg?shrink=330:*&_v=20250924143114",
         "DetailImages": [],
-        "Specs": {
+        "Spec": {
             "제조회사": "Axxen",
             "등록년월(월)": "2025년 09",
             "제품 분류": "외장 SSD",
@@ -2107,7 +2107,7 @@
         "Price": 125350,
         "BaseImageURL": "https://img.danawa.com/prod_img/500000/017/105/img/39105017_1.jpg?shrink=330:*&_v=20250521143640",
         "DetailImages": [],
-        "Specs": {
+        "Spec": {
             "제조회사": "SK하이닉스",
             "등록년월(월)": "2024년 03",
             "제품 분류": "외장 SSD",
@@ -2138,7 +2138,7 @@
         "Price": 29000,
         "BaseImageURL": "https://img.danawa.com/prod_img/500000/458/073/img/62073458_1.jpg?shrink=330:*&_v=20250331174756",
         "DetailImages": [],
-        "Specs": {
+        "Spec": {
             "제조회사": "Sandisk",
             "등록년월(월)": "2024년 07",
             "제품 분류": "외장 SSD",
@@ -2167,7 +2167,7 @@
         "Price": 196500,
         "BaseImageURL": "https://img.danawa.com/prod_img/500000/127/629/img/101629127_1.jpg?shrink=330:*&_v=20251203095532",
         "DetailImages": [],
-        "Specs": {
+        "Spec": {
             "제조회사": "삼성전자",
             "등록년월(월)": "2025년 12",
             "제품 분류": "외장 SSD",
@@ -2196,7 +2196,7 @@
         "Price": 225700,
         "BaseImageURL": "https://img.danawa.com/prod_img/500000/894/224/img/72224894_1.jpg?shrink=330:*&_v=20250108172016",
         "DetailImages": [],
-        "Specs": {
+        "Spec": {
             "제조회사": "TeamGroup",
             "등록년월(월)": "2024년 12",
             "제품 분류": "외장 SSD",
@@ -2221,7 +2221,7 @@
         "DetailImages": [
             "https://iws.danawa.com/prod_img/500000/481/642/desc/prod_28642481/add_1/20250217104020593_USDWGEEY.jpg"
         ],
-        "Specs": {
+        "Spec": {
             "제조회사": "마이크론",
             "등록년월(월)": "2023년 10",
             "제품 분류": "외장 SSD",
@@ -2246,7 +2246,7 @@
         "DetailImages": [
             "https://iws.danawa.com/prod_img/500000/118/642/desc/prod_28642118/add_1/20250217104122544_HWYWUF1M.jpg"
         ],
-        "Specs": {
+        "Spec": {
             "제조회사": "마이크론",
             "등록년월(월)": "2023년 10",
             "제품 분류": "외장 SSD",
@@ -2272,7 +2272,7 @@
         "Price": 862560,
         "BaseImageURL": "https://img.danawa.com/prod_img/500000/540/536/img/75536540_1.jpg?shrink=330:*&_v=20250204092044",
         "DetailImages": [],
-        "Specs": {
+        "Spec": {
             "제조회사": "LaCie",
             "등록년월(월)": "2025년 02",
             "제품 분류": "외장 SSD",
@@ -2302,7 +2302,7 @@
         "Price": null,
         "BaseImageURL": "https://img.danawa.com/prod_img/500000/222/244/img/28244222_1.jpg?shrink=330:*&_v=20230914143115",
         "DetailImages": [],
-        "Specs": {
+        "Spec": {
             "제조회사": "이지넷유비쿼터스",
             "등록년월(월)": "2023년 09",
             "제품 분류": "외장 SSD",
@@ -2323,7 +2323,7 @@
         "Price": 2997,
         "BaseImageURL": "https://img.danawa.com/prod_img/500000/078/423/img/26423078_1.jpg?shrink=330:*&_v=20251111095906",
         "DetailImages": [],
-        "Specs": {
+        "Spec": {
             "제조회사": "마이크론",
             "등록년월(월)": "2023년 08",
             "제품 분류": "외장 SSD",
@@ -2358,7 +2358,7 @@
         "DetailImages": [
             "https://iws.danawa.com/prod_img/500000/232/027/desc/prod_22027232/add_1/20251210095428282_04VCEE1I.jpg"
         ],
-        "Specs": {
+        "Spec": {
             "제조회사": "한창코퍼레이션",
             "등록년월(월)": "2023년 07",
             "제품 분류": "외장 SSD",
@@ -2386,7 +2386,7 @@
         "Price": 215600,
         "BaseImageURL": "https://img.danawa.com/prod_img/500000/328/697/img/69697328_1.jpg?shrink=330:*&_v=20241024133010",
         "DetailImages": [],
-        "Specs": {
+        "Spec": {
             "제조회사": "LaCie",
             "등록년월(월)": "2024년 10",
             "제품 분류": "외장 SSD",
@@ -2414,7 +2414,7 @@
         "DetailImages": [
             "https://iws.danawa.com/prod_img/500000/205/043/desc/prod_8043205/add_1/20190604160923812_4XX4WNH0.jpg"
         ],
-        "Specs": {
+        "Spec": {
             "제조회사": "플로피 beezap",
             "등록년월(월)": "2019년 05",
             "제품 분류": "외장 SSD",
@@ -2441,7 +2441,7 @@
         "DetailImages": [
             "https://iws.danawa.com/prod_img/500000/173/833/desc/prod_49833173/add_1/20240401111751365_NOI6EOPW.png"
         ],
-        "Specs": {
+        "Spec": {
             "제조회사": "OWC",
             "등록년월(월)": "2024년 04",
             "제품 분류": "외장 SSD",
@@ -2470,7 +2470,7 @@
         "DetailImages": [
             "https://iws.danawa.com/prod_img/500000/683/330/desc/prod_33330683/add_1/20240112141014646_0LQ3B7L2.jpg"
         ],
-        "Specs": {
+        "Spec": {
             "제조회사": "위즈플랫",
             "등록년월(월)": "2024년 01",
             "제품 분류": "외장 SSD",
@@ -2499,7 +2499,7 @@
         "Price": 250000,
         "BaseImageURL": "https://img.danawa.com/prod_img/500000/068/200/img/94200068_1.jpg?shrink=330:*&_v=20250717084912",
         "DetailImages": [],
-        "Specs": {
+        "Spec": {
             "제조회사": "Sandisk",
             "등록년월(월)": "2025년 07",
             "제품 분류": "외장 SSD",
@@ -2526,7 +2526,7 @@
         "DetailImages": [
             "https://iws.danawa.com/prod_img/500000/233/255/desc/prod_39255233/add_1/20241017113340793_W8N6UE7A.jpg"
         ],
-        "Specs": {
+        "Spec": {
             "제조회사": "HIKSEMI",
             "등록년월(월)": "2024년 03",
             "제품 분류": "외장 SSD",
@@ -2554,7 +2554,7 @@
         "DetailImages": [
             "https://iws.danawa.com/prod_img/500000/625/642/desc/prod_28642625/add_1/20250217104253543_9JV4ZIW2.jpg"
         ],
-        "Specs": {
+        "Spec": {
             "제조회사": "마이크론",
             "등록년월(월)": "2023년 10",
             "제품 분류": "외장 SSD",
@@ -2585,7 +2585,7 @@
             "https://iws.danawa.com/prod_img/500000/697/266/desc/prod_6266697/add_1/NEXT-525U3_3_160614.jpg",
             "https://iws.danawa.com/prod_img/500000/697/266/desc/prod_6266697/add_1/NEXT-525U3_4_160614.jpg"
         ],
-        "Specs": {
+        "Spec": {
             "제조회사": "이지넷유비쿼터스 넥스트",
             "등록년월(월)": "2017년 04",
             "제품 분류": "외장 SSD",
@@ -2609,7 +2609,7 @@
         "DetailImages": [
             "https://iws.danawa.com/prod_img/500000/131/541/desc/prod_20541131/add_1/20251210095303391_M0JH7CET.jpg"
         ],
-        "Specs": {
+        "Spec": {
             "제조회사": "한창코퍼레이션",
             "등록년월(월)": "2023년 06",
             "제품 분류": "외장 SSD",
@@ -2635,7 +2635,7 @@
         "Price": 223190,
         "BaseImageURL": "https://img.danawa.com/prod_img/500000/237/269/img/90269237_1.jpg?shrink=330:*&_v=20250717084959",
         "DetailImages": [],
-        "Specs": {
+        "Spec": {
             "제조회사": "Sandisk",
             "등록년월(월)": "2025년 05",
             "제품 분류": "외장 SSD",
@@ -2669,7 +2669,7 @@
             "https://iws.danawa.com/prod_img/500000/186/780/desc/prod_7780186/add_1/20190425100234963_IS4FH2XJ.jpg",
             "https://iws.danawa.com/prod_img/500000/186/780/desc/prod_7780186/add_1/20190425100237672_3T86JZEH.jpg"
         ],
-        "Specs": {
+        "Spec": {
             "제조회사": "엠지텍",
             "등록년월(월)": "2019년 04",
             "제품 분류": "외장 SSD",
@@ -2697,7 +2697,7 @@
         "Price": 299280,
         "BaseImageURL": "https://img.danawa.com/prod_img/500000/730/491/img/29491730_1.jpg?shrink=330:*&_v=20231123123716",
         "DetailImages": [],
-        "Specs": {
+        "Spec": {
             "제조회사": "삼성전자",
             "등록년월(월)": "2023년 10",
             "제품 분류": "외장 SSD",
@@ -2728,7 +2728,7 @@
         "DetailImages": [
             "https://iws.danawa.com/prod_img/500000/099/323/desc/prod_60323099/add_1/20240718130642504_OOU3GUYW.jpg"
         ],
-        "Specs": {
+        "Spec": {
             "제조회사": "HP",
             "등록년월(월)": "2024년 07",
             "제품 분류": "외장 SSD",
@@ -2754,7 +2754,7 @@
         "Price": 43800,
         "BaseImageURL": "https://img.danawa.com/prod_img/500000/771/225/img/98225771_1.jpg?shrink=330:*&_v=20250925083402",
         "DetailImages": [],
-        "Specs": {
+        "Spec": {
             "제조회사": "Axxen",
             "등록년월(월)": "2025년 09",
             "제품 분류": "외장 SSD",
@@ -2782,7 +2782,7 @@
         "DetailImages": [
             "https://iws.danawa.com/prod_img/500000/003/285/desc/prod_17285003/add_1/20220620131016637_VE2CTKFB.jpg"
         ],
-        "Specs": {
+        "Spec": {
             "제조회사": "아이오드",
             "등록년월(월)": "2022년 06",
             "제품 분류": "외장 SSD",
@@ -2809,7 +2809,7 @@
         "Price": 301670,
         "BaseImageURL": "https://img.danawa.com/prod_img/500000/528/071/img/75071528_1.jpg?shrink=330:*&_v=20250124134403",
         "DetailImages": [],
-        "Specs": {
+        "Spec": {
             "제조회사": "CORSAIR",
             "등록년월(월)": "2025년 01",
             "제품 분류": "외장 SSD",
@@ -2834,7 +2834,7 @@
         "Price": 3000,
         "BaseImageURL": "https://img.danawa.com/prod_img/500000/802/793/img/36793802_1.jpg?shrink=330:*&_v=20240220150811",
         "DetailImages": [],
-        "Specs": {
+        "Spec": {
             "제조회사": "ORICO",
             "등록년월(월)": "2024년 02",
             "제품 분류": "외장 SSD",
@@ -2860,7 +2860,7 @@
         "DetailImages": [
             "https://iws.danawa.com/prod_img/500000/590/038/desc/prod_91038590/add_1/20250521110318449_M50N9PNC.jpg"
         ],
-        "Specs": {
+        "Spec": {
             "제조회사": "마이크론",
             "등록년월(월)": "2025년 05",
             "제품 분류": "외장 SSD",
@@ -2882,7 +2882,7 @@
         "Price": 359000,
         "BaseImageURL": "https://img.danawa.com/prod_img/500000/951/868/img/91868951_1.jpg?shrink=330:*&_v=20250908124506",
         "DetailImages": [],
-        "Specs": {
+        "Spec": {
             "제조회사": "위즈플랫",
             "등록년월(월)": "2025년 06",
             "제품 분류": "외장 SSD",
@@ -2912,7 +2912,7 @@
             "https://iws.danawa.com/prod_img/500000/016/386/desc/prod_17386016/add_1/20200630164710465_AE0RH65B.jpg",
             "https://iws.danawa.com/DetailImages/banner/dnwCopyrightBanner.jpg"
         ],
-        "Specs": {
+        "Spec": {
             "제조회사": "삼성전자",
             "등록년월(월)": "2020년 05",
             "제품 분류": "외장 SSD",
@@ -2940,7 +2940,7 @@
         "Price": 660000,
         "BaseImageURL": "https://img.danawa.com/prod_img/500000/009/130/img/94130009_1.jpg?shrink=330:*&_v=20250716172907",
         "DetailImages": [],
-        "Specs": {
+        "Spec": {
             "제조회사": "Sandisk",
             "등록년월(월)": "2025년 07",
             "제품 분류": "외장 SSD",
@@ -2965,7 +2965,7 @@
         "Price": 252720,
         "BaseImageURL": "https://img.danawa.com/prod_img/500000/241/001/img/102001241_1.jpg?shrink=330:*&_v=20251209095344",
         "DetailImages": [],
-        "Specs": {
+        "Spec": {
             "제조회사": "Sandisk",
             "등록년월(월)": "2025년 12",
             "제품 분류": "외장 SSD",
@@ -2988,7 +2988,7 @@
         "Price": 1054410,
         "BaseImageURL": "https://img.danawa.com/prod_img/500000/631/039/img/91039631_1.jpg?shrink=330:*&_v=20250627184224",
         "DetailImages": [],
-        "Specs": {
+        "Spec": {
             "제조회사": "마이크론",
             "등록년월(월)": "2025년 05",
             "제품 분류": "외장 SSD",
@@ -3011,7 +3011,7 @@
         "DetailImages": [
             "https://iws.danawa.com/prod_img/500000/486/615/desc/prod_20615486/add_1/20240502083948453_V0R8TIPX.jpg"
         ],
-        "Specs": {
+        "Spec": {
             "제조회사": "Synology",
             "등록년월(월)": "2023년 06",
             "제품 분류": "외장 SSD",
@@ -3044,7 +3044,7 @@
         "DetailImages": [
             "https://iws.danawa.com/prod_img/500000/868/242/desc/prod_20242868/add_1/20231121151527197_299U6SOU.jpg"
         ],
-        "Specs": {
+        "Spec": {
             "제조회사": "트랜센드",
             "등록년월(월)": "2023년 05",
             "제품 분류": "외장 SSD",
@@ -3077,7 +3077,7 @@
         "DetailImages": [
             "https://iws.danawa.com/prod_img/500000/710/874/desc/prod_17874710/add_1/20200812093910731_1QLHTYIA.jpg"
         ],
-        "Specs": {
+        "Spec": {
             "제조회사": "이지넷유비쿼터스",
             "등록년월(월)": "2022년 09",
             "제품 분류": "외장 SSD",
@@ -3106,7 +3106,7 @@
             "https://iws.danawa.com/prod_img/500000/918/059/desc/prod_96059918/add_1/20250923160850243_D4L697BP.jpg",
             "https://iws.danawa.com/prod_img/500000/918/059/desc/prod_96059918/add_1/20250923160856130_BKKRBW5F.jpg"
         ],
-        "Specs": {
+        "Spec": {
             "제조회사": "ACASIS",
             "등록년월(월)": "2025년 08",
             "제품 분류": "외장 SSD",
@@ -3133,7 +3133,7 @@
         "DetailImages": [
             "https://iws.danawa.com/prod_img/500000/281/483/desc/prod_10483281/add_1/20200204105438130_0A8Q0NP5.jpg"
         ],
-        "Specs": {
+        "Spec": {
             "제조회사": "삼성전자",
             "등록년월(월)": "2020년 01",
             "제품 분류": "외장 SSD",
@@ -3166,7 +3166,7 @@
         "Price": 192800,
         "BaseImageURL": "https://img.danawa.com/prod_img/500000/957/438/img/68438957_1.jpg?shrink=330:*&_v=20251029091714",
         "DetailImages": [],
-        "Specs": {
+        "Spec": {
             "제조회사": "마이크론",
             "등록년월(월)": "2024년 10",
             "제품 분류": "외장 SSD",
@@ -3190,7 +3190,7 @@
         "DetailImages": [
             "https://iws.danawa.com/prod_img/500000/628/123/desc/prod_97123628/add_1/20241203124740251_Y22UKA69.jpg"
         ],
-        "Specs": {
+        "Spec": {
             "제조회사": "서진네트웍스",
             "등록년월(월)": "2025년 09",
             "제품 분류": "외장 SSD",
@@ -3219,7 +3219,7 @@
         "Price": 77000,
         "BaseImageURL": "https://img.danawa.com/prod_img/500000/396/500/img/90500396_1.jpg?shrink=330:*&_v=20250513084252",
         "DetailImages": [],
-        "Specs": {
+        "Spec": {
             "제조회사": "SUNEAST",
             "등록년월(월)": "2025년 05",
             "제품 분류": "외장 SSD",
@@ -3247,7 +3247,7 @@
         "Price": 164650,
         "BaseImageURL": "https://img.danawa.com/prod_img/500000/266/477/img/48477266_1.jpg?shrink=330:*&_v=20240418133931",
         "DetailImages": [],
-        "Specs": {
+        "Spec": {
             "제조회사": "EMTEC",
             "등록년월(월)": "2024년 04",
             "제품 분류": "외장 SSD",
@@ -3272,7 +3272,7 @@
         "DetailImages": [
             "https://iws.danawa.com/prod_img/500000/975/268/desc/prod_11268975/add_1/20200701100528439_Y2C8TUK2.jpg"
         ],
-        "Specs": {
+        "Spec": {
             "제조회사": "서진네트웍스 UNICORN",
             "등록년월(월)": "2015년 11",
             "제품 분류": "외장 SSD",
@@ -3296,7 +3296,7 @@
         "DetailImages": [
             "https://iws.danawa.com/prod_img/500000/327/125/desc/prod_102125327/add_1/20251212103458287_RSEXIP5I.jpg"
         ],
-        "Specs": {
+        "Spec": {
             "제조회사": "ACASIS",
             "등록년월(월)": "2025년 12",
             "제품 분류": "외장 SSD",
@@ -3322,7 +3322,7 @@
         "Price": 73010,
         "BaseImageURL": "https://img.danawa.com/prod_img/500000/612/420/img/95420612_1.jpg?shrink=330:*&_v=20251125092117",
         "DetailImages": [],
-        "Specs": {
+        "Spec": {
             "제조회사": "ORICO",
             "등록년월(월)": "2025년 08",
             "제품 분류": "외장 SSD",
@@ -3347,7 +3347,7 @@
         "DetailImages": [
             "https://iws.danawa.com/prod_img/500000/613/495/desc/prod_91495613/add_1/20250711110936779_QHMS9QEC.jpg"
         ],
-        "Specs": {
+        "Spec": {
             "제조회사": "마이크론",
             "등록년월(월)": "2025년 05",
             "제품 분류": "외장 SSD",
@@ -3369,7 +3369,7 @@
         "Price": 3000,
         "BaseImageURL": "https://img.danawa.com/prod_img/500000/336/087/img/98087336_1.jpg?shrink=330:*&_v=20250923142441",
         "DetailImages": [],
-        "Specs": {
+        "Spec": {
             "제조회사": "아이오드",
             "등록년월(월)": "2025년 09",
             "제품 분류": "외장 SSD",
@@ -3398,7 +3398,7 @@
         "DetailImages": [
             "https://iws.danawa.com/prod_img/500000/350/845/desc/prod_19845350/add_1/20230306085544488_MLT1AQYK.jpg"
         ],
-        "Specs": {
+        "Spec": {
             "제조회사": "앱코",
             "등록년월(월)": "2023년 04",
             "제품 분류": "외장 SSD",
@@ -3426,7 +3426,7 @@
         "DetailImages": [
             "https://iws.danawa.com/prod_img/500000/703/456/desc/prod_5456703/add_1/MU-PA1T0BWW.jpg"
         ],
-        "Specs": {
+        "Spec": {
             "제조회사": "삼성전자",
             "등록년월(월)": "2017년 09",
             "제품 분류": "외장 SSD",
@@ -3455,7 +3455,7 @@
         "Price": 182920,
         "BaseImageURL": "https://img.danawa.com/prod_img/500000/584/724/img/101724584_1.jpg?shrink=330:*&_v=20251205140735",
         "DetailImages": [],
-        "Specs": {
+        "Spec": {
             "제조회사": "SSK",
             "등록년월(월)": "2025년 12",
             "제품 분류": "외장 SSD",
@@ -3481,7 +3481,7 @@
         "Price": 162190,
         "BaseImageURL": "https://img.danawa.com/prod_img/500000/072/768/img/98768072_1.jpg?shrink=330:*&_v=20251013123931",
         "DetailImages": [],
-        "Specs": {
+        "Spec": {
             "제조회사": "MSI",
             "등록년월(월)": "2025년 10",
             "제품 분류": "외장 SSD",
@@ -3509,7 +3509,7 @@
         "DetailImages": [
             "https://iws.danawa.com/prod_img/500000/984/475/desc/prod_97475984/add_1/20241125084950632_C4CRA7GP.jpg"
         ],
-        "Specs": {
+        "Spec": {
             "제조회사": "ACASIS",
             "등록년월(월)": "2024년 12",
             "제품 분류": "외장 SSD",
@@ -3535,7 +3535,7 @@
         "Price": 209000,
         "BaseImageURL": "https://img.danawa.com/prod_img/500000/982/422/img/26422982_1.jpg?shrink=330:*&_v=20250701150836",
         "DetailImages": [],
-        "Specs": {
+        "Spec": {
             "제조회사": "마이크론",
             "등록년월(월)": "2023년 08",
             "제품 분류": "외장 SSD",
@@ -3570,7 +3570,7 @@
         "DetailImages": [
             "https://iws.danawa.com/prod_img/500000/526/164/desc/prod_62164526/add_1/20240715132717916_VTITGENS.jpg"
         ],
-        "Specs": {
+        "Spec": {
             "제조회사": "위즈플랫",
             "등록년월(월)": "2024년 07",
             "제품 분류": "외장 SSD",
@@ -3598,7 +3598,7 @@
         "Price": 59100,
         "BaseImageURL": "https://img.danawa.com/prod_img/500000/205/419/img/53419205_1.jpg?shrink=330:*&_v=20240603112527",
         "DetailImages": [],
-        "Specs": {
+        "Spec": {
             "제조회사": "ADATA",
             "등록년월(월)": "2024년 05",
             "제품 분류": "외장 SSD",
@@ -3625,7 +3625,7 @@
             "https://iws.danawa.com/prod_img/500000/543/568/desc/prod_97568543/add_1/20240904162446700_8OUNB4Y7.jpg",
             "https://iws.danawa.com/prod_img/500000/543/568/desc/prod_97568543/add_1/20240708090021295_2JY23NJT.jpg"
         ],
-        "Specs": {
+        "Spec": {
             "제조회사": "서진네트웍스",
             "등록년월(월)": "2025년 09",
             "제품 분류": "외장 SSD",
@@ -3655,7 +3655,7 @@
         "DetailImages": [
             "https://iws.danawa.com/prod_img/500000/304/062/desc/prod_32062304/add_1/20240129134434370_Y3YT6PRW.jpg"
         ],
-        "Specs": {
+        "Spec": {
             "제조회사": "위즈플랫",
             "등록년월(월)": "2024년 01",
             "제품 분류": "외장 SSD",
@@ -3682,7 +3682,7 @@
         "Price": 3000,
         "BaseImageURL": "https://img.danawa.com/prod_img/500000/540/860/img/93860540_1.jpg?shrink=330:*&_v=20250710103739",
         "DetailImages": [],
-        "Specs": {
+        "Spec": {
             "제조회사": "마이크론",
             "등록년월(월)": "2025년 07",
             "제품 분류": "외장 SSD",
@@ -3715,7 +3715,7 @@
         "Price": 233000,
         "BaseImageURL": "https://img.danawa.com/prod_img/500000/812/559/img/17559812_1.jpg?shrink=330:*&_v=20250428151741",
         "DetailImages": [],
-        "Specs": {
+        "Spec": {
             "제조회사": "삼성전자",
             "등록년월(월)": "2022년 07",
             "제품 분류": "외장 SSD",
@@ -3746,7 +3746,7 @@
         "Price": 152000,
         "BaseImageURL": "https://img.danawa.com/prod_img/500000/096/846/img/95846096_1.jpg?shrink=330:*&_v=20250811103439",
         "DetailImages": [],
-        "Specs": {
+        "Spec": {
             "제조회사": "CHOETECH",
             "등록년월(월)": "2025년 08",
             "제품 분류": "외장 SSD",
@@ -3768,7 +3768,7 @@
         "Price": 3000,
         "BaseImageURL": "https://img.danawa.com/prod_img/500000/319/001/img/48001319_1.jpg?shrink=330:*&_v=20240417112814",
         "DetailImages": [],
-        "Specs": {
+        "Spec": {
             "제조회사": "Lexar",
             "등록년월(월)": "2024년 04",
             "제품 분류": "외장 SSD",
@@ -3796,7 +3796,7 @@
         "DetailImages": [
             "https://iws.danawa.com/prod_img/500000/081/781/desc/prod_28781081/add_1/20221021163538651_QRWIWB1Q.jpg"
         ],
-        "Specs": {
+        "Spec": {
             "제조회사": "CORSAIR",
             "등록년월(월)": "2023년 10",
             "제품 분류": "외장 SSD",
@@ -3821,7 +3821,7 @@
         "Price": 31700,
         "BaseImageURL": "https://img.danawa.com/prod_img/500000/676/399/img/79399676_1.jpg?shrink=330:*&_v=20250407162649",
         "DetailImages": [],
-        "Specs": {
+        "Spec": {
             "제조회사": "코닥",
             "등록년월(월)": "2025년 04",
             "제품 분류": "외장 SSD",
@@ -3846,7 +3846,7 @@
         "Price": 318100,
         "BaseImageURL": "https://img.danawa.com/prod_img/500000/999/355/img/19355999_1.jpg?shrink=330:*&_v=20231204150706",
         "DetailImages": [],
-        "Specs": {
+        "Spec": {
             "제조회사": "Sandisk",
             "등록년월(월)": "2023년 03",
             "제품 분류": "외장 SSD",
@@ -3871,7 +3871,7 @@
         "Price": 94390,
         "BaseImageURL": "https://img.danawa.com/prod_img/500000/540/158/img/15158540_1.jpg?shrink=330:*&_v=20210902160310",
         "DetailImages": [],
-        "Specs": {
+        "Spec": {
             "제조회사": "Sandisk",
             "등록년월(월)": "2021년 09",
             "제품 분류": "외장 SSD",
@@ -3896,7 +3896,7 @@
         "DetailImages": [
             "https://iws.danawa.com/prod_img/500000/442/780/desc/prod_97780442/add_1/20250916185736145_NTPULVWX.jpg"
         ],
-        "Specs": {
+        "Spec": {
             "제조회사": "리버네트워크",
             "등록년월(월)": "2025년 09",
             "제품 분류": "외장 SSD",
@@ -3922,7 +3922,7 @@
         "Price": 3000,
         "BaseImageURL": "https://img.danawa.com/prod_img/500000/297/100/img/46100297_1.jpg?shrink=330:*&_v=20240405104858",
         "DetailImages": [],
-        "Specs": {
+        "Spec": {
             "제조회사": "삼성전자",
             "등록년월(월)": "2024년 04",
             "제품 분류": "외장 SSD",
@@ -3952,7 +3952,7 @@
         "Price": 3000,
         "BaseImageURL": "https://img.danawa.com/prod_img/500000/931/952/img/27952931_1.jpg?shrink=330:*&_v=20230901170140",
         "DetailImages": [],
-        "Specs": {
+        "Spec": {
             "제조회사": "ORICO",
             "등록년월(월)": "2023년 09",
             "제품 분류": "외장 SSD",
@@ -3977,7 +3977,7 @@
         "Price": 592750,
         "BaseImageURL": "https://img.danawa.com/prod_img/500000/155/200/img/94200155_1.jpg?shrink=330:*&_v=20250717090209",
         "DetailImages": [],
-        "Specs": {
+        "Spec": {
             "제조회사": "Sandisk",
             "등록년월(월)": "2025년 07",
             "제품 분류": "외장 SSD",
@@ -4008,7 +4008,7 @@
             "https://iws.danawa.com/prod_img/500000/780/845/desc/prod_78845780/add_1/20240104135711197_WLBXZJLA.jpg",
             "https://iws.danawa.com/prod_img/500000/780/845/desc/prod_78845780/add_1/20240104135721876_A89BYRQ0.jpg"
         ],
-        "Specs": {
+        "Spec": {
             "제조회사": "삼성전자",
             "등록년월(월)": "2023년 12",
             "제품 분류": "외장 SSD",
@@ -4041,7 +4041,7 @@
         "DetailImages": [
             "https://iws.danawa.com/prod_img/500000/652/967/desc/prod_12967652/add_1/20210104125417156_UIBIQ7AQ.jpg"
         ],
-        "Specs": {
+        "Spec": {
             "제조회사": "아이오드",
             "등록년월(월)": "2020년 12",
             "제품 분류": "외장 SSD",
@@ -4068,7 +4068,7 @@
         "Price": 119300,
         "BaseImageURL": "https://img.danawa.com/prod_img/500000/450/508/img/76508450_1.jpg?shrink=330:*&_v=20250220091905",
         "DetailImages": [],
-        "Specs": {
+        "Spec": {
             "제조회사": "Seagate",
             "등록년월(월)": "2025년 02",
             "제품 분류": "외장 SSD",
@@ -4094,7 +4094,7 @@
         "DetailImages": [
             "https://iws.danawa.com/prod_img/500000/651/761/desc/prod_12761651/add_1/20230425090525354_E6VZ6WRK.jpg"
         ],
-        "Specs": {
+        "Spec": {
             "제조회사": "마이크론",
             "등록년월(월)": "2020년 11",
             "제품 분류": "외장 SSD",
@@ -4122,7 +4122,7 @@
         "DetailImages": [
             "https://iws.danawa.com/prod_img/500000/636/504/desc/prod_71504636/add_1/20250319104709440_5TABXRV7.jpg"
         ],
-        "Specs": {
+        "Spec": {
             "제조회사": "OWC",
             "등록년월(월)": "2024년 11",
             "제품 분류": "외장 SSD",
@@ -4149,7 +4149,7 @@
         "Price": 76590,
         "BaseImageURL": "https://img.danawa.com/prod_img/500000/370/782/img/17782370_1.jpg?shrink=330:*&_v=20230417174419",
         "DetailImages": [],
-        "Specs": {
+        "Spec": {
             "제조회사": "ADATA",
             "등록년월(월)": "2022년 09",
             "제품 분류": "외장 SSD",
@@ -4173,7 +4173,7 @@
         "DetailImages": [
             "https://iws.danawa.com/prod_img/500000/328/494/desc/prod_17494328/add_1/20211213175157841_V4F2FBT0.jpg"
         ],
-        "Specs": {
+        "Spec": {
             "제조회사": "위즈플랫",
             "등록년월(월)": "2022년 07",
             "제품 분류": "외장 SSD",
@@ -4199,7 +4199,7 @@
         "Price": 156860,
         "BaseImageURL": "https://img.danawa.com/prod_img/500000/951/638/img/99638951_1.jpg?shrink=330:*&_v=20251024130408",
         "DetailImages": [],
-        "Specs": {
+        "Spec": {
             "제조회사": "CORSAIR",
             "등록년월(월)": "2025년 10",
             "제품 분류": "외장 SSD",
@@ -4224,7 +4224,7 @@
         "Price": 260000,
         "BaseImageURL": "https://img.danawa.com/prod_img/500000/832/931/img/75931832_1.jpg?shrink=330:*&_v=20250211095321",
         "DetailImages": [],
-        "Specs": {
+        "Spec": {
             "제조회사": "Sandisk",
             "등록년월(월)": "2025년 02",
             "제품 분류": "외장 SSD",
@@ -4248,7 +4248,7 @@
         "Price": 414810,
         "BaseImageURL": "https://img.danawa.com/prod_img/500000/284/699/img/93699284_1.jpg?shrink=330:*&_v=20250708101407",
         "DetailImages": [],
-        "Specs": {
+        "Spec": {
             "제조회사": "Lexar",
             "등록년월(월)": "2024년 03",
             "제품 분류": "외장 SSD",
@@ -4275,7 +4275,7 @@
         "DetailImages": [
             "https://iws.danawa.com/prod_img/500000/431/652/desc/prod_7652431/add_1/20220527171447818_56J45Q2G.jpg"
         ],
-        "Specs": {
+        "Spec": {
             "제조회사": "리버네트워크",
             "등록년월(월)": "2019년 04",
             "제품 분류": "외장 SSD",
@@ -4298,7 +4298,7 @@
         "Price": 3318930,
         "BaseImageURL": "https://img.danawa.com/prod_img/500000/416/837/img/99837416_1.jpg?shrink=330:*&_v=20251031133723",
         "DetailImages": [],
-        "Specs": {
+        "Spec": {
             "제조회사": "SECUREDATA",
             "등록년월(월)": "2025년 07",
             "제품 분류": "외장 SSD",
@@ -4322,7 +4322,7 @@
         "Price": 87930,
         "BaseImageURL": "https://img.danawa.com/prod_img/500000/117/470/img/69470117_1.jpg?shrink=330:*&_v=20241021153234",
         "DetailImages": [],
-        "Specs": {
+        "Spec": {
             "제조회사": "트랜센드",
             "등록년월(월)": "2024년 10",
             "제품 분류": "외장 SSD",
@@ -4352,7 +4352,7 @@
         "Price": 172200,
         "BaseImageURL": "https://img.danawa.com/prod_img/500000/983/829/img/59829983_1.jpg?shrink=330:*&_v=20240709140113",
         "DetailImages": [],
-        "Specs": {
+        "Spec": {
             "제조회사": "Sandisk",
             "등록년월(월)": "2024년 07",
             "제품 분류": "외장 SSD",
@@ -4378,7 +4378,7 @@
         "DetailImages": [
             "https://iws.danawa.com/upload_img/av_keyvisual_20121025_02:38:50.jpg"
         ],
-        "Specs": {
+        "Spec": {
             "제조회사": "Seagate",
             "등록년월(월)": "2019년 10",
             "제품 분류": "외장 SSD",
@@ -4406,7 +4406,7 @@
         "Price": 269740,
         "BaseImageURL": "https://img.danawa.com/prod_img/500000/408/087/img/98087408_1.jpg?shrink=330:*&_v=20250923142538",
         "DetailImages": [],
-        "Specs": {
+        "Spec": {
             "제조회사": "아이오드",
             "등록년월(월)": "2025년 09",
             "제품 분류": "외장 SSD",
@@ -4432,7 +4432,7 @@
         "Price": 398000,
         "BaseImageURL": "https://img.danawa.com/prod_img/500000/200/859/img/77859200_1.jpg?shrink=330:*&_v=20250324133808",
         "DetailImages": [],
-        "Specs": {
+        "Spec": {
             "제조회사": "ORICO",
             "등록년월(월)": "2025년 03",
             "제품 분류": "외장 SSD",
@@ -4455,7 +4455,7 @@
         "DetailImages": [
             "https://iws.danawa.com/prod_img/500000/857/700/desc/prod_9700857/add_1/20191017171529619_GPZR1L07.jpg"
         ],
-        "Specs": {
+        "Spec": {
             "제조회사": "이노타임",
             "등록년월(월)": "2019년 10",
             "제품 분류": "외장 SSD",
@@ -4479,7 +4479,7 @@
         "Price": 4839800,
         "BaseImageURL": "https://img.danawa.com/prod_img/500000/280/347/img/95347280_1.jpg?shrink=330:*&_v=20250806165828",
         "DetailImages": [],
-        "Specs": {
+        "Spec": {
             "제조회사": "GLYPH TECH",
             "등록년월(월)": "2025년 08",
             "제품 분류": "외장 SSD",
@@ -4502,7 +4502,7 @@
         "Price": 96800,
         "BaseImageURL": "https://img.danawa.com/prod_img/500000/105/228/img/98228105_1.jpg?shrink=330:*&_v=20250925112326",
         "DetailImages": [],
-        "Specs": {
+        "Spec": {
             "제조회사": "SUNEAST",
             "등록년월(월)": "2025년 09",
             "제품 분류": "외장 SSD",
@@ -4528,7 +4528,7 @@
         "Price": 3000,
         "BaseImageURL": "https://img.danawa.com/prod_img/500000/829/655/img/75655829_1.jpg?shrink=330:*&_v=20250206105839",
         "DetailImages": [],
-        "Specs": {
+        "Spec": {
             "제조회사": "태경리테일",
             "등록년월(월)": "2025년 02",
             "제품 분류": "외장 SSD",
@@ -4550,7 +4550,7 @@
         "Price": 388420,
         "BaseImageURL": "https://img.danawa.com/prod_img/500000/253/271/img/63271253_1.jpg?shrink=330:*&_v=20240816150024",
         "DetailImages": [],
-        "Specs": {
+        "Spec": {
             "제조회사": "ORICO",
             "등록년월(월)": "2024년 08",
             "제품 분류": "외장 SSD",
@@ -4574,7 +4574,7 @@
         "Price": 128900,
         "BaseImageURL": "https://img.danawa.com/prod_img/500000/770/377/img/28377770_1.jpg?shrink=330:*&_v=20250206102926",
         "DetailImages": [],
-        "Specs": {
+        "Spec": {
             "제조회사": "킹스톤",
             "등록년월(월)": "2023년 09",
             "제품 분류": "외장 SSD",
@@ -4601,7 +4601,7 @@
         "DetailImages": [
             "https://iws.danawa.com/prod_img/500000/107/480/desc/prod_96480107/add_1/20250814133547774_RQ45J9MP.jpg"
         ],
-        "Specs": {
+        "Spec": {
             "제조회사": "인네트워크",
             "등록년월(월)": "2025년 08",
             "제품 분류": "외장 SSD",
@@ -4626,7 +4626,7 @@
         "Price": 171220,
         "BaseImageURL": "https://img.danawa.com/prod_img/500000/066/829/img/49829066_1.jpg?shrink=330:*&_v=20240502084429",
         "DetailImages": [],
-        "Specs": {
+        "Spec": {
             "제조회사": "Synology",
             "등록년월(월)": "2023년 06",
             "제품 분류": "외장 SSD",
@@ -4656,7 +4656,7 @@
         "Price": 317220,
         "BaseImageURL": "https://img.danawa.com/prod_img/500000/405/394/img/34394405_1.jpg?shrink=330:*&_v=20250910165822",
         "DetailImages": [],
-        "Specs": {
+        "Spec": {
             "제조회사": "트랜센드",
             "등록년월(월)": "2024년 02",
             "제품 분류": "외장 SSD",
@@ -4682,7 +4682,7 @@
         "Price": 455000,
         "BaseImageURL": "https://img.danawa.com/prod_img/500000/024/355/img/19355024_1.jpg?shrink=330:*&_v=20230314185026",
         "DetailImages": [],
-        "Specs": {
+        "Spec": {
             "제조회사": "Sandisk",
             "등록년월(월)": "2023년 03",
             "제품 분류": "외장 SSD",
@@ -4709,7 +4709,7 @@
         "Price": 3000,
         "BaseImageURL": "https://img.danawa.com/prod_img/500000/496/106/img/18106496_1.jpg?shrink=330:*&_v=20221026084006",
         "DetailImages": [],
-        "Specs": {
+        "Spec": {
             "제조회사": "태경리테일",
             "등록년월(월)": "2022년 10",
             "제품 분류": "외장 SSD",
@@ -4731,7 +4731,7 @@
         "Price": 3000,
         "BaseImageURL": "https://img.danawa.com/prod_img/500000/304/011/img/101011304_1.jpg?shrink=330:*&_v=20251124084346",
         "DetailImages": [],
-        "Specs": {
+        "Spec": {
             "제조회사": "Lexar",
             "등록년월(월)": "2025년 11",
             "제품 분류": "외장 SSD",
@@ -4758,7 +4758,7 @@
         "Price": 2253290,
         "BaseImageURL": "https://img.danawa.com/prod_img/500000/769/913/img/93913769_1.jpg?shrink=330:*&_v=20250711112545",
         "DetailImages": [],
-        "Specs": {
+        "Spec": {
             "제조회사": "ProGrade",
             "등록년월(월)": "2025년 07",
             "제품 분류": "외장 SSD",
@@ -4782,7 +4782,7 @@
         "Price": 169000,
         "BaseImageURL": "https://img.danawa.com/prod_img/500000/285/156/img/56156285_1.jpg?shrink=330:*&_v=20240612181310",
         "DetailImages": [],
-        "Specs": {
+        "Spec": {
             "제조회사": "Western Digital",
             "등록년월(월)": "2024년 06",
             "제품 분류": "외장 SSD",
@@ -4807,7 +4807,7 @@
         "Price": 221160,
         "BaseImageURL": "https://img.danawa.com/prod_img/500000/006/634/img/91634006_1.jpg?shrink=330:*&_v=20250530111617",
         "DetailImages": [],
-        "Specs": {
+        "Spec": {
             "제조회사": "SUNEAST",
             "등록년월(월)": "2025년 05",
             "제품 분류": "외장 SSD",
@@ -4837,7 +4837,7 @@
         "DetailImages": [
             "https://iws.danawa.com/prod_img/500000/448/684/desc/prod_19684448/add_1/20240321155357842_KFDWNR47.jpg"
         ],
-        "Specs": {
+        "Spec": {
             "제조회사": "장우컴퍼니",
             "등록년월(월)": "2023년 03",
             "제품 분류": "외장 SSD",
@@ -4861,7 +4861,7 @@
         "Price": 9000,
         "BaseImageURL": "https://img.danawa.com/prod_img/500000/574/689/img/14689574_1.jpg?shrink=330:*&_v=20251112101457",
         "DetailImages": [],
-        "Specs": {
+        "Spec": {
             "제조회사": "Western Digital",
             "등록년월(월)": "2020년 12",
             "제품 분류": "외장 SSD",
@@ -4887,7 +4887,7 @@
         "Price": 60690,
         "BaseImageURL": "https://img.danawa.com/prod_img/500000/404/261/img/96261404_1.jpg?shrink=330:*&_v=20250818165030",
         "DetailImages": [],
-        "Specs": {
+        "Spec": {
             "제조회사": "Netac",
             "등록년월(월)": "2025년 08",
             "제품 분류": "외장 SSD",
@@ -4912,7 +4912,7 @@
         "Price": 165980,
         "BaseImageURL": "https://img.danawa.com/prod_img/500000/017/763/img/59763017_1.jpg?shrink=330:*&_v=20240708165000",
         "DetailImages": [],
-        "Specs": {
+        "Spec": {
             "제조회사": "ORICO",
             "등록년월(월)": "2024년 07",
             "제품 분류": "외장 SSD",
@@ -4938,7 +4938,7 @@
         "Price": 428000,
         "BaseImageURL": "https://img.danawa.com/prod_img/500000/472/011/img/101011472_1.jpg?shrink=330:*&_v=20251124091415",
         "DetailImages": [],
-        "Specs": {
+        "Spec": {
             "제조회사": "ORICO",
             "등록년월(월)": "2025년 11",
             "제품 분류": "외장 SSD",
@@ -4958,7 +4958,7 @@
         "Price": 199700,
         "BaseImageURL": "https://img.danawa.com/prod_img/500000/375/619/img/100619375_1.jpg?shrink=330:*&_v=20251117113058",
         "DetailImages": [],
-        "Specs": {
+        "Spec": {
             "제조회사": "TeamGroup",
             "등록년월(월)": "2025년 11",
             "제품 분류": "외장 SSD",
@@ -4985,7 +4985,7 @@
         "DetailImages": [
             "https://iws.danawa.com/prod_img/500000/364/916/desc/prod_99916364/add_1/20251031155624511_VROBYXNK.jpg"
         ],
-        "Specs": {
+        "Spec": {
             "제조회사": "위즈플랫",
             "등록년월(월)": "2025년 11",
             "제품 분류": "외장 SSD",
@@ -5010,7 +5010,7 @@
         "Price": 258500,
         "BaseImageURL": "https://img.danawa.com/prod_img/500000/302/861/img/93861302_1.jpg?shrink=330:*&_v=20250710112953",
         "DetailImages": [],
-        "Specs": {
+        "Spec": {
             "제조회사": "트랜센드",
             "등록년월(월)": "2025년 07",
             "제품 분류": "외장 SSD",
@@ -5040,7 +5040,7 @@
         "DetailImages": [
             "https://iws.danawa.com/prod_img/500000/008/205/desc/prod_77205008/add_1/20250304084629689_YJWHURWJ.jpg"
         ],
-        "Specs": {
+        "Spec": {
             "제조회사": "위즈플랫",
             "등록년월(월)": "2025년 03",
             "제품 분류": "외장 SSD",
@@ -5067,7 +5067,7 @@
         "Price": 1083720,
         "BaseImageURL": "https://img.danawa.com/prod_img/500000/290/714/img/57714290_1.jpg?shrink=330:*&_v=20250402123844",
         "DetailImages": [],
-        "Specs": {
+        "Spec": {
             "제조회사": "Sandisk",
             "등록년월(월)": "2024년 06",
             "제품 분류": "외장 SSD",
@@ -5096,7 +5096,7 @@
         "DetailImages": [
             "https://iws.danawa.com/prod_img/500000/894/713/desc/prod_99713894/add_1/20251014084747525_20PZP476.jpg"
         ],
-        "Specs": {
+        "Spec": {
             "제조회사": "리버네트워크",
             "등록년월(월)": "2025년 10",
             "제품 분류": "외장 SSD",
@@ -5121,7 +5121,7 @@
         "Price": 104210,
         "BaseImageURL": "https://img.danawa.com/prod_img/500000/431/483/img/96483431_1.jpg?shrink=330:*&_v=20250822171146",
         "DetailImages": [],
-        "Specs": {
+        "Spec": {
             "제조회사": "EMTEC",
             "등록년월(월)": "2025년 07",
             "제품 분류": "외장 SSD",
@@ -5147,7 +5147,7 @@
         "DetailImages": [
             "https://iws.danawa.com/prod_img/500000/407/379/desc/prod_77379407/add_1/20231206162345671_NT2H108B.jpg"
         ],
-        "Specs": {
+        "Spec": {
             "제조회사": "위즈플랫",
             "등록년월(월)": "2025년 03",
             "제품 분류": "외장 SSD",
@@ -5176,7 +5176,7 @@
         "Price": 676000,
         "BaseImageURL": "https://img.danawa.com/prod_img/500000/061/295/img/30295061_1.jpg?shrink=330:*&_v=20250613085247",
         "DetailImages": [],
-        "Specs": {
+        "Spec": {
             "제조회사": "Sandisk",
             "등록년월(월)": "2023년 12",
             "제품 분류": "외장 SSD",
@@ -5202,7 +5202,7 @@
         "Price": 150830,
         "BaseImageURL": "https://img.danawa.com/prod_img/500000/015/305/img/15305015_1.jpg?shrink=330:*&_v=20230202131150",
         "DetailImages": [],
-        "Specs": {
+        "Spec": {
             "제조회사": "Western Digital",
             "등록년월(월)": "2021년 09",
             "제품 분류": "외장 SSD",
@@ -5227,7 +5227,7 @@
         "DetailImages": [
             "https://iws.danawa.com/prod_img/500000/842/532/desc/prod_14532842/add_1/20210618142649531_CVH0OGQU.jpg"
         ],
-        "Specs": {
+        "Spec": {
             "제조회사": "위즈플랫",
             "등록년월(월)": "2021년 06",
             "제품 분류": "외장 SSD",
@@ -5254,7 +5254,7 @@
         "Price": 268000,
         "BaseImageURL": "https://img.danawa.com/prod_img/500000/495/069/img/101069495_1.jpg?shrink=330:*&_v=20251125092211",
         "DetailImages": [],
-        "Specs": {
+        "Spec": {
             "제조회사": "ORICO",
             "등록년월(월)": "2025년 11",
             "제품 분류": "외장 SSD",
@@ -5277,7 +5277,7 @@
         "Price": 244220,
         "BaseImageURL": "https://img.danawa.com/prod_img/500000/571/077/img/98077571_1.jpg?shrink=330:*&_v=20250922170418",
         "DetailImages": [],
-        "Specs": {
+        "Spec": {
             "제조회사": "Netac",
             "등록년월(월)": "2025년 04",
             "제품 분류": "외장 SSD",
@@ -5302,7 +5302,7 @@
         "Price": 204810,
         "BaseImageURL": "https://img.danawa.com/prod_img/500000/684/986/img/96986684_1.jpg?shrink=330:*&_v=20250902154741",
         "DetailImages": [],
-        "Specs": {
+        "Spec": {
             "제조회사": "엘레컴",
             "등록년월(월)": "2025년 09",
             "제품 분류": "외장 SSD",
@@ -5326,7 +5326,7 @@
         "Price": 164660,
         "BaseImageURL": "https://img.danawa.com/prod_img/500000/747/314/img/96314747_1.jpg?shrink=330:*&_v=20250819164536",
         "DetailImages": [],
-        "Specs": {
+        "Spec": {
             "제조회사": "SSK",
             "등록년월(월)": "2025년 08",
             "제품 분류": "외장 SSD",
@@ -5352,7 +5352,7 @@
         "Price": 70010,
         "BaseImageURL": "https://img.danawa.com/prod_img/500000/452/080/img/94080452_1.jpg?shrink=330:*&_v=20250715084524",
         "DetailImages": [],
-        "Specs": {
+        "Spec": {
             "제조회사": "Fikwot",
             "등록년월(월)": "2025년 07",
             "제품 분류": "외장 SSD",
@@ -5374,7 +5374,7 @@
         "Price": 150010,
         "BaseImageURL": "https://img.danawa.com/prod_img/500000/410/080/img/94080410_1.jpg?shrink=330:*&_v=20250715083636",
         "DetailImages": [],
-        "Specs": {
+        "Spec": {
             "제조회사": "Fikwot",
             "등록년월(월)": "2025년 07",
             "제품 분류": "외장 SSD",
@@ -5399,7 +5399,7 @@
         "Price": 528000,
         "BaseImageURL": "https://img.danawa.com/prod_img/500000/575/435/img/90435575_1.jpg?shrink=330:*&_v=20250512132628",
         "DetailImages": [],
-        "Specs": {
+        "Spec": {
             "제조회사": "ORICO",
             "등록년월(월)": "2025년 05",
             "제품 분류": "외장 SSD",
@@ -5422,7 +5422,7 @@
         "Price": 238000,
         "BaseImageURL": "https://img.danawa.com/prod_img/500000/387/113/img/90113387_1.jpg?shrink=330:*&_v=20250507131959",
         "DetailImages": [],
-        "Specs": {
+        "Spec": {
             "제조회사": "ORICO",
             "등록년월(월)": "2025년 05",
             "제품 분류": "외장 SSD",
@@ -5446,7 +5446,7 @@
         "Price": 339810,
         "BaseImageURL": "https://img.danawa.com/prod_img/500000/537/441/img/68441537_1.jpg?shrink=330:*&_v=20241008165147",
         "DetailImages": [],
-        "Specs": {
+        "Spec": {
             "제조회사": "마이크론",
             "등록년월(월)": "2024년 10",
             "제품 분류": "외장 SSD",
@@ -5479,7 +5479,7 @@
         "Price": 229500,
         "BaseImageURL": "https://img.danawa.com/prod_img/500000/329/364/img/68364329_1.jpg?shrink=330:*&_v=20250403152058",
         "DetailImages": [],
-        "Specs": {
+        "Spec": {
             "제조회사": "Sabrent",
             "등록년월(월)": "2024년 10",
             "제품 분류": "외장 SSD",
@@ -5505,7 +5505,7 @@
         "DetailImages": [
             "https://iws.danawa.com/prod_img/500000/650/757/desc/prod_29757650/add_1/20240626150740191_JBZGODP5.jpg"
         ],
-        "Specs": {
+        "Spec": {
             "제조회사": "HIKSEMI",
             "등록년월(월)": "2023년 12",
             "제품 분류": "외장 SSD",
@@ -5551,7 +5551,7 @@
             "https://iws.danawa.com/prod_img/500000/063/766/desc/prod_1766063/add_1/0.946447001346997138.jpg",
             "https://iws.danawa.com/DetailImages/banner/dnwCopyrightBanner.jpg"
         ],
-        "Specs": {
+        "Spec": {
             "제조회사": "에이티전자",
             "등록년월(월)": "2012년 08",
             "제품 분류": "외장 SSD",
@@ -5573,7 +5573,7 @@
         "Price": 111040,
         "BaseImageURL": "https://img.danawa.com/prod_img/500000/153/497/img/93497153_1.jpg?shrink=330:*&_v=20250703093624",
         "DetailImages": [],
-        "Specs": {
+        "Spec": {
             "제조회사": "Avolusion",
             "등록년월(월)": "2025년 07",
             "제품 분류": "외장 SSD",
@@ -5599,7 +5599,7 @@
             "https://iws.danawa.com/prod_img/500000/422/072/desc/prod_93072422/add_1/20191113134258796_CISGX44P.jpg",
             "https://iws.danawa.com/DetailImages/banner/dnwCopyrightBanner.jpg"
         ],
-        "Specs": {
+        "Spec": {
             "제조회사": "실리콘파워",
             "등록년월(월)": "2019년 11",
             "제품 분류": "외장 SSD",
@@ -5626,7 +5626,7 @@
         "Price": 220000,
         "BaseImageURL": "https://img.danawa.com/prod_img/500000/566/537/img/75537566_1.jpg?shrink=330:*&_v=20250204110035",
         "DetailImages": [],
-        "Specs": {
+        "Spec": {
             "제조회사": "ORICO",
             "등록년월(월)": "2025년 02",
             "제품 분류": "외장 SSD",
@@ -5646,7 +5646,7 @@
         "Price": 122800,
         "BaseImageURL": "https://img.danawa.com/prod_img/500000/366/310/img/97310366_1.jpg?shrink=330:*&_v=20250908170758",
         "DetailImages": [],
-        "Specs": {
+        "Spec": {
             "제조회사": "엘레컴",
             "등록년월(월)": "2025년 09",
             "제품 분류": "외장 SSD",
@@ -5669,7 +5669,7 @@
         "Price": 152590,
         "BaseImageURL": "https://img.danawa.com/prod_img/500000/777/606/img/89606777_1.jpg?shrink=330:*&_v=20250429152429",
         "DetailImages": [],
-        "Specs": {
+        "Spec": {
             "제조회사": "Reletech",
             "등록년월(월)": "2025년 04",
             "제품 분류": "외장 SSD",
@@ -5690,7 +5690,7 @@
         "Price": 190060,
         "BaseImageURL": "https://img.danawa.com/prod_img/500000/703/234/img/88234703_1.jpg?shrink=330:*&_v=20250425135908",
         "DetailImages": [],
-        "Specs": {
+        "Spec": {
             "제조회사": "SUNEAST",
             "등록년월(월)": "2025년 04",
             "제품 분류": "외장 SSD",
@@ -5718,7 +5718,7 @@
         "Price": 432150,
         "BaseImageURL": "https://img.danawa.com/prod_img/500000/730/948/img/73948730_1.jpg?shrink=330:*&_v=20250512120144",
         "DetailImages": [],
-        "Specs": {
+        "Spec": {
             "제조회사": "Sandisk",
             "등록년월(월)": "2025년 01",
             "제품 분류": "외장 SSD",
@@ -5742,7 +5742,7 @@
         "Price": 318000,
         "BaseImageURL": "https://img.danawa.com/prod_img/500000/418/011/img/101011418_1.jpg?shrink=330:*&_v=20251124090720",
         "DetailImages": [],
-        "Specs": {
+        "Spec": {
             "제조회사": "ORICO",
             "등록년월(월)": "2025년 11",
             "제품 분류": "외장 SSD",
@@ -5769,7 +5769,7 @@
         "Price": 247200,
         "BaseImageURL": "https://img.danawa.com/prod_img/500000/527/426/img/96426527_1.jpg?shrink=330:*&_v=20250821170839",
         "DetailImages": [],
-        "Specs": {
+        "Spec": {
             "제조회사": "SSK",
             "등록년월(월)": "2025년 08",
             "제품 분류": "외장 SSD",
@@ -5789,7 +5789,7 @@
         "Price": 83020,
         "BaseImageURL": "https://img.danawa.com/prod_img/500000/843/285/img/95285843_1.jpg?shrink=330:*&_v=20250805160410",
         "DetailImages": [],
-        "Specs": {
+        "Spec": {
             "제조회사": "Reletech",
             "등록년월(월)": "2025년 08",
             "제품 분류": "외장 SSD",
@@ -5809,7 +5809,7 @@
         "Price": 84540,
         "BaseImageURL": "https://img.danawa.com/prod_img/500000/289/186/img/91186289_1.jpg?shrink=330:*&_v=20250627184457",
         "DetailImages": [],
-        "Specs": {
+        "Spec": {
             "제조회사": "RiTEK RiDATA",
             "등록년월(월)": "2025년 05",
             "제품 분류": "외장 SSD",
@@ -5834,7 +5834,7 @@
         "Price": 127500,
         "BaseImageURL": "https://img.danawa.com/prod_img/500000/500/017/img/40017500_1.jpg?shrink=330:*&_v=20240308105723",
         "DetailImages": [],
-        "Specs": {
+        "Spec": {
             "제조회사": "실리콘파워",
             "등록년월(월)": "2024년 03",
             "제품 분류": "외장 SSD",
@@ -5860,7 +5860,7 @@
         "Price": 224060,
         "BaseImageURL": "https://img.danawa.com/prod_img/500000/399/603/img/11603399_1.jpg?shrink=330:*&_v=20200618153046",
         "DetailImages": [],
-        "Specs": {
+        "Spec": {
             "제조회사": "ADATA",
             "등록년월(월)": "2020년 06",
             "제품 분류": "외장 SSD",
@@ -5887,7 +5887,7 @@
         "DetailImages": [
             "https://iws.danawa.com/prod_img/500000/768/074/desc/prod_8074768/add_1/20190605154720939_R7A7YJKC.jpg"
         ],
-        "Specs": {
+        "Spec": {
             "제조회사": "서진네트웍스",
             "등록년월(월)": "2019년 06",
             "제품 분류": "외장 SSD",
@@ -5915,7 +5915,7 @@
             "https://iws.danawa.com/prod_img/500000/381/388/desc/prod_6388381/add_1/20200121143119376_P5L1VVXD.jpg",
             "https://iws.danawa.com/prod_img/500000/381/388/desc/prod_6388381/add_1/20200121143122394_POIJXHCG.jpg"
         ],
-        "Specs": {
+        "Spec": {
             "제조회사": "이지넷유비쿼터스 넥스트",
             "등록년월(월)": "2018년 08",
             "제품 분류": "외장 SSD",
@@ -5939,7 +5939,7 @@
         "DetailImages": [
             "https://iws.danawa.com/prod_img/500000/838/754/desc/prod_72754838/add_1/20240614130107198_NO313QPH.jpg"
         ],
-        "Specs": {
+        "Spec": {
             "제조회사": "ORICO",
             "등록년월(월)": "2024년 12",
             "제품 분류": "외장 SSD",
@@ -5964,7 +5964,7 @@
         "Price": 101090,
         "BaseImageURL": "https://img.danawa.com/prod_img/500000/575/286/img/95286575_1.jpg?shrink=330:*&_v=20250805163645",
         "DetailImages": [],
-        "Specs": {
+        "Spec": {
             "제조회사": "MAIWO",
             "등록년월(월)": "2025년 08",
             "제품 분류": "외장 SSD",
@@ -5986,7 +5986,7 @@
         "Price": 678480,
         "BaseImageURL": "https://img.danawa.com/prod_img/500000/088/316/img/93316088_1.jpg?shrink=330:*&_v=20250630113304",
         "DetailImages": [],
-        "Specs": {
+        "Spec": {
             "제조회사": "Oyen Digital",
             "등록년월(월)": "2025년 06",
             "제품 분류": "외장 SSD",
@@ -6014,7 +6014,7 @@
         "Price": 3000,
         "BaseImageURL": "https://img.danawa.com/prod_img/500000/044/634/img/89634044_1.jpg?shrink=330:*&_v=20250430110014",
         "DetailImages": [],
-        "Specs": {
+        "Spec": {
             "제조회사": "Lexar",
             "등록년월(월)": "2024년 03",
             "제품 분류": "외장 SSD",
@@ -6042,7 +6042,7 @@
         "Price": 103310,
         "BaseImageURL": "https://img.danawa.com/prod_img/500000/180/699/img/20699180_1.jpg?shrink=330:*&_v=20230627143217",
         "DetailImages": [],
-        "Specs": {
+        "Spec": {
             "제조회사": "HIKVISION",
             "등록년월(월)": "2023년 06",
             "제품 분류": "외장 SSD",
@@ -6066,7 +6066,7 @@
         "Price": 477120,
         "BaseImageURL": "https://img.danawa.com/prod_img/500000/793/360/img/19360793_1.jpg?shrink=330:*&_v=20231204145422",
         "DetailImages": [],
-        "Specs": {
+        "Spec": {
             "제조회사": "Sandisk",
             "등록년월(월)": "2023년 03",
             "제품 분류": "외장 SSD",
@@ -6087,7 +6087,7 @@
         "Price": 116150,
         "BaseImageURL": "https://img.danawa.com/prod_img/500000/798/387/img/17387798_1.jpg?shrink=330:*&_v=20220727143212",
         "DetailImages": [],
-        "Specs": {
+        "Spec": {
             "제조회사": "킹스톤",
             "등록년월(월)": "2022년 06",
             "제품 분류": "외장 SSD",
@@ -6113,7 +6113,7 @@
         "Price": 90400,
         "BaseImageURL": "https://img.danawa.com/prod_img/500000/511/658/img/69658511_1.jpg?shrink=330:*&_v=20241210112742",
         "DetailImages": [],
-        "Specs": {
+        "Spec": {
             "제조회사": "ADATA",
             "등록년월(월)": "2024년 10",
             "제품 분류": "외장 SSD",
@@ -6137,7 +6137,7 @@
         "DetailImages": [
             "https://iws.danawa.com/upload_img/av_keyvisual_20121025_02:38:50.jpg"
         ],
-        "Specs": {
+        "Spec": {
             "제조회사": "삼성전자",
             "등록년월(월)": "2020년 01",
             "제품 분류": "외장 SSD",
@@ -6169,7 +6169,7 @@
         "Price": 93520,
         "BaseImageURL": "https://img.danawa.com/prod_img/500000/090/746/img/99746090_1.jpg?shrink=330:*&_v=20251030102729",
         "DetailImages": [],
-        "Specs": {
+        "Spec": {
             "제조회사": "VANSUNY",
             "등록년월(월)": "2025년 10",
             "제품 분류": "외장 SSD",
@@ -6193,7 +6193,7 @@
         "Price": 372200,
         "BaseImageURL": "https://img.danawa.com/prod_img/500000/512/708/img/96708512_1.jpg?shrink=330:*&_v=20250827104218",
         "DetailImages": [],
-        "Specs": {
+        "Spec": {
             "제조회사": "PATRIOT",
             "등록년월(월)": "2025년 08",
             "제품 분류": "외장 SSD",
@@ -6220,7 +6220,7 @@
         "Price": 428100,
         "BaseImageURL": "https://img.danawa.com/prod_img/500000/156/674/img/72674156_1.jpg?shrink=330:*&_v=20241210123607",
         "DetailImages": [],
-        "Specs": {
+        "Spec": {
             "제조회사": "ADATA",
             "등록년월(월)": "2024년 12",
             "제품 분류": "외장 SSD",
@@ -6245,7 +6245,7 @@
         "DetailImages": [
             "https://iws.danawa.com/prod_img/500000/451/387/desc/prod_8387451/add_1/20190729092633326_GNO22OBD.jpg"
         ],
-        "Specs": {
+        "Spec": {
             "제조회사": "포유디지탈",
             "등록년월(월)": "2019년 06",
             "제품 분류": "외장 SSD",
@@ -6270,7 +6270,7 @@
         "Price": 116840,
         "BaseImageURL": "https://img.danawa.com/prod_img/500000/477/420/img/95420477_1.jpg?shrink=330:*&_v=20250807095036",
         "DetailImages": [],
-        "Specs": {
+        "Spec": {
             "제조회사": "ORICO",
             "등록년월(월)": "2025년 08",
             "제품 분류": "외장 SSD",
@@ -6294,7 +6294,7 @@
         "Price": 534110,
         "BaseImageURL": "https://img.danawa.com/prod_img/500000/449/260/img/94260449_1.jpg?shrink=330:*&_v=20250718103407",
         "DetailImages": [],
-        "Specs": {
+        "Spec": {
             "제조회사": "Reletech",
             "등록년월(월)": "2025년 07",
             "제품 분류": "외장 SSD",
@@ -6317,7 +6317,7 @@
         "Price": 157390,
         "BaseImageURL": "https://img.danawa.com/prod_img/500000/374/804/img/93804374_1.jpg?shrink=330:*&_v=20250711085931",
         "DetailImages": [],
-        "Specs": {
+        "Spec": {
             "제조회사": "SSK",
             "등록년월(월)": "2025년 07",
             "제품 분류": "외장 SSD",
@@ -6345,7 +6345,7 @@
             "https://iws.danawa.com/prod_img/500000/569/084/desc/prod_15084569/add_1/20210903133803842_6KI29NMU.jpg",
             "https://iws.danawa.com/prod_img/500000/569/084/desc/prod_15084569/add_1/20210903133804598_7XUMXY41.jpg"
         ],
-        "Specs": {
+        "Spec": {
             "제조회사": "LaCie",
             "등록년월(월)": "2020년 01",
             "제품 분류": "외장 SSD",
@@ -6377,7 +6377,7 @@
         "DetailImages": [
             "https://iws.danawa.com/prod_img/500000/297/639/desc/prod_62639297/add_1/20241125085605923_JTHS8KK7.jpg"
         ],
-        "Specs": {
+        "Spec": {
             "제조회사": "ACASIS",
             "등록년월(월)": "2024년 08",
             "제품 분류": "외장 SSD",
@@ -6407,7 +6407,7 @@
         "DetailImages": [
             "https://iws.danawa.com/prod_img/500000/905/229/desc/prod_20229905/add_1/20190705091321864_N0FYH2HA.jpg"
         ],
-        "Specs": {
+        "Spec": {
             "제조회사": "리버네트워크",
             "등록년월(월)": "2023년 05",
             "제품 분류": "외장 SSD",
@@ -6430,7 +6430,7 @@
         "Price": 256000,
         "BaseImageURL": "https://img.danawa.com/prod_img/500000/798/880/img/94880798_1.jpg?shrink=330:*&_v=20250729084445",
         "DetailImages": [],
-        "Specs": {
+        "Spec": {
             "제조회사(g)": "Fanxian",
             "등록년월(월)": "2025년 07",
             "제품 분류": "외장 SSD",
@@ -6462,7 +6462,7 @@
         "DetailImages": [
             "https://iws.danawa.com/prod_img/500000/178/035/desc/prod_20035178/add_1/20190904140203643_HPDUNIXR.jpg"
         ],
-        "Specs": {
+        "Spec": {
             "제조회사": "리버네트워크",
             "등록년월(월)": "2023년 05",
             "제품 분류": "외장 SSD",
@@ -6486,7 +6486,7 @@
         "DetailImages": [
             "https://iws.danawa.com/prod_img/500000/506/441/desc/prod_12441506/add_1/20220630135630191_HK2KVVJ7.jpg"
         ],
-        "Specs": {
+        "Spec": {
             "제조회사": "LaCie",
             "등록년월(월)": "2020년 10",
             "제품 분류": "외장 SSD",
@@ -6519,7 +6519,7 @@
         "Price": 115870,
         "BaseImageURL": "https://img.danawa.com/prod_img/500000/282/497/img/93497282_1.jpg?shrink=330:*&_v=20250703093611",
         "DetailImages": [],
-        "Specs": {
+        "Spec": {
             "제조회사": "Avolusion",
             "등록년월(월)": "2025년 07",
             "제품 분류": "외장 SSD",
@@ -6542,7 +6542,7 @@
         "Price": 88860,
         "BaseImageURL": "https://img.danawa.com/prod_img/500000/897/767/img/39767897_1.jpg?shrink=330:*&_v=20240306161213",
         "DetailImages": [],
-        "Specs": {
+        "Spec": {
             "제조회사": "트랜센드",
             "등록년월(월)": "2024년 03",
             "제품 분류": "외장 SSD",
@@ -6572,7 +6572,7 @@
         "Price": 351330,
         "BaseImageURL": "https://img.danawa.com/prod_img/500000/594/767/img/39767594_1.jpg?shrink=330:*&_v=20240306154525",
         "DetailImages": [],
-        "Specs": {
+        "Spec": {
             "제조회사": "트랜센드",
             "등록년월(월)": "2024년 02",
             "제품 분류": "외장 SSD",
@@ -6603,7 +6603,7 @@
         "DetailImages": [
             "https://iws.danawa.com/prod_img/500000/393/394/desc/prod_28394393/add_1/20230920124412235_ZXR9R7V3.jpg"
         ],
-        "Specs": {
+        "Spec": {
             "제조회사": "트랜센드",
             "등록년월(월)": "2023년 09",
             "제품 분류": "외장 SSD",
@@ -6632,7 +6632,7 @@
         "Price": 547800,
         "BaseImageURL": "https://img.danawa.com/prod_img/500000/439/960/img/19960439_1.jpg?shrink=330:*&_v=20231204145400",
         "DetailImages": [],
-        "Specs": {
+        "Spec": {
             "제조회사": "Sandisk",
             "등록년월(월)": "2023년 03",
             "제품 분류": "외장 SSD",
@@ -6652,7 +6652,7 @@
         "Price": 255050,
         "BaseImageURL": "https://img.danawa.com/prod_img/500000/603/357/img/17357603_1.jpg?shrink=330:*&_v=20230706152659",
         "DetailImages": [],
-        "Specs": {
+        "Spec": {
             "제조회사": "킹스톤",
             "등록년월(월)": "2022년 06",
             "제품 분류": "외장 SSD",
@@ -6679,7 +6679,7 @@
         "Price": 283000,
         "BaseImageURL": "https://img.danawa.com/prod_img/500000/333/570/img/14570333_1.jpg?shrink=330:*&_v=20250715092937",
         "DetailImages": [],
-        "Specs": {
+        "Spec": {
             "제조회사": "Western Digital",
             "등록년월(월)": "2020년 10",
             "제품 분류": "외장 SSD",
@@ -6710,7 +6710,7 @@
         "DetailImages": [
             "https://iws.danawa.com/prod_img/500000/979/614/desc/prod_9614979/add_1/20191007170222385_D09ZISK6.jpg"
         ],
-        "Specs": {
+        "Spec": {
             "제조회사": "ORICO",
             "등록년월(월)": "2019년 10",
             "제품 분류": "외장 SSD",
@@ -6735,7 +6735,7 @@
         "Price": 176400,
         "BaseImageURL": "https://img.danawa.com/prod_img/500000/858/706/img/97706858_1.jpg?shrink=330:*&_v=20250915165236",
         "DetailImages": [],
-        "Specs": {
+        "Spec": {
             "제조회사": "AGI",
             "등록년월(월)": "2025년 09",
             "제품 분류": "외장 SSD",
@@ -6760,7 +6760,7 @@
         "Price": 158500,
         "BaseImageURL": "https://img.danawa.com/prod_img/500000/358/538/img/75538358_1.jpg?shrink=330:*&_v=20250204125738",
         "DetailImages": [],
-        "Specs": {
+        "Spec": {
             "제조회사": "PNY",
             "등록년월(월)": "2025년 02",
             "제품 분류": "외장 SSD",
@@ -6783,7 +6783,7 @@
         "Price": 245470,
         "BaseImageURL": "https://img.danawa.com/prod_img/500000/513/336/img/74336513_1.jpg?shrink=330:*&_v=20250114110538",
         "DetailImages": [],
-        "Specs": {
+        "Spec": {
             "제조회사": "MSI",
             "등록년월(월)": "2025년 01",
             "제품 분류": "외장 SSD",
@@ -6809,7 +6809,7 @@
         "Price": 280000,
         "BaseImageURL": "https://img.danawa.com/prod_img/500000/821/591/img/72591821_1.jpg?shrink=330:*&_v=20241209155405",
         "DetailImages": [],
-        "Specs": {
+        "Spec": {
             "등록년월(월)": "2024년 12",
             "제품 분류": "외장 SSD",
             "디스크 크기": "6.4cm(2.5인치)",
@@ -6829,7 +6829,7 @@
         "Price": 298910,
         "BaseImageURL": "https://img.danawa.com/prod_img/500000/481/470/img/17470481_1.jpg?shrink=330:*&_v=20250911132939",
         "DetailImages": [],
-        "Specs": {
+        "Spec": {
             "제조회사": "트랜센드",
             "등록년월(월)": "2022년 07",
             "제품 분류": "외장 SSD",
@@ -6855,7 +6855,7 @@
         "Price": 7000,
         "BaseImageURL": "https://img.danawa.com/prod_img/500000/670/768/img/91768670_1.jpg?shrink=330:*&_v=20250611092713",
         "DetailImages": [],
-        "Specs": {
+        "Spec": {
             "등록년월(월)": "2025년 06",
             "제품 분류": "외장 SSD",
             "디스크 크기": "M.2 (기타)",
@@ -6874,7 +6874,7 @@
         "Price": 889000,
         "BaseImageURL": "https://img.danawa.com/prod_img/500000/068/114/img/90114068_1.jpg?shrink=330:*&_v=20250616180648",
         "DetailImages": [],
-        "Specs": {
+        "Spec": {
             "제조회사": "Sabrent",
             "등록년월(월)": "2025년 05",
             "제품 분류": "외장 SSD",
@@ -6898,7 +6898,7 @@
         "Price": 111700,
         "BaseImageURL": "https://img.danawa.com/prod_img/500000/210/834/img/59834210_1.jpg?shrink=330:*&_v=20240709165543",
         "DetailImages": [],
-        "Specs": {
+        "Spec": {
             "제조회사": "ADATA",
             "등록년월(월)": "2024년 07",
             "제품 분류": "외장 SSD",
@@ -6925,7 +6925,7 @@
         "DetailImages": [
             "https://iws.danawa.com/prod_img/500000/915/231/desc/prod_35231915/add_1/20240208125924745_VJMMA3YL.jpg"
         ],
-        "Specs": {
+        "Spec": {
             "제조회사": "트랜센드",
             "등록년월(월)": "2024년 02",
             "제품 분류": "외장 SSD",
@@ -6957,7 +6957,7 @@
         "DetailImages": [
             "https://iws.danawa.com/prod_img/500000/236/585/desc/prod_96585236/add_1/20250806083956117_FALC9WMD.jpg"
         ],
-        "Specs": {
+        "Spec": {
             "제조회사": "위즈플랫",
             "등록년월(월)": "2025년 08",
             "제품 분류": "외장 SSD",
@@ -6985,7 +6985,7 @@
         "DetailImages": [
             "https://iws.danawa.com/prod_img/500000/717/254/desc/prod_39254717/add_1/20231018183536514_TRLB4ULM.jpg"
         ],
-        "Specs": {
+        "Spec": {
             "제조회사": "리버네트워크",
             "등록년월(월)": "2024년 03",
             "제품 분류": "외장 SSD",
@@ -7009,7 +7009,7 @@
         "Price": 156800,
         "BaseImageURL": "https://img.danawa.com/prod_img/500000/337/632/img/101632337_1.jpg?shrink=330:*&_v=20251203163636",
         "DetailImages": [],
-        "Specs": {
+        "Spec": {
             "제조회사": "ProGrade",
             "등록년월(월)": "2025년 12",
             "제품 분류": "외장 SSD",
@@ -7033,7 +7033,7 @@
         "Price": 98800,
         "BaseImageURL": "https://img.danawa.com/prod_img/500000/969/803/img/93803969_1.jpg?shrink=330:*&_v=20250711085948",
         "DetailImages": [],
-        "Specs": {
+        "Spec": {
             "제조회사": "SSK",
             "등록년월(월)": "2025년 07",
             "제품 분류": "외장 SSD",
@@ -7061,7 +7061,7 @@
         "Price": 220130,
         "BaseImageURL": "https://img.danawa.com/prod_img/500000/134/364/img/68364134_1.jpg?shrink=330:*&_v=20250403152058",
         "DetailImages": [],
-        "Specs": {
+        "Spec": {
             "제조회사": "Sabrent",
             "등록년월(월)": "2024년 10",
             "제품 분류": "외장 SSD",
@@ -7086,7 +7086,7 @@
         "Price": 299500,
         "BaseImageURL": "https://img.danawa.com/prod_img/500000/702/914/img/39914702_1.jpg?shrink=330:*&_v=20240307134308",
         "DetailImages": [],
-        "Specs": {
+        "Spec": {
             "제조회사": "Sabrent",
             "등록년월(월)": "2024년 03",
             "제품 분류": "외장 SSD",
@@ -7113,7 +7113,7 @@
         "DetailImages": [
             "https://iws.danawa.com/prod_img/500000/132/303/desc/prod_14303132/add_1/20191007165920635_M4HXHGZ8.jpg"
         ],
-        "Specs": {
+        "Spec": {
             "제조회사": "ORICO",
             "등록년월(월)": "2020년 02",
             "제품 분류": "외장 SSD",
@@ -7141,7 +7141,7 @@
         "DetailImages": [
             "https://iws.danawa.com/upload_img/av_keyvisual_20121025_02:38:50.jpg"
         ],
-        "Specs": {
+        "Spec": {
             "제조회사": "Western Digital",
             "등록년월(월)": "2019년 11",
             "제품 분류": "외장 SSD",
@@ -7167,7 +7167,7 @@
         "DetailImages": [
             "https://iws.danawa.com/prod_img/500000/226/776/desc/prod_7776226/add_1/20220106102409243_0CG4VR9R.jpg"
         ],
-        "Specs": {
+        "Spec": {
             "제조회사": "리버네트워크",
             "등록년월(월)": "2019년 05",
             "제품 분류": "외장 SSD",
@@ -7191,7 +7191,7 @@
         "DetailImages": [
             "https://iws.danawa.com/prod_img/500000/172/702/desc/prod_100702172/add_1/20251120102412603_OKU2W7XP.jpg"
         ],
-        "Specs": {
+        "Spec": {
             "제조회사": "OWC",
             "등록년월(월)": "2025년 11",
             "제품 분류": "외장 SSD",
@@ -7216,7 +7216,7 @@
         "Price": 168810,
         "BaseImageURL": "https://img.danawa.com/prod_img/500000/295/739/img/99739295_1.jpg?shrink=330:*&_v=20251029085539",
         "DetailImages": [],
-        "Specs": {
+        "Spec": {
             "제조회사": "실리콘파워",
             "등록년월(월)": "2024년 01",
             "제품 분류": "외장 SSD",
@@ -7242,7 +7242,7 @@
         "Price": 246850,
         "BaseImageURL": "https://img.danawa.com/prod_img/500000/873/287/img/99287873_1.jpg?shrink=330:*&_v=20251020101409",
         "DetailImages": [],
-        "Specs": {
+        "Spec": {
             "제조회사": "Titanium Micro",
             "등록년월(월)": "2025년 10",
             "제품 분류": "외장 SSD",
@@ -7270,7 +7270,7 @@
         "DetailImages": [
             "https://iws.danawa.com/prod_img/500000/431/057/desc/prod_96057431/add_1/20250814112218288_49K8I2LF.jpg"
         ],
-        "Specs": {
+        "Spec": {
             "제조회사": "트랜센드",
             "등록년월(월)": "2025년 08",
             "제품 분류": "외장 SSD",
@@ -7300,7 +7300,7 @@
         "Price": 47590,
         "BaseImageURL": "https://img.danawa.com/prod_img/500000/949/859/img/93859949_1.jpg?shrink=330:*&_v=20250710095359",
         "DetailImages": [],
-        "Specs": {
+        "Spec": {
             "제조회사": "SSK",
             "등록년월(월)": "2025년 07",
             "제품 분류": "외장 SSD",
@@ -7326,7 +7326,7 @@
         "Price": 90060,
         "BaseImageURL": "https://img.danawa.com/prod_img/500000/901/319/img/93319901_1.jpg?shrink=330:*&_v=20250701085741",
         "DetailImages": [],
-        "Specs": {
+        "Spec": {
             "제조회사": "버바팀",
             "등록년월(월)": "2025년 06",
             "제품 분류": "외장 SSD",
@@ -7352,7 +7352,7 @@
         "Price": 346930,
         "BaseImageURL": "https://img.danawa.com/prod_img/500000/067/742/img/87742067_1.jpg?shrink=330:*&_v=20250924174625",
         "DetailImages": [],
-        "Specs": {
+        "Spec": {
             "제조회사": "Lexar",
             "등록년월(월)": "2025년 04",
             "제품 분류": "외장 SSD",
@@ -7373,7 +7373,7 @@
         "Price": 42680,
         "BaseImageURL": "https://img.danawa.com/prod_img/500000/931/655/img/75655931_1.jpg?shrink=330:*&_v=20250206110658",
         "DetailImages": [],
-        "Specs": {
+        "Spec": {
             "제조회사": "ORICO",
             "등록년월(월)": "2025년 02",
             "제품 분류": "외장 SSD",
@@ -7397,7 +7397,7 @@
         "Price": 1039290,
         "BaseImageURL": "https://img.danawa.com/prod_img/500000/916/782/img/53782916_1.jpg?shrink=330:*&_v=20251126165400",
         "DetailImages": [],
-        "Specs": {
+        "Spec": {
             "제조회사": "Sandisk",
             "등록년월(월)": "2024년 05",
             "제품 분류": "외장 SSD",
@@ -7425,7 +7425,7 @@
         "DetailImages": [
             "https://iws.danawa.com/prod_img/500000/738/208/desc/prod_13208738/add_1/20250911093711211_BAN1QJ3K.jpg"
         ],
-        "Specs": {
+        "Spec": {
             "제조회사": "트랜센드",
             "등록년월(월)": "2021년 01",
             "제품 분류": "외장 SSD",
@@ -7455,7 +7455,7 @@
         "Price": 84540,
         "BaseImageURL": "https://img.danawa.com/prod_img/500000/711/624/img/101624711_1.jpg?shrink=330:*&_v=20251202104920",
         "DetailImages": [],
-        "Specs": {
+        "Spec": {
             "제조회사": "Centon",
             "등록년월(월)": "2025년 12",
             "제품 분류": "외장 SSD",
@@ -7477,7 +7477,7 @@
         "Price": 116200,
         "BaseImageURL": "https://img.danawa.com/prod_img/500000/415/782/img/98782415_1.jpg?shrink=330:*&_v=20251014161348",
         "DetailImages": [],
-        "Specs": {
+        "Spec": {
             "제조회사": "실리콘파워",
             "등록년월(월)": "2024년 03",
             "제품 분류": "외장 SSD",
@@ -7502,7 +7502,7 @@
         "Price": 1792700,
         "BaseImageURL": "https://img.danawa.com/prod_img/500000/255/977/img/96977255_1.jpg?shrink=330:*&_v=20250901100454",
         "DetailImages": [],
-        "Specs": {
+        "Spec": {
             "제조회사": "OWC",
             "등록년월(월)": "2025년 09",
             "제품 분류": "외장 SSD",
@@ -7528,7 +7528,7 @@
         "Price": 95840,
         "BaseImageURL": "https://img.danawa.com/prod_img/500000/132/357/img/92357132_1.jpg?shrink=330:*&_v=20250616103532",
         "DetailImages": [],
-        "Specs": {
+        "Spec": {
             "제조회사": "트랜센드",
             "등록년월(월)": "2025년 06",
             "제품 분류": "외장 SSD",
@@ -7552,7 +7552,7 @@
         "Price": 437430,
         "BaseImageURL": "https://img.danawa.com/prod_img/500000/956/400/img/86400956_1.jpg?shrink=330:*&_v=20251124084212",
         "DetailImages": [],
-        "Specs": {
+        "Spec": {
             "제조회사": "Lexar",
             "등록년월(월)": "2024년 06",
             "제품 분류": "외장 SSD",
@@ -7579,7 +7579,7 @@
         "Price": 347900,
         "BaseImageURL": "https://img.danawa.com/prod_img/500000/420/570/img/80570420_1.jpg?shrink=330:*&_v=20250415102425",
         "DetailImages": [],
-        "Specs": {
+        "Spec": {
             "제조회사": "GLYPH TECH",
             "등록년월(월)": "2025년 04",
             "제품 분류": "외장 SSD",
@@ -7602,7 +7602,7 @@
         "Price": 240890,
         "BaseImageURL": "https://img.danawa.com/prod_img/500000/134/580/img/68580134_1.jpg?shrink=330:*&_v=20250424151119",
         "DetailImages": [],
-        "Specs": {
+        "Spec": {
             "제조회사": "Sandisk",
             "등록년월(월)": "2024년 10",
             "제품 분류": "외장 SSD",
@@ -7626,7 +7626,7 @@
         "Price": 351560,
         "BaseImageURL": "https://img.danawa.com/prod_img/500000/944/929/img/37929944_1.jpg?shrink=330:*&_v=20240227142733",
         "DetailImages": [],
-        "Specs": {
+        "Spec": {
             "제조회사": "Lexar",
             "등록년월(월)": "2024년 02",
             "제품 분류": "외장 SSD",
@@ -7652,7 +7652,7 @@
         "Price": 798760,
         "BaseImageURL": "https://img.danawa.com/prod_img/500000/136/347/img/95347136_1.jpg?shrink=330:*&_v=20250806163605",
         "DetailImages": [],
-        "Specs": {
+        "Spec": {
             "제조회사": "GLYPH TECH",
             "등록년월(월)": "2025년 08",
             "제품 분류": "외장 SSD",
@@ -7675,7 +7675,7 @@
         "Price": 273300,
         "BaseImageURL": "https://img.danawa.com/prod_img/500000/872/858/img/93858872_1.jpg?shrink=330:*&_v=20250710084743",
         "DetailImages": [],
-        "Specs": {
+        "Spec": {
             "제조회사": "SSK",
             "등록년월(월)": "2025년 07",
             "제품 분류": "외장 SSD",
@@ -7701,7 +7701,7 @@
         "Price": 231010,
         "BaseImageURL": "https://img.danawa.com/prod_img/500000/604/016/img/93016604_1.jpg?shrink=330:*&_v=20250625104853",
         "DetailImages": [],
-        "Specs": {
+        "Spec": {
             "제조회사": "Titanium Micro",
             "등록년월(월)": "2025년 05",
             "제품 분류": "외장 SSD",
@@ -7728,7 +7728,7 @@
         "DetailImages": [
             "https://iws.danawa.com/prod_img/500000/297/560/desc/prod_12560297/add_1/20201118091434644_BIRZD9E7.jpg"
         ],
-        "Specs": {
+        "Spec": {
             "제조회사": "ORICO",
             "등록년월(월)": "2020년 10",
             "제품 분류": "외장 SSD",
@@ -7754,7 +7754,7 @@
         "DetailImages": [
             "https://iws.danawa.com/upload_img/av_keyvisual_20121025_02:38:50.jpg"
         ],
-        "Specs": {
+        "Spec": {
             "제조회사": "LaCie",
             "등록년월(월)": "2020년 01",
             "제품 분류": "외장 SSD",
@@ -7790,7 +7790,7 @@
             "https://iws.danawa.com/prod_img/500000/771/236/desc/prod_6236771/add_1/20180824103038600_8AK03GTV.jpg",
             "https://iws.danawa.com/DetailImages/banner/dnwCopyrightBanner.jpg"
         ],
-        "Specs": {
+        "Spec": {
             "제조회사": "서진네트웍스 UNICORN",
             "등록년월(월)": "2018년 06",
             "제품 분류": "외장 SSD",
@@ -7813,7 +7813,7 @@
         "Price": 127400,
         "BaseImageURL": "https://img.danawa.com/prod_img/500000/269/261/img/96261269_1.jpg?shrink=330:*&_v=20250818162928",
         "DetailImages": [],
-        "Specs": {
+        "Spec": {
             "제조회사": "Netac",
             "등록년월(월)": "2025년 08",
             "제품 분류": "외장 SSD",
@@ -7838,7 +7838,7 @@
         "Price": 100600,
         "BaseImageURL": "https://img.danawa.com/prod_img/500000/915/937/img/94937915_1.jpg?shrink=330:*&_v=20250730171142",
         "DetailImages": [],
-        "Specs": {
+        "Spec": {
             "제조회사": "HP",
             "등록년월(월)": "2025년 07",
             "제품 분류": "외장 SSD",
@@ -7863,7 +7863,7 @@
         "Price": 491250,
         "BaseImageURL": "https://img.danawa.com/prod_img/500000/539/498/img/93498539_1.jpg?shrink=330:*&_v=20250703112126",
         "DetailImages": [],
-        "Specs": {
+        "Spec": {
             "제조회사": "iStorage",
             "등록년월(월)": "2025년 07",
             "제품 분류": "외장 SSD",
@@ -7889,7 +7889,7 @@
         "Price": 515920,
         "BaseImageURL": "https://img.danawa.com/prod_img/500000/557/622/img/92622557_1.jpg?shrink=330:*&_v=20251030100410",
         "DetailImages": [],
-        "Specs": {
+        "Spec": {
             "제조회사": "WAVLINK",
             "등록년월(월)": "2025년 06",
             "제품 분류": "외장 SSD",
@@ -7911,7 +7911,7 @@
         "Price": 180230,
         "BaseImageURL": "https://img.danawa.com/prod_img/500000/734/435/img/90435734_1.jpg?shrink=330:*&_v=20250512133358",
         "DetailImages": [],
-        "Specs": {
+        "Spec": {
             "제조회사": "ORICO",
             "등록년월(월)": "2025년 05",
             "제품 분류": "외장 SSD",
@@ -7933,7 +7933,7 @@
         "Price": 200700,
         "BaseImageURL": "https://img.danawa.com/prod_img/500000/814/304/img/57304814_1.jpg?shrink=330:*&_v=20240618102035",
         "DetailImages": [],
-        "Specs": {
+        "Spec": {
             "제조회사": "태경리테일",
             "등록년월(월)": "2024년 06",
             "제품 분류": "외장 SSD",
@@ -7955,7 +7955,7 @@
         "Price": 209660,
         "BaseImageURL": "https://img.danawa.com/prod_img/500000/162/698/img/54698162_1.jpg?shrink=330:*&_v=20250911164158",
         "DetailImages": [],
-        "Specs": {
+        "Spec": {
             "제조회사": "트랜센드",
             "등록년월(월)": "2024년 05",
             "제품 분류": "외장 SSD",
@@ -7984,7 +7984,7 @@
         "Price": 157000,
         "BaseImageURL": "https://img.danawa.com/prod_img/500000/869/886/img/32886869_1.jpg?shrink=330:*&_v=20240227131239",
         "DetailImages": [],
-        "Specs": {
+        "Spec": {
             "제조회사": "실리콘파워",
             "등록년월(월)": "2024년 01",
             "제품 분류": "외장 SSD",
@@ -8015,7 +8015,7 @@
             "https://iws.danawa.com/prod_img/500000/936/056/desc/prod_18056936/add_1/20221213164405223_XX7PG4PE.jpg",
             "https://iws.danawa.com/prod_img/500000/936/056/desc/prod_18056936/add_1/20221213164412682_KA7SI1RR.jpg"
         ],
-        "Specs": {
+        "Spec": {
             "제조회사": "리뷰안",
             "등록년월(월)": "2022년 10",
             "제품 분류": "외장 SSD",
@@ -8045,7 +8045,7 @@
         "Price": 3000,
         "BaseImageURL": "https://img.danawa.com/prod_img/500000/705/317/img/6317705_1.jpg?shrink=330:*&_v=20191029110719",
         "DetailImages": [],
-        "Specs": {
+        "Spec": {
             "제조회사": "트랜센드",
             "등록년월(월)": "2018년 07",
             "제품 분류": "외장 SSD",
@@ -8071,7 +8071,7 @@
         "Price": 201340,
         "BaseImageURL": "https://img.danawa.com/prod_img/500000/603/075/img/101075603_1.jpg?shrink=330:*&_v=20251126105554",
         "DetailImages": [],
-        "Specs": {
+        "Spec": {
             "제조회사": "킹스톤",
             "등록년월(월)": "2025년 11",
             "제품 분류": "외장 SSD",
@@ -8097,7 +8097,7 @@
         "Price": 69310,
         "BaseImageURL": "https://img.danawa.com/prod_img/500000/902/023/img/94023902_1.jpg?shrink=330:*&_v=20250714092400",
         "DetailImages": [],
-        "Specs": {
+        "Spec": {
             "제조회사": "Fikwot",
             "등록년월(월)": "2025년 07",
             "제품 분류": "외장 SSD",
@@ -8116,7 +8116,7 @@
         "Price": 242630,
         "BaseImageURL": "https://img.danawa.com/prod_img/500000/706/502/img/93502706_1.jpg?shrink=330:*&_v=20250703182643",
         "DetailImages": [],
-        "Specs": {
+        "Spec": {
             "제조회사": "Lexar",
             "등록년월(월)": "2023년 05",
             "제품 분류": "외장 SSD",
@@ -8139,7 +8139,7 @@
         "Price": 1350400,
         "BaseImageURL": "https://img.danawa.com/prod_img/500000/864/443/img/93443864_1.jpg?shrink=330:*&_v=20250826105603",
         "DetailImages": [],
-        "Specs": {
+        "Spec": {
             "제조회사": "Oyen Digital",
             "등록년월(월)": "2025년 07",
             "제품 분류": "외장 SSD",
@@ -8167,7 +8167,7 @@
         "Price": 301730,
         "BaseImageURL": "https://img.danawa.com/prod_img/500000/816/634/img/91634816_1.jpg?shrink=330:*&_v=20250711111539",
         "DetailImages": [],
-        "Specs": {
+        "Spec": {
             "제조회사": "ProGrade",
             "등록년월(월)": "2025년 05",
             "제품 분류": "외장 SSD",
@@ -8191,7 +8191,7 @@
         "Price": 190700,
         "BaseImageURL": "https://img.danawa.com/prod_img/500000/976/307/img/78307976_1.jpg?shrink=330:*&_v=20250320113134",
         "DetailImages": [],
-        "Specs": {
+        "Spec": {
             "제조회사": "PATRIOT",
             "등록년월(월)": "2025년 03",
             "제품 분류": "외장 SSD",
@@ -8215,7 +8215,7 @@
         "Price": 123890,
         "BaseImageURL": "https://img.danawa.com/prod_img/500000/409/344/img/68344409_1.jpg?shrink=330:*&_v=20241007113311",
         "DetailImages": [],
-        "Specs": {
+        "Spec": {
             "제조회사": "PNY",
             "등록년월(월)": "2024년 10",
             "제품 분류": "외장 SSD",

@@ -1,6 +1,6 @@
 [
     {
-        "pcode": "74340266",
+        "PCode": "74340266",
         "model_name": "MSI MAG B860M 박격포 WIFI",
         "제조회사": "MSI",
         "등록년월": {
@@ -122,7 +122,7 @@
         ]
     },
     {
-        "pcode": "20324882",
+        "PCode": "20324882",
         "model_name": "GIGABYTE B650M K 제이씨현",
         "제조회사": "GIGABYTE",
         "등록년월": {
@@ -239,7 +239,7 @@
         ]
     },
     {
-        "pcode": "79397648",
+        "PCode": "79397648",
         "model_name": "MSI MAG B850M 박격포 WIFI",
         "제조회사": "MSI",
         "등록년월": {
@@ -356,7 +356,7 @@
         ]
     },
     {
-        "pcode": "21727307",
+        "PCode": "21727307",
         "model_name": "GIGABYTE B650M K 피씨디렉트",
         "제조회사": "GIGABYTE",
         "등록년월": {
@@ -472,7 +472,7 @@
         ]
     },
     {
-        "pcode": "21727307",
+        "PCode": "21727307",
         "model_name": "GIGABYTE B650M K 피씨디렉트",
         "제조회사": "GIGABYTE",
         "등록년월": {
@@ -588,7 +588,7 @@
         ]
     },
     {
-        "pcode": "79397648",
+        "PCode": "79397648",
         "model_name": "MSI MAG B850M 박격포 WIFI",
         "제조회사": "MSI",
         "등록년월": {
@@ -705,7 +705,7 @@
         ]
     },
     {
-        "pcode": "95988710",
+        "PCode": "95988710",
         "model_name": "ASUS TUF Gaming B850M-PLUS WIFI7 STCOM",
         "제조회사": "ASUS",
         "등록년월": {
@@ -829,7 +829,7 @@
         ]
     },
     {
-        "pcode": "73892423",
+        "PCode": "73892423",
         "model_name": "GIGABYTE B850M AORUS ELITE WIFI6E ICE 제이씨현",
         "제조회사": "GIGABYTE",
         "등록년월": {
@@ -958,7 +958,7 @@
         ]
     },
     {
-        "pcode": "74340266",
+        "PCode": "74340266",
         "model_name": "MSI MAG B860M 박격포 WIFI",
         "제조회사": "MSI",
         "등록년월": {
@@ -1080,7 +1080,7 @@
         ]
     },
     {
-        "pcode": "93071258",
+        "PCode": "93071258",
         "model_name": "ASUS B850M MAX GAMING WIFI 대원씨티에스",
         "제조회사": "ASUS",
         "등록년월": {
@@ -1191,7 +1191,7 @@
         ]
     },
     {
-        "pcode": "76509641",
+        "PCode": "76509641",
         "model_name": "ASRock B650M Pro X3D 에즈윈",
         "제조회사": "ASRock",
         "등록년월": {
@@ -1304,7 +1304,7 @@
         ]
     },
     {
-        "pcode": "20324882",
+        "PCode": "20324882",
         "model_name": "GIGABYTE B650M K 제이씨현",
         "제조회사": "GIGABYTE",
         "등록년월": {
@@ -1421,7 +1421,7 @@
         ]
     },
     {
-        "pcode": "95280263",
+        "PCode": "95280263",
         "model_name": "GIGABYTE B850M FORCE 제이씨현",
         "제조회사": "GIGABYTE",
         "등록년월": {
@@ -1524,7 +1524,7 @@
         ]
     },
     {
-        "pcode": "74338115",
+        "PCode": "74338115",
         "model_name": "ASUS ROG STRIX B860-G GAMING WIFI 코잇",
         "제조회사": "ASUS",
         "등록년월": {
@@ -1640,7 +1640,7 @@
         ]
     },
     {
-        "pcode": "73884029",
+        "PCode": "73884029",
         "model_name": "ASUS TUF Gaming B850M-PLUS STCOM",
         "제조회사": "ASUS",
         "등록년월": {
@@ -1752,7 +1752,7 @@
         ]
     },
     {
-        "pcode": "73884083",
+        "PCode": "73884083",
         "model_name": "ASUS TUF Gaming B850-PLUS WIFI STCOM",
         "제조회사": "ASUS",
         "등록년월": {
@@ -1876,7 +1876,7 @@
         ]
     },
     {
-        "pcode": "74337680",
+        "PCode": "74337680",
         "model_name": "ASUS PRIME B860M-A-CSM 코잇",
         "제조회사": "ASUS",
         "등록년월": {
@@ -1985,7 +1985,7 @@
         ]
     },
     {
-        "pcode": "75857021",
+        "PCode": "75857021",
         "model_name": "MSI MAG X870E 토마호크 WIFI",
         "제조회사": "MSI",
         "등록년월": {
@@ -2108,7 +2108,7 @@
         ]
     },
     {
-        "pcode": "74814341",
+        "PCode": "74814341",
         "model_name": "MSI MAG B850 토마호크 맥스 WIFI",
         "제조회사": "MSI",
         "등록년월": {
@@ -2235,7 +2235,7 @@
         ]
     },
     {
-        "pcode": "98613731",
+        "PCode": "98613731",
         "model_name": "GIGABYTE X870E AORUS MASTER X3D ICE 피씨디렉트",
         "제조회사": "GIGABYTE",
         "등록년월": {
@@ -2343,7 +2343,7 @@
         ]
     },
     {
-        "pcode": "74339975",
+        "PCode": "74339975",
         "model_name": "MSI PRO B860M-A WIFI",
         "제조회사": "MSI",
         "등록년월": {
@@ -2456,7 +2456,7 @@
         ]
     },
     {
-        "pcode": "93071258",
+        "PCode": "93071258",
         "model_name": "ASUS B850M MAX GAMING WIFI 대원씨티에스",
         "제조회사": "ASUS",
         "등록년월": {
@@ -2567,7 +2567,7 @@
         ]
     },
     {
-        "pcode": "74255387",
+        "PCode": "74255387",
         "model_name": "GIGABYTE B860M AORUS ELITE WIFI6E ICE 피씨디렉트",
         "제조회사": "GIGABYTE",
         "등록년월": {
@@ -2679,7 +2679,7 @@
         ]
     },
     {
-        "pcode": "37226114",
+        "PCode": "37226114",
         "model_name": "MSI MAG B760M 박격포 II",
         "제조회사": "MSI",
         "등록년월": {
@@ -2796,7 +2796,7 @@
         ]
     },
     {
-        "pcode": "92043230",
+        "PCode": "92043230",
         "model_name": "MAXSUN e스포츠 B850ITX WIFI ICE 디앤디컴",
         "제조회사": "MAXSUN",
         "등록년월": {
@@ -2896,7 +2896,7 @@
         ]
     },
     {
-        "pcode": "73560548",
+        "PCode": "73560548",
         "model_name": "GIGABYTE X870E AORUS PRO 피씨디렉트",
         "제조회사": "GIGABYTE",
         "등록년월": {
@@ -3017,7 +3017,7 @@
         ]
     },
     {
-        "pcode": "95988578",
+        "PCode": "95988578",
         "model_name": "ASUS TUF Gaming B850M-PLUS II STCOM",
         "제조회사": "ASUS",
         "등록년월": {
@@ -3128,7 +3128,7 @@
         ]
     },
     {
-        "pcode": "67852211",
+        "PCode": "67852211",
         "model_name": "ASUS ROG CROSSHAIR X870E HERO 대원씨티에스",
         "제조회사": "ASUS",
         "등록년월": {
@@ -3239,7 +3239,7 @@
         ]
     },
     {
-        "pcode": "97121798",
+        "PCode": "97121798",
         "model_name": "MSI PRO H810M-B",
         "제조회사": "MSI",
         "등록년월": {
@@ -3336,7 +3336,7 @@
         ]
     },
     {
-        "pcode": "93703418",
+        "PCode": "93703418",
         "model_name": "ASUS TUF Gaming B650EM-E WIFI 대원씨티에스",
         "제조회사": "ASUS",
         "등록년월": {
@@ -3448,7 +3448,7 @@
         ]
     },
     {
-        "pcode": "34815659",
+        "PCode": "34815659",
         "model_name": "ASUS TUF Gaming B760M-PLUS II 코잇",
         "제조회사": "ASUS",
         "등록년월": {
@@ -3564,7 +3564,7 @@
         ]
     },
     {
-        "pcode": "19536062",
+        "PCode": "19536062",
         "model_name": "ASRock B760M Pro RS D5 에즈윈",
         "제조회사": "ASRock",
         "등록년월": {
@@ -3702,7 +3702,7 @@
         ]
     },
     {
-        "pcode": "74251349",
+        "PCode": "74251349",
         "model_name": "GIGABYTE B860M DS3H 제이씨현",
         "제조회사": "GIGABYTE",
         "등록년월": {
@@ -3798,7 +3798,7 @@
         ]
     },
     {
-        "pcode": "91872095",
+        "PCode": "91872095",
         "model_name": "GIGABYTE B760M DS3H GEN5 피씨디렉트",
         "제조회사": "GIGABYTE",
         "등록년월": {
@@ -3905,7 +3905,7 @@
         ]
     },
     {
-        "pcode": "19241759",
+        "PCode": "19241759",
         "model_name": "MSI PRO B760M-A WIFI",
         "제조회사": "MSI",
         "등록년월": {
@@ -4015,7 +4015,7 @@
         ]
     },
     {
-        "pcode": "74255387",
+        "PCode": "74255387",
         "model_name": "GIGABYTE B860M AORUS ELITE WIFI6E ICE 피씨디렉트",
         "제조회사": "GIGABYTE",
         "등록년월": {
@@ -4127,7 +4127,7 @@
         ]
     },
     {
-        "pcode": "74341163",
+        "PCode": "74341163",
         "model_name": "ASRock B850M Pro-A 에즈윈",
         "제조회사": "ASRock",
         "등록년월": {
@@ -4236,7 +4236,7 @@
         ]
     },
     {
-        "pcode": "73892000",
+        "PCode": "73892000",
         "model_name": "GIGABYTE B850M AORUS ELITE WIFI6E ICE 피씨디렉트",
         "제조회사": "GIGABYTE",
         "등록년월": {
@@ -4357,7 +4357,7 @@
         ]
     },
     {
-        "pcode": "19691519",
+        "PCode": "19691519",
         "model_name": "ASUS PRIME B650M-A II 대원씨티에스",
         "제조회사": "ASUS",
         "등록년월": {
@@ -4470,7 +4470,7 @@
         ]
     },
     {
-        "pcode": "17971184",
+        "PCode": "17971184",
         "model_name": "MSI PRO B650M-A WIFI",
         "제조회사": "MSI",
         "등록년월": {
@@ -4593,7 +4593,7 @@
         ]
     },
     {
-        "pcode": "67852106",
+        "PCode": "67852106",
         "model_name": "ASUS ProArt X870E-CREATOR WIFI 대원씨티에스",
         "제조회사": "ASUS",
         "등록년월": {
@@ -4713,7 +4713,7 @@
         ]
     },
     {
-        "pcode": "17971187",
+        "PCode": "17971187",
         "model_name": "MSI MAG B650M 박격포 WIFI",
         "제조회사": "MSI",
         "등록년월": {
@@ -4843,7 +4843,7 @@
         ]
     },
     {
-        "pcode": "29916821",
+        "PCode": "29916821",
         "model_name": "GIGABYTE B650M AORUS ELITE AX ICE 피씨디렉트",
         "제조회사": "GIGABYTE",
         "등록년월": {
@@ -4959,7 +4959,7 @@
         ]
     },
     {
-        "pcode": "77620880",
+        "PCode": "77620880",
         "model_name": "GIGABYTE B850M DS3H ICE 피씨디렉트",
         "제조회사": "GIGABYTE",
         "등록년월": {
@@ -5064,7 +5064,7 @@
         ]
     },
     {
-        "pcode": "69699599",
+        "PCode": "69699599",
         "model_name": "GIGABYTE Z890 AORUS ELITE WIFI7 ICE 피씨디렉트",
         "제조회사": "GIGABYTE",
         "등록년월": {
@@ -5177,7 +5177,7 @@
         ]
     },
     {
-        "pcode": "77083181",
+        "PCode": "77083181",
         "model_name": "ASUS PRIME H810M-A 코잇",
         "제조회사": "ASUS",
         "등록년월": {
@@ -5281,7 +5281,7 @@
         ]
     },
     {
-        "pcode": "67847609",
+        "PCode": "67847609",
         "model_name": "GIGABYTE X870E AORUS PRO ICE 피씨디렉트",
         "제조회사": "GIGABYTE",
         "등록년월": {
@@ -5405,7 +5405,7 @@
         ]
     },
     {
-        "pcode": "77706647",
+        "PCode": "77706647",
         "model_name": "ASRock B650M Pro X3D 대원씨티에스",
         "제조회사": "ASRock",
         "등록년월": {
@@ -5515,7 +5515,7 @@
         ]
     },
     {
-        "pcode": "67852652",
+        "PCode": "67852652",
         "model_name": "MSI MPG X870E 카본 WIFI",
         "제조회사": "MSI",
         "등록년월": {
@@ -5629,7 +5629,7 @@
         ]
     },
     {
-        "pcode": "74340455",
+        "PCode": "74340455",
         "model_name": "MSI MAG B860 토마호크 WIFI",
         "제조회사": "MSI",
         "등록년월": {
@@ -5736,7 +5736,7 @@
         ]
     },
     {
-        "pcode": "97121510",
+        "PCode": "97121510",
         "model_name": "MSI MPG B850I 엣지 TI WIFI",
         "제조회사": "MSI",
         "등록년월": {
@@ -5839,7 +5839,7 @@
         ]
     },
     {
-        "pcode": "76942073",
+        "PCode": "76942073",
         "model_name": "GIGABYTE H810M K 피씨디렉트",
         "제조회사": "GIGABYTE",
         "등록년월": {
@@ -5934,7 +5934,7 @@
         ]
     },
     {
-        "pcode": "28603964",
+        "PCode": "28603964",
         "model_name": "ASRock B650M PG Lightning 에즈윈",
         "제조회사": "ASRock",
         "등록년월": {
@@ -6043,7 +6043,7 @@
         ]
     },
     {
-        "pcode": "91871951",
+        "PCode": "91871951",
         "model_name": "GIGABYTE B760M DS3H GEN5 제이씨현",
         "제조회사": "GIGABYTE",
         "등록년월": {
@@ -6153,7 +6153,7 @@
         ]
     },
     {
-        "pcode": "95988944",
+        "PCode": "95988944",
         "model_name": "ASUS TUF Gaming B850M-PLUS WIFI7 W STCOM",
         "제조회사": "ASUS",
         "등록년월": {
@@ -6270,7 +6270,7 @@
         ]
     },
     {
-        "pcode": "98415419",
+        "PCode": "98415419",
         "model_name": "ASRock B860M Pro-A 에즈윈",
         "제조회사": "ASRock",
         "등록년월": {
@@ -6377,7 +6377,7 @@
         ]
     },
     {
-        "pcode": "48477197",
+        "PCode": "48477197",
         "model_name": "GIGABYTE B650M D3HP 피씨디렉트",
         "제조회사": "GIGABYTE",
         "등록년월": {
@@ -6478,7 +6478,7 @@
         ]
     },
     {
-        "pcode": "18044582",
+        "PCode": "18044582",
         "model_name": "ASUS ROG STRIX B650E-E GAMING WIFI STCOM",
         "제조회사": "ASUS",
         "등록년월": {
@@ -6608,7 +6608,7 @@
         ]
     },
     {
-        "pcode": "32487287",
+        "PCode": "32487287",
         "model_name": "ASUS PRO WS TRX50-SAGE WiFi 대원씨티에스",
         "제조회사": "ASUS",
         "등록년월": {
@@ -6723,7 +6723,7 @@
         ]
     },
     {
-        "pcode": "77083265",
+        "PCode": "77083265",
         "model_name": "ASUS H810M AYW GAMING WIFI 코잇",
         "제조회사": "ASUS",
         "등록년월": {
@@ -6823,7 +6823,7 @@
         ]
     },
     {
-        "pcode": "93500939",
+        "PCode": "93500939",
         "model_name": "GIGABYTE B850 AORUS STEALTH ICE 제이씨현",
         "제조회사": "GIGABYTE",
         "등록년월": {
@@ -6929,7 +6929,7 @@
         ]
     },
     {
-        "pcode": "21428693",
+        "PCode": "21428693",
         "model_name": "ASUS PRIME A620M-K 대원씨티에스",
         "제조회사": "ASUS",
         "등록년월": {
@@ -7030,7 +7030,7 @@
         ]
     },
     {
-        "pcode": "74251253",
+        "PCode": "74251253",
         "model_name": "GIGABYTE B860M AORUS ELITE 제이씨현",
         "제조회사": "GIGABYTE",
         "등록년월": {
@@ -7141,7 +7141,7 @@
         ]
     },
     {
-        "pcode": "73892279",
+        "PCode": "73892279",
         "model_name": "GIGABYTE B850 AORUS ELITE WIFI7 ICE 제이씨현",
         "제조회사": "GIGABYTE",
         "등록년월": {
@@ -7268,7 +7268,7 @@
         ]
     },
     {
-        "pcode": "16637543",
+        "PCode": "16637543",
         "model_name": "MSI PRO H610M-C EX",
         "제조회사": "MSI",
         "등록년월": {
@@ -7383,7 +7383,7 @@
         ]
     },
     {
-        "pcode": "78102320",
+        "PCode": "78102320",
         "model_name": "BIOSTAR B850MT-E PRO 제이씨현",
         "제조회사": "BIOSTAR",
         "등록년월": {
@@ -7490,7 +7490,7 @@
         ]
     },
     {
-        "pcode": "75538472",
+        "PCode": "75538472",
         "model_name": "MSI MPG X870E 엣지 TI WIFI",
         "제조회사": "MSI",
         "등록년월": {
@@ -7606,7 +7606,7 @@
         ]
     },
     {
-        "pcode": "17971181",
+        "PCode": "17971181",
         "model_name": "MSI MAG B650 토마호크 WIFI",
         "제조회사": "MSI",
         "등록년월": {
@@ -7741,7 +7741,7 @@
         ]
     },
     {
-        "pcode": "100691990",
+        "PCode": "100691990",
         "model_name": "ASUS PRIME H810M-E 코잇",
         "제조회사": "ASUS",
         "등록년월": {
@@ -7840,7 +7840,7 @@
         ]
     },
     {
-        "pcode": "77856971",
+        "PCode": "77856971",
         "model_name": "GIGABYTE B850I AORUS PRO 피씨디렉트",
         "제조회사": "GIGABYTE",
         "등록년월": {
@@ -7955,7 +7955,7 @@
         ]
     },
     {
-        "pcode": "18021581",
+        "PCode": "18021581",
         "model_name": "ASUS TUF Gaming B650-PLUS 대원씨티에스",
         "제조회사": "ASUS",
         "등록년월": {
@@ -8086,7 +8086,7 @@
         ]
     },
     {
-        "pcode": "29863127",
+        "PCode": "29863127",
         "model_name": "GIGABYTE B650M AORUS ELITE AX ICE 제이씨현",
         "제조회사": "GIGABYTE",
         "등록년월": {
@@ -8209,7 +8209,7 @@
         ]
     },
     {
-        "pcode": "19903481",
+        "PCode": "19903481",
         "model_name": "ASUS ROG STRIX B760-G GAMING WIFI 코잇",
         "제조회사": "ASUS",
         "등록년월": {
@@ -8342,7 +8342,7 @@
         ]
     },
     {
-        "pcode": "69697766",
+        "PCode": "69697766",
         "model_name": "MSI MAG Z890 토마호크 WIFI",
         "제조회사": "MSI",
         "등록년월": {
@@ -8459,7 +8459,7 @@
         ]
     },
     {
-        "pcode": "18165161",
+        "PCode": "18165161",
         "model_name": "GIGABYTE B650M AORUS ELITE 피씨디렉트",
         "제조회사": "GIGABYTE",
         "등록년월": {
@@ -8584,7 +8584,7 @@
         ]
     },
     {
-        "pcode": "98543660",
+        "PCode": "98543660",
         "model_name": "GIGABYTE X870E AORUS PRO X3D ICE 피씨디렉트",
         "제조회사": "GIGABYTE",
         "등록년월": {
@@ -8692,7 +8692,7 @@
         ]
     },
     {
-        "pcode": "102004862",
+        "PCode": "102004862",
         "model_name": "MAXSUN 챌린저 H810ITX WIFI 디앤디컴",
         "제조회사": "MAXSUN",
         "등록년월": {
@@ -8793,7 +8793,7 @@
         ]
     },
     {
-        "pcode": "67845815",
+        "PCode": "67845815",
         "model_name": "GIGABYTE X870 AORUS ELITE WIFI7 제이씨현",
         "제조회사": "GIGABYTE",
         "등록년월": {
@@ -8909,7 +8909,7 @@
         ]
     },
     {
-        "pcode": "18261245",
+        "PCode": "18261245",
         "model_name": "GIGABYTE Z790 UD 피씨디렉트",
         "제조회사": "GIGABYTE",
         "등록년월": {
@@ -9034,7 +9034,7 @@
         ]
     },
     {
-        "pcode": "95421218",
+        "PCode": "95421218",
         "model_name": "ASUS TUF Gaming B650EM-E WIFI STCOM",
         "제조회사": "ASUS",
         "등록년월": {
@@ -9145,7 +9145,7 @@
         ]
     },
     {
-        "pcode": "102004859",
+        "PCode": "102004859",
         "model_name": "MAXSUN 챌린저 H810M 2.5G 디앤디컴",
         "제조회사": "MAXSUN",
         "등록년월": {
@@ -9247,7 +9247,7 @@
         ]
     },
     {
-        "pcode": "67852370",
+        "PCode": "67852370",
         "model_name": "MSI MAG X870 토마호크 WIFI",
         "제조회사": "MSI",
         "등록년월": {
@@ -9370,7 +9370,7 @@
         ]
     },
     {
-        "pcode": "96656717",
+        "PCode": "96656717",
         "model_name": "ASUS TUF Gaming B850-BTF WIFI W STCOM",
         "제조회사": "ASUS",
         "등록년월": {
@@ -9477,7 +9477,7 @@
         ]
     },
     {
-        "pcode": "99913676",
+        "PCode": "99913676",
         "model_name": "ASUS PRO WS B850M-ACE SE STCOM",
         "제조회사": "ASUS",
         "등록년월": {
@@ -9582,7 +9582,7 @@
         ]
     },
     {
-        "pcode": "62791640",
+        "PCode": "62791640",
         "model_name": "ASRock B650M PG Riptide WiFi White 에즈윈",
         "제조회사": "ASRock",
         "등록년월": {
@@ -9708,7 +9708,7 @@
         ]
     },
     {
-        "pcode": "95988443",
+        "PCode": "95988443",
         "model_name": "ASUS TUF Gaming B850M-E WIFI STCOM",
         "제조회사": "ASUS",
         "등록년월": {
@@ -9820,7 +9820,7 @@
         ]
     },
     {
-        "pcode": "93502442",
+        "PCode": "93502442",
         "model_name": "MSI PRO B850M-A WIFI",
         "제조회사": "MSI",
         "등록년월": {
@@ -9934,7 +9934,7 @@
         ]
     },
     {
-        "pcode": "93019088",
+        "PCode": "93019088",
         "model_name": "ASUS ROG CROSSHAIR X870E APEX 대원씨티에스",
         "제조회사": "ASUS",
         "등록년월": {
@@ -10041,7 +10041,7 @@
         ]
     },
     {
-        "pcode": "32078006",
+        "PCode": "32078006",
         "model_name": "GIGABYTE B650 AORUS ELITE V2 제이씨현",
         "제조회사": "GIGABYTE",
         "등록년월": {
@@ -10144,7 +10144,7 @@
         ]
     },
     {
-        "pcode": "74341610",
+        "PCode": "74341610",
         "model_name": "ASRock B850 Pro-A 디앤디컴",
         "제조회사": "ASRock",
         "등록년월": {
@@ -10251,7 +10251,7 @@
         ]
     },
     {
-        "pcode": "18021491",
+        "PCode": "18021491",
         "model_name": "ASUS TUF Gaming B650M-PLUS WIFI 대원씨티에스",
         "제조회사": "ASUS",
         "등록년월": {
@@ -10381,7 +10381,7 @@
         ]
     },
     {
-        "pcode": "30070400",
+        "PCode": "30070400",
         "model_name": "GIGABYTE B650 AORUS ELITE AX ICE 제이씨현",
         "제조회사": "GIGABYTE",
         "등록년월": {
@@ -10494,7 +10494,7 @@
         ]
     },
     {
-        "pcode": "67845863",
+        "PCode": "67845863",
         "model_name": "GIGABYTE X870 AORUS ELITE WIFI7 ICE 제이씨현",
         "제조회사": "GIGABYTE",
         "등록년월": {
@@ -10610,7 +10610,7 @@
         ]
     },
     {
-        "pcode": "98229074",
+        "PCode": "98229074",
         "model_name": "GIGABYTE X870E AORUS PRO X3D ICE 제이씨현",
         "제조회사": "GIGABYTE",
         "등록년월": {
@@ -10717,7 +10717,7 @@
         ]
     },
     {
-        "pcode": "73884041",
+        "PCode": "73884041",
         "model_name": "ASUS TUF Gaming B850M-PLUS WIFI STCOM",
         "제조회사": "ASUS",
         "등록년월": {
@@ -10840,7 +10840,7 @@
         ]
     },
     {
-        "pcode": "69697280",
+        "PCode": "69697280",
         "model_name": "ASUS Z890 AYW GAMING WIFI W 코잇",
         "제조회사": "ASUS",
         "등록년월": {
@@ -10952,7 +10952,7 @@
         ]
     },
     {
-        "pcode": "18718865",
+        "PCode": "18718865",
         "model_name": "ASRock B650 LiveMixer 대원씨티에스",
         "제조회사": "ASRock",
         "등록년월": {
@@ -11071,7 +11071,7 @@
         ]
     },
     {
-        "pcode": "27546074",
+        "PCode": "27546074",
         "model_name": "ASRock H610M-HDV/M.2+ D5 대원씨티에스",
         "제조회사": "ASRock",
         "등록년월": {
@@ -11174,7 +11174,7 @@
         ]
     },
     {
-        "pcode": "69661004",
+        "PCode": "69661004",
         "model_name": "ASUS Z890 AYW GAMING WIFI W 인텍앤컴퍼니",
         "제조회사": "ASUS",
         "등록년월": {
@@ -11280,7 +11280,7 @@
         ]
     },
     {
-        "pcode": "68242145",
+        "PCode": "68242145",
         "model_name": "ASRock X870 Pro RS 대원씨티에스",
         "제조회사": "ASRock",
         "등록년월": {
@@ -11393,7 +11393,7 @@
         ]
     },
     {
-        "pcode": "69699182",
+        "PCode": "69699182",
         "model_name": "GIGABYTE Z890 AORUS ELITE WIFI7 제이씨현",
         "제조회사": "GIGABYTE",
         "등록년월": {
@@ -11505,7 +11505,7 @@
         ]
     },
     {
-        "pcode": "28248743",
+        "PCode": "28248743",
         "model_name": "BIOSTAR H610MHD D5 제이씨현",
         "제조회사": "BIOSTAR",
         "등록년월": {
@@ -11601,7 +11601,7 @@
         ]
     },
     {
-        "pcode": "95200499",
+        "PCode": "95200499",
         "model_name": "GIGABYTE B850M FORCE 피씨디렉트",
         "제조회사": "GIGABYTE",
         "등록년월": {
@@ -11704,7 +11704,7 @@
         ]
     },
     {
-        "pcode": "77786816",
+        "PCode": "77786816",
         "model_name": "ASRock B650M Pro X3D 디앤디컴",
         "제조회사": "ASRock",
         "등록년월": {
@@ -11814,7 +11814,7 @@
         ]
     },
     {
-        "pcode": "73763492",
+        "PCode": "73763492",
         "model_name": "ASUS TUF Gaming B850-PLUS WIFI 대원씨티에스",
         "제조회사": "ASUS",
         "등록년월": {
@@ -11937,7 +11937,7 @@
         ]
     },
     {
-        "pcode": "73892309",
+        "PCode": "73892309",
         "model_name": "GIGABYTE B850 AORUS ELITE WIFI7 제이씨현",
         "제조회사": "GIGABYTE",
         "등록년월": {
@@ -12056,7 +12056,7 @@
         ]
     },
     {
-        "pcode": "91493696",
+        "PCode": "91493696",
         "model_name": "MSI MAG B850M 박격포",
         "제조회사": "MSI",
         "등록년월": {
@@ -12161,7 +12161,7 @@
         ]
     },
     {
-        "pcode": "67845785",
+        "PCode": "67845785",
         "model_name": "GIGABYTE X870E AORUS PRO ICE 제이씨현",
         "제조회사": "GIGABYTE",
         "등록년월": {
@@ -12283,7 +12283,7 @@
         ]
     },
     {
-        "pcode": "30300260",
+        "PCode": "30300260",
         "model_name": "ASRock B650M PG Lightning 대원씨티에스",
         "제조회사": "ASRock",
         "등록년월": {
@@ -12394,7 +12394,7 @@
         ]
     },
     {
-        "pcode": "67695563",
+        "PCode": "67695563",
         "model_name": "ASUS TUF Gaming X870-PLUS WIFI STCOM",
         "제조회사": "ASUS",
         "등록년월": {
@@ -12508,7 +12508,7 @@
         ]
     },
     {
-        "pcode": "93073367",
+        "PCode": "93073367",
         "model_name": "GIGABYTE X870 AORUS STEALTH ICE 피씨디렉트",
         "제조회사": "GIGABYTE",
         "등록년월": {
@@ -12613,7 +12613,7 @@
         ]
     },
     {
-        "pcode": "76948292",
+        "PCode": "76948292",
         "model_name": "MAXSUN e스포츠 B650ITX WIFI ICE 디앤디컴",
         "제조회사": "MAXSUN",
         "등록년월": {
@@ -12714,7 +12714,7 @@
         ]
     },
     {
-        "pcode": "18652865",
+        "PCode": "18652865",
         "model_name": "MSI MAG B760 토마호크 WIFI",
         "제조회사": "MSI",
         "등록년월": {
@@ -12847,7 +12847,7 @@
         ]
     },
     {
-        "pcode": "79000790",
+        "PCode": "79000790",
         "model_name": "GIGABYTE B850M AORUS ELITE WIFI6E 피씨디렉트",
         "제조회사": "GIGABYTE",
         "등록년월": {
@@ -12959,7 +12959,7 @@
         ]
     },
     {
-        "pcode": "69696464",
+        "PCode": "69696464",
         "model_name": "ASUS PRIME Z890M-PLUS WIFI-CSM 코잇",
         "제조회사": "ASUS",
         "등록년월": {
@@ -13071,7 +13071,7 @@
         ]
     },
     {
-        "pcode": "67852766",
+        "PCode": "67852766",
         "model_name": "ASUS ROG STRIX X870E-E GAMING WIFI 대원씨티에스",
         "제조회사": "ASUS",
         "등록년월": {
@@ -13178,7 +13178,7 @@
         ]
     },
     {
-        "pcode": "67851653",
+        "PCode": "67851653",
         "model_name": "ASUS PRIME X870-P WIFI-CSM 대원씨티에스",
         "제조회사": "ASUS",
         "등록년월": {
@@ -13291,7 +13291,7 @@
         ]
     },
     {
-        "pcode": "18054803",
+        "PCode": "18054803",
         "model_name": "ASUS PRIME Z790-P-CSM 코잇",
         "제조회사": "ASUS",
         "등록년월": {
@@ -13426,7 +13426,7 @@
         ]
     },
     {
-        "pcode": "74814380",
+        "PCode": "74814380",
         "model_name": "MSI MPG B850 엣지 TI WIFI",
         "제조회사": "MSI",
         "등록년월": {
@@ -13547,7 +13547,7 @@
         ]
     },
     {
-        "pcode": "19704527",
+        "PCode": "19704527",
         "model_name": "ASUS PRIME B760M-A 코잇",
         "제조회사": "ASUS",
         "등록년월": {
@@ -13657,7 +13657,7 @@
         ]
     },
     {
-        "pcode": "69697916",
+        "PCode": "69697916",
         "model_name": "MSI PRO Z890-A WIFI",
         "제조회사": "MSI",
         "등록년월": {
@@ -13765,7 +13765,7 @@
         ]
     },
     {
-        "pcode": "20108249",
+        "PCode": "20108249",
         "model_name": "MSI PRO B650M-P",
         "제조회사": "MSI",
         "등록년월": {
@@ -13864,7 +13864,7 @@
         ]
     },
     {
-        "pcode": "98544692",
+        "PCode": "98544692",
         "model_name": "MSI PRO B850M-P",
         "제조회사": "MSI",
         "등록년월": {
@@ -13972,7 +13972,7 @@
         ]
     },
     {
-        "pcode": "74250827",
+        "PCode": "74250827",
         "model_name": "GIGABYTE B860 AORUS ELITE WIFI7 ICE 제이씨현",
         "제조회사": "GIGABYTE",
         "등록년월": {
@@ -14083,7 +14083,7 @@
         ]
     },
     {
-        "pcode": "78843671",
+        "PCode": "78843671",
         "model_name": "GIGABYTE B850M AORUS ELITE WIFI6E 제이씨현",
         "제조회사": "GIGABYTE",
         "등록년월": {
@@ -14201,7 +14201,7 @@
         ]
     },
     {
-        "pcode": "74013710",
+        "PCode": "74013710",
         "model_name": "ASRock B860M Pro RS 에즈윈",
         "제조회사": "ASRock",
         "등록년월": {
@@ -14311,7 +14311,7 @@
         ]
     },
     {
-        "pcode": "69697058",
+        "PCode": "69697058",
         "model_name": "ASUS TUF Gaming Z890-PLUS WIFI 코잇",
         "제조회사": "ASUS",
         "등록년월": {
@@ -14424,7 +14424,7 @@
         ]
     },
     {
-        "pcode": "74251187",
+        "PCode": "74251187",
         "model_name": "GIGABYTE B860M AORUS ELITE WIFI6E 제이씨현",
         "제조회사": "GIGABYTE",
         "등록년월": {
@@ -14535,7 +14535,7 @@
         ]
     },
     {
-        "pcode": "18113015",
+        "PCode": "18113015",
         "model_name": "GIGABYTE B650M AORUS ELITE AX 피씨디렉트",
         "제조회사": "GIGABYTE",
         "등록년월": {
@@ -14659,7 +14659,7 @@
         ]
     },
     {
-        "pcode": "99746582",
+        "PCode": "99746582",
         "model_name": "GIGABYTE B850 EAGLE ICE 제이씨현",
         "제조회사": "GIGABYTE",
         "등록년월": {
@@ -14765,7 +14765,7 @@
         ]
     },
     {
-        "pcode": "97475957",
+        "PCode": "97475957",
         "model_name": "ASUS TUF Gaming X870E-PLUS WIFI7 STCOM",
         "제조회사": "ASUS",
         "등록년월": {
@@ -14878,7 +14878,7 @@
         ]
     },
     {
-        "pcode": "69699584",
+        "PCode": "69699584",
         "model_name": "GIGABYTE Z890 AORUS PRO ICE 피씨디렉트",
         "제조회사": "GIGABYTE",
         "등록년월": {
@@ -14991,7 +14991,7 @@
         ]
     },
     {
-        "pcode": "67852946",
+        "PCode": "67852946",
         "model_name": "ASUS ROG STRIX X870-I GAMING WIFI 대원씨티에스",
         "제조회사": "ASUS",
         "등록년월": {
@@ -15108,7 +15108,7 @@
         ]
     },
     {
-        "pcode": "19926611",
+        "PCode": "19926611",
         "model_name": "ASUS PRIME A620M-A 대원씨티에스",
         "제조회사": "ASUS",
         "등록년월": {
@@ -15201,7 +15201,7 @@
         ]
     },
     {
-        "pcode": "99746822",
+        "PCode": "99746822",
         "model_name": "GIGABYTE B850M AORUS ELITE WIFI7 ICE-P 제이씨현",
         "제조회사": "GIGABYTE",
         "등록년월": {
@@ -15312,7 +15312,7 @@
         ]
     },
     {
-        "pcode": "74255384",
+        "PCode": "74255384",
         "model_name": "GIGABYTE B860M AORUS ELITE 피씨디렉트",
         "제조회사": "GIGABYTE",
         "등록년월": {
@@ -15421,7 +15421,7 @@
         ]
     },
     {
-        "pcode": "97565858",
+        "PCode": "97565858",
         "model_name": "ASRock A620AI WiFi 대원씨티에스",
         "제조회사": "ASRock",
         "등록년월": {
@@ -15529,7 +15529,7 @@
         ]
     },
     {
-        "pcode": "93018986",
+        "PCode": "93018986",
         "model_name": "ASUS ROG CROSSHAIR X870E EXTREME STCOM",
         "제조회사": "ASUS",
         "등록년월": {
@@ -15635,7 +15635,7 @@
         ]
     },
     {
-        "pcode": "99945386",
+        "PCode": "99945386",
         "model_name": "GIGABYTE B850M AORUS ELITE WIFI7 ICE-P 피씨디렉트",
         "제조회사": "GIGABYTE",
         "등록년월": {
@@ -15746,7 +15746,7 @@
         ]
     },
     {
-        "pcode": "90271250",
+        "PCode": "90271250",
         "model_name": "GIGABYTE B760M AORUS ELITE GEN5 제이씨현",
         "제조회사": "GIGABYTE",
         "등록년월": {
@@ -15855,7 +15855,7 @@
         ]
     },
     {
-        "pcode": "70769987",
+        "PCode": "70769987",
         "model_name": "ASRock X870E Nova WiFi 대원씨티에스",
         "제조회사": "ASRock",
         "등록년월": {
@@ -15971,7 +15971,7 @@
         ]
     },
     {
-        "pcode": "90502931",
+        "PCode": "90502931",
         "model_name": "GIGABYTE B760M AORUS ELITE GEN5 피씨디렉트",
         "제조회사": "GIGABYTE",
         "등록년월": {
@@ -16080,7 +16080,7 @@
         ]
     },
     {
-        "pcode": "69662171",
+        "PCode": "69662171",
         "model_name": "ASUS TUF Gaming Z890-PRO WIFI STCOM",
         "제조회사": "ASUS",
         "등록년월": {
@@ -16192,7 +16192,7 @@
         ]
     },
     {
-        "pcode": "74336888",
+        "PCode": "74336888",
         "model_name": "ASUS PRIME H810M-A WIFI STCOM",
         "제조회사": "ASUS",
         "등록년월": {
@@ -16294,7 +16294,7 @@
         ]
     },
     {
-        "pcode": "100192175",
+        "PCode": "100192175",
         "model_name": "MSI PRO A620AM-B EVO",
         "제조회사": "MSI",
         "등록년월": {
@@ -16392,7 +16392,7 @@
         ]
     },
     {
-        "pcode": "34741700",
+        "PCode": "34741700",
         "model_name": "GIGABYTE B650E AORUS ELITE X AX ICE 피씨디렉트",
         "제조회사": "GIGABYTE",
         "등록년월": {
@@ -16503,7 +16503,7 @@
         ]
     },
     {
-        "pcode": "19756130",
+        "PCode": "19756130",
         "model_name": "ASUS PRIME B760-PLUS 코잇",
         "제조회사": "ASUS",
         "등록년월": {
@@ -16620,7 +16620,7 @@
         ]
     },
     {
-        "pcode": "62568890",
+        "PCode": "62568890",
         "model_name": "MSI PRO B650M-A",
         "제조회사": "MSI",
         "등록년월": {
@@ -16730,7 +16730,7 @@
         ]
     },
     {
-        "pcode": "78312209",
+        "PCode": "78312209",
         "model_name": "ASRock H810M-X 디앤디컴 (벌크)",
         "제조회사": "ASRock",
         "등록년월": {
@@ -16828,7 +16828,7 @@
         ]
     },
     {
-        "pcode": "77313929",
+        "PCode": "77313929",
         "model_name": "MAXSUN 챌린저 B760ITX D5 디앤디컴",
         "제조회사": "MAXSUN",
         "등록년월": {
@@ -16928,7 +16928,7 @@
         ]
     },
     {
-        "pcode": "95930900",
+        "PCode": "95930900",
         "model_name": "BIOSTAR B850MT2-E DJ 제이씨현",
         "제조회사": "BIOSTAR",
         "등록년월": {
@@ -17034,7 +17034,7 @@
         ]
     },
     {
-        "pcode": "69696089",
+        "PCode": "69696089",
         "model_name": "ASUS PRIME Z890-P WIFI-CSM 코잇",
         "제조회사": "ASUS",
         "등록년월": {
@@ -17146,7 +17146,7 @@
         ]
     },
     {
-        "pcode": "69699071",
+        "PCode": "69699071",
         "model_name": "GIGABYTE Z890 AORUS ELITE WIFI7 ICE 제이씨현",
         "제조회사": "GIGABYTE",
         "등록년월": {
@@ -17258,7 +17258,7 @@
         ]
     },
     {
-        "pcode": "74255390",
+        "PCode": "74255390",
         "model_name": "GIGABYTE B860M AORUS ELITE WIFI6E 피씨디렉트",
         "제조회사": "GIGABYTE",
         "등록년월": {
@@ -17370,7 +17370,7 @@
         ]
     },
     {
-        "pcode": "73883963",
+        "PCode": "73883963",
         "model_name": "ASUS ROG STRIX B850-I GAMING WIFI STCOM",
         "제조회사": "ASUS",
         "등록년월": {
@@ -17477,7 +17477,7 @@
         ]
     },
     {
-        "pcode": "74415038",
+        "PCode": "74415038",
         "model_name": "ASRock B860M Pro RS WiFi 에즈윈",
         "제조회사": "ASRock",
         "등록년월": {
@@ -17588,7 +17588,7 @@
         ]
     },
     {
-        "pcode": "21727307",
+        "PCode": "21727307",
         "model_name": "GIGABYTE B650M K 피씨디렉트",
         "제조회사": "GIGABYTE",
         "등록년월": {
@@ -17704,7 +17704,7 @@
         ]
     },
     {
-        "pcode": "79397648",
+        "PCode": "79397648",
         "model_name": "MSI MAG B850M 박격포 WIFI",
         "제조회사": "MSI",
         "등록년월": {
@@ -17821,7 +17821,7 @@
         ]
     },
     {
-        "pcode": "95988710",
+        "PCode": "95988710",
         "model_name": "ASUS TUF Gaming B850M-PLUS WIFI7 STCOM",
         "제조회사": "ASUS",
         "등록년월": {
@@ -17945,7 +17945,7 @@
         ]
     },
     {
-        "pcode": "73892423",
+        "PCode": "73892423",
         "model_name": "GIGABYTE B850M AORUS ELITE WIFI6E ICE 제이씨현",
         "제조회사": "GIGABYTE",
         "등록년월": {
@@ -18074,7 +18074,7 @@
         ]
     },
     {
-        "pcode": "74340266",
+        "PCode": "74340266",
         "model_name": "MSI MAG B860M 박격포 WIFI",
         "제조회사": "MSI",
         "등록년월": {
@@ -18196,7 +18196,7 @@
         ]
     },
     {
-        "pcode": "27474755",
+        "PCode": "27474755",
         "model_name": "MSI PRO B760M-A DDR4 II",
         "제조회사": "MSI",
         "등록년월": {
@@ -18312,7 +18312,7 @@
         ]
     },
     {
-        "pcode": "11571368",
+        "PCode": "11571368",
         "model_name": "ASUS TUF Gaming B550M-PLUS STCOM",
         "제조회사": "ASUS",
         "등록년월": {
@@ -18440,7 +18440,7 @@
         ]
     },
     {
-        "pcode": "76509641",
+        "PCode": "76509641",
         "model_name": "ASRock B650M Pro X3D 에즈윈",
         "제조회사": "ASRock",
         "등록년월": {
@@ -18553,7 +18553,7 @@
         ]
     },
     {
-        "pcode": "16284179",
+        "PCode": "16284179",
         "model_name": "ASUS PRIME A520M-A II 대원씨티에스",
         "제조회사": "ASUS",
         "등록년월": {
@@ -18667,7 +18667,7 @@
         ]
     },
     {
-        "pcode": "29879357",
+        "PCode": "29879357",
         "model_name": "ASRock B450M-HDV R4.0 대원씨티에스",
         "제조회사": "ASRock",
         "등록년월": {
@@ -18764,7 +18764,7 @@
         ]
     },
     {
-        "pcode": "20324882",
+        "PCode": "20324882",
         "model_name": "GIGABYTE B650M K 제이씨현",
         "제조회사": "GIGABYTE",
         "등록년월": {
@@ -18881,7 +18881,7 @@
         ]
     },
     {
-        "pcode": "49740182",
+        "PCode": "49740182",
         "model_name": "ASRock B550M Pro RS 에즈윈",
         "제조회사": "ASRock",
         "등록년월": {
@@ -18978,7 +18978,7 @@
         ]
     },
     {
-        "pcode": "95280263",
+        "PCode": "95280263",
         "model_name": "GIGABYTE B850M FORCE 제이씨현",
         "제조회사": "GIGABYTE",
         "등록년월": {
@@ -19081,7 +19081,7 @@
         ]
     },
     {
-        "pcode": "74338115",
+        "PCode": "74338115",
         "model_name": "ASUS ROG STRIX B860-G GAMING WIFI 코잇",
         "제조회사": "ASUS",
         "등록년월": {
@@ -19197,7 +19197,7 @@
         ]
     },
     {
-        "pcode": "16083650",
+        "PCode": "16083650",
         "model_name": "ASUS PRIME H610M-K D4 인텍앤컴퍼니",
         "제조회사": "ASUS",
         "등록년월": {
@@ -19316,7 +19316,7 @@
         ]
     },
     {
-        "pcode": "73884029",
+        "PCode": "73884029",
         "model_name": "ASUS TUF Gaming B850M-PLUS STCOM",
         "제조회사": "ASUS",
         "등록년월": {
@@ -19428,7 +19428,7 @@
         ]
     },
     {
-        "pcode": "73884083",
+        "PCode": "73884083",
         "model_name": "ASUS TUF Gaming B850-PLUS WIFI STCOM",
         "제조회사": "ASUS",
         "등록년월": {
@@ -19552,7 +19552,7 @@
         ]
     },
     {
-        "pcode": "74337680",
+        "PCode": "74337680",
         "model_name": "ASUS PRIME B860M-A-CSM 코잇",
         "제조회사": "ASUS",
         "등록년월": {
@@ -19661,7 +19661,7 @@
         ]
     },
     {
-        "pcode": "19431530",
+        "PCode": "19431530",
         "model_name": "GIGABYTE A520M K V2 피씨디렉트",
         "제조회사": "GIGABYTE",
         "등록년월": {
@@ -19766,7 +19766,7 @@
         ]
     },
     {
-        "pcode": "75857021",
+        "PCode": "75857021",
         "model_name": "MSI MAG X870E 토마호크 WIFI",
         "제조회사": "MSI",
         "등록년월": {
@@ -19889,7 +19889,7 @@
         ]
     },
     {
-        "pcode": "74814341",
+        "PCode": "74814341",
         "model_name": "MSI MAG B850 토마호크 맥스 WIFI",
         "제조회사": "MSI",
         "등록년월": {
@@ -20016,7 +20016,7 @@
         ]
     },
     {
-        "pcode": "98613731",
+        "PCode": "98613731",
         "model_name": "GIGABYTE X870E AORUS MASTER X3D ICE 피씨디렉트",
         "제조회사": "GIGABYTE",
         "등록년월": {
@@ -20124,7 +20124,7 @@
         ]
     },
     {
-        "pcode": "74339975",
+        "PCode": "74339975",
         "model_name": "MSI PRO B860M-A WIFI",
         "제조회사": "MSI",
         "등록년월": {
@@ -20237,7 +20237,7 @@
         ]
     },
     {
-        "pcode": "93071258",
+        "PCode": "93071258",
         "model_name": "ASUS B850M MAX GAMING WIFI 대원씨티에스",
         "제조회사": "ASUS",
         "등록년월": {
@@ -20348,7 +20348,7 @@
         ]
     },
     {
-        "pcode": "74255387",
+        "PCode": "74255387",
         "model_name": "GIGABYTE B860M AORUS ELITE WIFI6E ICE 피씨디렉트",
         "제조회사": "GIGABYTE",
         "등록년월": {
@@ -20460,7 +20460,7 @@
         ]
     },
     {
-        "pcode": "37226114",
+        "PCode": "37226114",
         "model_name": "MSI MAG B760M 박격포 II",
         "제조회사": "MSI",
         "등록년월": {
@@ -20577,7 +20577,7 @@
         ]
     },
     {
-        "pcode": "92043230",
+        "PCode": "92043230",
         "model_name": "MAXSUN e스포츠 B850ITX WIFI ICE 디앤디컴",
         "제조회사": "MAXSUN",
         "등록년월": {
@@ -20677,7 +20677,7 @@
         ]
     },
     {
-        "pcode": "73560548",
+        "PCode": "73560548",
         "model_name": "GIGABYTE X870E AORUS PRO 피씨디렉트",
         "제조회사": "GIGABYTE",
         "등록년월": {
@@ -20798,7 +20798,7 @@
         ]
     },
     {
-        "pcode": "12069566",
+        "PCode": "12069566",
         "model_name": "ASUS PRIME A520M-K 대원씨티에스",
         "제조회사": "ASUS",
         "등록년월": {
@@ -20912,7 +20912,7 @@
         ]
     },
     {
-        "pcode": "12067598",
+        "PCode": "12067598",
         "model_name": "MSI A520M-A PRO",
         "제조회사": "MSI",
         "등록년월": {
@@ -21029,7 +21029,7 @@
         ]
     },
     {
-        "pcode": "95988578",
+        "PCode": "95988578",
         "model_name": "ASUS TUF Gaming B850M-PLUS II STCOM",
         "제조회사": "ASUS",
         "등록년월": {
@@ -21140,7 +21140,7 @@
         ]
     },
     {
-        "pcode": "67852211",
+        "PCode": "67852211",
         "model_name": "ASUS ROG CROSSHAIR X870E HERO 대원씨티에스",
         "제조회사": "ASUS",
         "등록년월": {
@@ -21251,7 +21251,7 @@
         ]
     },
     {
-        "pcode": "97121798",
+        "PCode": "97121798",
         "model_name": "MSI PRO H810M-B",
         "제조회사": "MSI",
         "등록년월": {
@@ -21348,7 +21348,7 @@
         ]
     },
     {
-        "pcode": "19627397",
+        "PCode": "19627397",
         "model_name": "ASRock B550M Phantom Gaming 4 대원씨티에스",
         "제조회사": "ASRock",
         "등록년월": {
@@ -21453,7 +21453,7 @@
         ]
     },
     {
-        "pcode": "97702355",
+        "PCode": "97702355",
         "model_name": "ASRock B850 Challenger WiFi 7 White 대원씨티에스",
         "제조회사": "ASRock",
         "등록년월": {
@@ -21563,7 +21563,7 @@
         ]
     },
     {
-        "pcode": "93703418",
+        "PCode": "93703418",
         "model_name": "ASUS TUF Gaming B650EM-E WIFI 대원씨티에스",
         "제조회사": "ASUS",
         "등록년월": {
@@ -21675,7 +21675,7 @@
         ]
     },
     {
-        "pcode": "34815659",
+        "PCode": "34815659",
         "model_name": "ASUS TUF Gaming B760M-PLUS II 코잇",
         "제조회사": "ASUS",
         "등록년월": {
@@ -21791,7 +21791,7 @@
         ]
     },
     {
-        "pcode": "19536062",
+        "PCode": "19536062",
         "model_name": "ASRock B760M Pro RS D5 에즈윈",
         "제조회사": "ASRock",
         "등록년월": {
@@ -21929,7 +21929,7 @@
         ]
     },
     {
-        "pcode": "74251349",
+        "PCode": "74251349",
         "model_name": "GIGABYTE B860M DS3H 제이씨현",
         "제조회사": "GIGABYTE",
         "등록년월": {
@@ -22025,7 +22025,7 @@
         ]
     },
     {
-        "pcode": "91872095",
+        "PCode": "91872095",
         "model_name": "GIGABYTE B760M DS3H GEN5 피씨디렉트",
         "제조회사": "GIGABYTE",
         "등록년월": {
@@ -22132,7 +22132,7 @@
         ]
     },
     {
-        "pcode": "21727307",
+        "PCode": "21727307",
         "model_name": "GIGABYTE B650M K 피씨디렉트",
         "제조회사": "GIGABYTE",
         "등록년월": {
@@ -22248,7 +22248,7 @@
         ]
     },
     {
-        "pcode": "79397648",
+        "PCode": "79397648",
         "model_name": "MSI MAG B850M 박격포 WIFI",
         "제조회사": "MSI",
         "등록년월": {
@@ -22365,7 +22365,7 @@
         ]
     },
     {
-        "pcode": "95988710",
+        "PCode": "95988710",
         "model_name": "ASUS TUF Gaming B850M-PLUS WIFI7 STCOM",
         "제조회사": "ASUS",
         "등록년월": {
@@ -22489,7 +22489,7 @@
         ]
     },
     {
-        "pcode": "73892423",
+        "PCode": "73892423",
         "model_name": "GIGABYTE B850M AORUS ELITE WIFI6E ICE 제이씨현",
         "제조회사": "GIGABYTE",
         "등록년월": {
@@ -22618,7 +22618,7 @@
         ]
     },
     {
-        "pcode": "74340266",
+        "PCode": "74340266",
         "model_name": "MSI MAG B860M 박격포 WIFI",
         "제조회사": "MSI",
         "등록년월": {
@@ -22740,7 +22740,7 @@
         ]
     },
     {
-        "pcode": "27474755",
+        "PCode": "27474755",
         "model_name": "MSI PRO B760M-A DDR4 II",
         "제조회사": "MSI",
         "등록년월": {
@@ -22856,7 +22856,7 @@
         ]
     },
     {
-        "pcode": "11571368",
+        "PCode": "11571368",
         "model_name": "ASUS TUF Gaming B550M-PLUS STCOM",
         "제조회사": "ASUS",
         "등록년월": {
@@ -22984,7 +22984,7 @@
         ]
     },
     {
-        "pcode": "76509641",
+        "PCode": "76509641",
         "model_name": "ASRock B650M Pro X3D 에즈윈",
         "제조회사": "ASRock",
         "등록년월": {
@@ -23097,7 +23097,7 @@
         ]
     },
     {
-        "pcode": "16284179",
+        "PCode": "16284179",
         "model_name": "ASUS PRIME A520M-A II 대원씨티에스",
         "제조회사": "ASUS",
         "등록년월": {
@@ -23211,7 +23211,7 @@
         ]
     },
     {
-        "pcode": "29879357",
+        "PCode": "29879357",
         "model_name": "ASRock B450M-HDV R4.0 대원씨티에스",
         "제조회사": "ASRock",
         "등록년월": {
@@ -23308,7 +23308,7 @@
         ]
     },
     {
-        "pcode": "20324882",
+        "PCode": "20324882",
         "model_name": "GIGABYTE B650M K 제이씨현",
         "제조회사": "GIGABYTE",
         "등록년월": {
@@ -23425,7 +23425,7 @@
         ]
     },
     {
-        "pcode": "49740182",
+        "PCode": "49740182",
         "model_name": "ASRock B550M Pro RS 에즈윈",
         "제조회사": "ASRock",
         "등록년월": {
@@ -23522,7 +23522,7 @@
         ]
     },
     {
-        "pcode": "95280263",
+        "PCode": "95280263",
         "model_name": "GIGABYTE B850M FORCE 제이씨현",
         "제조회사": "GIGABYTE",
         "등록년월": {
@@ -23625,7 +23625,7 @@
         ]
     },
     {
-        "pcode": "74338115",
+        "PCode": "74338115",
         "model_name": "ASUS ROG STRIX B860-G GAMING WIFI 코잇",
         "제조회사": "ASUS",
         "등록년월": {
@@ -23741,7 +23741,7 @@
         ]
     },
     {
-        "pcode": "16083650",
+        "PCode": "16083650",
         "model_name": "ASUS PRIME H610M-K D4 인텍앤컴퍼니",
         "제조회사": "ASUS",
         "등록년월": {
@@ -23860,7 +23860,7 @@
         ]
     },
     {
-        "pcode": "73884029",
+        "PCode": "73884029",
         "model_name": "ASUS TUF Gaming B850M-PLUS STCOM",
         "제조회사": "ASUS",
         "등록년월": {
@@ -23972,7 +23972,7 @@
         ]
     },
     {
-        "pcode": "73884083",
+        "PCode": "73884083",
         "model_name": "ASUS TUF Gaming B850-PLUS WIFI STCOM",
         "제조회사": "ASUS",
         "등록년월": {
@@ -24096,7 +24096,7 @@
         ]
     },
     {
-        "pcode": "74337680",
+        "PCode": "74337680",
         "model_name": "ASUS PRIME B860M-A-CSM 코잇",
         "제조회사": "ASUS",
         "등록년월": {
@@ -24205,7 +24205,7 @@
         ]
     },
     {
-        "pcode": "19431530",
+        "PCode": "19431530",
         "model_name": "GIGABYTE A520M K V2 피씨디렉트",
         "제조회사": "GIGABYTE",
         "등록년월": {
@@ -24310,7 +24310,7 @@
         ]
     },
     {
-        "pcode": "75857021",
+        "PCode": "75857021",
         "model_name": "MSI MAG X870E 토마호크 WIFI",
         "제조회사": "MSI",
         "등록년월": {
@@ -24433,7 +24433,7 @@
         ]
     },
     {
-        "pcode": "74814341",
+        "PCode": "74814341",
         "model_name": "MSI MAG B850 토마호크 맥스 WIFI",
         "제조회사": "MSI",
         "등록년월": {
@@ -24560,7 +24560,7 @@
         ]
     },
     {
-        "pcode": "98613731",
+        "PCode": "98613731",
         "model_name": "GIGABYTE X870E AORUS MASTER X3D ICE 피씨디렉트",
         "제조회사": "GIGABYTE",
         "등록년월": {
@@ -24668,7 +24668,7 @@
         ]
     },
     {
-        "pcode": "74339975",
+        "PCode": "74339975",
         "model_name": "MSI PRO B860M-A WIFI",
         "제조회사": "MSI",
         "등록년월": {
@@ -24781,7 +24781,7 @@
         ]
     },
     {
-        "pcode": "93071258",
+        "PCode": "93071258",
         "model_name": "ASUS B850M MAX GAMING WIFI 대원씨티에스",
         "제조회사": "ASUS",
         "등록년월": {
@@ -24892,7 +24892,7 @@
         ]
     },
     {
-        "pcode": "74255387",
+        "PCode": "74255387",
         "model_name": "GIGABYTE B860M AORUS ELITE WIFI6E ICE 피씨디렉트",
         "제조회사": "GIGABYTE",
         "등록년월": {
@@ -25004,7 +25004,7 @@
         ]
     },
     {
-        "pcode": "37226114",
+        "PCode": "37226114",
         "model_name": "MSI MAG B760M 박격포 II",
         "제조회사": "MSI",
         "등록년월": {
@@ -25121,7 +25121,7 @@
         ]
     },
     {
-        "pcode": "92043230",
+        "PCode": "92043230",
         "model_name": "MAXSUN e스포츠 B850ITX WIFI ICE 디앤디컴",
         "제조회사": "MAXSUN",
         "등록년월": {
@@ -25221,7 +25221,7 @@
         ]
     },
     {
-        "pcode": "73560548",
+        "PCode": "73560548",
         "model_name": "GIGABYTE X870E AORUS PRO 피씨디렉트",
         "제조회사": "GIGABYTE",
         "등록년월": {
@@ -25342,7 +25342,7 @@
         ]
     },
     {
-        "pcode": "12069566",
+        "PCode": "12069566",
         "model_name": "ASUS PRIME A520M-K 대원씨티에스",
         "제조회사": "ASUS",
         "등록년월": {
@@ -25456,7 +25456,7 @@
         ]
     },
     {
-        "pcode": "12067598",
+        "PCode": "12067598",
         "model_name": "MSI A520M-A PRO",
         "제조회사": "MSI",
         "등록년월": {
@@ -25573,7 +25573,7 @@
         ]
     },
     {
-        "pcode": "95988578",
+        "PCode": "95988578",
         "model_name": "ASUS TUF Gaming B850M-PLUS II STCOM",
         "제조회사": "ASUS",
         "등록년월": {
@@ -25684,7 +25684,7 @@
         ]
     },
     {
-        "pcode": "67852211",
+        "PCode": "67852211",
         "model_name": "ASUS ROG CROSSHAIR X870E HERO 대원씨티에스",
         "제조회사": "ASUS",
         "등록년월": {
@@ -25795,7 +25795,7 @@
         ]
     },
     {
-        "pcode": "97121798",
+        "PCode": "97121798",
         "model_name": "MSI PRO H810M-B",
         "제조회사": "MSI",
         "등록년월": {
@@ -25892,7 +25892,7 @@
         ]
     },
     {
-        "pcode": "19627397",
+        "PCode": "19627397",
         "model_name": "ASRock B550M Phantom Gaming 4 대원씨티에스",
         "제조회사": "ASRock",
         "등록년월": {
@@ -25997,7 +25997,7 @@
         ]
     },
     {
-        "pcode": "97702355",
+        "PCode": "97702355",
         "model_name": "ASRock B850 Challenger WiFi 7 White 대원씨티에스",
         "제조회사": "ASRock",
         "등록년월": {
@@ -26107,7 +26107,7 @@
         ]
     },
     {
-        "pcode": "93703418",
+        "PCode": "93703418",
         "model_name": "ASUS TUF Gaming B650EM-E WIFI 대원씨티에스",
         "제조회사": "ASUS",
         "등록년월": {
@@ -26219,7 +26219,7 @@
         ]
     },
     {
-        "pcode": "34815659",
+        "PCode": "34815659",
         "model_name": "ASUS TUF Gaming B760M-PLUS II 코잇",
         "제조회사": "ASUS",
         "등록년월": {
@@ -26335,7 +26335,7 @@
         ]
     },
     {
-        "pcode": "19536062",
+        "PCode": "19536062",
         "model_name": "ASRock B760M Pro RS D5 에즈윈",
         "제조회사": "ASRock",
         "등록년월": {
@@ -26473,7 +26473,7 @@
         ]
     },
     {
-        "pcode": "74251349",
+        "PCode": "74251349",
         "model_name": "GIGABYTE B860M DS3H 제이씨현",
         "제조회사": "GIGABYTE",
         "등록년월": {
@@ -26569,7 +26569,7 @@
         ]
     },
     {
-        "pcode": "91872095",
+        "PCode": "91872095",
         "model_name": "GIGABYTE B760M DS3H GEN5 피씨디렉트",
         "제조회사": "GIGABYTE",
         "등록년월": {
@@ -26676,7 +26676,7 @@
         ]
     },
     {
-        "pcode": "21727307",
+        "PCode": "21727307",
         "model_name": "GIGABYTE B650M K 피씨디렉트",
         "제조회사": "GIGABYTE",
         "등록년월": {
@@ -26792,7 +26792,7 @@
         ]
     },
     {
-        "pcode": "79397648",
+        "PCode": "79397648",
         "model_name": "MSI MAG B850M 박격포 WIFI",
         "제조회사": "MSI",
         "등록년월": {
@@ -26909,7 +26909,7 @@
         ]
     },
     {
-        "pcode": "95988710",
+        "PCode": "95988710",
         "model_name": "ASUS TUF Gaming B850M-PLUS WIFI7 STCOM",
         "제조회사": "ASUS",
         "등록년월": {
@@ -27033,7 +27033,7 @@
         ]
     },
     {
-        "pcode": "73892423",
+        "PCode": "73892423",
         "model_name": "GIGABYTE B850M AORUS ELITE WIFI6E ICE 제이씨현",
         "제조회사": "GIGABYTE",
         "등록년월": {
@@ -27162,7 +27162,7 @@
         ]
     },
     {
-        "pcode": "74340266",
+        "PCode": "74340266",
         "model_name": "MSI MAG B860M 박격포 WIFI",
         "제조회사": "MSI",
         "등록년월": {
@@ -27284,7 +27284,7 @@
         ]
     },
     {
-        "pcode": "27474755",
+        "PCode": "27474755",
         "model_name": "MSI PRO B760M-A DDR4 II",
         "제조회사": "MSI",
         "등록년월": {
@@ -27400,7 +27400,7 @@
         ]
     },
     {
-        "pcode": "11571368",
+        "PCode": "11571368",
         "model_name": "ASUS TUF Gaming B550M-PLUS STCOM",
         "제조회사": "ASUS",
         "등록년월": {
@@ -27528,7 +27528,7 @@
         ]
     },
     {
-        "pcode": "76509641",
+        "PCode": "76509641",
         "model_name": "ASRock B650M Pro X3D 에즈윈",
         "제조회사": "ASRock",
         "등록년월": {
@@ -27641,7 +27641,7 @@
         ]
     },
     {
-        "pcode": "16284179",
+        "PCode": "16284179",
         "model_name": "ASUS PRIME A520M-A II 대원씨티에스",
         "제조회사": "ASUS",
         "등록년월": {
@@ -27755,7 +27755,7 @@
         ]
     },
     {
-        "pcode": "29879357",
+        "PCode": "29879357",
         "model_name": "ASRock B450M-HDV R4.0 대원씨티에스",
         "제조회사": "ASRock",
         "등록년월": {
@@ -27852,7 +27852,7 @@
         ]
     },
     {
-        "pcode": "20324882",
+        "PCode": "20324882",
         "model_name": "GIGABYTE B650M K 제이씨현",
         "제조회사": "GIGABYTE",
         "등록년월": {
@@ -27969,7 +27969,7 @@
         ]
     },
     {
-        "pcode": "49740182",
+        "PCode": "49740182",
         "model_name": "ASRock B550M Pro RS 에즈윈",
         "제조회사": "ASRock",
         "등록년월": {
@@ -28066,7 +28066,7 @@
         ]
     },
     {
-        "pcode": "95280263",
+        "PCode": "95280263",
         "model_name": "GIGABYTE B850M FORCE 제이씨현",
         "제조회사": "GIGABYTE",
         "등록년월": {
@@ -28169,7 +28169,7 @@
         ]
     },
     {
-        "pcode": "74338115",
+        "PCode": "74338115",
         "model_name": "ASUS ROG STRIX B860-G GAMING WIFI 코잇",
         "제조회사": "ASUS",
         "등록년월": {
@@ -28285,7 +28285,7 @@
         ]
     },
     {
-        "pcode": "16083650",
+        "PCode": "16083650",
         "model_name": "ASUS PRIME H610M-K D4 인텍앤컴퍼니",
         "제조회사": "ASUS",
         "등록년월": {
@@ -28404,7 +28404,7 @@
         ]
     },
     {
-        "pcode": "73884029",
+        "PCode": "73884029",
         "model_name": "ASUS TUF Gaming B850M-PLUS STCOM",
         "제조회사": "ASUS",
         "등록년월": {
@@ -28516,7 +28516,7 @@
         ]
     },
     {
-        "pcode": "73884083",
+        "PCode": "73884083",
         "model_name": "ASUS TUF Gaming B850-PLUS WIFI STCOM",
         "제조회사": "ASUS",
         "등록년월": {
@@ -28640,7 +28640,7 @@
         ]
     },
     {
-        "pcode": "74337680",
+        "PCode": "74337680",
         "model_name": "ASUS PRIME B860M-A-CSM 코잇",
         "제조회사": "ASUS",
         "등록년월": {
@@ -28749,7 +28749,7 @@
         ]
     },
     {
-        "pcode": "19431530",
+        "PCode": "19431530",
         "model_name": "GIGABYTE A520M K V2 피씨디렉트",
         "제조회사": "GIGABYTE",
         "등록년월": {
@@ -28854,7 +28854,7 @@
         ]
     },
     {
-        "pcode": "75857021",
+        "PCode": "75857021",
         "model_name": "MSI MAG X870E 토마호크 WIFI",
         "제조회사": "MSI",
         "등록년월": {
@@ -28977,7 +28977,7 @@
         ]
     },
     {
-        "pcode": "74814341",
+        "PCode": "74814341",
         "model_name": "MSI MAG B850 토마호크 맥스 WIFI",
         "제조회사": "MSI",
         "등록년월": {
@@ -29104,7 +29104,7 @@
         ]
     },
     {
-        "pcode": "98613731",
+        "PCode": "98613731",
         "model_name": "GIGABYTE X870E AORUS MASTER X3D ICE 피씨디렉트",
         "제조회사": "GIGABYTE",
         "등록년월": {
@@ -29212,7 +29212,7 @@
         ]
     },
     {
-        "pcode": "74339975",
+        "PCode": "74339975",
         "model_name": "MSI PRO B860M-A WIFI",
         "제조회사": "MSI",
         "등록년월": {
@@ -29325,7 +29325,7 @@
         ]
     },
     {
-        "pcode": "93071258",
+        "PCode": "93071258",
         "model_name": "ASUS B850M MAX GAMING WIFI 대원씨티에스",
         "제조회사": "ASUS",
         "등록년월": {
@@ -29436,7 +29436,7 @@
         ]
     },
     {
-        "pcode": "74255387",
+        "PCode": "74255387",
         "model_name": "GIGABYTE B860M AORUS ELITE WIFI6E ICE 피씨디렉트",
         "제조회사": "GIGABYTE",
         "등록년월": {
@@ -29548,7 +29548,7 @@
         ]
     },
     {
-        "pcode": "37226114",
+        "PCode": "37226114",
         "model_name": "MSI MAG B760M 박격포 II",
         "제조회사": "MSI",
         "등록년월": {
@@ -29665,7 +29665,7 @@
         ]
     },
     {
-        "pcode": "92043230",
+        "PCode": "92043230",
         "model_name": "MAXSUN e스포츠 B850ITX WIFI ICE 디앤디컴",
         "제조회사": "MAXSUN",
         "등록년월": {
@@ -29765,7 +29765,7 @@
         ]
     },
     {
-        "pcode": "73560548",
+        "PCode": "73560548",
         "model_name": "GIGABYTE X870E AORUS PRO 피씨디렉트",
         "제조회사": "GIGABYTE",
         "등록년월": {
@@ -29886,7 +29886,7 @@
         ]
     },
     {
-        "pcode": "12069566",
+        "PCode": "12069566",
         "model_name": "ASUS PRIME A520M-K 대원씨티에스",
         "제조회사": "ASUS",
         "등록년월": {
@@ -30000,7 +30000,7 @@
         ]
     },
     {
-        "pcode": "12067598",
+        "PCode": "12067598",
         "model_name": "MSI A520M-A PRO",
         "제조회사": "MSI",
         "등록년월": {
@@ -30117,7 +30117,7 @@
         ]
     },
     {
-        "pcode": "95988578",
+        "PCode": "95988578",
         "model_name": "ASUS TUF Gaming B850M-PLUS II STCOM",
         "제조회사": "ASUS",
         "등록년월": {
@@ -30228,7 +30228,7 @@
         ]
     },
     {
-        "pcode": "67852211",
+        "PCode": "67852211",
         "model_name": "ASUS ROG CROSSHAIR X870E HERO 대원씨티에스",
         "제조회사": "ASUS",
         "등록년월": {
@@ -30339,7 +30339,7 @@
         ]
     },
     {
-        "pcode": "97121798",
+        "PCode": "97121798",
         "model_name": "MSI PRO H810M-B",
         "제조회사": "MSI",
         "등록년월": {
@@ -30436,7 +30436,7 @@
         ]
     },
     {
-        "pcode": "19627397",
+        "PCode": "19627397",
         "model_name": "ASRock B550M Phantom Gaming 4 대원씨티에스",
         "제조회사": "ASRock",
         "등록년월": {
@@ -30541,7 +30541,7 @@
         ]
     },
     {
-        "pcode": "97702355",
+        "PCode": "97702355",
         "model_name": "ASRock B850 Challenger WiFi 7 White 대원씨티에스",
         "제조회사": "ASRock",
         "등록년월": {
@@ -30651,7 +30651,7 @@
         ]
     },
     {
-        "pcode": "93703418",
+        "PCode": "93703418",
         "model_name": "ASUS TUF Gaming B650EM-E WIFI 대원씨티에스",
         "제조회사": "ASUS",
         "등록년월": {
@@ -30763,7 +30763,7 @@
         ]
     },
     {
-        "pcode": "34815659",
+        "PCode": "34815659",
         "model_name": "ASUS TUF Gaming B760M-PLUS II 코잇",
         "제조회사": "ASUS",
         "등록년월": {
@@ -30879,7 +30879,7 @@
         ]
     },
     {
-        "pcode": "19536062",
+        "PCode": "19536062",
         "model_name": "ASRock B760M Pro RS D5 에즈윈",
         "제조회사": "ASRock",
         "등록년월": {
@@ -31017,7 +31017,7 @@
         ]
     },
     {
-        "pcode": "74251349",
+        "PCode": "74251349",
         "model_name": "GIGABYTE B860M DS3H 제이씨현",
         "제조회사": "GIGABYTE",
         "등록년월": {
@@ -31113,7 +31113,7 @@
         ]
     },
     {
-        "pcode": "91872095",
+        "PCode": "91872095",
         "model_name": "GIGABYTE B760M DS3H GEN5 피씨디렉트",
         "제조회사": "GIGABYTE",
         "등록년월": {
@@ -31220,7 +31220,7 @@
         ]
     },
     {
-        "pcode": "21727307",
+        "PCode": "21727307",
         "model_name": "GIGABYTE B650M K 피씨디렉트",
         "제조회사": "GIGABYTE",
         "등록년월": {
@@ -31336,7 +31336,7 @@
         ]
     },
     {
-        "pcode": "79397648",
+        "PCode": "79397648",
         "model_name": "MSI MAG B850M 박격포 WIFI",
         "제조회사": "MSI",
         "등록년월": {
@@ -31453,7 +31453,7 @@
         ]
     },
     {
-        "pcode": "95988710",
+        "PCode": "95988710",
         "model_name": "ASUS TUF Gaming B850M-PLUS WIFI7 STCOM",
         "제조회사": "ASUS",
         "등록년월": {
@@ -31577,7 +31577,7 @@
         ]
     },
     {
-        "pcode": "73892423",
+        "PCode": "73892423",
         "model_name": "GIGABYTE B850M AORUS ELITE WIFI6E ICE 제이씨현",
         "제조회사": "GIGABYTE",
         "등록년월": {
@@ -31706,7 +31706,7 @@
         ]
     },
     {
-        "pcode": "74340266",
+        "PCode": "74340266",
         "model_name": "MSI MAG B860M 박격포 WIFI",
         "제조회사": "MSI",
         "등록년월": {
@@ -31828,7 +31828,7 @@
         ]
     },
     {
-        "pcode": "27474755",
+        "PCode": "27474755",
         "model_name": "MSI PRO B760M-A DDR4 II",
         "제조회사": "MSI",
         "등록년월": {
@@ -31944,7 +31944,7 @@
         ]
     },
     {
-        "pcode": "11571368",
+        "PCode": "11571368",
         "model_name": "ASUS TUF Gaming B550M-PLUS STCOM",
         "제조회사": "ASUS",
         "등록년월": {
@@ -32072,7 +32072,7 @@
         ]
     },
     {
-        "pcode": "76509641",
+        "PCode": "76509641",
         "model_name": "ASRock B650M Pro X3D 에즈윈",
         "제조회사": "ASRock",
         "등록년월": {
@@ -32185,7 +32185,7 @@
         ]
     },
     {
-        "pcode": "16284179",
+        "PCode": "16284179",
         "model_name": "ASUS PRIME A520M-A II 대원씨티에스",
         "제조회사": "ASUS",
         "등록년월": {
@@ -32299,7 +32299,7 @@
         ]
     },
     {
-        "pcode": "29879357",
+        "PCode": "29879357",
         "model_name": "ASRock B450M-HDV R4.0 대원씨티에스",
         "제조회사": "ASRock",
         "등록년월": {
@@ -32396,7 +32396,7 @@
         ]
     },
     {
-        "pcode": "20324882",
+        "PCode": "20324882",
         "model_name": "GIGABYTE B650M K 제이씨현",
         "제조회사": "GIGABYTE",
         "등록년월": {
@@ -32513,7 +32513,7 @@
         ]
     },
     {
-        "pcode": "49740182",
+        "PCode": "49740182",
         "model_name": "ASRock B550M Pro RS 에즈윈",
         "제조회사": "ASRock",
         "등록년월": {
@@ -32610,7 +32610,7 @@
         ]
     },
     {
-        "pcode": "95280263",
+        "PCode": "95280263",
         "model_name": "GIGABYTE B850M FORCE 제이씨현",
         "제조회사": "GIGABYTE",
         "등록년월": {
@@ -32713,7 +32713,7 @@
         ]
     },
     {
-        "pcode": "74338115",
+        "PCode": "74338115",
         "model_name": "ASUS ROG STRIX B860-G GAMING WIFI 코잇",
         "제조회사": "ASUS",
         "등록년월": {
@@ -32829,7 +32829,7 @@
         ]
     },
     {
-        "pcode": "16083650",
+        "PCode": "16083650",
         "model_name": "ASUS PRIME H610M-K D4 인텍앤컴퍼니",
         "제조회사": "ASUS",
         "등록년월": {
@@ -32948,7 +32948,7 @@
         ]
     },
     {
-        "pcode": "73884029",
+        "PCode": "73884029",
         "model_name": "ASUS TUF Gaming B850M-PLUS STCOM",
         "제조회사": "ASUS",
         "등록년월": {
@@ -33060,7 +33060,7 @@
         ]
     },
     {
-        "pcode": "73884083",
+        "PCode": "73884083",
         "model_name": "ASUS TUF Gaming B850-PLUS WIFI STCOM",
         "제조회사": "ASUS",
         "등록년월": {
@@ -33184,7 +33184,7 @@
         ]
     },
     {
-        "pcode": "74337680",
+        "PCode": "74337680",
         "model_name": "ASUS PRIME B860M-A-CSM 코잇",
         "제조회사": "ASUS",
         "등록년월": {
@@ -33293,7 +33293,7 @@
         ]
     },
     {
-        "pcode": "19431530",
+        "PCode": "19431530",
         "model_name": "GIGABYTE A520M K V2 피씨디렉트",
         "제조회사": "GIGABYTE",
         "등록년월": {
@@ -33398,7 +33398,7 @@
         ]
     },
     {
-        "pcode": "75857021",
+        "PCode": "75857021",
         "model_name": "MSI MAG X870E 토마호크 WIFI",
         "제조회사": "MSI",
         "등록년월": {
@@ -33521,7 +33521,7 @@
         ]
     },
     {
-        "pcode": "74814341",
+        "PCode": "74814341",
         "model_name": "MSI MAG B850 토마호크 맥스 WIFI",
         "제조회사": "MSI",
         "등록년월": {
@@ -33648,7 +33648,7 @@
         ]
     },
     {
-        "pcode": "98613731",
+        "PCode": "98613731",
         "model_name": "GIGABYTE X870E AORUS MASTER X3D ICE 피씨디렉트",
         "제조회사": "GIGABYTE",
         "등록년월": {
@@ -33756,7 +33756,7 @@
         ]
     },
     {
-        "pcode": "74339975",
+        "PCode": "74339975",
         "model_name": "MSI PRO B860M-A WIFI",
         "제조회사": "MSI",
         "등록년월": {
@@ -33869,7 +33869,7 @@
         ]
     },
     {
-        "pcode": "93071258",
+        "PCode": "93071258",
         "model_name": "ASUS B850M MAX GAMING WIFI 대원씨티에스",
         "제조회사": "ASUS",
         "등록년월": {
@@ -33980,7 +33980,7 @@
         ]
     },
     {
-        "pcode": "74255387",
+        "PCode": "74255387",
         "model_name": "GIGABYTE B860M AORUS ELITE WIFI6E ICE 피씨디렉트",
         "제조회사": "GIGABYTE",
         "등록년월": {
@@ -34092,7 +34092,7 @@
         ]
     },
     {
-        "pcode": "37226114",
+        "PCode": "37226114",
         "model_name": "MSI MAG B760M 박격포 II",
         "제조회사": "MSI",
         "등록년월": {
@@ -34209,7 +34209,7 @@
         ]
     },
     {
-        "pcode": "92043230",
+        "PCode": "92043230",
         "model_name": "MAXSUN e스포츠 B850ITX WIFI ICE 디앤디컴",
         "제조회사": "MAXSUN",
         "등록년월": {
@@ -34309,7 +34309,7 @@
         ]
     },
     {
-        "pcode": "73560548",
+        "PCode": "73560548",
         "model_name": "GIGABYTE X870E AORUS PRO 피씨디렉트",
         "제조회사": "GIGABYTE",
         "등록년월": {
@@ -34430,7 +34430,7 @@
         ]
     },
     {
-        "pcode": "12069566",
+        "PCode": "12069566",
         "model_name": "ASUS PRIME A520M-K 대원씨티에스",
         "제조회사": "ASUS",
         "등록년월": {
@@ -34544,7 +34544,7 @@
         ]
     },
     {
-        "pcode": "12067598",
+        "PCode": "12067598",
         "model_name": "MSI A520M-A PRO",
         "제조회사": "MSI",
         "등록년월": {
@@ -34661,7 +34661,7 @@
         ]
     },
     {
-        "pcode": "95988578",
+        "PCode": "95988578",
         "model_name": "ASUS TUF Gaming B850M-PLUS II STCOM",
         "제조회사": "ASUS",
         "등록년월": {
@@ -34772,7 +34772,7 @@
         ]
     },
     {
-        "pcode": "67852211",
+        "PCode": "67852211",
         "model_name": "ASUS ROG CROSSHAIR X870E HERO 대원씨티에스",
         "제조회사": "ASUS",
         "등록년월": {
@@ -34883,7 +34883,7 @@
         ]
     },
     {
-        "pcode": "97121798",
+        "PCode": "97121798",
         "model_name": "MSI PRO H810M-B",
         "제조회사": "MSI",
         "등록년월": {
@@ -34980,7 +34980,7 @@
         ]
     },
     {
-        "pcode": "19627397",
+        "PCode": "19627397",
         "model_name": "ASRock B550M Phantom Gaming 4 대원씨티에스",
         "제조회사": "ASRock",
         "등록년월": {
@@ -35085,7 +35085,7 @@
         ]
     },
     {
-        "pcode": "97702355",
+        "PCode": "97702355",
         "model_name": "ASRock B850 Challenger WiFi 7 White 대원씨티에스",
         "제조회사": "ASRock",
         "등록년월": {
@@ -35195,7 +35195,7 @@
         ]
     },
     {
-        "pcode": "93703418",
+        "PCode": "93703418",
         "model_name": "ASUS TUF Gaming B650EM-E WIFI 대원씨티에스",
         "제조회사": "ASUS",
         "등록년월": {
@@ -35307,7 +35307,7 @@
         ]
     },
     {
-        "pcode": "34815659",
+        "PCode": "34815659",
         "model_name": "ASUS TUF Gaming B760M-PLUS II 코잇",
         "제조회사": "ASUS",
         "등록년월": {
@@ -35423,7 +35423,7 @@
         ]
     },
     {
-        "pcode": "19536062",
+        "PCode": "19536062",
         "model_name": "ASRock B760M Pro RS D5 에즈윈",
         "제조회사": "ASRock",
         "등록년월": {
@@ -35561,7 +35561,7 @@
         ]
     },
     {
-        "pcode": "74251349",
+        "PCode": "74251349",
         "model_name": "GIGABYTE B860M DS3H 제이씨현",
         "제조회사": "GIGABYTE",
         "등록년월": {
@@ -35657,7 +35657,7 @@
         ]
     },
     {
-        "pcode": "91872095",
+        "PCode": "91872095",
         "model_name": "GIGABYTE B760M DS3H GEN5 피씨디렉트",
         "제조회사": "GIGABYTE",
         "등록년월": {
@@ -35764,7 +35764,7 @@
         ]
     },
     {
-        "pcode": "21727307",
+        "PCode": "21727307",
         "model_name": "GIGABYTE B650M K 피씨디렉트",
         "제조회사": "GIGABYTE",
         "등록년월": {
@@ -35880,7 +35880,7 @@
         ]
     },
     {
-        "pcode": "79397648",
+        "PCode": "79397648",
         "model_name": "MSI MAG B850M 박격포 WIFI",
         "제조회사": "MSI",
         "등록년월": {
@@ -35997,7 +35997,7 @@
         ]
     },
     {
-        "pcode": "95988710",
+        "PCode": "95988710",
         "model_name": "ASUS TUF Gaming B850M-PLUS WIFI7 STCOM",
         "제조회사": "ASUS",
         "등록년월": {
@@ -36121,7 +36121,7 @@
         ]
     },
     {
-        "pcode": "73892423",
+        "PCode": "73892423",
         "model_name": "GIGABYTE B850M AORUS ELITE WIFI6E ICE 제이씨현",
         "제조회사": "GIGABYTE",
         "등록년월": {
@@ -36250,7 +36250,7 @@
         ]
     },
     {
-        "pcode": "74340266",
+        "PCode": "74340266",
         "model_name": "MSI MAG B860M 박격포 WIFI",
         "제조회사": "MSI",
         "등록년월": {
@@ -36372,7 +36372,7 @@
         ]
     },
     {
-        "pcode": "27474755",
+        "PCode": "27474755",
         "model_name": "MSI PRO B760M-A DDR4 II",
         "제조회사": "MSI",
         "등록년월": {
@@ -36488,7 +36488,7 @@
         ]
     },
     {
-        "pcode": "11571368",
+        "PCode": "11571368",
         "model_name": "ASUS TUF Gaming B550M-PLUS STCOM",
         "제조회사": "ASUS",
         "등록년월": {
@@ -36616,7 +36616,7 @@
         ]
     },
     {
-        "pcode": "76509641",
+        "PCode": "76509641",
         "model_name": "ASRock B650M Pro X3D 에즈윈",
         "제조회사": "ASRock",
         "등록년월": {
@@ -36729,7 +36729,7 @@
         ]
     },
     {
-        "pcode": "16284179",
+        "PCode": "16284179",
         "model_name": "ASUS PRIME A520M-A II 대원씨티에스",
         "제조회사": "ASUS",
         "등록년월": {
@@ -36843,7 +36843,7 @@
         ]
     },
     {
-        "pcode": "29879357",
+        "PCode": "29879357",
         "model_name": "ASRock B450M-HDV R4.0 대원씨티에스",
         "제조회사": "ASRock",
         "등록년월": {
@@ -36940,7 +36940,7 @@
         ]
     },
     {
-        "pcode": "20324882",
+        "PCode": "20324882",
         "model_name": "GIGABYTE B650M K 제이씨현",
         "제조회사": "GIGABYTE",
         "등록년월": {
@@ -37057,7 +37057,7 @@
         ]
     },
     {
-        "pcode": "49740182",
+        "PCode": "49740182",
         "model_name": "ASRock B550M Pro RS 에즈윈",
         "제조회사": "ASRock",
         "등록년월": {
@@ -37154,7 +37154,7 @@
         ]
     },
     {
-        "pcode": "95280263",
+        "PCode": "95280263",
         "model_name": "GIGABYTE B850M FORCE 제이씨현",
         "제조회사": "GIGABYTE",
         "등록년월": {
@@ -37257,7 +37257,7 @@
         ]
     },
     {
-        "pcode": "74338115",
+        "PCode": "74338115",
         "model_name": "ASUS ROG STRIX B860-G GAMING WIFI 코잇",
         "제조회사": "ASUS",
         "등록년월": {
@@ -37373,7 +37373,7 @@
         ]
     },
     {
-        "pcode": "16083650",
+        "PCode": "16083650",
         "model_name": "ASUS PRIME H610M-K D4 인텍앤컴퍼니",
         "제조회사": "ASUS",
         "등록년월": {
@@ -37492,7 +37492,7 @@
         ]
     },
     {
-        "pcode": "73884029",
+        "PCode": "73884029",
         "model_name": "ASUS TUF Gaming B850M-PLUS STCOM",
         "제조회사": "ASUS",
         "등록년월": {
@@ -37604,7 +37604,7 @@
         ]
     },
     {
-        "pcode": "73884083",
+        "PCode": "73884083",
         "model_name": "ASUS TUF Gaming B850-PLUS WIFI STCOM",
         "제조회사": "ASUS",
         "등록년월": {
@@ -37728,7 +37728,7 @@
         ]
     },
     {
-        "pcode": "74337680",
+        "PCode": "74337680",
         "model_name": "ASUS PRIME B860M-A-CSM 코잇",
         "제조회사": "ASUS",
         "등록년월": {
@@ -37837,7 +37837,7 @@
         ]
     },
     {
-        "pcode": "19431530",
+        "PCode": "19431530",
         "model_name": "GIGABYTE A520M K V2 피씨디렉트",
         "제조회사": "GIGABYTE",
         "등록년월": {
@@ -37942,7 +37942,7 @@
         ]
     },
     {
-        "pcode": "75857021",
+        "PCode": "75857021",
         "model_name": "MSI MAG X870E 토마호크 WIFI",
         "제조회사": "MSI",
         "등록년월": {
@@ -38065,7 +38065,7 @@
         ]
     },
     {
-        "pcode": "74814341",
+        "PCode": "74814341",
         "model_name": "MSI MAG B850 토마호크 맥스 WIFI",
         "제조회사": "MSI",
         "등록년월": {
@@ -38192,7 +38192,7 @@
         ]
     },
     {
-        "pcode": "98613731",
+        "PCode": "98613731",
         "model_name": "GIGABYTE X870E AORUS MASTER X3D ICE 피씨디렉트",
         "제조회사": "GIGABYTE",
         "등록년월": {
@@ -38300,7 +38300,7 @@
         ]
     },
     {
-        "pcode": "74339975",
+        "PCode": "74339975",
         "model_name": "MSI PRO B860M-A WIFI",
         "제조회사": "MSI",
         "등록년월": {
@@ -38413,7 +38413,7 @@
         ]
     },
     {
-        "pcode": "93071258",
+        "PCode": "93071258",
         "model_name": "ASUS B850M MAX GAMING WIFI 대원씨티에스",
         "제조회사": "ASUS",
         "등록년월": {
@@ -38524,7 +38524,7 @@
         ]
     },
     {
-        "pcode": "74255387",
+        "PCode": "74255387",
         "model_name": "GIGABYTE B860M AORUS ELITE WIFI6E ICE 피씨디렉트",
         "제조회사": "GIGABYTE",
         "등록년월": {
@@ -38636,7 +38636,7 @@
         ]
     },
     {
-        "pcode": "37226114",
+        "PCode": "37226114",
         "model_name": "MSI MAG B760M 박격포 II",
         "제조회사": "MSI",
         "등록년월": {
@@ -38753,7 +38753,7 @@
         ]
     },
     {
-        "pcode": "92043230",
+        "PCode": "92043230",
         "model_name": "MAXSUN e스포츠 B850ITX WIFI ICE 디앤디컴",
         "제조회사": "MAXSUN",
         "등록년월": {
@@ -38853,7 +38853,7 @@
         ]
     },
     {
-        "pcode": "73560548",
+        "PCode": "73560548",
         "model_name": "GIGABYTE X870E AORUS PRO 피씨디렉트",
         "제조회사": "GIGABYTE",
         "등록년월": {
@@ -38974,7 +38974,7 @@
         ]
     },
     {
-        "pcode": "12069566",
+        "PCode": "12069566",
         "model_name": "ASUS PRIME A520M-K 대원씨티에스",
         "제조회사": "ASUS",
         "등록년월": {
@@ -39088,7 +39088,7 @@
         ]
     },
     {
-        "pcode": "12067598",
+        "PCode": "12067598",
         "model_name": "MSI A520M-A PRO",
         "제조회사": "MSI",
         "등록년월": {
@@ -39205,7 +39205,7 @@
         ]
     },
     {
-        "pcode": "95988578",
+        "PCode": "95988578",
         "model_name": "ASUS TUF Gaming B850M-PLUS II STCOM",
         "제조회사": "ASUS",
         "등록년월": {
@@ -39316,7 +39316,7 @@
         ]
     },
     {
-        "pcode": "67852211",
+        "PCode": "67852211",
         "model_name": "ASUS ROG CROSSHAIR X870E HERO 대원씨티에스",
         "제조회사": "ASUS",
         "등록년월": {
@@ -39427,7 +39427,7 @@
         ]
     },
     {
-        "pcode": "97121798",
+        "PCode": "97121798",
         "model_name": "MSI PRO H810M-B",
         "제조회사": "MSI",
         "등록년월": {
@@ -39524,7 +39524,7 @@
         ]
     },
     {
-        "pcode": "19627397",
+        "PCode": "19627397",
         "model_name": "ASRock B550M Phantom Gaming 4 대원씨티에스",
         "제조회사": "ASRock",
         "등록년월": {
@@ -39629,7 +39629,7 @@
         ]
     },
     {
-        "pcode": "97702355",
+        "PCode": "97702355",
         "model_name": "ASRock B850 Challenger WiFi 7 White 대원씨티에스",
         "제조회사": "ASRock",
         "등록년월": {
@@ -39739,7 +39739,7 @@
         ]
     },
     {
-        "pcode": "93703418",
+        "PCode": "93703418",
         "model_name": "ASUS TUF Gaming B650EM-E WIFI 대원씨티에스",
         "제조회사": "ASUS",
         "등록년월": {
@@ -39851,7 +39851,7 @@
         ]
     },
     {
-        "pcode": "34815659",
+        "PCode": "34815659",
         "model_name": "ASUS TUF Gaming B760M-PLUS II 코잇",
         "제조회사": "ASUS",
         "등록년월": {
@@ -39967,7 +39967,7 @@
         ]
     },
     {
-        "pcode": "19536062",
+        "PCode": "19536062",
         "model_name": "ASRock B760M Pro RS D5 에즈윈",
         "제조회사": "ASRock",
         "등록년월": {
@@ -40105,7 +40105,7 @@
         ]
     },
     {
-        "pcode": "74251349",
+        "PCode": "74251349",
         "model_name": "GIGABYTE B860M DS3H 제이씨현",
         "제조회사": "GIGABYTE",
         "등록년월": {
@@ -40201,7 +40201,7 @@
         ]
     },
     {
-        "pcode": "91872095",
+        "PCode": "91872095",
         "model_name": "GIGABYTE B760M DS3H GEN5 피씨디렉트",
         "제조회사": "GIGABYTE",
         "등록년월": {

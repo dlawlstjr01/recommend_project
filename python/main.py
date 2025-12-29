@@ -1,35 +1,32 @@
 from flask import Flask, jsonify, request
 from flask_cors import CORS
-import jwt
-import os
-import json
-import random
-import hashlib
-import re
+import jwt, os, json, random, hashlib, re
 from pathlib import Path
+from sqlalchemy import create_engine, text
 
 app = Flask(__name__)
 
-CORS(
-    app,
-    supports_credentials=True,
-    origins=["http://localhost:5173"]
-)
+CORS(app, supports_credentials=True, origins=["http://localhost:5173"])
 
 JWT_SECRET = os.getenv("JWT_SECRET", "81c02530a568f9da9d1ce9d681b56544")
 JWT_ALG = "HS256"
 
 DATA_DIR = Path(__file__).resolve().parent.parent / "server" / "data"
 
-# JSON 로드
-def load_all_products_raw():
-    items = []
-    for file in DATA_DIR.glob("*.json"):
-        with open(file, encoding="utf-8") as f:
-            data = json.load(f)
-            if isinstance(data, list):
-                items.extend(data)
-    return items
+engine = create_engine(
+    "mysql+pymysql://cgi_25K_donga1_p2_3:smhrd3@project-db-campus.smhrd.com:3307/cgi_25K_donga1_p2_3?charset=utf8mb4",
+    pool_pre_ping=True
+)
+
+def get_user_no_from_jwt():
+    token = request.cookies.get("accessToken")
+    if not token:
+        return None
+    try:
+        payload = jwt.decode(token, JWT_SECRET, algorithms=[JWT_ALG])
+        return payload.get("userNo")
+    except:
+        return None
 
 def get_name(obj):
     return (
@@ -73,32 +70,20 @@ def get_image(obj):
 def get_brand(obj):
     if obj.get("brand") or obj.get("Brand"):
         return obj.get("brand") or obj.get("Brand")
-
     name = get_name(obj)
     first = str(name).split(" ")[0]
-
     MAP = {
-        "레노버": "Lenovo",
-        "삼성": "Samsung",
-        "LG": "LG",
-        "ASUS": "ASUS",
-        "애플": "Apple",
-        "HP": "HP",
-        "델": "Dell",
-        "MSI": "MSI",
-        "에이서": "Acer",
-        "기가바이트": "GIGABYTE",
+        "레노버": "Lenovo","삼성": "Samsung","LG": "LG","ASUS": "ASUS","애플": "Apple",
+        "HP": "HP","델": "Dell","MSI": "MSI","에이서": "Acer","기가바이트": "GIGABYTE",
     }
-
     return MAP.get(first, first)
 
 def make_id(category, obj, idx):
     name = get_name(obj)
     slug = re.sub(r"[^a-z0-9가-힣]+", "-", name.lower()).strip("-")
-    h = hashlib.sha1(json.dumps(obj, ensure_ascii=False).encode()).hexdigest()[:8]
+    h = hashlib.sha1(json.dumps(obj, ensure_ascii=False, sort_keys=True).encode()).hexdigest()[:8]
     return f"{category}:{slug or 'item'}-{h}-{idx}"
 
-# Node와 동일한 최종 상품 포맷
 def normalize_like_node(obj, category, idx):
     return {
         "id": obj.get("id") or make_id(category, obj, idx),
@@ -108,105 +93,86 @@ def normalize_like_node(obj, category, idx):
         "brand": get_brand(obj),
         "img": get_image(obj),
         "url": obj.get("url") or obj.get("purchase_url"),
+        "raw": obj,  # 추천에서 바로 상세 렌더링하려면 raw 포함 추천
     }
 
-# 상품 정규화
-def normalize_product(raw_obj, category):
-    def first(*vals):
-        for v in vals:
-            if v not in (None, "", []):
-                return v
-        return None
+# ---- 상품 인덱스 ----
+PRODUCTS = []
+PRODUCT_BY_ID = {}
+BASEKEY_TO_FULLID = {}  # "category:slug" -> "category:slug-hash-idx"
 
-    name = first(
-        raw_obj.get("model_name"),
-        raw_obj.get("Name"),
-        raw_obj.get("name"),
-        raw_obj.get("Product"),
-        raw_obj.get("product_name"),
-        raw_obj.get("title"),
-        raw_obj.get("Title"),
-        raw_obj.get("제품명"),
-    ) or "Unknown"
+def base_key(full_id: str) -> str:
+    # 뒤 "-해시8자리-숫자" 제거
+    return re.sub(r"-[0-9a-f]{8}-\d+$", "", str(full_id))
 
-    price = first(
-        raw_obj.get("price_krw"),
-        raw_obj.get("price"),
-        raw_obj.get("lowest_price"),
-        raw_obj.get("lowestPrice"),
-        raw_obj.get("가격"),
-        raw_obj.get("최저가"),
-    ) or 0
+def build_products_index():
+    global PRODUCTS, PRODUCT_BY_ID, BASEKEY_TO_FULLID
+    products = []
+    idx = 0
 
-    img = first(
-        raw_obj.get("BaseImageURL"),
-        raw_obj.get("image"),
-        raw_obj.get("img"),
-        (raw_obj.get("Images")[0] if isinstance(raw_obj.get("Images"), list) else None)
-    )
+    for file in sorted(DATA_DIR.glob("*.json")):
+        category = file.stem.lower()
+        with open(file, encoding="utf-8") as f:
+            data = json.load(f)
 
-    brand = first(
-        raw_obj.get("brand"),
-        raw_obj.get("Brand"),
-        raw_obj.get("제조사")
-    )
+        if not isinstance(data, list):
+            continue
 
-    #  id는 "추천용 임시 id" (Node 재조회 안 함)
-    pid = raw_obj.get("pcode") or abs(hash(json.dumps(raw_obj, ensure_ascii=False))) % 10**10
-    product_id = f"{category}:{pid}"
+        for obj in data:
+            p = normalize_like_node(obj, category, idx)
+            products.append(p)
+            idx += 1
 
-    return {
-        "id": product_id,
-        "category": category,
-        "name": name,
-        "price": int(price) if str(price).isdigit() else 0,
-        "brand": brand,
-        "img": img,
-        "raw": raw_obj 
-    }
+    PRODUCTS = products
+    PRODUCT_BY_ID = {p["id"]: p for p in PRODUCTS}
+    BASEKEY_TO_FULLID = {base_key(p["id"]): p["id"] for p in PRODUCTS}
 
-# JWT
-def get_user_no_from_jwt():
-    token = request.cookies.get("accessToken")
-    if not token:
-        return None
-    try:
-        payload = jwt.decode(token, JWT_SECRET, algorithms=[JWT_ALG])
-        return payload.get("userNo")
-    except:
-        return None
+build_products_index()
 
-# 추천 API
+# ---- 추천 API ----
 @app.route("/api/recommend", methods=["GET"])
 def recommend():
     user_no = get_user_no_from_jwt()
 
-    raw = load_all_products_raw()
-    if not raw:
-        return jsonify({ "type": "fallback", "items": [] })
+    if not PRODUCTS:
+        return jsonify({"type": "fallback", "items": []})
 
-    # 파일명에서 category 추정
-    products = []
-    idx = 0
-    for file in DATA_DIR.glob("*.json"):
-        category = file.stem.lower()
-        with open(file, encoding="utf-8") as f:
-            data = json.load(f)
-            if not isinstance(data, list):
-                continue
-            for obj in data:
-                products.append(normalize_like_node(obj, category, idx))
-                idx += 1
+    # 로그인 안 했으면 fallback
+    if not user_no:
+        picked = random.sample(PRODUCTS, min(10, len(PRODUCTS)))
+        return jsonify({"type": "fallback", "items": picked})
 
-    picked = random.sample(products, min(10, len(products)))
+    q = text("""
+        SELECT product_id, score, rec_rank
+        FROM user_recommendations
+        WHERE user_no = :u
+        ORDER BY rec_rank ASC
+        LIMIT 10
+    """)
 
-    return jsonify({
-        "type": "personalized" if user_no else "fallback",
-        "items": picked
-    })
+    with engine.connect() as conn:
+        rows = conn.execute(q, {"u": int(user_no)}).fetchall()
 
-# -------------------------------
-# 실행
-# -------------------------------
+    items = []
+    for r in rows:
+        pid = str(r.product_id)
+
+        # 1) 완전 일치
+        full_id = pid if pid in PRODUCT_BY_ID else None
+
+        # 2) DB가 "category:slug"만 저장한 경우 보정
+        if full_id is None:
+            full_id = BASEKEY_TO_FULLID.get(pid)
+
+        if full_id:
+            items.append(PRODUCT_BY_ID[full_id])
+
+    # 부족하면 fallback 채움
+    if len(items) < 10:
+        remain = 10 - len(items)
+        items.extend(random.sample(PRODUCTS, min(remain, len(PRODUCTS))))
+
+    return jsonify({"type": "personalized", "items": items})
+
 if __name__ == "__main__":
     app.run(host="0.0.0.0", port=5001, debug=False)

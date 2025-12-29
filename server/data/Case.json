@@ -3,7 +3,7 @@
         "PCode": "65426303",
         "Name": "DAVEN AQUA 다이버",
         "Price": 39890,
-        "Spec_Detailed": {
+        "Spec": {
             "제품_분류": "ATX 케이스",
             "케이스_크기": "미들타워",
             "지원보드_E-ATX": true,
@@ -34,7 +34,7 @@
         "PCode": "78530048",
         "Name": "darkFlash DS500 RGB",
         "Price": 39280,
-        "Spec_Detailed": {
+        "Spec": {
             "제품_분류": "ATX 케이스",
             "케이스_크기": "미들타워",
             "지원보드_E-ATX": null,
@@ -80,7 +80,7 @@
         "PCode": "96580280",
         "Name": "잘만 N30 백사십",
         "Price": 39410,
-        "Spec_Detailed": {
+        "Spec": {
             "제품_분류": "ATX 케이스",
             "케이스_크기": "미들타워",
             "지원보드_E-ATX": null,
@@ -113,7 +113,7 @@
         "PCode": "79559156",
         "Name": "마이크로닉스 WIZMAX 우드리안 MAX",
         "Price": 86130,
-        "Spec_Detailed": {
+        "Spec": {
             "제품_분류": "ATX 케이스",
             "케이스_크기": "빅타워",
             "지원보드_E-ATX": null,
@@ -145,7 +145,7 @@
         "PCode": "93913109",
         "Name": "마이크로닉스 WIZMAX CHILL 세븐팬",
         "Price": 48400,
-        "Spec_Detailed": {
+        "Spec": {
             "제품_분류": "ATX 케이스",
             "케이스_크기": "미들타워",
             "지원보드_E-ATX": true,
@@ -176,7 +176,7 @@
         "PCode": "99290720",
         "Name": "마이크로닉스 WIZMAX 모노크롬",
         "Price": 46460,
-        "Spec_Detailed": {
+        "Spec": {
             "제품_분류": "M-ATX 케이스",
             "케이스_크기": "미니타워",
             "지원보드_E-ATX": null,
@@ -207,7 +207,7 @@
         "PCode": "93700982",
         "Name": "3RSYS R190 (블랙)",
         "Price": 39500,
-        "Spec_Detailed": {
+        "Spec": {
             "제품_분류": "ATX 케이스",
             "케이스_크기": "미들타워",
             "지원보드_E-ATX": null,
@@ -238,7 +238,7 @@
         "PCode": "94814495",
         "Name": "DAVEN AQUA Lite",
         "Price": 19880,
-        "Spec_Detailed": {
+        "Spec": {
             "제품_분류": "M-ATX 케이스",
             "케이스_크기": "미니타워",
             "지원보드_E-ATX": null,
@@ -269,7 +269,7 @@
         "PCode": "53783243",
         "Name": "앱코 U30 마린",
         "Price": 39900,
-        "Spec_Detailed": {
+        "Spec": {
             "제품_분류": "ATX 케이스",
             "케이스_크기": "미들타워",
             "지원보드_E-ATX": null,
@@ -302,7 +302,7 @@
         "PCode": "94812776",
         "Name": "앱코 U30P 마린+ 디스플레이",
         "Price": 49900,
-        "Spec_Detailed": {
+        "Spec": {
             "제품_분류": "ATX 케이스",
             "케이스_크기": "미들타워",
             "지원보드_E-ATX": true,
@@ -336,7 +336,7 @@
         "PCode": "32861099",
         "Name": "darkFlash DS900 ARGB 강화유리",
         "Price": 56150,
-        "Spec_Detailed": {
+        "Spec": {
             "제품_분류": "ATX 케이스",
             "케이스_크기": "미들타워",
             "지원보드_E-ATX": null,
@@ -383,7 +383,7 @@
         "PCode": "99640949",
         "Name": "앱코 G50 빅플로우 MESH ARGB BTF",
         "Price": 89000,
-        "Spec_Detailed": {
+        "Spec": {
             "제품_분류": "ATX 케이스",
             "케이스_크기": "미들타워",
             "지원보드_E-ATX": true,
@@ -417,7 +417,7 @@
         "PCode": "98230358",
         "Name": "아이구주 HATCH S400 BTF FULL MESH",
         "Price": 54990,
-        "Spec_Detailed": {
+        "Spec": {
             "제품_분류": "ATX 케이스",
             "케이스_크기": null,
             "지원보드_E-ATX": true,
@@ -448,7 +448,7 @@
         "PCode": "56138000",
         "Name": "앱코 U20M 큐빅 미니",
         "Price": 31500,
-        "Spec_Detailed": {
+        "Spec": {
             "제품_분류": "M-ATX 케이스",
             "케이스_크기": "미니타워",
             "지원보드_E-ATX": null,
@@ -481,7 +481,7 @@
         "PCode": "93320456",
         "Name": "앱코 UD50C 루시드 앰비언트 풀커브드 ARGB BTF",
         "Price": 139000,
-        "Spec_Detailed": {
+        "Spec": {
             "제품_분류": "ATX 케이스",
             "케이스_크기": "미들타워",
             "지원보드_E-ATX": null,
@@ -515,7 +515,7 @@
         "PCode": "48648926",
         "Name": "마이크로닉스 COOLMAX 스테디",
         "Price": 45900,
-        "Spec_Detailed": {
+        "Spec": {
             "제품_분류": "ATX 케이스",
             "케이스_크기": "미들타워",
             "지원보드_E-ATX": null,
@@ -546,7 +546,7 @@
         "PCode": "17409059",
         "Name": "3RSYS L600 Quiet",
         "Price": 90250,
-        "Spec_Detailed": {
+        "Spec": {
             "제품_분류": "ATX 케이스",
             "케이스_크기": "미들타워",
             "지원보드_E-ATX": true,
@@ -577,7 +577,7 @@
         "PCode": "62071772",
         "Name": "darkFlash DMO11",
         "Price": 18800,
-        "Spec_Detailed": {
+        "Spec": {
             "제품_분류": "M-ATX 케이스",
             "케이스_크기": "미니타워",
             "지원보드_E-ATX": null,
@@ -608,7 +608,7 @@
         "PCode": "11884168",
         "Name": "darkFlash DLX21 RGB MESH 강화유리",
         "Price": 95490,
-        "Spec_Detailed": {
+        "Spec": {
             "제품_분류": "ATX 케이스",
             "케이스_크기": "미들타워",
             "지원보드_E-ATX": true,
@@ -655,7 +655,7 @@
         "PCode": "33439418",
         "Name": "Antec C8 MESH",
         "Price": 138500,
-        "Spec_Detailed": {
+        "Spec": {
             "제품_분류": "ATX 케이스",
             "케이스_크기": "빅타워",
             "지원보드_E-ATX": true,
@@ -689,7 +689,7 @@
         "PCode": "72470105",
         "Name": "Antec FLUX PRO MESH",
         "Price": 259000,
-        "Spec_Detailed": {
+        "Spec": {
             "제품_분류": "ATX 케이스",
             "케이스_크기": "빅타워",
             "지원보드_E-ATX": true,
@@ -722,7 +722,7 @@
         "PCode": "99837545",
         "Name": "DAVEN 벤투스 420 MESH ARGB",
         "Price": 89000,
-        "Spec_Detailed": {
+        "Spec": {
             "제품_분류": "ATX 케이스",
             "케이스_크기": "미들타워",
             "지원보드_E-ATX": null,
@@ -753,7 +753,7 @@
         "PCode": "35229779",
         "Name": "1stPlayer T7-P",
         "Price": 38700,
-        "Spec_Detailed": {
+        "Spec": {
             "제품_분류": "ATX 케이스",
             "케이스_크기": "미들타워",
             "지원보드_E-ATX": null,
@@ -786,7 +786,7 @@
         "PCode": "100271060",
         "Name": "darkFlash DPF70 ARGB",
         "Price": 59700,
-        "Spec_Detailed": {
+        "Spec": {
             "제품_분류": "ATX 케이스",
             "케이스_크기": "미들타워",
             "지원보드_E-ATX": null,
@@ -832,7 +832,7 @@
         "PCode": "76160312",
         "Name": "앱코 UH40 킬러웨일 ARGB",
         "Price": 58000,
-        "Spec_Detailed": {
+        "Spec": {
             "제품_분류": "ATX 케이스",
             "케이스_크기": "미들타워",
             "지원보드_E-ATX": null,
@@ -863,7 +863,7 @@
         "PCode": "99912674",
         "Name": "Antec FLUX M MESH",
         "Price": 78990,
-        "Spec_Detailed": {
+        "Spec": {
             "제품_분류": "M-ATX 케이스",
             "케이스_크기": "미니타워",
             "지원보드_E-ATX": null,
@@ -895,7 +895,7 @@
         "PCode": "18212909",
         "Name": "DAVEN D6 MESH 강화유리",
         "Price": 38700,
-        "Spec_Detailed": {
+        "Spec": {
             "제품_분류": "ATX 케이스",
             "케이스_크기": "미들타워",
             "지원보드_E-ATX": null,
@@ -926,7 +926,7 @@
         "PCode": "98230571",
         "Name": "아이구주 HATCH S600 BTF",
         "Price": 63000,
-        "Spec_Detailed": {
+        "Spec": {
             "제품_분류": "ATX 케이스",
             "케이스_크기": null,
             "지원보드_E-ATX": true,
@@ -957,7 +957,7 @@
         "PCode": "98072711",
         "Name": "싸이번 LIMPID SC-M5 PLUS BONITO Edition",
         "Price": 65200,
-        "Spec_Detailed": {
+        "Spec": {
             "제품_분류": "M-ATX 케이스",
             "케이스_크기": "미니타워",
             "지원보드_E-ATX": null,
@@ -988,7 +988,7 @@
         "PCode": "17976938",
         "Name": "darkFlash DK110",
         "Price": 19590,
-        "Spec_Detailed": {
+        "Spec": {
             "제품_분류": "ATX 케이스",
             "케이스_크기": "미들타워",
             "지원보드_E-ATX": null,
@@ -1019,7 +1019,7 @@
         "PCode": "101956157",
         "Name": "쿨러마스터 MasterFrame 360 파노라마",
         "Price": 360100,
-        "Spec_Detailed": {
+        "Spec": {
             "제품_분류": "ATX 케이스",
             "케이스_크기": "미들타워",
             "지원보드_E-ATX": null,
@@ -1050,7 +1050,7 @@
         "PCode": "101956211",
         "Name": "쿨러마스터 MasterFrame 360 스테이지 LCD",
         "Price": 475000,
-        "Spec_Detailed": {
+        "Spec": {
             "제품_분류": "ATX 케이스",
             "케이스_크기": "미들타워",
             "지원보드_E-ATX": null,
@@ -1081,7 +1081,7 @@
         "PCode": "55083089",
         "Name": "MSI MAG PANO 100L 프로젝트 제로",
         "Price": 119000,
-        "Spec_Detailed": {
+        "Spec": {
             "제품_분류": "ATX 케이스",
             "케이스_크기": "미들타워",
             "지원보드_E-ATX": null,
@@ -1113,7 +1113,7 @@
         "PCode": "101012141",
         "Name": "HAVN BF 360 FLOW",
         "Price": 293200,
-        "Spec_Detailed": {
+        "Spec": {
             "제품_분류": "ATX 케이스",
             "케이스_크기": "미들타워",
             "지원보드_E-ATX": true,
@@ -1148,7 +1148,7 @@
         "PCode": "79558676",
         "Name": "마이크로닉스 WIZMAX 우드리안 PRO",
         "Price": 57030,
-        "Spec_Detailed": {
+        "Spec": {
             "제품_분류": "M-ATX 케이스",
             "케이스_크기": "미니타워",
             "지원보드_E-ATX": null,
@@ -1179,7 +1179,7 @@
         "PCode": "70001051",
         "Name": "Antec FLUX MESH BTF",
         "Price": 138990,
-        "Spec_Detailed": {
+        "Spec": {
             "제품_분류": "ATX 케이스",
             "케이스_크기": "미들타워",
             "지원보드_E-ATX": true,
@@ -1214,7 +1214,7 @@
         "PCode": "101079215",
         "Name": "쿨러마스터 QUBE 540",
         "Price": 96350,
-        "Spec_Detailed": {
+        "Spec": {
             "제품_분류": "ATX 케이스",
             "케이스_크기": "미들타워",
             "지원보드_E-ATX": true,
@@ -1245,7 +1245,7 @@
         "PCode": "61844234",
         "Name": "HYTE Y70 Touch Infinite",
         "Price": 578990,
-        "Spec_Detailed": {
+        "Spec": {
             "제품_분류": "ATX 케이스",
             "케이스_크기": "미들타워",
             "지원보드_E-ATX": true,
@@ -1276,7 +1276,7 @@
         "PCode": "101079269",
         "Name": "쿨러마스터 MASTERFRAME 400 MESH",
         "Price": 200790,
-        "Spec_Detailed": {
+        "Spec": {
             "제품_분류": "M-ATX 케이스",
             "케이스_크기": "미니타워",
             "지원보드_E-ATX": null,
@@ -1307,7 +1307,7 @@
         "PCode": "100694585",
         "Name": "SilverStone SST-FLP02W 마이크로닉스",
         "Price": 279000,
-        "Spec_Detailed": {
+        "Spec": {
             "제품_분류": "ATX 케이스",
             "케이스_크기": "미들타워",
             "지원보드_E-ATX": null,
@@ -1338,7 +1338,7 @@
         "PCode": "101013590",
         "Name": "darkFlash DS500M RGB",
         "Price": 38490,
-        "Spec_Detailed": {
+        "Spec": {
             "제품_분류": "M-ATX 케이스",
             "케이스_크기": "미니타워",
             "지원보드_E-ATX": null,
@@ -1384,7 +1384,7 @@
         "PCode": "71777573",
         "Name": "Antec C8 MESH CURVE BTF",
         "Price": 179000,
-        "Spec_Detailed": {
+        "Spec": {
             "제품_분류": "ATX 케이스",
             "케이스_크기": "빅타워",
             "지원보드_E-ATX": true,
@@ -1418,7 +1418,7 @@
         "PCode": "16542008",
         "Name": "darkFlash DK1000 MESH 강화유리",
         "Price": 65370,
-        "Spec_Detailed": {
+        "Spec": {
             "제품_분류": "ATX 케이스",
             "케이스_크기": "미들타워",
             "지원보드_E-ATX": true,
@@ -1469,7 +1469,7 @@
         "PCode": "48395153",
         "Name": "DAVEN U300",
         "Price": 38990,
-        "Spec_Detailed": {
+        "Spec": {
             "제품_분류": "M-ATX 케이스",
             "케이스_크기": "미니타워",
             "지원보드_E-ATX": null,
@@ -1500,7 +1500,7 @@
         "PCode": "10423167",
         "Name": "마이크로닉스 Master M60 메쉬",
         "Price": 48000,
-        "Spec_Detailed": {
+        "Spec": {
             "제품_분류": "ATX 케이스",
             "케이스_크기": "미들타워",
             "지원보드_E-ATX": null,
@@ -1532,7 +1532,7 @@
         "PCode": "90889289",
         "Name": "NZXT H3 Flow",
         "Price": 89750,
-        "Spec_Detailed": {
+        "Spec": {
             "제품_분류": "M-ATX 케이스",
             "케이스_크기": "미들타워",
             "지원보드_E-ATX": null,
@@ -1564,7 +1564,7 @@
         "PCode": "99912962",
         "Name": "1stPlayer GM7 ARGB BTF",
         "Price": 79580,
-        "Spec_Detailed": {
+        "Spec": {
             "제품_분류": "ATX 케이스",
             "케이스_크기": "미들타워",
             "지원보드_E-ATX": null,
@@ -1595,7 +1595,7 @@
         "PCode": "96773051",
         "Name": "마이크로닉스 WIZMAX 우퍼 딥톤",
         "Price": 37450,
-        "Spec_Detailed": {
+        "Spec": {
             "제품_분류": "M-ATX 케이스",
             "케이스_크기": "미니타워",
             "지원보드_E-ATX": null,
@@ -1626,7 +1626,7 @@
         "PCode": "79558145",
         "Name": "NZXT H9 Flow RGB+ V2",
         "Price": 377090,
-        "Spec_Detailed": {
+        "Spec": {
             "제품_분류": "ATX 케이스",
             "케이스_크기": "미들타워",
             "지원보드_E-ATX": null,
@@ -1658,7 +1658,7 @@
         "PCode": "28605620",
         "Name": "2MONS 4U LCD D680 GPU-6 워터쿨 2psu",
         "Price": 327990,
-        "Spec_Detailed": {
+        "Spec": {
             "제품_분류": "랙마운트",
             "케이스_크기": "랙마운트(4U)",
             "지원보드_E-ATX": null,
@@ -1689,7 +1689,7 @@
         "PCode": "79559438",
         "Name": "마이크로닉스 WIZMAX 오닉스",
         "Price": 29000,
-        "Spec_Detailed": {
+        "Spec": {
             "제품_분류": "M-ATX 케이스",
             "케이스_크기": "미니타워",
             "지원보드_E-ATX": null,
@@ -1720,7 +1720,7 @@
         "PCode": "102000851",
         "Name": "3RSYS T9000 워크스테이션",
         "Price": 823530,
-        "Spec_Detailed": {
+        "Spec": {
             "제품_분류": "ATX 케이스",
             "케이스_크기": null,
             "지원보드_E-ATX": true,
@@ -1751,7 +1751,7 @@
         "PCode": "31413674",
         "Name": "darkFlash DRX70 MESH RGB 강화유리",
         "Price": 49410,
-        "Spec_Detailed": {
+        "Spec": {
             "제품_분류": "ATX 케이스",
             "케이스_크기": "미들타워",
             "지원보드_E-ATX": null,
@@ -1792,7 +1792,7 @@
         "PCode": "64375559",
         "Name": "아이구주 S-CUBE",
         "Price": 36380,
-        "Spec_Detailed": {
+        "Spec": {
             "제품_분류": "M-ATX 케이스",
             "케이스_크기": "미니타워",
             "지원보드_E-ATX": null,
@@ -1823,7 +1823,7 @@
         "PCode": "17192498",
         "Name": "잘만 Z10 PLUS",
         "Price": 91200,
-        "Spec_Detailed": {
+        "Spec": {
             "제품_분류": "ATX 케이스",
             "케이스_크기": "미들타워",
             "지원보드_E-ATX": true,
@@ -1856,7 +1856,7 @@
         "PCode": "98181554",
         "Name": "JONSBO D200",
         "Price": 78990,
-        "Spec_Detailed": {
+        "Spec": {
             "제품_분류": "M-ATX 케이스",
             "케이스_크기": "미니타워",
             "지원보드_E-ATX": null,
@@ -1887,7 +1887,7 @@
         "PCode": "30498560",
         "Name": "EDDY M0",
         "Price": 22700,
-        "Spec_Detailed": {
+        "Spec": {
             "제품_분류": "M-ATX 케이스",
             "케이스_크기": "미니타워",
             "지원보드_E-ATX": null,
@@ -1918,7 +1918,7 @@
         "PCode": "92682176",
         "Name": "리안리 Vector V100 ARGB",
         "Price": 96030,
-        "Spec_Detailed": {
+        "Spec": {
             "제품_분류": "ATX 케이스",
             "케이스_크기": "미들타워",
             "지원보드_E-ATX": true,
@@ -1949,7 +1949,7 @@
         "PCode": "93019016",
         "Name": "be quiet PURE BASE 501 Airflow",
         "Price": 148410,
-        "Spec_Detailed": {
+        "Spec": {
             "제품_분류": "ATX 케이스",
             "케이스_크기": "미들타워",
             "지원보드_E-ATX": null,
@@ -1980,7 +1980,7 @@
         "PCode": "76946669",
         "Name": "darkFlash DF4100 MESH ARGB BTF",
         "Price": 76510,
-        "Spec_Detailed": {
+        "Spec": {
             "제품_분류": "ATX 케이스",
             "케이스_크기": null,
             "지원보드_E-ATX": true,
@@ -2033,7 +2033,7 @@
         "PCode": "76943861",
         "Name": "싸이번 LIMPID Micro-1",
         "Price": 20370,
-        "Spec_Detailed": {
+        "Spec": {
             "제품_분류": "M-ATX 케이스",
             "케이스_크기": "미니타워",
             "지원보드_E-ATX": null,
@@ -2064,7 +2064,7 @@
         "PCode": "11339625",
         "Name": "아이구주 HATCH 6 플렉스 메쉬 강화유리",
         "Price": 34200,
-        "Spec_Detailed": {
+        "Spec": {
             "제품_분류": "ATX 케이스",
             "케이스_크기": "미들타워",
             "지원보드_E-ATX": null,
@@ -2095,7 +2095,7 @@
         "PCode": "30140324",
         "Name": "앱코 NCORE R320 SYNC",
         "Price": 114020,
-        "Spec_Detailed": {
+        "Spec": {
             "제품_분류": "ATX 케이스",
             "케이스_크기": "빅타워",
             "지원보드_E-ATX": true,
@@ -2126,7 +2126,7 @@
         "PCode": "57709235",
         "Name": "3RSYS L904 Quiet",
         "Price": 89990,
-        "Spec_Detailed": {
+        "Spec": {
             "제품_분류": "ATX 케이스",
             "케이스_크기": "미들타워",
             "지원보드_E-ATX": null,
@@ -2157,7 +2157,7 @@
         "PCode": "47489189",
         "Name": "컴이지 킹덤 비바리움 미니",
         "Price": 32490,
-        "Spec_Detailed": {
+        "Spec": {
             "제품_분류": "M-ATX 케이스",
             "케이스_크기": "미니타워",
             "지원보드_E-ATX": null,
@@ -2188,7 +2188,7 @@
         "PCode": "94087853",
         "Name": "Fractal Design Epoch Solid",
         "Price": 149000,
-        "Spec_Detailed": {
+        "Spec": {
             "제품_분류": "ATX 케이스",
             "케이스_크기": null,
             "지원보드_E-ATX": null,
@@ -2219,7 +2219,7 @@
         "PCode": "70619111",
         "Name": "리안리 LANCOOL 207",
         "Price": 105730,
-        "Spec_Detailed": {
+        "Spec": {
             "제품_분류": "ATX 케이스",
             "케이스_크기": null,
             "지원보드_E-ATX": null,
@@ -2250,7 +2250,7 @@
         "PCode": "17661059",
         "Name": "리안리 LANCOOL III",
         "Price": 193030,
-        "Spec_Detailed": {
+        "Spec": {
             "제품_분류": "ATX 케이스",
             "케이스_크기": "미들타워",
             "지원보드_E-ATX": true,
@@ -2281,7 +2281,7 @@
         "PCode": "27689909",
         "Name": "아이구주 HATCH MIO",
         "Price": 37630,
-        "Spec_Detailed": {
+        "Spec": {
             "제품_분류": "M-ATX 케이스",
             "케이스_크기": "미니타워",
             "지원보드_E-ATX": null,
@@ -2312,7 +2312,7 @@
         "PCode": "68441162",
         "Name": "DAVEN AQUA 스쿠버 ARGB BTF",
         "Price": 42000,
-        "Spec_Detailed": {
+        "Spec": {
             "제품_분류": "ATX 케이스",
             "케이스_크기": "미들타워",
             "지원보드_E-ATX": true,
@@ -2343,7 +2343,7 @@
         "PCode": "70678232",
         "Name": "리안리 O11 VISION COMPACT",
         "Price": 205960,
-        "Spec_Detailed": {
+        "Spec": {
             "제품_분류": "ATX 케이스",
             "케이스_크기": null,
             "지원보드_E-ATX": true,
@@ -2374,7 +2374,7 @@
         "PCode": "95424719",
         "Name": "앱코 U20MP 큐빅 미니+ 디스플레이",
         "Price": 39900,
-        "Spec_Detailed": {
+        "Spec": {
             "제품_분류": "M-ATX 케이스",
             "케이스_크기": "미니타워",
             "지원보드_E-ATX": null,
@@ -2406,7 +2406,7 @@
         "PCode": "72723299",
         "Name": "darkFlash DQX80 ARGB BTF",
         "Price": 84550,
-        "Spec_Detailed": {
+        "Spec": {
             "제품_분류": "ATX 케이스",
             "케이스_크기": "미들타워",
             "지원보드_E-ATX": null,
@@ -2441,7 +2441,7 @@
         "PCode": "28058570",
         "Name": "앱코 G15 세이퍼 아크릴",
         "Price": 35000,
-        "Spec_Detailed": {
+        "Spec": {
             "제품_분류": "ATX 케이스",
             "케이스_크기": "미들타워",
             "지원보드_E-ATX": null,
@@ -2472,7 +2472,7 @@
         "PCode": "18419840",
         "Name": "BRAVOTEC GUARDIAN 3100M V2 타이탄 글래스",
         "Price": 88990,
-        "Spec_Detailed": {
+        "Spec": {
             "제품_분류": "ATX 케이스",
             "케이스_크기": "빅타워",
             "지원보드_E-ATX": true,
@@ -2503,7 +2503,7 @@
         "PCode": "68329244",
         "Name": "리안리 A3-mATX",
         "Price": 142590,
-        "Spec_Detailed": {
+        "Spec": {
             "제품_분류": "M-ATX 케이스",
             "케이스_크기": null,
             "지원보드_E-ATX": null,
@@ -2534,7 +2534,7 @@
         "PCode": "31286465",
         "Name": "3RSYS R640 Quiet",
         "Price": 98990,
-        "Spec_Detailed": {
+        "Spec": {
             "제품_분류": "ATX 케이스",
             "케이스_크기": "미들타워",
             "지원보드_E-ATX": null,
@@ -2565,7 +2565,7 @@
         "PCode": "99053390",
         "Name": "마이크로닉스 WIZMAX 에어리안 130",
         "Price": 39900,
-        "Spec_Detailed": {
+        "Spec": {
             "제품_분류": "ATX 케이스",
             "케이스_크기": "미들타워",
             "지원보드_E-ATX": null,
@@ -2596,7 +2596,7 @@
         "PCode": "52153256",
         "Name": "1stPlayer Mi5",
         "Price": 42500,
-        "Spec_Detailed": {
+        "Spec": {
             "제품_분류": "M-ATX 케이스",
             "케이스_크기": "미니타워",
             "지원보드_E-ATX": null,
@@ -2629,7 +2629,7 @@
         "PCode": "56154374",
         "Name": "마이크로닉스 WIZMAX 아스트라",
         "Price": 24800,
-        "Spec_Detailed": {
+        "Spec": {
             "제품_분류": "ATX 케이스",
             "케이스_크기": "미들타워",
             "지원보드_E-ATX": null,
@@ -2660,7 +2660,7 @@
         "PCode": "31339514",
         "Name": "MONTECH KING 95",
         "Price": 157140,
-        "Spec_Detailed": {
+        "Spec": {
             "제품_분류": "ATX 케이스",
             "케이스_크기": "미들타워",
             "지원보드_E-ATX": null,
@@ -2691,7 +2691,7 @@
         "PCode": "79557938",
         "Name": "NZXT H9 Flow RGB V2",
         "Price": 258730,
-        "Spec_Detailed": {
+        "Spec": {
             "제품_분류": "ATX 케이스",
             "케이스_크기": "미들타워",
             "지원보드_E-ATX": null,
@@ -2723,7 +2723,7 @@
         "PCode": "16516247",
         "Name": "리안리 A4-H2O",
         "Price": 268000,
-        "Spec_Detailed": {
+        "Spec": {
             "제품_분류": "미니ITX",
             "케이스_크기": "미니ITX(리틀밸리)",
             "지원보드_E-ATX": null,
@@ -2754,7 +2754,7 @@
         "PCode": "93804113",
         "Name": "darkFlash DS900G ARGB",
         "Price": 82450,
-        "Spec_Detailed": {
+        "Spec": {
             "제품_분류": "ATX 케이스",
             "케이스_크기": "미들타워",
             "지원보드_E-ATX": null,
@@ -2800,7 +2800,7 @@
         "PCode": "99556364",
         "Name": "컴이지 킹덤 비바리움 맥스",
         "Price": 35890,
-        "Spec_Detailed": {
+        "Spec": {
             "제품_분류": "ATX 케이스",
             "케이스_크기": "미들타워",
             "지원보드_E-ATX": true,
@@ -2831,7 +2831,7 @@
         "PCode": "42287372",
         "Name": "HYTE Y70",
         "Price": 279000,
-        "Spec_Detailed": {
+        "Spec": {
             "제품_분류": "ATX 케이스",
             "케이스_크기": "미들타워",
             "지원보드_E-ATX": true,
@@ -2862,7 +2862,7 @@
         "PCode": "40016330",
         "Name": "Fractal Design North XL Clear 강화유리",
         "Price": 251230,
-        "Spec_Detailed": {
+        "Spec": {
             "제품_분류": "ATX 케이스",
             "케이스_크기": "빅타워",
             "지원보드_E-ATX": true,
@@ -2893,7 +2893,7 @@
         "PCode": "95056910",
         "Name": "리안리 O11D MINI V2",
         "Price": 163000,
-        "Spec_Detailed": {
+        "Spec": {
             "제품_분류": "ATX 케이스",
             "케이스_크기": null,
             "지원보드_E-ATX": null,
@@ -2924,7 +2924,7 @@
         "PCode": "46100999",
         "Name": "3RSYS T3000 Quiet",
         "Price": 254990,
-        "Spec_Detailed": {
+        "Spec": {
             "제품_분류": "ATX 케이스",
             "케이스_크기": "빅타워",
             "지원보드_E-ATX": true,
@@ -2956,7 +2956,7 @@
         "PCode": "11479695",
         "Name": "Fractal Design Define 7 Compact",
         "Price": 168000,
-        "Spec_Detailed": {
+        "Spec": {
             "제품_분류": "ATX 케이스",
             "케이스_크기": "미들타워",
             "지원보드_E-ATX": null,
@@ -2988,7 +2988,7 @@
         "PCode": "31408691",
         "Name": "ASUS ProArt PA602",
         "Price": 329000,
-        "Spec_Detailed": {
+        "Spec": {
             "제품_분류": "ATX 케이스",
             "케이스_크기": "미들타워",
             "지원보드_E-ATX": true,
@@ -3020,7 +3020,7 @@
         "PCode": "97123091",
         "Name": "리안리 Multi-Directional Vertical GPU Bracket Kit",
         "Price": 124560,
-        "Spec_Detailed": {
+        "Spec": {
             "제품_분류": null,
             "케이스_크기": null,
             "지원보드_E-ATX": null,
@@ -3051,7 +3051,7 @@
         "PCode": "79556465",
         "Name": "NZXT H9 Flow",
         "Price": 251560,
-        "Spec_Detailed": {
+        "Spec": {
             "제품_분류": "ATX 케이스",
             "케이스_크기": "미들타워",
             "지원보드_E-ATX": null,
@@ -3083,7 +3083,7 @@
         "PCode": "96308750",
         "Name": "앱코 C10M 컴팩트",
         "Price": 15900,
-        "Spec_Detailed": {
+        "Spec": {
             "제품_분류": "M-ATX 케이스",
             "케이스_크기": "미니타워",
             "지원보드_E-ATX": null,
@@ -3115,7 +3115,7 @@
         "PCode": "91561445",
         "Name": "Fractal Design Meshify 3 XL Solid",
         "Price": 269000,
-        "Spec_Detailed": {
+        "Spec": {
             "제품_분류": "ATX 케이스",
             "케이스_크기": null,
             "지원보드_E-ATX": true,
@@ -3146,7 +3146,7 @@
         "PCode": "92045816",
         "Name": "마이크로닉스 WIZMAX 루프탑",
         "Price": 103550,
-        "Spec_Detailed": {
+        "Spec": {
             "제품_분류": "ATX 케이스",
             "케이스_크기": "미들타워",
             "지원보드_E-ATX": true,
@@ -3178,7 +3178,7 @@
         "PCode": "90956399",
         "Name": "마이크로닉스 QUANTA HMR-445N1-GPU",
         "Price": 124160,
-        "Spec_Detailed": {
+        "Spec": {
             "제품_분류": "랙마운트",
             "케이스_크기": "랙마운트(4U)",
             "지원보드_E-ATX": null,
@@ -3209,7 +3209,7 @@
         "PCode": "77379554",
         "Name": "NZXT H7 Flow V2",
         "Price": 198410,
-        "Spec_Detailed": {
+        "Spec": {
             "제품_분류": "ATX 케이스",
             "케이스_크기": "미들타워",
             "지원보드_E-ATX": true,
@@ -3241,7 +3241,7 @@
         "PCode": "79401749",
         "Name": "컴이지 킹덤 박스 미니",
         "Price": 13000,
-        "Spec_Detailed": {
+        "Spec": {
             "제품_분류": "M-ATX 케이스",
             "케이스_크기": "미니타워",
             "지원보드_E-ATX": null,
@@ -3272,7 +3272,7 @@
         "PCode": "102007790",
         "Name": "ASUS ROG STRIX HELIOS II",
         "Price": null,
-        "Spec_Detailed": {
+        "Spec": {
             "제품_분류": "ATX 케이스",
             "케이스_크기": "미들타워",
             "지원보드_E-ATX": true,
@@ -3303,7 +3303,7 @@
         "PCode": "11626910",
         "Name": "앱코 NCORE 커넬 강화유리",
         "Price": 32500,
-        "Spec_Detailed": {
+        "Spec": {
             "제품_분류": "ATX 케이스",
             "케이스_크기": "미들타워",
             "지원보드_E-ATX": null,
@@ -3336,7 +3336,7 @@
         "PCode": "70332872",
         "Name": "GAMDIAS NESO P1 PRO",
         "Price": 229000,
-        "Spec_Detailed": {
+        "Spec": {
             "제품_분류": "ATX 케이스",
             "케이스_크기": "빅타워",
             "지원보드_E-ATX": true,
@@ -3368,7 +3368,7 @@
         "PCode": "92187584",
         "Name": "darkFlash DW500 우드 MESH RGB",
         "Price": 74490,
-        "Spec_Detailed": {
+        "Spec": {
             "제품_분류": "ATX 케이스",
             "케이스_크기": "미들타워",
             "지원보드_E-ATX": null,
@@ -3410,7 +3410,7 @@
         "PCode": "20598131",
         "Name": "DAVEN V200",
         "Price": 19800,
-        "Spec_Detailed": {
+        "Spec": {
             "제품_분류": "M-ATX 케이스",
             "케이스_크기": "미니타워",
             "지원보드_E-ATX": null,
@@ -3441,7 +3441,7 @@
         "PCode": "63031391",
         "Name": "MSI MAG PANO 100R 프로젝트 제로",
         "Price": 139000,
-        "Spec_Detailed": {
+        "Spec": {
             "제품_분류": "ATX 케이스",
             "케이스_크기": "미들타워",
             "지원보드_E-ATX": null,
@@ -3473,7 +3473,7 @@
         "PCode": "28025804",
         "Name": "3RSYS R30",
         "Price": 20480,
-        "Spec_Detailed": {
+        "Spec": {
             "제품_분류": "M-ATX 케이스",
             "케이스_크기": "미니타워",
             "지원보드_E-ATX": null,
@@ -3504,7 +3504,7 @@
         "PCode": "15407192",
         "Name": "아이구주 HATCH 1 야인",
         "Price": 24800,
-        "Spec_Detailed": {
+        "Spec": {
             "제품_분류": "M-ATX 케이스",
             "케이스_크기": "미니타워",
             "지원보드_E-ATX": null,
@@ -3535,7 +3535,7 @@
         "PCode": "90156788",
         "Name": "잘만 P40 DS",
         "Price": 158650,
-        "Spec_Detailed": {
+        "Spec": {
             "제품_분류": "ATX 케이스",
             "케이스_크기": "미들타워",
             "지원보드_E-ATX": null,
@@ -3568,7 +3568,7 @@
         "PCode": "97221194",
         "Name": "3RSYS RX300 ARGB",
         "Price": 66990,
-        "Spec_Detailed": {
+        "Spec": {
             "제품_분류": "ATX 케이스",
             "케이스_크기": "미들타워",
             "지원보드_E-ATX": null,
@@ -3599,7 +3599,7 @@
         "PCode": "92045654",
         "Name": "3RSYS T2000 Quiet",
         "Price": 123990,
-        "Spec_Detailed": {
+        "Spec": {
             "제품_분류": "ATX 케이스",
             "케이스_크기": "빅타워",
             "지원보드_E-ATX": true,
@@ -3630,7 +3630,7 @@
         "PCode": "68440877",
         "Name": "darkFlash DY470 ARGB 강화유리",
         "Price": 122550,
-        "Spec_Detailed": {
+        "Spec": {
             "제품_분류": "ATX 케이스",
             "케이스_크기": "미들타워",
             "지원보드_E-ATX": null,
@@ -3678,7 +3678,7 @@
         "PCode": "99732599",
         "Name": "싸이번 SD600 도미닉 RGB",
         "Price": 34900,
-        "Spec_Detailed": {
+        "Spec": {
             "제품_분류": "ATX 케이스",
             "케이스_크기": "미들타워",
             "지원보드_E-ATX": null,
@@ -3709,7 +3709,7 @@
         "PCode": "73123424",
         "Name": "Phanteks ECLIPSE G400A",
         "Price": 151320,
-        "Spec_Detailed": {
+        "Spec": {
             "제품_분류": "ATX 케이스",
             "케이스_크기": "미들타워",
             "지원보드_E-ATX": true,
@@ -3740,7 +3740,7 @@
         "PCode": "33990908",
         "Name": "투민시스템 TA20",
         "Price": 17590,
-        "Spec_Detailed": {
+        "Spec": {
             "제품_분류": "ATX 케이스",
             "케이스_크기": "미들타워",
             "지원보드_E-ATX": null,
@@ -3771,7 +3771,7 @@
         "PCode": "94081250",
         "Name": "Phanteks EVOLV S2",
         "Price": 171390,
-        "Spec_Detailed": {
+        "Spec": {
             "제품_분류": "ATX 케이스",
             "케이스_크기": "미들타워",
             "지원보드_E-ATX": true,
@@ -3802,7 +3802,7 @@
         "PCode": "98230664",
         "Name": "아이구주 VENTI T7000 BTF STEALTH",
         "Price": 88990,
-        "Spec_Detailed": {
+        "Spec": {
             "제품_분류": "ATX 케이스",
             "케이스_크기": null,
             "지원보드_E-ATX": null,
@@ -3833,7 +3833,7 @@
         "PCode": "99735548",
         "Name": "darkFlash DY460 ARGB BTF",
         "Price": 97990,
-        "Spec_Detailed": {
+        "Spec": {
             "제품_분류": "ATX 케이스",
             "케이스_크기": "미들타워",
             "지원보드_E-ATX": null,
@@ -3880,7 +3880,7 @@
         "PCode": "99479786",
         "Name": "3RSYS S480 WOOD BTF",
         "Price": 66030,
-        "Spec_Detailed": {
+        "Spec": {
             "제품_분류": "ATX 케이스",
             "케이스_크기": "미들타워",
             "지원보드_E-ATX": null,
@@ -3911,7 +3911,7 @@
         "PCode": "91767113",
         "Name": "마이크로닉스 WIZMAX 우드리안 ULTRA",
         "Price": 144530,
-        "Spec_Detailed": {
+        "Spec": {
             "제품_분류": "ATX 케이스",
             "케이스_크기": "미들타워",
             "지원보드_E-ATX": true,
@@ -3943,7 +3943,7 @@
         "PCode": "68574671",
         "Name": "앱코 UD50 블루웨일 ARGB BTF",
         "Price": 67000,
-        "Spec_Detailed": {
+        "Spec": {
             "제품_분류": "ATX 케이스",
             "케이스_크기": "미들타워",
             "지원보드_E-ATX": null,
@@ -3977,7 +3977,7 @@
         "PCode": "92149919",
         "Name": "투민시스템 TA100 RGB 강화유리",
         "Price": 19890,
-        "Spec_Detailed": {
+        "Spec": {
             "제품_분류": "ATX 케이스",
             "케이스_크기": "미들타워",
             "지원보드_E-ATX": null,
@@ -4008,7 +4008,7 @@
         "PCode": "97117652",
         "Name": "DEEPCOOL CH160 PLUS",
         "Price": 84000,
-        "Spec_Detailed": {
+        "Spec": {
             "제품_분류": "M-ATX 케이스",
             "케이스_크기": "미니타워",
             "지원보드_E-ATX": null,
@@ -4039,7 +4039,7 @@
         "PCode": "75071534",
         "Name": "JONSBO D32 PRO BTF",
         "Price": 83800,
-        "Spec_Detailed": {
+        "Spec": {
             "제품_분류": "M-ATX 케이스",
             "케이스_크기": null,
             "지원보드_E-ATX": null,
@@ -4070,7 +4070,7 @@
         "PCode": "101956163",
         "Name": "쿨러마스터 MasterFrame 360 스테이지 미러",
         "Price": 337000,
-        "Spec_Detailed": {
+        "Spec": {
             "제품_분류": "ATX 케이스",
             "케이스_크기": "미들타워",
             "지원보드_E-ATX": null,
@@ -4101,7 +4101,7 @@
         "PCode": "91497413",
         "Name": "darkFlash DY570 ARGB BTF",
         "Price": 220490,
-        "Spec_Detailed": {
+        "Spec": {
             "제품_분류": "ATX 케이스",
             "케이스_크기": "미들타워",
             "지원보드_E-ATX": null,
@@ -4147,7 +4147,7 @@
         "PCode": "40016375",
         "Name": "Fractal Design North XL MESH",
         "Price": 251230,
-        "Spec_Detailed": {
+        "Spec": {
             "제품_분류": "ATX 케이스",
             "케이스_크기": "빅타워",
             "지원보드_E-ATX": true,
@@ -4178,7 +4178,7 @@
         "PCode": "96580325",
         "Name": "잘만 N30 백사십 PLUS",
         "Price": 44440,
-        "Spec_Detailed": {
+        "Spec": {
             "제품_분류": "ATX 케이스",
             "케이스_크기": "미들타워",
             "지원보드_E-ATX": null,
@@ -4211,7 +4211,7 @@
         "PCode": "30249392",
         "Name": "MSI MAG 포지 120A 에어플로우",
         "Price": 39900,
-        "Spec_Detailed": {
+        "Spec": {
             "제품_분류": "ATX 케이스",
             "케이스_크기": "미들타워",
             "지원보드_E-ATX": null,
@@ -4243,7 +4243,7 @@
         "PCode": "96772487",
         "Name": "아이구주 HATCH S300",
         "Price": 39890,
-        "Spec_Detailed": {
+        "Spec": {
             "제품_분류": "ATX 케이스",
             "케이스_크기": null,
             "지원보드_E-ATX": null,
@@ -4274,7 +4274,7 @@
         "PCode": "94566926",
         "Name": "JONSBO V12",
         "Price": 146890,
-        "Spec_Detailed": {
+        "Spec": {
             "제품_분류": "M-ATX 케이스",
             "케이스_크기": "미니타워",
             "지원보드_E-ATX": null,
@@ -4305,7 +4305,7 @@
         "PCode": "98778077",
         "Name": "마이크로닉스 COOLMAX 크리스탈",
         "Price": 39890,
-        "Spec_Detailed": {
+        "Spec": {
             "제품_분류": "M-ATX 케이스",
             "케이스_크기": "미니타워",
             "지원보드_E-ATX": null,
@@ -4337,7 +4337,7 @@
         "PCode": "90157973",
         "Name": "싸이번 EDGE CV-R5",
         "Price": 42500,
-        "Spec_Detailed": {
+        "Spec": {
             "제품_분류": "M-ATX 케이스",
             "케이스_크기": "미들타워",
             "지원보드_E-ATX": null,
@@ -4368,7 +4368,7 @@
         "PCode": "98923769",
         "Name": "DAVEN N1 MESH",
         "Price": 35990,
-        "Spec_Detailed": {
+        "Spec": {
             "제품_분류": "HTPC 케이스",
             "케이스_크기": "슬림(LP)",
             "지원보드_E-ATX": null,
@@ -4399,7 +4399,7 @@
         "PCode": "8173504",
         "Name": "BRAVOTEC SWORD S830 RGB 타이탄 글래스",
         "Price": 58990,
-        "Spec_Detailed": {
+        "Spec": {
             "제품_분류": "ATX 케이스",
             "케이스_크기": "빅타워",
             "지원보드_E-ATX": true,
@@ -4430,7 +4430,7 @@
         "PCode": "99739475",
         "Name": "HYTE X50 AIR",
         "Price": 199000,
-        "Spec_Detailed": {
+        "Spec": {
             "제품_분류": "ATX 케이스",
             "케이스_크기": "미들타워",
             "지원보드_E-ATX": true,
@@ -4461,7 +4461,7 @@
         "PCode": "99556778",
         "Name": "잘만 N6 백사십",
         "Price": 38550,
-        "Spec_Detailed": {
+        "Spec": {
             "제품_분류": "ATX 케이스",
             "케이스_크기": "미들타워",
             "지원보드_E-ATX": null,
@@ -4494,7 +4494,7 @@
         "PCode": "29905487",
         "Name": "앱코 SUITMASTER M2000 NOVA ARGB 강화유리",
         "Price": 59900,
-        "Spec_Detailed": {
+        "Spec": {
             "제품_분류": "ATX 케이스",
             "케이스_크기": "미들타워",
             "지원보드_E-ATX": null,
@@ -4527,7 +4527,7 @@
         "PCode": "32104556",
         "Name": "DAVEN AQUARIUM",
         "Price": 59150,
-        "Spec_Detailed": {
+        "Spec": {
             "제품_분류": "ATX 케이스",
             "케이스_크기": "미들타워",
             "지원보드_E-ATX": null,
@@ -4558,7 +4558,7 @@
         "PCode": "75538361",
         "Name": "Antec FLUX SE MESH BTF",
         "Price": 137990,
-        "Spec_Detailed": {
+        "Spec": {
             "제품_분류": "ATX 케이스",
             "케이스_크기": "미들타워",
             "지원보드_E-ATX": true,
@@ -4593,7 +4593,7 @@
         "PCode": "39767135",
         "Name": "Antec CX200M RGB ELITE",
         "Price": 59000,
-        "Spec_Detailed": {
+        "Spec": {
             "제품_분류": "M-ATX 케이스",
             "케이스_크기": "미니타워",
             "지원보드_E-ATX": null,
@@ -4626,7 +4626,7 @@
         "PCode": "59762132",
         "Name": "darkFlash DK301M RGB MESH 강화유리",
         "Price": 31910,
-        "Spec_Detailed": {
+        "Spec": {
             "제품_분류": "M-ATX 케이스",
             "케이스_크기": "미니타워",
             "지원보드_E-ATX": null,
@@ -4670,7 +4670,7 @@
         "PCode": "75071384",
         "Name": "JONSBO C6 MAX",
         "Price": 67620,
-        "Spec_Detailed": {
+        "Spec": {
             "제품_분류": "M-ATX 케이스",
             "케이스_크기": null,
             "지원보드_E-ATX": null,
@@ -4701,7 +4701,7 @@
         "PCode": "44906552",
         "Name": "마이크로닉스 COOLMAX 버디",
         "Price": 19900,
-        "Spec_Detailed": {
+        "Spec": {
             "제품_분류": "ATX 케이스",
             "케이스_크기": "미들타워",
             "지원보드_E-ATX": null,
@@ -4732,7 +4732,7 @@
         "PCode": "60063428",
         "Name": "darkFlash PCIe 4.0 라이저 케이블",
         "Price": 37380,
-        "Spec_Detailed": {
+        "Spec": {
             "제품_분류": null,
             "케이스_크기": null,
             "지원보드_E-ATX": null,
@@ -4763,7 +4763,7 @@
         "PCode": "95346707",
         "Name": "Antec SHIFT PCI-E 5.0 라이저 케이블 KIT ARGB",
         "Price": 89900,
-        "Spec_Detailed": {
+        "Spec": {
             "제품_분류": null,
             "케이스_크기": null,
             "지원보드_E-ATX": null,
@@ -4795,7 +4795,7 @@
         "PCode": "17359220",
         "Name": "Fractal Design Pop Mini Silent Solid",
         "Price": 143000,
-        "Spec_Detailed": {
+        "Spec": {
             "제품_분류": "M-ATX 케이스",
             "케이스_크기": "미니타워",
             "지원보드_E-ATX": null,
@@ -4826,7 +4826,7 @@
         "PCode": "48479537",
         "Name": "아이구주 HATCH DIO",
         "Price": 31520,
-        "Spec_Detailed": {
+        "Spec": {
             "제품_분류": "ATX 케이스",
             "케이스_크기": "미들타워",
             "지원보드_E-ATX": null,
@@ -4857,7 +4857,7 @@
         "PCode": "14916101",
         "Name": "잘만 N3 FM 강화유리",
         "Price": 36580,
-        "Spec_Detailed": {
+        "Spec": {
             "제품_분류": "ATX 케이스",
             "케이스_크기": "미들타워",
             "지원보드_E-ATX": null,
@@ -4888,7 +4888,7 @@
         "PCode": "77855639",
         "Name": "DEEPCOOL CH260",
         "Price": 93990,
-        "Spec_Detailed": {
+        "Spec": {
             "제품_분류": "M-ATX 케이스",
             "케이스_크기": null,
             "지원보드_E-ATX": null,
@@ -4919,7 +4919,7 @@
         "PCode": "17033048",
         "Name": "Antec P10 C SILENT",
         "Price": 112730,
-        "Spec_Detailed": {
+        "Spec": {
             "제품_분류": "ATX 케이스",
             "케이스_크기": "미들타워",
             "지원보드_E-ATX": null,
@@ -4952,7 +4952,7 @@
         "PCode": "96775775",
         "Name": "쿨러마스터 ELITE 600 SEVEN ARGB",
         "Price": 146600,
-        "Spec_Detailed": {
+        "Spec": {
             "제품_분류": "ATX 케이스",
             "케이스_크기": "미들타워",
             "지원보드_E-ATX": null,
@@ -4983,7 +4983,7 @@
         "PCode": "101641340",
         "Name": "마이크로닉스 WIZMAX 슬로프",
         "Price": 93400,
-        "Spec_Detailed": {
+        "Spec": {
             "제품_분류": "ATX 케이스",
             "케이스_크기": null,
             "지원보드_E-ATX": null,
@@ -5014,7 +5014,7 @@
         "PCode": "91561397",
         "Name": "Fractal Design Meshify 3 XL RGB 강화유리",
         "Price": 290030,
-        "Spec_Detailed": {
+        "Spec": {
             "제품_분류": "ATX 케이스",
             "케이스_크기": null,
             "지원보드_E-ATX": true,
@@ -5045,7 +5045,7 @@
         "PCode": "9376491",
         "Name": "darkFlash DLM21 RGB MESH 강화유리",
         "Price": 57130,
-        "Spec_Detailed": {
+        "Spec": {
             "제품_분류": "M-ATX 케이스",
             "케이스_크기": "미니타워",
             "지원보드_E-ATX": null,
@@ -5088,7 +5088,7 @@
         "PCode": "33362510",
         "Name": "마이크로닉스 ML-420 View BTF",
         "Price": 149380,
-        "Spec_Detailed": {
+        "Spec": {
             "제품_분류": "ATX 케이스",
             "케이스_크기": "빅타워",
             "지원보드_E-ATX": true,
@@ -5120,7 +5120,7 @@
         "PCode": "14705840",
         "Name": "앱코 NCORE G30 트루포스",
         "Price": 47500,
-        "Spec_Detailed": {
+        "Spec": {
             "제품_분류": "ATX 케이스",
             "케이스_크기": "미들타워",
             "지원보드_E-ATX": null,
@@ -5153,7 +5153,7 @@
         "PCode": "60321872",
         "Name": "darkFlash DS900M RGB 강화유리",
         "Price": 43820,
-        "Spec_Detailed": {
+        "Spec": {
             "제품_분류": "M-ATX 케이스",
             "케이스_크기": "미니타워",
             "지원보드_E-ATX": null,
@@ -5199,7 +5199,7 @@
         "PCode": "100692953",
         "Name": "마이크로닉스 WIZMAX 우드리안 MAX 스텔라 블레이드 에디션",
         "Price": 86130,
-        "Spec_Detailed": {
+        "Spec": {
             "제품_분류": "ATX 케이스",
             "케이스_크기": "빅타워",
             "지원보드_E-ATX": null,
@@ -5230,7 +5230,7 @@
         "PCode": "17451719",
         "Name": "마이크로닉스 GX2-뉴런 글래스",
         "Price": 108640,
-        "Spec_Detailed": {
+        "Spec": {
             "제품_분류": "ATX 케이스",
             "케이스_크기": "미들타워",
             "지원보드_E-ATX": true,
@@ -5261,7 +5261,7 @@
         "PCode": "69467414",
         "Name": "컴이지 킹덤 비바리움 나노",
         "Price": 18840,
-        "Spec_Detailed": {
+        "Spec": {
             "제품_분류": "M-ATX 케이스",
             "케이스_크기": "미니타워",
             "지원보드_E-ATX": null,
@@ -5292,7 +5292,7 @@
         "PCode": "76329197",
         "Name": "아이구주 VENTI P5000L",
         "Price": 67830,
-        "Spec_Detailed": {
+        "Spec": {
             "제품_분류": "ATX 케이스",
             "케이스_크기": null,
             "지원보드_E-ATX": null,
@@ -5323,7 +5323,7 @@
         "PCode": "78100109",
         "Name": "잘만 P10 NAMU",
         "Price": 76990,
-        "Spec_Detailed": {
+        "Spec": {
             "제품_분류": "M-ATX 케이스",
             "케이스_크기": "미니타워",
             "지원보드_E-ATX": null,
@@ -5354,7 +5354,7 @@
         "PCode": "74545637",
         "Name": "마이크로닉스 WIZMAX ML-360",
         "Price": 55190,
-        "Spec_Detailed": {
+        "Spec": {
             "제품_분류": "M-ATX 케이스",
             "케이스_크기": "미니타워",
             "지원보드_E-ATX": null,
@@ -5385,7 +5385,7 @@
         "PCode": "9822933",
         "Name": "Phanteks ECLIPSE P400A",
         "Price": 142000,
-        "Spec_Detailed": {
+        "Spec": {
             "제품_분류": "ATX 케이스",
             "케이스_크기": "미들타워",
             "지원보드_E-ATX": true,
@@ -5416,7 +5416,7 @@
         "PCode": "19583933",
         "Name": "DAVEN D4 MESH",
         "Price": 35610,
-        "Spec_Detailed": {
+        "Spec": {
             "제품_분류": "ATX 케이스",
             "케이스_크기": "미들타워",
             "지원보드_E-ATX": null,
@@ -5447,7 +5447,7 @@
         "PCode": "74116568",
         "Name": "마이크로닉스 WIZMAX 아트리안",
         "Price": 65760,
-        "Spec_Detailed": {
+        "Spec": {
             "제품_분류": "ATX 케이스",
             "케이스_크기": "미들타워",
             "지원보드_E-ATX": null,
@@ -5479,7 +5479,7 @@
         "PCode": "80151332",
         "Name": "3RSYS L330 Quiet",
         "Price": 48490,
-        "Spec_Detailed": {
+        "Spec": {
             "제품_분류": "M-ATX 케이스",
             "케이스_크기": "미니타워",
             "지원보드_E-ATX": null,
@@ -5510,7 +5510,7 @@
         "PCode": "89861651",
         "Name": "darkFlash DCM33 RGB",
         "Price": 34800,
-        "Spec_Detailed": {
+        "Spec": {
             "제품_분류": "M-ATX 케이스",
             "케이스_크기": "미니타워",
             "지원보드_E-ATX": null,
@@ -5543,7 +5543,7 @@
         "PCode": "41615831",
         "Name": "Antec C3 ARGB",
         "Price": 98900,
-        "Spec_Detailed": {
+        "Spec": {
             "제품_분류": "ATX 케이스",
             "케이스_크기": "미들타워",
             "지원보드_E-ATX": null,
@@ -5576,7 +5576,7 @@
         "PCode": "32102759",
         "Name": "마이크로닉스 ML-420 BTF",
         "Price": 140650,
-        "Spec_Detailed": {
+        "Spec": {
             "제품_분류": "ATX 케이스",
             "케이스_크기": "빅타워",
             "지원보드_E-ATX": true,
@@ -5608,7 +5608,7 @@
         "PCode": "28025648",
         "Name": "3RSYS R120",
         "Price": 29000,
-        "Spec_Detailed": {
+        "Spec": {
             "제품_분류": "M-ATX 케이스",
             "케이스_크기": "미니타워",
             "지원보드_E-ATX": null,
@@ -5639,7 +5639,7 @@
         "PCode": "100383761",
         "Name": "3RSYS R370 RGB",
         "Price": 26490,
-        "Spec_Detailed": {
+        "Spec": {
             "제품_분류": "M-ATX 케이스",
             "케이스_크기": "미니타워",
             "지원보드_E-ATX": null,
@@ -5670,7 +5670,7 @@
         "PCode": "12204125",
         "Name": "3RSYS J490 SILENCE",
         "Price": 55300,
-        "Spec_Detailed": {
+        "Spec": {
             "제품_분류": "ATX 케이스",
             "케이스_크기": "미들타워",
             "지원보드_E-ATX": null,
@@ -5702,7 +5702,7 @@
         "PCode": "94881062",
         "Name": "3RSYS R50 넥스",
         "Price": 38320,
-        "Spec_Detailed": {
+        "Spec": {
             "제품_분류": "ATX 케이스",
             "케이스_크기": "미들타워",
             "지원보드_E-ATX": null,
@@ -5733,7 +5733,7 @@
         "PCode": "75071627",
         "Name": "마이크로닉스 WIZMAX H100 V2",
         "Price": 23280,
-        "Spec_Detailed": {
+        "Spec": {
             "제품_분류": "ATX 케이스",
             "케이스_크기": "미들타워",
             "지원보드_E-ATX": null,
@@ -5764,7 +5764,7 @@
         "PCode": "13933289",
         "Name": "3RSYS T840 풍통",
         "Price": 114000,
-        "Spec_Detailed": {
+        "Spec": {
             "제품_분류": "ATX 케이스",
             "케이스_크기": "빅타워",
             "지원보드_E-ATX": true,
@@ -5798,7 +5798,7 @@
         "PCode": "1821778",
         "Name": "2MONS 서버 4U PC D450",
         "Price": 59990,
-        "Spec_Detailed": {
+        "Spec": {
             "제품_분류": "랙마운트",
             "케이스_크기": "랙마운트(4U)",
             "지원보드_E-ATX": null,
@@ -5829,7 +5829,7 @@
         "PCode": "53417006",
         "Name": "darkFlash DPX90 ARGB 강화유리",
         "Price": 61430,
-        "Spec_Detailed": {
+        "Spec": {
             "제품_분류": "ATX 케이스",
             "케이스_크기": "미들타워",
             "지원보드_E-ATX": null,
@@ -5875,7 +5875,7 @@
         "PCode": "99913133",
         "Name": "HYTE PCIe 5.0 하이퍼 라이저 케이블",
         "Price": 57040,
-        "Spec_Detailed": {
+        "Spec": {
             "제품_분류": null,
             "케이스_크기": null,
             "지원보드_E-ATX": null,
@@ -5906,7 +5906,7 @@
         "PCode": "72723491",
         "Name": "darkFlash DCM30 RGB 강화유리",
         "Price": 28490,
-        "Spec_Detailed": {
+        "Spec": {
             "제품_분류": "ATX 케이스",
             "케이스_크기": "미니타워",
             "지원보드_E-ATX": null,
@@ -5950,7 +5950,7 @@
         "PCode": "31412510",
         "Name": "앱코 O10M 오피스 라이트",
         "Price": 17800,
-        "Spec_Detailed": {
+        "Spec": {
             "제품_분류": "M-ATX 케이스",
             "케이스_크기": "미니타워",
             "지원보드_E-ATX": null,
@@ -5982,7 +5982,7 @@
         "PCode": "72224189",
         "Name": "마이크로닉스 WIZMAX 오로라",
         "Price": 25780,
-        "Spec_Detailed": {
+        "Spec": {
             "제품_분류": "M-ATX 케이스",
             "케이스_크기": "미니타워",
             "지원보드_E-ATX": null,
@@ -6013,7 +6013,7 @@
         "PCode": "95057027",
         "Name": "리안리 O11D MINI V2 FLOW",
         "Price": 158110,
-        "Spec_Detailed": {
+        "Spec": {
             "제품_분류": "ATX 케이스",
             "케이스_크기": null,
             "지원보드_E-ATX": null,
@@ -6044,7 +6044,7 @@
         "PCode": "79556957",
         "Name": "NZXT H6 Flow RGB",
         "Price": 169000,
-        "Spec_Detailed": {
+        "Spec": {
             "제품_분류": "ATX 케이스",
             "케이스_크기": "미들타워",
             "지원보드_E-ATX": null,
@@ -6076,7 +6076,7 @@
         "PCode": "15738857",
         "Name": "3RSYS R200",
         "Price": 41000,
-        "Spec_Detailed": {
+        "Spec": {
             "제품_분류": "ATX 케이스",
             "케이스_크기": "미들타워",
             "지원보드_E-ATX": null,
@@ -6107,7 +6107,7 @@
         "PCode": "65303732",
         "Name": "HYTE Y70 Touch Infinite Display Upgrade",
         "Price": 384550,
-        "Spec_Detailed": {
+        "Spec": {
             "제품_분류": null,
             "케이스_크기": null,
             "지원보드_E-ATX": null,
@@ -6138,7 +6138,7 @@
         "PCode": "67510613",
         "Name": "마이크로닉스 COOLMAX 댄디",
         "Price": 16400,
-        "Spec_Detailed": {
+        "Spec": {
             "제품_분류": "M-ATX 케이스",
             "케이스_크기": null,
             "지원보드_E-ATX": null,
@@ -6169,7 +6169,7 @@
         "PCode": "18538823",
         "Name": "리안리 LANCOOL 216",
         "Price": 117000,
-        "Spec_Detailed": {
+        "Spec": {
             "제품_분류": "ATX 케이스",
             "케이스_크기": "미들타워",
             "지원보드_E-ATX": true,
@@ -6200,7 +6200,7 @@
         "PCode": "90956324",
         "Name": "마이크로닉스 QUANTA HMR-445SE-GPU",
         "Price": 96030,
-        "Spec_Detailed": {
+        "Spec": {
             "제품_분류": "랙마운트",
             "케이스_크기": "랙마운트(4U)",
             "지원보드_E-ATX": null,
@@ -6231,7 +6231,7 @@
         "PCode": "91423472",
         "Name": "3RSYS R530",
         "Price": 56500,
-        "Spec_Detailed": {
+        "Spec": {
             "제품_분류": "ATX 케이스",
             "케이스_크기": "미들타워",
             "지원보드_E-ATX": null,
@@ -6262,7 +6262,7 @@
         "PCode": "18448748",
         "Name": "Fractal Design North TG Dark Tint",
         "Price": 193030,
-        "Spec_Detailed": {
+        "Spec": {
             "제품_분류": "ATX 케이스",
             "케이스_크기": "미들타워",
             "지원보드_E-ATX": null,
@@ -6293,7 +6293,7 @@
         "PCode": "57709415",
         "Name": "마이크로닉스 EM1-Woofer 시그니처 에디션",
         "Price": 48400,
-        "Spec_Detailed": {
+        "Spec": {
             "제품_분류": "M-ATX 케이스",
             "케이스_크기": "미니타워",
             "지원보드_E-ATX": null,
@@ -6324,7 +6324,7 @@
         "PCode": "54484445",
         "Name": "MSI MAG 포지 321R 에어플로우",
         "Price": 68280,
-        "Spec_Detailed": {
+        "Spec": {
             "제품_분류": "ATX 케이스",
             "케이스_크기": "미들타워",
             "지원보드_E-ATX": null,
@@ -6356,7 +6356,7 @@
         "PCode": "10359000",
         "Name": "마이크로닉스 오피스",
         "Price": 33460,
-        "Spec_Detailed": {
+        "Spec": {
             "제품_분류": "ATX 케이스",
             "케이스_크기": "미들타워",
             "지원보드_E-ATX": null,
@@ -6387,7 +6387,7 @@
         "PCode": "97224500",
         "Name": "Thermalright TL-M10 VISION",
         "Price": 138990,
-        "Spec_Detailed": {
+        "Spec": {
             "제품_분류": "M-ATX 케이스",
             "케이스_크기": null,
             "지원보드_E-ATX": null,
@@ -6418,7 +6418,7 @@
         "PCode": "16710428",
         "Name": "마이크로닉스 GM3-문",
         "Price": 45780,
-        "Spec_Detailed": {
+        "Spec": {
             "제품_분류": "ATX 케이스",
             "케이스_크기": "미들타워",
             "지원보드_E-ATX": null,
@@ -6449,7 +6449,7 @@
         "PCode": "68436584",
         "Name": "JONSBO N5",
         "Price": 266000,
-        "Spec_Detailed": {
+        "Spec": {
             "제품_분류": "ATX 케이스",
             "케이스_크기": null,
             "지원보드_E-ATX": true,
@@ -6480,7 +6480,7 @@
         "PCode": "16676309",
         "Name": "darkFlash DK210 그래피티 ARGB 강화유리",
         "Price": 64330,
-        "Spec_Detailed": {
+        "Spec": {
             "제품_분류": "ATX 케이스",
             "케이스_크기": "미들타워",
             "지원보드_E-ATX": true,
@@ -6529,7 +6529,7 @@
         "PCode": "29311724",
         "Name": "MSI PCI-E 4.0 X16 라이저 케이블",
         "Price": 68280,
-        "Spec_Detailed": {
+        "Spec": {
             "제품_분류": null,
             "케이스_크기": null,
             "지원보드_E-ATX": null,
@@ -6561,7 +6561,7 @@
         "PCode": "64392077",
         "Name": "앱코 U40M 웨일샤크 ARGB BTF",
         "Price": 58500,
-        "Spec_Detailed": {
+        "Spec": {
             "제품_분류": "M-ATX 케이스",
             "케이스_크기": "미니타워",
             "지원보드_E-ATX": null,
@@ -6595,7 +6595,7 @@
         "PCode": "94880948",
         "Name": "darkFlash DS900XL 우드 ARGB",
         "Price": 98490,
-        "Spec_Detailed": {
+        "Spec": {
             "제품_분류": "ATX 케이스",
             "케이스_크기": "미들타워",
             "지원보드_E-ATX": null,
@@ -6638,7 +6638,7 @@
         "PCode": "99049688",
         "Name": "3RSYS RX500 Quiet",
         "Price": 74690,
-        "Spec_Detailed": {
+        "Spec": {
             "제품_분류": "ATX 케이스",
             "케이스_크기": "미들타워",
             "지원보드_E-ATX": null,
@@ -6669,7 +6669,7 @@
         "PCode": "99637679",
         "Name": "DAVEN 아쿠아 마린보이",
         "Price": 32990,
-        "Spec_Detailed": {
+        "Spec": {
             "제품_분류": "ATX 케이스",
             "케이스_크기": "미들타워",
             "지원보드_E-ATX": true,
@@ -6700,7 +6700,7 @@
         "PCode": "12681041",
         "Name": "Fractal Design Meshify 2 XL Light 강화유리",
         "Price": 329000,
-        "Spec_Detailed": {
+        "Spec": {
             "제품_분류": "ATX 케이스",
             "케이스_크기": "빅타워",
             "지원보드_E-ATX": true,
@@ -6731,7 +6731,7 @@
         "PCode": "31983635",
         "Name": "DAVEN AQUA",
         "Price": 31170,
-        "Spec_Detailed": {
+        "Spec": {
             "제품_분류": "M-ATX 케이스",
             "케이스_크기": "미니타워",
             "지원보드_E-ATX": null,
@@ -6762,7 +6762,7 @@
         "PCode": "93913328",
         "Name": "Segotep Nexus1 PRO KR 아트홀",
         "Price": 64990,
-        "Spec_Detailed": {
+        "Spec": {
             "제품_분류": "M-ATX 케이스",
             "케이스_크기": "미니타워",
             "지원보드_E-ATX": null,
@@ -6793,7 +6793,7 @@
         "PCode": "31646423",
         "Name": "앱코 G20 에픽 강화유리",
         "Price": 34900,
-        "Spec_Detailed": {
+        "Spec": {
             "제품_분류": "ATX 케이스",
             "케이스_크기": "미들타워",
             "지원보드_E-ATX": null,
@@ -6825,7 +6825,7 @@
         "PCode": "73121462",
         "Name": "3RSYS RX400 Quiet BTF",
         "Price": 77000,
-        "Spec_Detailed": {
+        "Spec": {
             "제품_분류": "ATX 케이스",
             "케이스_크기": "미들타워",
             "지원보드_E-ATX": null,
@@ -6856,7 +6856,7 @@
         "PCode": "52156076",
         "Name": "JONSBO TK-3 BTF",
         "Price": 116850,
-        "Spec_Detailed": {
+        "Spec": {
             "제품_분류": "ATX 케이스",
             "케이스_크기": "미들타워",
             "지원보드_E-ATX": null,
@@ -6887,7 +6887,7 @@
         "PCode": "74806601",
         "Name": "3RSYS R40",
         "Price": 21490,
-        "Spec_Detailed": {
+        "Spec": {
             "제품_분류": "M-ATX 케이스",
             "케이스_크기": "미니타워",
             "지원보드_E-ATX": null,
@@ -6918,7 +6918,7 @@
         "PCode": "18728459",
         "Name": "Antec P20CE ELITE 6FAN METAL MESH SOLID",
         "Price": 112150,
-        "Spec_Detailed": {
+        "Spec": {
             "제품_분류": "ATX 케이스",
             "케이스_크기": "미들타워",
             "지원보드_E-ATX": true,
@@ -6951,7 +6951,7 @@
         "PCode": "98184944",
         "Name": "JONSBO T9",
         "Price": 281600,
-        "Spec_Detailed": {
+        "Spec": {
             "제품_분류": "미니ITX",
             "케이스_크기": "미니ITX(리틀밸리)",
             "지원보드_E-ATX": null,
@@ -6982,7 +6982,7 @@
         "PCode": "19176308",
         "Name": "리안리 LAN3-1X Dust Filter Kit",
         "Price": 14460,
-        "Spec_Detailed": {
+        "Spec": {
             "제품_분류": null,
             "케이스_크기": null,
             "지원보드_E-ATX": null,
@@ -7013,7 +7013,7 @@
         "PCode": "59927054",
         "Name": "마이크로닉스 COOLMAX 레디",
         "Price": 33850,
-        "Spec_Detailed": {
+        "Spec": {
             "제품_분류": "ATX 케이스",
             "케이스_크기": "미들타워",
             "지원보드_E-ATX": null,
@@ -7044,7 +7044,7 @@
         "PCode": "90642461",
         "Name": "대양케이스 ARIGUE 360 ARGB",
         "Price": 55290,
-        "Spec_Detailed": {
+        "Spec": {
             "제품_분류": "M-ATX 케이스",
             "케이스_크기": "미니타워",
             "지원보드_E-ATX": null,
@@ -7075,7 +7075,7 @@
         "PCode": "91348985",
         "Name": "앱코 UD20M 미니웨일",
         "Price": 28000,
-        "Spec_Detailed": {
+        "Spec": {
             "제품_분류": "M-ATX 케이스",
             "케이스_크기": "미니타워",
             "지원보드_E-ATX": null,
@@ -7107,7 +7107,7 @@
         "PCode": "38455076",
         "Name": "CORSAIR 2500D Airflow",
         "Price": 193030,
-        "Spec_Detailed": {
+        "Spec": {
             "제품_분류": "M-ATX 케이스",
             "케이스_크기": "미니타워",
             "지원보드_E-ATX": null,
@@ -7138,7 +7138,7 @@
         "PCode": "17234591",
         "Name": "잘만 N4 CTRL",
         "Price": 43500,
-        "Spec_Detailed": {
+        "Spec": {
             "제품_분류": "ATX 케이스",
             "케이스_크기": "미들타워",
             "지원보드_E-ATX": null,
@@ -7169,7 +7169,7 @@
         "PCode": "93633530",
         "Name": "COUGAR Omny X",
         "Price": 134830,
-        "Spec_Detailed": {
+        "Spec": {
             "제품_분류": "ATX 케이스",
             "케이스_크기": "미들타워",
             "지원보드_E-ATX": null,
@@ -7200,7 +7200,7 @@
         "PCode": "74338760",
         "Name": "darkFlash DK370 MESH RGB 강화유리",
         "Price": 43000,
-        "Spec_Detailed": {
+        "Spec": {
             "제품_분류": "ATX 케이스",
             "케이스_크기": "미들타워",
             "지원보드_E-ATX": null,
@@ -7247,7 +7247,7 @@
         "PCode": "64270742",
         "Name": "잘만 Z10 DS",
         "Price": 218500,
-        "Spec_Detailed": {
+        "Spec": {
             "제품_분류": "ATX 케이스",
             "케이스_크기": "미들타워",
             "지원보드_E-ATX": null,
@@ -7280,7 +7280,7 @@
         "PCode": "63559784",
         "Name": "JONSBO C6-ITX",
         "Price": 72000,
-        "Spec_Detailed": {
+        "Spec": {
             "제품_분류": "미니ITX",
             "케이스_크기": null,
             "지원보드_E-ATX": null,
@@ -7311,7 +7311,7 @@
         "PCode": "17357855",
         "Name": "Fractal Design Pop XL Air RGB Clear 강화유리",
         "Price": 192060,
-        "Spec_Detailed": {
+        "Spec": {
             "제품_분류": "ATX 케이스",
             "케이스_크기": "빅타워",
             "지원보드_E-ATX": true,
@@ -7342,7 +7342,7 @@
         "PCode": "75376628",
         "Name": "Phanteks EVOLV X2",
         "Price": 235000,
-        "Spec_Detailed": {
+        "Spec": {
             "제품_분류": "ATX 케이스",
             "케이스_크기": "미들타워",
             "지원보드_E-ATX": true,
@@ -7373,7 +7373,7 @@
         "PCode": "61845713",
         "Name": "리안리 A3-2 강화유리 사이드 패널",
         "Price": 21340,
-        "Spec_Detailed": {
+        "Spec": {
             "제품_분류": null,
             "케이스_크기": null,
             "지원보드_E-ATX": null,
@@ -7404,7 +7404,7 @@
         "PCode": "30249503",
         "Name": "MSI MAG 포지 320R 에어플로우",
         "Price": 59000,
-        "Spec_Detailed": {
+        "Spec": {
             "제품_분류": "ATX 케이스",
             "케이스_크기": "미들타워",
             "지원보드_E-ATX": null,
@@ -7436,7 +7436,7 @@
         "PCode": "17951918",
         "Name": "DAVEN 라피네",
         "Price": 15330,
-        "Spec_Detailed": {
+        "Spec": {
             "제품_분류": "M-ATX 케이스",
             "케이스_크기": "미니타워",
             "지원보드_E-ATX": null,
@@ -7467,7 +7467,7 @@
         "PCode": "96060407",
         "Name": "JONSBO T7",
         "Price": 197990,
-        "Spec_Detailed": {
+        "Spec": {
             "제품_분류": "M-ATX 케이스",
             "케이스_크기": null,
             "지원보드_E-ATX": null,
@@ -7498,7 +7498,7 @@
         "PCode": "59928893",
         "Name": "3RSYS K400 리버스",
         "Price": 57000,
-        "Spec_Detailed": {
+        "Spec": {
             "제품_분류": "ATX 케이스",
             "케이스_크기": "미들타워",
             "지원보드_E-ATX": null,
@@ -7529,7 +7529,7 @@
         "PCode": "32485628",
         "Name": "EDDY A0",
         "Price": 26700,
-        "Spec_Detailed": {
+        "Spec": {
             "제품_분류": "ATX 케이스",
             "케이스_크기": "미들타워",
             "지원보드_E-ATX": null,
@@ -7560,7 +7560,7 @@
         "PCode": "56138996",
         "Name": "CORSAIR 3500X 강화유리",
         "Price": 119000,
-        "Spec_Detailed": {
+        "Spec": {
             "제품_분류": "ATX 케이스",
             "케이스_크기": "미들타워",
             "지원보드_E-ATX": true,
@@ -7593,7 +7593,7 @@
         "PCode": "29876954",
         "Name": "JONSBO TK-1",
         "Price": 158990,
-        "Spec_Detailed": {
+        "Spec": {
             "제품_분류": "M-ATX 케이스",
             "케이스_크기": "미니타워",
             "지원보드_E-ATX": null,
@@ -7624,7 +7624,7 @@
         "PCode": "20344577",
         "Name": "Fractal Design Terra",
         "Price": 389000,
-        "Spec_Detailed": {
+        "Spec": {
             "제품_분류": "미니ITX",
             "케이스_크기": "미니ITX(리틀밸리)",
             "지원보드_E-ATX": null,
@@ -7655,7 +7655,7 @@
         "PCode": "96368795",
         "Name": "쿨러마스터 NR200P V3",
         "Price": 159000,
-        "Spec_Detailed": {
+        "Spec": {
             "제품_분류": "미니ITX",
             "케이스_크기": "미니ITX(리틀밸리)",
             "지원보드_E-ATX": null,
@@ -7686,7 +7686,7 @@
         "PCode": "32043569",
         "Name": "3RSYS J540",
         "Price": 35500,
-        "Spec_Detailed": {
+        "Spec": {
             "제품_분류": "ATX 케이스",
             "케이스_크기": "미들타워",
             "지원보드_E-ATX": null,
@@ -7717,7 +7717,7 @@
         "PCode": "90647099",
         "Name": "리안리 LANCOOL 217",
         "Price": 193030,
-        "Spec_Detailed": {
+        "Spec": {
             "제품_분류": "ATX 케이스",
             "케이스_크기": "미들타워",
             "지원보드_E-ATX": true,
@@ -7748,7 +7748,7 @@
         "PCode": "79556075",
         "Name": "NZXT H5 Flow V2",
         "Price": 96170,
-        "Spec_Detailed": {
+        "Spec": {
             "제품_분류": "ATX 케이스",
             "케이스_크기": "미들타워",
             "지원보드_E-ATX": true,
@@ -7780,7 +7780,7 @@
         "PCode": "79556768",
         "Name": "NZXT H9 Elite",
         "Price": 372580,
-        "Spec_Detailed": {
+        "Spec": {
             "제품_분류": "ATX 케이스",
             "케이스_크기": "미들타워",
             "지원보드_E-ATX": null,
@@ -7812,7 +7812,7 @@
         "PCode": "100269842",
         "Name": "마이크로닉스 COOLMAX V6",
         "Price": 77200,
-        "Spec_Detailed": {
+        "Spec": {
             "제품_분류": "ATX 케이스",
             "케이스_크기": null,
             "지원보드_E-ATX": null,
@@ -7844,7 +7844,7 @@
         "PCode": "18190976",
         "Name": "darkFlash DS5000 MESH 강화유리",
         "Price": 121760,
-        "Spec_Detailed": {
+        "Spec": {
             "제품_분류": "ATX 케이스",
             "케이스_크기": "미들타워",
             "지원보드_E-ATX": true,
@@ -7892,7 +7892,7 @@
         "PCode": "99476141",
         "Name": "CORSAIR AIR 5400 LX-R RGB iCUE LINK",
         "Price": 387030,
-        "Spec_Detailed": {
+        "Spec": {
             "제품_분류": "ATX 케이스",
             "케이스_크기": "미들타워",
             "지원보드_E-ATX": true,
@@ -7923,7 +7923,7 @@
         "PCode": "12985601",
         "Name": "darkFlash DLH21",
         "Price": 63000,
-        "Spec_Detailed": {
+        "Spec": {
             "제품_분류": "미니ITX",
             "케이스_크기": "미니ITX(리틀밸리)",
             "지원보드_E-ATX": null,
@@ -7971,7 +7971,7 @@
         "PCode": "17224280",
         "Name": "Antec NX200M RGB MESH 강화유리",
         "Price": 44750,
-        "Spec_Detailed": {
+        "Spec": {
             "제품_분류": "M-ATX 케이스",
             "케이스_크기": "미니타워",
             "지원보드_E-ATX": null,
@@ -8004,7 +8004,7 @@
         "PCode": "13381634",
         "Name": "darkFlash DK200 RGB 강화유리",
         "Price": 43700,
-        "Spec_Detailed": {
+        "Spec": {
             "제품_분류": "ATX 케이스",
             "케이스_크기": "미들타워",
             "지원보드_E-ATX": null,
@@ -8052,7 +8052,7 @@
         "PCode": "100692575",
         "Name": "APNX V1",
         "Price": 199000,
-        "Spec_Detailed": {
+        "Spec": {
             "제품_분류": "ATX 케이스",
             "케이스_크기": "미들타워",
             "지원보드_E-ATX": null,
@@ -8088,7 +8088,7 @@
         "PCode": "100328753",
         "Name": "잘만 i8 백사십 터보",
         "Price": 59890,
-        "Spec_Detailed": {
+        "Spec": {
             "제품_분류": "ATX 케이스",
             "케이스_크기": "미들타워",
             "지원보드_E-ATX": null,
@@ -8120,7 +8120,7 @@
         "PCode": "19701731",
         "Name": "Antec PERFORMANCE 1 FT MESH 강화유리",
         "Price": 214680,
-        "Spec_Detailed": {
+        "Spec": {
             "제품_분류": "ATX 케이스",
             "케이스_크기": "빅타워",
             "지원보드_E-ATX": true,
@@ -8153,7 +8153,7 @@
         "PCode": "94029221",
         "Name": "ASUS PRIME AP202 ARGB",
         "Price": 118490,
-        "Spec_Detailed": {
+        "Spec": {
             "제품_분류": "M-ATX 케이스",
             "케이스_크기": "미들타워",
             "지원보드_E-ATX": null,
@@ -8185,7 +8185,7 @@
         "PCode": "32074469",
         "Name": "리안리 PC-O11D EVO RGB",
         "Price": 278990,
-        "Spec_Detailed": {
+        "Spec": {
             "제품_분류": "ATX 케이스",
             "케이스_크기": null,
             "지원보드_E-ATX": true,
@@ -8216,7 +8216,7 @@
         "PCode": "28154438",
         "Name": "HYTE Y40",
         "Price": 202730,
-        "Spec_Detailed": {
+        "Spec": {
             "제품_분류": "ATX 케이스",
             "케이스_크기": "미들타워",
             "지원보드_E-ATX": null,
@@ -8247,7 +8247,7 @@
         "PCode": "21496067",
         "Name": "잘만 i4",
         "Price": 55010,
-        "Spec_Detailed": {
+        "Spec": {
             "제품_분류": "ATX 케이스",
             "케이스_크기": "미들타워",
             "지원보드_E-ATX": null,
@@ -8278,7 +8278,7 @@
         "PCode": "95845220",
         "Name": "쿨러마스터 MasterFrame 600 MESH ARGB",
         "Price": 309000,
-        "Spec_Detailed": {
+        "Spec": {
             "제품_분류": "ATX 케이스",
             "케이스_크기": "미들타워",
             "지원보드_E-ATX": true,
@@ -8309,7 +8309,7 @@
         "PCode": "73885538",
         "Name": "darkFlash DB330X RGB 강화유리",
         "Price": 42900,
-        "Spec_Detailed": {
+        "Spec": {
             "제품_분류": "ATX 케이스",
             "케이스_크기": "미들타워",
             "지원보드_E-ATX": null,
@@ -8352,7 +8352,7 @@
         "PCode": "67690010",
         "Name": "마이크로닉스 WIZMAX ML-360 View",
         "Price": 43900,
-        "Spec_Detailed": {
+        "Spec": {
             "제품_분류": "M-ATX 케이스",
             "케이스_크기": "미니타워",
             "지원보드_E-ATX": null,
@@ -8383,7 +8383,7 @@
         "PCode": "98231528",
         "Name": "잘만 P60",
         "Price": 137470,
-        "Spec_Detailed": {
+        "Spec": {
             "제품_분류": "ATX 케이스",
             "케이스_크기": "미들타워",
             "지원보드_E-ATX": null,
@@ -8416,7 +8416,7 @@
         "PCode": "91187759",
         "Name": "3RSYS K201",
         "Price": 38180,
-        "Spec_Detailed": {
+        "Spec": {
             "제품_분류": "ATX 케이스",
             "케이스_크기": "미들타워",
             "지원보드_E-ATX": null,
@@ -8447,7 +8447,7 @@
         "PCode": "71277764",
         "Name": "be quiet LIGHT BASE 900 DX",
         "Price": 274440,
-        "Spec_Detailed": {
+        "Spec": {
             "제품_분류": "ATX 케이스",
             "케이스_크기": "빅타워",
             "지원보드_E-ATX": true,
@@ -8478,7 +8478,7 @@
         "PCode": "63481523",
         "Name": "마이크로닉스 COOLMAX 멜로디 XL View",
         "Price": 38700,
-        "Spec_Detailed": {
+        "Spec": {
             "제품_분류": "ATX 케이스",
             "케이스_크기": "미들타워",
             "지원보드_E-ATX": null,
@@ -8509,7 +8509,7 @@
         "PCode": "32865761",
         "Name": "앱코 U20 큐빅 강화유리",
         "Price": 40500,
-        "Spec_Detailed": {
+        "Spec": {
             "제품_분류": "ATX 케이스",
             "케이스_크기": "미들타워",
             "지원보드_E-ATX": null,
@@ -8542,7 +8542,7 @@
         "PCode": "18448688",
         "Name": "Fractal Design North Mesh",
         "Price": 189050,
-        "Spec_Detailed": {
+        "Spec": {
             "제품_분류": "ATX 케이스",
             "케이스_크기": "미들타워",
             "지원보드_E-ATX": null,
@@ -8573,7 +8573,7 @@
         "PCode": "19317608",
         "Name": "BRAVOTEC 트레저 X10 AERO",
         "Price": 96650,
-        "Spec_Detailed": {
+        "Spec": {
             "제품_분류": "ATX 케이스",
             "케이스_크기": "미들타워",
             "지원보드_E-ATX": null,
@@ -8604,7 +8604,7 @@
         "PCode": "55316822",
         "Name": "COUGAR FV270",
         "Price": 170050,
-        "Spec_Detailed": {
+        "Spec": {
             "제품_분류": "ATX 케이스",
             "케이스_크기": "미들타워",
             "지원보드_E-ATX": true,
@@ -8635,7 +8635,7 @@
         "PCode": "10165092",
         "Name": "마이크로닉스 COOLMAX 가성비 NO.2",
         "Price": 20270,
-        "Spec_Detailed": {
+        "Spec": {
             "제품_분류": "ATX 케이스",
             "케이스_크기": "미들타워",
             "지원보드_E-ATX": null,
@@ -8666,7 +8666,7 @@
         "PCode": "29655500",
         "Name": "마이크로닉스 ANGEL MINI",
         "Price": 44900,
-        "Spec_Detailed": {
+        "Spec": {
             "제품_분류": "M-ATX 케이스",
             "케이스_크기": "미니타워",
             "지원보드_E-ATX": null,
@@ -8697,7 +8697,7 @@
         "PCode": "93500879",
         "Name": "SilverStone SST-FLP01W 마이크로닉스",
         "Price": 144440,
-        "Spec_Detailed": {
+        "Spec": {
             "제품_분류": "HTPC 케이스",
             "케이스_크기": null,
             "지원보드_E-ATX": null,
@@ -8728,7 +8728,7 @@
         "PCode": "39614225",
         "Name": "3RSYS S404 Quiet 리버스",
         "Price": 68000,
-        "Spec_Detailed": {
+        "Spec": {
             "제품_분류": "M-ATX 케이스",
             "케이스_크기": "미니타워",
             "지원보드_E-ATX": null,
@@ -8759,7 +8759,7 @@
         "PCode": "75657164",
         "Name": "마이크로닉스 WIZMAX ML-360 WIDE BTF",
         "Price": 89240,
-        "Spec_Detailed": {
+        "Spec": {
             "제품_분류": "ATX 케이스",
             "케이스_크기": "미들타워",
             "지원보드_E-ATX": null,
@@ -8790,7 +8790,7 @@
         "PCode": "96478850",
         "Name": "Antec C8 MESH QUAD ARGB",
         "Price": 158990,
-        "Spec_Detailed": {
+        "Spec": {
             "제품_분류": "ATX 케이스",
             "케이스_크기": "빅타워",
             "지원보드_E-ATX": true,
@@ -8823,7 +8823,7 @@
         "PCode": "8043859",
         "Name": "앱코 NCORE 언더바",
         "Price": 21500,
-        "Spec_Detailed": {
+        "Spec": {
             "제품_분류": "ATX 케이스",
             "케이스_크기": "미들타워",
             "지원보드_E-ATX": null,
@@ -8854,7 +8854,7 @@
         "PCode": "69058058",
         "Name": "잘만 N10",
         "Price": 24250,
-        "Spec_Detailed": {
+        "Spec": {
             "제품_분류": "M-ATX 케이스",
             "케이스_크기": "미니타워",
             "지원보드_E-ATX": null,
@@ -8885,7 +8885,7 @@
         "PCode": "27678284",
         "Name": "잘만 P30",
         "Price": 94050,
-        "Spec_Detailed": {
+        "Spec": {
             "제품_분류": "M-ATX 케이스",
             "케이스_크기": "미니타워",
             "지원보드_E-ATX": null,
@@ -8917,7 +8917,7 @@
         "PCode": "17661170",
         "Name": "리안리 LANCOOL III RGB",
         "Price": 222130,
-        "Spec_Detailed": {
+        "Spec": {
             "제품_분류": "ATX 케이스",
             "케이스_크기": "미들타워",
             "지원보드_E-ATX": true,
@@ -8948,7 +8948,7 @@
         "PCode": "48926027",
         "Name": "MSI MAG PANO M100R 프로젝트 제로",
         "Price": 99000,
-        "Spec_Detailed": {
+        "Spec": {
             "제품_분류": "M-ATX 케이스",
             "케이스_크기": "미니타워",
             "지원보드_E-ATX": null,
@@ -8980,7 +8980,7 @@
         "PCode": "31957850",
         "Name": "DAVEN V500",
         "Price": 26000,
-        "Spec_Detailed": {
+        "Spec": {
             "제품_분류": "M-ATX 케이스",
             "케이스_크기": "미니타워",
             "지원보드_E-ATX": null,
@@ -9011,7 +9011,7 @@
         "PCode": "79114157",
         "Name": "아이구주 VENTI P500",
         "Price": 40500,
-        "Spec_Detailed": {
+        "Spec": {
             "제품_분류": "ATX 케이스",
             "케이스_크기": "미들타워",
             "지원보드_E-ATX": null,
@@ -9042,7 +9042,7 @@
         "PCode": "19743740",
         "Name": "마이크로닉스 EH1-몬드리안",
         "Price": 66930,
-        "Spec_Detailed": {
+        "Spec": {
             "제품_분류": "ATX 케이스",
             "케이스_크기": "미들타워",
             "지원보드_E-ATX": true,
@@ -9073,7 +9073,7 @@
         "PCode": "60009248",
         "Name": "Fractal Design Mood",
         "Price": 293910,
-        "Spec_Detailed": {
+        "Spec": {
             "제품_분류": "미니ITX",
             "케이스_크기": "미니타워",
             "지원보드_E-ATX": null,
@@ -9104,7 +9104,7 @@
         "PCode": "52370321",
         "Name": "쿨러마스터 SNEAKER X",
         "Price": 1450000,
-        "Spec_Detailed": {
+        "Spec": {
             "제품_분류": "미니ITX",
             "케이스_크기": "미니ITX(리틀밸리)",
             "지원보드_E-ATX": null,
@@ -9135,7 +9135,7 @@
         "PCode": "93917090",
         "Name": "SSUPD MESHROOM D V2",
         "Price": 178990,
-        "Spec_Detailed": {
+        "Spec": {
             "제품_분류": "미니ITX",
             "케이스_크기": "미니ITX(리틀밸리)",
             "지원보드_E-ATX": null,
@@ -9166,7 +9166,7 @@
         "PCode": "17359157",
         "Name": "Fractal Design Pop XL Silent Solid",
         "Price": 173000,
-        "Spec_Detailed": {
+        "Spec": {
             "제품_분류": "ATX 케이스",
             "케이스_크기": "빅타워",
             "지원보드_E-ATX": true,
@@ -9197,7 +9197,7 @@
         "PCode": "72753428",
         "Name": "마이크로닉스 WIZMAX 벨라",
         "Price": 42480,
-        "Spec_Detailed": {
+        "Spec": {
             "제품_분류": "M-ATX 케이스",
             "케이스_크기": "미니타워(LP)",
             "지원보드_E-ATX": null,
@@ -9228,7 +9228,7 @@
         "PCode": "78710921",
         "Name": "DEEPCOOL CH270 DIGITAL",
         "Price": 119000,
-        "Spec_Detailed": {
+        "Spec": {
             "제품_분류": "M-ATX 케이스",
             "케이스_크기": null,
             "지원보드_E-ATX": null,
@@ -9259,7 +9259,7 @@
         "PCode": "52155776",
         "Name": "JONSBO N4 for NAS",
         "Price": 127300,
-        "Spec_Detailed": {
+        "Spec": {
             "제품_분류": "미니ITX",
             "케이스_크기": "미니ITX(리틀밸리)",
             "지원보드_E-ATX": null,
@@ -9290,7 +9290,7 @@
         "PCode": "14644658",
         "Name": "be quiet Silent Base 802",
         "Price": 264990,
-        "Spec_Detailed": {
+        "Spec": {
             "제품_분류": "ATX 케이스",
             "케이스_크기": "미들타워",
             "지원보드_E-ATX": true,
@@ -9321,7 +9321,7 @@
         "PCode": "29823077",
         "Name": "마이크로닉스 GH5-미다스",
         "Price": 91180,
-        "Spec_Detailed": {
+        "Spec": {
             "제품_분류": "ATX 케이스",
             "케이스_크기": "미들타워",
             "지원보드_E-ATX": true,
@@ -9353,7 +9353,7 @@
         "PCode": "27499688",
         "Name": "리안리 PC-O11D EVO XL",
         "Price": 417990,
-        "Spec_Detailed": {
+        "Spec": {
             "제품_분류": "ATX 케이스",
             "케이스_크기": null,
             "지원보드_E-ATX": true,
@@ -9384,7 +9384,7 @@
         "PCode": "6558632",
         "Name": "Phanteks STACKABLE HDD BRACKET",
         "Price": 16000,
-        "Spec_Detailed": {
+        "Spec": {
             "제품_분류": null,
             "케이스_크기": null,
             "지원보드_E-ATX": null,
@@ -9415,7 +9415,7 @@
         "PCode": "64300145",
         "Name": "JONSBO TK-0",
         "Price": 157730,
-        "Spec_Detailed": {
+        "Spec": {
             "제품_분류": "미니ITX",
             "케이스_크기": "미니ITX(리틀밸리)",
             "지원보드_E-ATX": null,
@@ -9446,7 +9446,7 @@
         "PCode": "90157475",
         "Name": "3RSYS K105",
         "Price": 39000,
-        "Spec_Detailed": {
+        "Spec": {
             "제품_분류": "M-ATX 케이스",
             "케이스_크기": "미니타워",
             "지원보드_E-ATX": null,
@@ -9477,7 +9477,7 @@
         "PCode": "93567272",
         "Name": "쿨러마스터 SHARK X",
         "Price": 5470000,
-        "Spec_Detailed": {
+        "Spec": {
             "제품_분류": "미니ITX",
             "케이스_크기": "미니ITX(리틀밸리)",
             "지원보드_E-ATX": null,
@@ -9508,7 +9508,7 @@
         "PCode": "79556231",
         "Name": "NZXT H5 Flow RGB V2",
         "Price": 134000,
-        "Spec_Detailed": {
+        "Spec": {
             "제품_분류": "ATX 케이스",
             "케이스_크기": "미들타워",
             "지원보드_E-ATX": true,
@@ -9540,7 +9540,7 @@
         "PCode": "95845592",
         "Name": "쿨러마스터 Masterframe 500 MESH ARGB",
         "Price": 270000,
-        "Spec_Detailed": {
+        "Spec": {
             "제품_분류": "ATX 케이스",
             "케이스_크기": "미들타워",
             "지원보드_E-ATX": true,
@@ -9571,7 +9571,7 @@
         "PCode": "62791472",
         "Name": "마이크로닉스 WIZMAX ML-360 WIDE View BTF",
         "Price": 93120,
-        "Spec_Detailed": {
+        "Spec": {
             "제품_분류": "ATX 케이스",
             "케이스_크기": "미들타워",
             "지원보드_E-ATX": null,
@@ -9602,7 +9602,7 @@
         "PCode": "54327269",
         "Name": "Antec C5 MESH ARGB BTF",
         "Price": 149000,
-        "Spec_Detailed": {
+        "Spec": {
             "제품_분류": "ATX 케이스",
             "케이스_크기": "미들타워",
             "지원보드_E-ATX": null,
@@ -9635,7 +9635,7 @@
         "PCode": "16384217",
         "Name": "HYTE Revolt 3",
         "Price": 183000,
-        "Spec_Detailed": {
+        "Spec": {
             "제품_분류": "미니ITX",
             "케이스_크기": "미니ITX(리틀밸리)",
             "지원보드_E-ATX": null,
@@ -9666,7 +9666,7 @@
         "PCode": "65351987",
         "Name": "darkFlash DB330M RGB 강화유리",
         "Price": 39500,
-        "Spec_Detailed": {
+        "Spec": {
             "제품_분류": "M-ATX 케이스",
             "케이스_크기": "미니타워",
             "지원보드_E-ATX": null,
@@ -9713,7 +9713,7 @@
         "PCode": "99739223",
         "Name": "HYTE X50",
         "Price": 228990,
-        "Spec_Detailed": {
+        "Spec": {
             "제품_분류": "ATX 케이스",
             "케이스_크기": "미들타워",
             "지원보드_E-ATX": true,
@@ -9744,7 +9744,7 @@
         "PCode": "28399385",
         "Name": "잘만 Z9 아이스버그 MS",
         "Price": 131100,
-        "Spec_Detailed": {
+        "Spec": {
             "제품_분류": "ATX 케이스",
             "케이스_크기": "미들타워",
             "지원보드_E-ATX": true,
@@ -9776,7 +9776,7 @@
         "PCode": "64464317",
         "Name": "Antec C5 MESH BTF",
         "Price": 79000,
-        "Spec_Detailed": {
+        "Spec": {
             "제품_분류": "ATX 케이스",
             "케이스_크기": "미들타워",
             "지원보드_E-ATX": null,
@@ -9808,7 +9808,7 @@
         "PCode": "74007932",
         "Name": "CORSAIR FRAME 4000D",
         "Price": 134830,
-        "Spec_Detailed": {
+        "Spec": {
             "제품_분류": "ATX 케이스",
             "케이스_크기": "미들타워",
             "지원보드_E-ATX": true,
