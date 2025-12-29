@@ -112,13 +112,13 @@ useEffect(() => {
       const id = p.item_no ?? p.id ?? idx;
 
       return {
-        id,                       // ⭐ key + 라우팅용
+        id,                       // key + 라우팅용
         product_id: id,
         name: p.product_name ?? p.name ?? "상품명 없음",
         brand: p.brand || "기타",
         price: Number(p.price) || 0,
         category: p.category,
-        img: p.thumbnail || p.img || stableImg(id), // ⭐⭐⭐ 핵심
+        img: p.thumbnail || p.img || stableImg(id), 
         tags: ["추천"],
       };
     });
@@ -144,9 +144,9 @@ useEffect(() => {
   };
 
   // 기존 랜덤 섹션
-  const expertPickList = products.slice(0, 4);
-  const bestList = products.slice(4, 8);
-  const newList = products.slice(8, 12);
+  const expertPickList = products.slice(0, 5);
+  const bestList = products.slice(5, 10);
+  const newList = products.slice(10, 15);
 
 const renderGrid = (list) => (
   <div className="product-grid">
@@ -215,19 +215,8 @@ const renderGrid = (list) => (
         </div>
       </div>
 
-      {/*  개인화 추천 */}
-      <Section title="🎯 맞춤 추천 상품" icon={<FaThumbsUp />} link="/products">
-        {loadingRecommend ? (
-          <div style={{ padding: 20 }}>추천 불러오는 중...</div>
-        ) : personalRecommendList.length === 0 ? (
-          renderGrid(expertPickList)
-        ) : (
-          renderGrid(personalRecommendList)
-        )}
-      </Section>
-
       {/* 기존 섹션 */}
-      <Section title="전문가 추천 PICK" icon={<FaThumbsUp />} link="/products">
+      <Section title="맞춤 추천 상품" icon={<FaThumbsUp />} link="/products">
         {renderGrid(expertPickList)}
       </Section>
 
