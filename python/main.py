@@ -5,7 +5,6 @@ from pathlib import Path
 from sqlalchemy import create_engine, text
 
 app = Flask(__name__)
-
 CORS(app, supports_credentials=True, origins=["http://localhost:5173"])
 
 JWT_SECRET = os.getenv("JWT_SECRET", "81c02530a568f9da9d1ce9d681b56544")
@@ -28,61 +27,90 @@ def get_user_no_from_jwt():
     except:
         return None
 
+def slugify_text(s: str) -> str:
+    s = str(s).strip().lower()
+    s = re.sub(r"[\s_]+", "-", s)
+    s = re.sub(r"[^0-9a-z가-힣]+", "-", s)
+    s = re.sub(r"-{2,}", "-", s).strip("-")
+    return s
+
+def norm_cat(stem: str) -> str:
+    return str(stem).strip().lower().replace(" ", "_").replace("-", "_")
+
+def flatten_records(data):
+    if isinstance(data, list):
+        return [x for x in data if isinstance(x, dict)]
+    if isinstance(data, dict):
+        for k in ("items", "data", "products", "result", "list"):
+            if isinstance(data.get(k), list):
+                return [x for x in data[k] if isinstance(x, dict)]
+        return [data]  # ✅ dict 단일 레코드도 허용
+    return []
+
 def get_name(obj):
+    # ✅ 학습쪽 slug와 최대한 맞추려면 Name 계열을 우선
     return (
-        obj.get("model_name")
-        or obj.get("Name")
+        obj.get("Name")
         or obj.get("name")
-        or obj.get("Product")
         or obj.get("product_name")
         or obj.get("title")
         or obj.get("Title")
+        or obj.get("model_name")
+        or obj.get("Product")
         or obj.get("제품명")
+        or (f"pcode_{obj.get('PCode')}" if obj.get("PCode") else None)
         or "Unknown"
     )
 
 def get_price(obj):
-    v = (
-        obj.get("price_krw")
-        or obj.get("Price")
-        or obj.get("price")
-        or obj.get("lowest_price")
-        or obj.get("lowestPrice")
-        or obj.get("가격")
-        or obj.get("최저가")
-        or obj.get("price.value")
-    )
+    v = obj.get("price_krw") or obj.get("Price") or obj.get("price") or obj.get("lowest_price") or obj.get("최저가")
     if v is None:
         return 0
     try:
-        return int(str(v).replace(",", "").strip())
+        return int(float(str(v).replace(",", "").strip()))
     except:
         return 0
 
 def get_image(obj):
-    return (
-        obj.get("BaseImageURL")
-        or (obj.get("Images")[0] if isinstance(obj.get("Images"), list) else None)
-        or obj.get("img")
-        or obj.get("image")
-    )
+    if obj.get("BaseImageURL"):
+        return obj.get("BaseImageURL")
+    imgs = obj.get("Images")
+    if isinstance(imgs, list) and imgs:
+        return imgs[0]
+    dimgs = obj.get("DetailImages")
+    if isinstance(dimgs, list) and dimgs:
+        return dimgs[0]
+    return obj.get("img") or obj.get("image")
+
+def get_url(obj):
+    if obj.get("Purchase_Link"):
+        return obj.get("Purchase_Link")
+    urls = obj.get("URLs")
+    if isinstance(urls, list) and urls:
+        return urls[0]
+    return obj.get("url") or obj.get("purchase_url") or obj.get("purchaseLink") or obj.get("purchase_link")
 
 def get_brand(obj):
     if obj.get("brand") or obj.get("Brand"):
         return obj.get("brand") or obj.get("Brand")
+    spec = obj.get("Spec")
+    if isinstance(spec, dict):
+        for k in ("브랜드", "제조회사", "제조사", "Brand", "Maker"):
+            if spec.get(k):
+                return str(spec.get(k))
     name = get_name(obj)
     first = str(name).split(" ")[0]
-    MAP = {
-        "레노버": "Lenovo","삼성": "Samsung","LG": "LG","ASUS": "ASUS","애플": "Apple",
-        "HP": "HP","델": "Dell","MSI": "MSI","에이서": "Acer","기가바이트": "GIGABYTE",
-    }
-    return MAP.get(first, first)
+    return first if first else "UNKNOWN"
 
 def make_id(category, obj, idx):
     name = get_name(obj)
-    slug = re.sub(r"[^a-z0-9가-힣]+", "-", name.lower()).strip("-")
+    slug = slugify_text(name)
+    base = f"{category}:{slug or 'item'}"
     h = hashlib.sha1(json.dumps(obj, ensure_ascii=False, sort_keys=True).encode()).hexdigest()[:8]
-    return f"{category}:{slug or 'item'}-{h}-{idx}"
+    return f"{base}-{h}-{idx}"
+
+def base_key(full_id: str) -> str:
+    return re.sub(r"-[0-9a-f]{8}-\d+$", "", str(full_id))
 
 def normalize_like_node(obj, category, idx):
     return {
@@ -92,44 +120,44 @@ def normalize_like_node(obj, category, idx):
         "price": get_price(obj),
         "brand": get_brand(obj),
         "img": get_image(obj),
-        "url": obj.get("url") or obj.get("purchase_url"),
-        "raw": obj,  # 추천에서 바로 상세 렌더링하려면 raw 포함 추천
+        "url": get_url(obj),
     }
 
 # ---- 상품 인덱스 ----
 PRODUCTS = []
 PRODUCT_BY_ID = {}
-BASEKEY_TO_FULLID = {}  # "category:slug" -> "category:slug-hash-idx"
-
-def base_key(full_id: str) -> str:
-    # 뒤 "-해시8자리-숫자" 제거
-    return re.sub(r"-[0-9a-f]{8}-\d+$", "", str(full_id))
+BASEKEY_TO_FULLIDS = {}
 
 def build_products_index():
-    global PRODUCTS, PRODUCT_BY_ID, BASEKEY_TO_FULLID
+    global PRODUCTS, PRODUCT_BY_ID, BASEKEY_TO_FULLIDS
+
     products = []
     idx = 0
 
     for file in sorted(DATA_DIR.glob("*.json")):
-        category = file.stem.lower()
-        with open(file, encoding="utf-8") as f:
-            data = json.load(f)
-
-        if not isinstance(data, list):
+        category = norm_cat(file.stem)
+        try:
+            with open(file, encoding="utf-8") as f:
+                data = json.load(f)
+        except Exception as e:
+            print("⚠️ JSON load fail:", file.name, repr(e))
             continue
 
-        for obj in data:
+        for obj in flatten_records(data):
             p = normalize_like_node(obj, category, idx)
             products.append(p)
             idx += 1
 
     PRODUCTS = products
     PRODUCT_BY_ID = {p["id"]: p for p in PRODUCTS}
-    BASEKEY_TO_FULLID = {base_key(p["id"]): p["id"] for p in PRODUCTS}
+
+    BASEKEY_TO_FULLIDS = {}
+    for p in PRODUCTS:
+        bk = base_key(p["id"])
+        BASEKEY_TO_FULLIDS.setdefault(bk, []).append(p["id"])
 
 build_products_index()
 
-# ---- 추천 API ----
 @app.route("/api/recommend", methods=["GET"])
 def recommend():
     user_no = get_user_no_from_jwt()
@@ -147,30 +175,45 @@ def recommend():
         FROM user_recommendations
         WHERE user_no = :u
         ORDER BY rec_rank ASC
-        LIMIT 10
+        LIMIT 50
     """)
 
     with engine.connect() as conn:
         rows = conn.execute(q, {"u": int(user_no)}).fetchall()
 
+    # ✅ DEBUG는 rows 만든 뒤에 찍어야 함
+    print("DEBUG user_no:", user_no)
+    print("DEBUG rows:", len(rows))
+    print("DEBUG first pid:", rows[0].product_id if rows else None)
+
     items = []
+    used = set()
+
     for r in rows:
         pid = str(r.product_id)
 
-        # 1) 완전 일치
-        full_id = pid if pid in PRODUCT_BY_ID else None
+        # 1) full id 저장된 경우
+        if pid in PRODUCT_BY_ID and pid not in used:
+            items.append(PRODUCT_BY_ID[pid])
+            used.add(pid)
 
-        # 2) DB가 "category:slug"만 저장한 경우 보정
-        if full_id is None:
-            full_id = BASEKEY_TO_FULLID.get(pid)
+        # 2) basekey 저장된 경우(category:slug)
+        elif pid in BASEKEY_TO_FULLIDS:
+            for full_id in BASEKEY_TO_FULLIDS[pid]:
+                if full_id not in used:
+                    items.append(PRODUCT_BY_ID[full_id])
+                    used.add(full_id)
+                    break
 
-        if full_id:
-            items.append(PRODUCT_BY_ID[full_id])
+        if len(items) >= 10:
+            break
 
-    # 부족하면 fallback 채움
+    # 부족하면 랜덤 채움
     if len(items) < 10:
         remain = 10 - len(items)
-        items.extend(random.sample(PRODUCTS, min(remain, len(PRODUCTS))))
+        pool = [p for p in PRODUCTS if p["id"] not in used]
+        if pool:
+            items.extend(random.sample(pool, min(remain, len(pool))))
 
     return jsonify({"type": "personalized", "items": items})
 

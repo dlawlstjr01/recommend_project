@@ -1,5 +1,5 @@
 const RECO_API_BASE =
-  import.meta.env.VITE_RECO_API_BASE || "http://127.0.0.1:5001";
+  import.meta.env.VITE_RECO_API_BASE || "http://localhost:5001";
 
 /**
  * Flask 추천 API 호출
@@ -14,11 +14,14 @@ export async function fetchRecommendations({ signal } = {}) {
 
   const text = await res.text();
 
-  let data;
+  let data = null;
   try {
     data = text ? JSON.parse(text) : null;
   } catch {
-    throw new Error(`Recommend API returned non-JSON: ${text.slice(0, 200)}`);
+    // JSON이 아니면 그대로 에러로 던져서 서버 에러 페이지/HTML 등을 확인 가능하게
+    throw new Error(
+      `Recommend API returned non-JSON (status ${res.status}): ${text.slice(0, 300)}`
+    );
   }
 
   if (!res.ok) {

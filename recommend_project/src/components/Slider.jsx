@@ -4,15 +4,19 @@ import { Navigation, Pagination, Autoplay } from 'swiper/modules';
 import 'swiper/css';
 import 'swiper/css/navigation';
 import 'swiper/css/pagination';
+import latestTrend from "../assets/최신트렌드.png";
+import priceAnalysis from "../assets/가격비교분석.png";
+import notice from "../assets/공지사항.png";
+import recommend from "../assets/맞춤추천.png";
+import benchmark from "../assets/스펙벤치마크.png";
 
 const Slider = () => {
   const slides = [
-    { id: 1, text: "최신 IT 트렌드", img: "https://picsum.photos/1200/400?random=1", link: "/trend" },
-    { id: 2, text: "가격 비교 분석", img: "https://picsum.photos/1200/400?random=2", link: "/analysis" },
-    { id: 3, text: "스펙 벤치마크", img: "https://picsum.photos/1200/400?random=3", link: "/benchmark" },
-    { id: 4, text: "사용자 리뷰", img: "https://picsum.photos/1200/400?random=4", link: "/reviews" },
-    { id: 5, text: "전문가 추천", img: "https://picsum.photos/1200/400?random=5", link: "/recommend" },
-    { id: 6, text: "이달의 핫딜", img: "https://picsum.photos/1200/400?random=6", link: "/hotdeal" },
+    { id: 1, text : "최신 트렌드",img: latestTrend, link: "/products" },
+    { id: 2, text : "가격 비교 분석",img: priceAnalysis, link: "/analysis/price" },
+    { id: 3, text : "스펙 벤치마크",img: benchmark, link: "/analysis/benchmark" },
+    { id: 4, text : "맞춤 추천",img: recommend, link: "/products" },
+    { id: 5, text : "공지사항",img: notice, link: "/support" }
   ];
 
   return (

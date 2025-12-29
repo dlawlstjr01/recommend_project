@@ -1,14 +1,12 @@
 # -*- coding: utf-8 -*-
 # =========================================================
-# HYBRID RECOMMENDER v16 (SERVICE FULL) - FIXED
+# HYBRID RECOMMENDER v16 (SERVICE FULL) - CLEAN FIXED
 #  - 행동로그: DB(USER_LOG, users)
 #  - 상품데이터: JSON(server/data/*.json)
-#  - 캐시 시그니처/shape mismatch 방지
-#  - 빈 데이터/빈 배열 안전 처리
-#  - FIX:
-#     * fuzzy 매핑 디버그 컬럼(item_raw_fuzzy/is_fuzzy_matched) 추가
-#     * 추천 점수 100 도배 방지 (-inf seen + raw score rank + finite minmax)
-#     * 서비스 추천은 df_service(전체 로그) 기반으로 user/cand/pop/neigh/corpus 강화
+#  - SERVICE 품질 우선: df_service(전체 로그) 기반
+#  - Topcat 선호 기반 후보/필터 강화 (노트북/모니터 위주)
+#  - seen_service 제거(서비스), seen_train 제거(평가)
+#  - score_0_100 100도배 방지: finite minmax + topM only
 # =========================================================
 
 import os, sys, math, random, json, hashlib, re
@@ -33,7 +31,9 @@ random.seed(SEED)
 np.random.seed(SEED)
 
 EVAL_SCENARIO = "BROWSE_TOPCATS"  # "GLOBAL" or "BROWSE_TOPCATS"
-TRAIN_ON_FULL_LOGS_FOR_SERVICE = True  # ✅ 서비스 추천 품질 우선(최근 클릭 반영)
+
+# ✅ 서비스 추천 품질 우선(최근 클릭/전체 로그 반영)
+TRAIN_ON_FULL_LOGS_FOR_SERVICE = True
 
 TOPK_LIST = [10, 50]
 CAND_PER_USER = 1200
@@ -55,7 +55,6 @@ MAX_ITEMS_PER_USER = 40
 SESSION_LEN = 20
 
 W_W2V_GRID = [0.4, 0.6, 0.8]
-W_MF_GRID  = [0.2, 0.4, 0.6]  # (미사용 유지)
 W_POP_GRID = [0.0, 0.2, 0.4]
 
 THRESHOLD_0_100 = 70.0
@@ -162,7 +161,7 @@ if df_ui.empty:
     print("❌ USER_LOG 쿼리 결과가 0건입니다. (추천 불가)")
     sys.exit(0)
 
-# MF 점수는 비활성(원 코드 유지)
+# MF 점수 비활성
 df_score = pd.DataFrame(columns=["user_no", "item_no", "final_score"])
 
 # =========================================================
@@ -196,6 +195,16 @@ def _brand_from_name(name: str) -> str:
     if 1 <= len(b) <= 25:
         return b
     return "UNKNOWN"
+
+def _to_float_price(v):
+    if v is None:
+        return np.nan
+    try:
+        if isinstance(v, str):
+            v = v.replace(",", "").strip()
+        return float(v)
+    except:
+        return np.nan
 
 def load_products_from_json_dir(json_data_dir: str):
     def _norm_cat(x: str) -> str:
@@ -250,18 +259,14 @@ def load_products_from_json_dir(json_data_dir: str):
                 continue
             raw_id = str(raw_id).strip()
 
-            name = _pick(r, ["Name", "name", "product_name", "title"], default="")
-            price = _pick(r, ["Price", "price", "sale_price", "amount"], default=np.nan)
-            try:
-                price = float(price)
-            except:
-                price = np.nan
-
+            name = _pick(r, ["model_name", "Name", "name", "product_name", "title"], default="")
+            price = _to_float_price(_pick(r, ["Price", "price", "sale_price", "amount"], default=np.nan))
             base_img = _pick(r, ["BaseImageURL","baseImageURL","image","img","thumbnail"], default="")
 
             spec = r.get("Spec", {})
             if not isinstance(spec, dict):
                 spec = {}
+
             brand = _pick(r, ["Brand","brand"], default=None)
             if brand is None:
                 brand = _pick(spec, ["브랜드","제조사","제조회사","Brand","Maker"], default=None)
@@ -296,6 +301,7 @@ def load_products_from_json_dir(json_data_dir: str):
     df_prod["brand"] = df_prod["brand"].fillna("UNKNOWN").astype(str)
     df_prod["price"] = pd.to_numeric(df_prod["price"], errors="coerce")
 
+    # topcat 계층이 없으니 동일 취급
     df_prod["topcat_id"] = df_prod["category_id"].astype(int)
     df_prod["category_name"] = df_prod["category_id"].map(cat_name_map).fillna("")
     df_prod["topcat_name"] = df_prod["topcat_id"].map(cat_name_map).fillna("")
@@ -336,7 +342,6 @@ def sim_score(a: str, b: str) -> float:
     r = SequenceMatcher(None, a, b).ratio()
     return 0.7 * j + 0.3 * r
 
-# df_prod 준비
 df_prod["cat_key"] = df_prod["item_raw"].astype(str).str.split(":", n=1, expand=True)[0].str.lower()
 df_prod["json_slug"] = df_prod["item_raw"].astype(str).str.split(":", n=1, expand=True)[1].fillna("")
 df_prod["json_slug_norm"] = df_prod["json_slug"].apply(norm_slug)
@@ -348,7 +353,6 @@ for cat, g in df_prod.groupby("cat_key"):
         g["json_slug_norm"].to_numpy(dtype=str)
     )
 
-# df_ui의 DB id 분해
 df_ui["db_key"] = df_ui["item_raw_db"].apply(normalize_db_product_id)
 tmp = df_ui["db_key"].astype(str).str.split(":", n=1, expand=True)
 df_ui["db_cat"] = tmp[0].fillna("").str.lower()
@@ -356,7 +360,6 @@ df_ui["db_slug"] = tmp[1].fillna("")
 df_ui["db_slug_norm"] = df_ui["db_slug"].apply(norm_slug)
 
 THRESH = 0.60
-
 db_to_item_raw = {}
 for key, cat, dslug in df_ui[["db_key","db_cat","db_slug_norm"]].drop_duplicates().itertuples(index=False):
     if not cat or not dslug:
@@ -364,7 +367,6 @@ for key, cat, dslug in df_ui[["db_key","db_cat","db_slug_norm"]].drop_duplicates
     cands = prod_group.get(cat)
     if cands is None:
         continue
-
     cand_item_raw, cand_slug = cands
     best_s = -1.0
     best_item = None
@@ -380,8 +382,7 @@ for key, cat, dslug in df_ui[["db_key","db_cat","db_slug_norm"]].drop_duplicates
     if best_item is not None and best_s >= THRESH:
         db_to_item_raw[str(key)] = str(best_item)
 
-# ✅ FIX: 디버그 컬럼을 남기고 최종 item_raw를 결정
-df_ui["item_raw_fuzzy"] = df_ui["db_key"].map(db_to_item_raw)     # 성공 시 canonical
+df_ui["item_raw_fuzzy"] = df_ui["db_key"].map(db_to_item_raw)
 df_ui["is_fuzzy_matched"] = df_ui["item_raw_fuzzy"].notna()
 df_ui["item_raw"] = df_ui["item_raw_fuzzy"].fillna(df_ui["db_key"])
 
@@ -393,7 +394,7 @@ for i, (k, v) in enumerate(list(db_to_item_raw.items())[:10], start=1):
     print(f"  {i}. {k}  ->  {v}")
 
 # =========================================================
-# 3) item id 통합 매핑 (DB 로그 item_raw U JSON item_raw)
+# 3) item id 통합 매핑
 # =========================================================
 ui_items = pd.Index(df_ui["item_raw"].unique())
 prod_items = pd.Index(df_prod["item_raw"].unique()) if len(df_prod) else pd.Index([])
@@ -410,11 +411,9 @@ all_item_raw = [str(x).strip() for x in all_item_raw if str(x).strip() != ""]
 item_map = {k: i for i, k in enumerate(all_item_raw, start=1)}
 inv_item_map = {v: k for k, v in item_map.items()}
 
-# df_ui: item_raw -> item_no(int)
 df_ui["item_no"] = df_ui["item_raw"].map(item_map).astype(int)
 df_ui = df_ui.drop(columns=["item_raw"])
 
-# df_prod: item_raw -> item_no(int)
 if len(df_prod):
     df_prod["item_no"] = df_prod["item_raw"].map(item_map)
     df_prod = df_prod[df_prod["item_no"].notna()].copy()
@@ -443,7 +442,6 @@ df["w"] = df["implicit_score"] + BETA_FINAL * df["final_score"]
 
 # ✅ 서비스용 전체 로그(최근 클릭 반영)
 df_service = df.copy()
-seen_service = df_service.groupby("user_no")["item_no"].apply(lambda s: set(map(int, s.values))).to_dict()
 
 def split_leave_k_out(df_in: pd.DataFrame, k_test=5, k_val=5, min_train=3):
     train_rows, val_rows, test_rows = [], [], []
@@ -483,7 +481,12 @@ def build_gt(df_split):
 
 gt_val  = build_gt(df_val)  if len(df_val)  else {}
 gt_test = build_gt(df_test) if len(df_test) else {}
+
+# 평가용 seen (train 기준)
 seen_train = df_train.groupby("user_no")["item_no"].apply(lambda s: set(map(int, s.values))).to_dict() if len(df_train) else {}
+
+# 서비스용 seen (전체 로그 기준)
+seen_service = df_service.groupby("user_no")["item_no"].apply(lambda s: set(map(int, s.values))).to_dict() if len(df_service) else {}
 
 # =========================================================
 # 5) id maps
@@ -508,7 +511,7 @@ prod_meta = df_prod.set_index("item_no")[[
 ]].to_dict("index") if len(df_prod) else {}
 
 # =========================================================
-# 6) popularity (서비스 품질 우선: 전체 로그 기반)
+# 6) popularity (✅ 서비스는 전체로그 기반)
 # =========================================================
 df_pop_base = df_service if TRAIN_ON_FULL_LOGS_FOR_SERVICE else df_train
 
@@ -554,9 +557,8 @@ def tail_pool(sorted_pos, tail_frac=0.6):
 topcat_tail_pool = {tc: tail_pool(arr, tail_frac=0.6) for tc, arr in topcat_pop_sorted.items()}
 fine_tail_pool   = {fc: tail_pool(arr, tail_frac=0.6) for fc, arr in fine_pop_sorted.items()}
 
-# 유저 topcat/fine 선호 (서비스 품질 우선: 전체 로그 기반)
+# ✅ 유저 선호는 전체 로그 기반(핵심 수정)
 df_pref = df_service if TRAIN_ON_FULL_LOGS_FOR_SERVICE else df_train
-
 u_topcats = {}
 u_finecats = {}
 if len(df_pref) > 0:
@@ -572,7 +574,7 @@ else:
         u_finecats[int(u)] = []
 
 # =========================================================
-# 7) item co-occurrence neighbors (서비스 품질 우선: 전체 로그 기반)
+# 7) item co-occurrence neighbors (✅ 서비스는 전체로그 기반)
 # =========================================================
 print("Item cooc (sampling) ...")
 rng = np.random.default_rng(SEED)
@@ -742,43 +744,8 @@ print("\n===== CANDIDATES =====")
 sizes = np.array([len(cand_pos_list[i]) for i in range(n_users)], dtype=int)
 print("scenario:", EVAL_SCENARIO, "| avg cand:", float(sizes.mean()), "| min/max:", int(sizes.min()), int(sizes.max()))
 
-def coverage_report(gt_dict, label):
-    total_items = 0
-    hit_items = 0
-    hit_users = 0
-    for u, gt in gt_dict.items():
-        ui = u2idx.get(int(u))
-        if ui is None:
-            continue
-        cand = cand_pos_list[ui]
-        if cand is None or len(cand) == 0:
-            continue
-        cand_set = set(map(int, cand))
-        any_hit = False
-        for it in gt:
-            total_items += 1
-            p = i2pos.get(int(it), -1)
-            if p >= 0 and p in cand_set:
-                hit_items += 1
-                any_hit = True
-        if any_hit:
-            hit_users += 1
-    item_cov = hit_items / (total_items + 1e-12)
-    user_cov = hit_users / (len(gt_dict) + 1e-12)
-    print(f"✅ Candidate item-coverage ({label}):  {item_cov:.4f}  ({hit_items}/{total_items})")
-    print(f"✅ Candidate user-coverage ({label}):  {user_cov:.4f}  ({hit_users}/{len(gt_dict)})")
-
-coverage_report(gt_val, "VAL")
-coverage_report(gt_test, "TEST")
-
 # =========================================================
-# 9) MF (비활성)
-# =========================================================
-mf_pos_list = [None] * n_users
-mf_val_list = [None] * n_users
-
-# =========================================================
-# 10) Word2Vec corpus
+# 10) Word2Vec corpus (✅ 서비스는 전체로그 기반)
 # =========================================================
 def repeat_count(weight, max_rep=8, alpha=2.0):
     w = max(float(weight), 0.0)
@@ -820,7 +787,7 @@ def build_corpus(df_train_local, n_sessions, max_items_per_user):
             if len(sent) >= 2:
                 corpus_local.append(sent)
 
-    # 모든 아이템 토큰 최소 1회 등장
+    # 모든 아이템 토큰 최소 1회
     for iid in all_item_ids:
         corpus_local.append([f"ITEM_{int(iid)}"])
     return corpus_local
@@ -881,7 +848,6 @@ def build_item_matrix(model):
             vecs[j] = v / (np.linalg.norm(v) + 1e-12)
     return vecs
 
-# user_mat은 서비스 품질 우선: df_service로 구성
 def build_user_matrix_from_df(item_mat, df_in):
     user_mat = np.zeros((n_users, item_mat.shape[1]), dtype=np.float32)
     if len(df_in) == 0:
@@ -910,7 +876,6 @@ def make_signature():
     for iid in all_item_ids:
         raw = inv_item_map.get(int(iid), str(int(iid)))
         h.update(raw.encode("utf-8", errors="ignore")); h.update(b",")
-    # 서비스학습 플래그도 시그니처에 포함
     h.update(str(int(TRAIN_ON_FULL_LOGS_FOR_SERVICE)).encode("utf-8"))
     return {"n_users": int(n_users), "n_items": int(n_items), "md5": h.hexdigest()}
 
@@ -964,7 +929,7 @@ def ndcg_at_k(topk_item_ids, gt_set):
     idcg = sum(1.0 / math.log2(i + 1) for i in range(1, m + 1))
     return dcg / idcg if idcg > 0 else 0.0
 
-def score_user_on_candidates(ui, user_vec, item_mat, cand_pos, w_w2v, w_mf, w_pop):
+def score_user_on_candidates(user_vec, item_mat, cand_pos, w_w2v, w_pop):
     cand_pos = np.asarray(cand_pos, dtype=np.int32)
     if len(cand_pos) == 0:
         return np.empty(0, dtype=np.float32), cand_pos
@@ -982,7 +947,7 @@ def score_user_on_candidates(ui, user_vec, item_mat, cand_pos, w_w2v, w_mf, w_po
 
     return scores, cand_pos
 
-def eval_hybrid(user_mat, item_mat, gt_dict, k, w_w2v, w_mf, w_pop, user_sample=None):
+def eval_hybrid(user_mat, item_mat, gt_dict, k, w_w2v, w_pop, user_sample=None):
     users_list = list(gt_dict.keys())
     if user_sample is not None and len(users_list) > user_sample:
         rng2 = np.random.default_rng(SEED)
@@ -999,13 +964,12 @@ def eval_hybrid(user_mat, item_mat, gt_dict, k, w_w2v, w_mf, w_pop, user_sample=
             continue
 
         scores, cand_pos2 = score_user_on_candidates(
-            ui, user_mat[ui], item_mat, cand_pos,
-            w_w2v=w_w2v, w_mf=w_mf, w_pop=w_pop
+            user_mat[ui], item_mat, cand_pos, w_w2v=w_w2v, w_pop=w_pop
         )
         if len(scores) == 0 or len(cand_pos2) == 0:
             continue
 
-        # remove seen (평가용: train 기준)
+        # ✅ 평가에서는 train seen 제거
         seen = seen_train.get(int(u), None)
         if seen:
             seen_pos = np.array([i2pos.get(int(it), -1) for it in seen], dtype=np.int32)
@@ -1038,7 +1002,7 @@ def eval_hybrid(user_mat, item_mat, gt_dict, k, w_w2v, w_mf, w_pop, user_sample=
     }
 
 # =========================================================
-# 13) Stage1/Final train or cache load
+# 13) Train or cache load
 # =========================================================
 model_final = None
 item_mat_final = None
@@ -1062,9 +1026,10 @@ if model_final is None:
     for win in WINDOW_GRID_STAGE1:
         model = train_w2v(window=win, vector_size=BEST_VECTOR_SIZE, epochs=EPOCHS_STAGE1, negative=NEGATIVE)
         item_mat = build_item_matrix(model)
+        # ✅ user_vec도 서비스 기준
         user_mat = build_user_matrix_from_df(item_mat, df_service if TRAIN_ON_FULL_LOGS_FOR_SERVICE else df_train)
 
-        m = eval_hybrid(user_mat, item_mat, gt_val, k=10, w_w2v=0.6, w_mf=0.0, w_pop=0.0, user_sample=800)
+        m = eval_hybrid(user_mat, item_mat, gt_val, k=10, w_w2v=0.6, w_pop=0.0, user_sample=800)
         print(f"[S1] win={win:2d} -> HR@10={m['HR@10']:.4f}, Recall@10={m['Recall@10']:.4f}, NDCG@10={m['NDCG@10']:.4f} (n={m['n_users_eval']})")
 
         if (best_stage1 is None) or (m["HR@10"] + m["Recall@10"] > best_stage1["score"]):
@@ -1091,7 +1056,7 @@ if model_final is None:
         print("✅ Saved cache to:", CACHE_DIR)
 
 # =========================================================
-# 14) Stage2 weight tune (W2V + POP만 사용)
+# 14) weight tune (W2V + POP)
 # =========================================================
 best = None
 if USE_CACHE and os.path.exists(best_json_path):
@@ -1109,13 +1074,13 @@ if best is None:
     for w_w2v in W_W2V_GRID:
         for w_pop in W_POP_GRID:
             m = eval_hybrid(user_mat_final, item_mat_final, gt_val, k=10,
-                            w_w2v=w_w2v, w_mf=0.0, w_pop=w_pop, user_sample=1200)
+                            w_w2v=w_w2v, w_pop=w_pop, user_sample=1200)
             print(f"w2v={w_w2v:.1f} pop={w_pop:.1f} -> "
                   f"HR@10={m['HR@10']:.4f} R@10={m['Recall@10']:.4f} N@10={m['NDCG@10']:.4f} (n={m['n_users_eval']})")
 
             obj = (m["HR@10"] + m["Recall@10"] + 0.3*m["NDCG@10"])
             if (best is None) or (obj > best["obj"]):
-                best = {"obj": float(obj), "w_w2v": float(w_w2v), "w_mf": 0.0, "w_pop": float(w_pop), "m": m}
+                best = {"obj": float(obj), "w_w2v": float(w_w2v), "w_pop": float(w_pop), "m": m}
 
     print("\n==============================")
     print("CHOSEN BEST WEIGHTS")
@@ -1136,9 +1101,9 @@ print("==============================")
 
 for k in TOPK_LIST:
     mv = eval_hybrid(user_mat_final, item_mat_final, gt_val, k=k,
-                     w_w2v=best["w_w2v"], w_mf=best["w_mf"], w_pop=best["w_pop"], user_sample=None)
+                     w_w2v=best["w_w2v"], w_pop=best["w_pop"], user_sample=None)
     mt = eval_hybrid(user_mat_final, item_mat_final, gt_test, k=k,
-                     w_w2v=best["w_w2v"], w_mf=best["w_mf"], w_pop=best["w_pop"], user_sample=None)
+                     w_w2v=best["w_w2v"], w_pop=best["w_pop"], user_sample=None)
     print(f"\n[VAL @ {k}]  ", {kk:v for kk,v in mv.items() if kk!='n_users_eval'}, "| n_users:", mv["n_users_eval"])
     print(f"[TEST @ {k}] ", {kk:v for kk,v in mt.items() if kk!='n_users_eval'}, "| n_users:", mt["n_users_eval"])
 
@@ -1220,12 +1185,23 @@ def rerank_soft_caps(item_ids):
             break
     return picked
 
+def filter_candidates_by_topcats(cand_pos2, scores, allowed_tcs, min_keep=10):
+    """cand_pos2/scores 단계에서 topcat 선필터. 너무 적으면 원본 유지."""
+    if not allowed_tcs:
+        return cand_pos2, scores
+    keep_mask = np.array([
+        int(topcat_id_map.get(int(all_item_ids[p]), -1)) in allowed_tcs
+        for p in cand_pos2
+    ], dtype=bool)
+    if keep_mask.sum() >= min_keep:
+        return cand_pos2[keep_mask], scores[keep_mask]
+    return cand_pos2, scores
+
 rows_out = []
 
 print("\n==============================")
-print("Generating recommendations (threshold>=70 preferred) WITH product names + reranker")
+print("Generating recommendations (SERVICE) WITH names + topcat-first filtering")
 print("==============================")
-print(f"RERANK caps: topcat<={CAP_TOPCAT}, finecat<={CAP_FINECAT}, brand<={CAP_BRAND}")
 print(f"CAND_PER_USER={CAND_PER_USER}, TOPN_SAVE={TOPN_SAVE}, THRESHOLD={THRESHOLD_0_100}")
 
 for u in tqdm(all_users, desc="Recommend"):
@@ -1235,13 +1211,17 @@ for u in tqdm(all_users, desc="Recommend"):
         continue
 
     scores, cand_pos2 = score_user_on_candidates(
-        ui, user_mat_final[ui], item_mat_final, cand_pos,
-        w_w2v=best["w_w2v"], w_mf=best["w_mf"], w_pop=best["w_pop"]
+        user_mat_final[ui], item_mat_final, cand_pos,
+        w_w2v=best["w_w2v"], w_pop=best["w_pop"]
     )
     if len(scores) == 0:
         continue
 
-    # ✅ remove seen (서비스용: 전체 로그 기준)
+    # ✅ topcat 선호를 "랭킹 전에" 강제 (핵심)
+    allowed_tcs = set(u_topcats.get(int(u), []))
+    cand_pos2, scores = filter_candidates_by_topcats(cand_pos2, scores, allowed_tcs, min_keep=TOPN_SAVE)
+
+    # ✅ 서비스에서는 전체 seen 제거
     seen = seen_service.get(int(u), None)
     if seen:
         seen_pos = np.array([i2pos.get(int(it), -1) for it in seen], dtype=np.int32)
@@ -1253,20 +1233,45 @@ for u in tqdm(all_users, desc="Recommend"):
             if ok.any():
                 scores[j[ok]] = -np.inf
 
-    # ✅ 랭킹은 raw scores로 (스케일링은 표시용)
-    M = min(300, len(cand_pos2))
-    if M <= 0:
+    if np.isfinite(scores).sum() == 0:
+        # 전부 -inf면 글로벌 인기에서 unseen으로 채움
+        fill = []
+        seen_set = seen_service.get(int(u), set())
+        for p in global_pop_pos:
+            iid = int(all_item_ids[int(p)])
+            if iid not in seen_set:
+                fill.append(iid)
+            if len(fill) >= TOPN_SAVE:
+                break
+        picked = rerank_soft_caps(fill)
+        for rank, item_id in enumerate(picked, start=1):
+            product_id = inv_item_map.get(int(item_id), str(item_id))
+            rows_out.append((int(u), product_id,
+                             prod_name_map.get(item_id, "") or product_id,
+                             brand_map.get(item_id, "UNKNOWN"),
+                             topcat_map.get(item_id, ""),
+                             cat_map.get(item_id, ""),
+                             float(price_map.get(item_id, np.nan)),
+                             img_map.get(item_id, ""),
+                             np.nan,
+                             int(rank)))
         continue
 
+    # 랭킹은 raw scores로
+    M = min(300, len(cand_pos2))
     top_idx = np.argpartition(-scores, M - 1)[:M]
     top_idx = top_idx[np.argsort(-scores[top_idx])]
 
     item_ids_ranked = [int(all_item_ids[int(cand_pos2[i])]) for i in top_idx]
     top_scores_raw = scores[top_idx]
+
+    # ✅ 표시용 0~100 스케일은 top M raw에만 + finite
     scores_ranked = minmax_0_100_finite(top_scores_raw)
 
-    above = [iid for iid, sc in zip(item_ids_ranked, scores_ranked) if (sc is not None and np.isfinite(sc) and float(sc) >= THRESHOLD_0_100)]
-    below = [iid for iid, sc in zip(item_ids_ranked, scores_ranked) if (sc is None or (not np.isfinite(sc)) or float(sc) < THRESHOLD_0_100)]
+    above = [iid for iid, sc in zip(item_ids_ranked, scores_ranked)
+             if (sc is not None and np.isfinite(sc) and float(sc) >= THRESHOLD_0_100)]
+    below = [iid for iid, sc in zip(item_ids_ranked, scores_ranked)
+             if (sc is None or (not np.isfinite(sc)) or float(sc) < THRESHOLD_0_100)]
     item_ids_pref = above + below
 
     picked = rerank_soft_caps(item_ids_pref)
@@ -1279,13 +1284,11 @@ for u in tqdm(all_users, desc="Recommend"):
             score_map[iid] = float(sc)
 
     for rank, item_id in enumerate(picked, start=1):
-        product_id = inv_item_map.get(int(item_id), str(item_id))  # canonical key(cat:slug)
-        txt_name = prod_name_map.get(item_id, "") or product_id
-
+        product_id = inv_item_map.get(int(item_id), str(item_id))  # ✅ DB에 저장할 basekey(cat:slug)
         rows_out.append((
             int(u),
             product_id,
-            txt_name,
+            prod_name_map.get(item_id, "") or product_id,
             brand_map.get(item_id, "UNKNOWN"),
             topcat_map.get(item_id, ""),
             cat_map.get(item_id, ""),
@@ -1297,7 +1300,8 @@ for u in tqdm(all_users, desc="Recommend"):
 
 out_path = os.path.join(OUT_DIR, OUT_NAME)
 df_out = pd.DataFrame(rows_out, columns=[
-    "user_no","product_id","product_name","brand","topcat_name","category_name","price","base_image_url","score_0_100","rank"
+    "user_no","product_id","product_name","brand","topcat_name","category_name",
+    "price","base_image_url","score_0_100","rank"
 ])
 df_out.to_csv(out_path, index=False, encoding="utf-8-sig")
 
@@ -1317,19 +1321,13 @@ print("rows:", len(df_out), "| users_with_rec:", df_out.user_no.nunique())
 print(df_out.head(30))
 
 # =========================================================
-# 17) 디버그: “모니터/노트북 많이 눌렀는데 왜…” 확인용 출력
+# 17) 디버그 출력(유저 선호 topcat 확인)
 # =========================================================
 try:
     u_dbg = int(all_users[0]) if len(all_users) else 0
-    tmpu = df_ui[df_ui["user_no"] == u_dbg].copy()
-
-    print("\n===== DEBUG (FUZZY MATCH RATE) =====")
-    print("user:", u_dbg, "| matched_rate:", float(tmpu["is_fuzzy_matched"].mean()))
-    print("clicked db_cat top:", tmpu["db_cat"].value_counts().head(10).to_dict())
-    print("unmatched top db_key:", tmpu.loc[~tmpu["is_fuzzy_matched"], "db_key"].value_counts().head(10).to_dict())
-
-    print("\n===== DEBUG (SERVICE TOP PREF) =====")
-    gtc = df_service[df_service["user_no"] == u_dbg].groupby("topcat_id")["w"].sum().sort_values(ascending=False).head(10)
-    print("topcat_id by w:", gtc.to_dict())
+    print("\n===== DEBUG (USER TOPCATS) =====")
+    print("user:", u_dbg)
+    print("u_topcats ids:", u_topcats.get(u_dbg, []))
+    print("u_topcats names:", [df_cat.set_index("category_id")["category_name"].to_dict().get(tc, tc) for tc in u_topcats.get(u_dbg, [])])
 except Exception as e:
     print("⚠️ DEBUG skipped:", repr(e))

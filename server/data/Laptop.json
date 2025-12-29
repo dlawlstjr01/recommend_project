@@ -1,7 +1,7 @@
 [
     {
         "PCode": "92545484",
-        "model_name": "HP 오멘 16-ap0117AX",
+        "Name": "HP 오멘 16-ap0117AX",
         "Price": 2248000,
         "physical": {
             "weight_kg": 2.35,
@@ -67,7 +67,7 @@
     },
     {
         "PCode": "78534242",
-        "model_name": "레노버 아이디어패드 Slim5 16AKP10 83HY0044KR",
+        "Name": "레노버 아이디어패드 Slim5 16AKP10 83HY0044KR",
         "Price": 1329000,
         "physical": {
             "weight_kg": 1.69,
@@ -133,7 +133,7 @@
     },
     {
         "PCode": "70335374",
-        "model_name": "LG전자 울트라PC 15U50T-GA5HK",
+        "Name": "LG전자 울트라PC 15U50T-GA5HK",
         "Price": 695470,
         "physical": {
             "weight_kg": 1.7,
@@ -199,7 +199,7 @@
     },
     {
         "PCode": "74007554",
-        "model_name": "LG전자 2025 그램 프로16 16Z90TP-KD7WK",
+        "Name": "LG전자 2025 그램 프로16 16Z90TP-KD7WK",
         "Price": 2300370,
         "physical": {
             "weight_kg": 1.199,
@@ -263,7 +263,7 @@
     },
     {
         "PCode": "44762513",
-        "model_name": "삼성전자 갤럭시북4 NT750XGR-A51A WIN11",
+        "Name": "삼성전자 갤럭시북4 NT750XGR-A51A WIN11",
         "Price": 876830,
         "physical": {
             "weight_kg": 1.55,
@@ -327,7 +327,7 @@
     },
     {
         "PCode": "92355779",
-        "model_name": "ASUS TUF Gaming F16 FX608JMR-QT040",
+        "Name": "ASUS TUF Gaming F16 FX608JMR-QT040",
         "Price": 1770660,
         "physical": {
             "weight_kg": 2.2,
@@ -392,7 +392,7 @@
     },
     {
         "PCode": "94028711",
-        "model_name": "에이서 프레데터 헬리오스 네오 16 AI PHN16-73-9797",
+        "Name": "에이서 프레데터 헬리오스 네오 16 AI PHN16-73-9797",
         "Price": 2948990,
         "physical": {
             "weight_kg": 2.45,
@@ -458,7 +458,7 @@
     },
     {
         "PCode": "74011034",
-        "model_name": "LG전자 2025 그램15 15Z90T-GA5HK",
+        "Name": "LG전자 2025 그램15 15Z90T-GA5HK",
         "Price": 1465590,
         "physical": {
             "weight_kg": 1.29,
@@ -523,7 +523,7 @@
     },
     {
         "PCode": "74808074",
-        "model_name": "LG전자 2025 그램 프로16 16Z90TS-GS50K",
+        "Name": "LG전자 2025 그램 프로16 16Z90TS-GS50K",
         "Price": 1662890,
         "physical": {
             "weight_kg": 1.239,
@@ -591,7 +591,7 @@
     },
     {
         "PCode": "73614713",
-        "model_name": "삼성전자 갤럭시북5 프로 NT940XHA-K51A",
+        "Name": "삼성전자 갤럭시북5 프로 NT940XHA-K51A",
         "Price": 1798990,
         "physical": {
             "weight_kg": 1.23,
@@ -657,7 +657,7 @@
     },
     {
         "PCode": "93383075",
-        "model_name": "ASUS TUF Gaming A14 FA401KM-RG006",
+        "Name": "ASUS TUF Gaming A14 FA401KM-RG006",
         "Price": 2031060,
         "physical": {
             "weight_kg": 1.46,
@@ -741,7 +741,7 @@
     },
     {
         "PCode": "72473807",
-        "model_name": "삼성전자 갤럭시북5 프로 NT960XHA-KD72G",
+        "Name": "삼성전자 갤럭시북5 프로 NT960XHA-KD72G",
         "Price": 2759990,
         "physical": {
             "weight_kg": 1.56,
@@ -808,7 +808,7 @@
     },
     {
         "PCode": "92886116",
-        "model_name": "ASUS TUF Gaming A14 FA401UM-RG007",
+        "Name": "ASUS TUF Gaming A14 FA401UM-RG007",
         "Price": 1742180,
         "physical": {
             "weight_kg": 1.46,
@@ -873,7 +873,7 @@
     },
     {
         "PCode": "50127506",
-        "model_name": "MSI GF시리즈 소드 GF76 A AI B8VF-R7 WIN11 32GB램",
+        "Name": "MSI GF시리즈 소드 GF76 A AI B8VF-R7 WIN11 32GB램",
         "Price": 1458260,
         "physical": {
             "weight_kg": 2.7,
@@ -938,7 +938,7 @@
     },
     {
         "PCode": "78528251",
-        "model_name": "LG전자 2025 그램 프로16 16Z90TS-GS5CK",
+        "Name": "LG전자 2025 그램 프로16 16Z90TS-GS5CK",
         "Price": 1649990,
         "physical": {
             "weight_kg": 1.199,
@@ -1003,7 +1003,7 @@
     },
     {
         "PCode": "81062753",
-        "model_name": "ASUS ROG STRIX G16 G614FR-S5122",
+        "Name": "ASUS ROG STRIX G16 G614FR-S5122",
         "Price": 2899000,
         "physical": {
             "weight_kg": 2.5,
@@ -1091,7 +1091,7 @@
     },
     {
         "PCode": "96856439",
-        "model_name": "레노버 LOQ 15AHP10 R7 5060",
+        "Name": "레노버 LOQ 15AHP10 R7 5060",
         "Price": 1329000,
         "physical": {
             "weight_kg": 2.4,
@@ -1170,7 +1170,7 @@
     },
     {
         "PCode": "74807324",
-        "model_name": "LG전자 2025 그램 프로16 16Z90TP-KD7BK",
+        "Name": "LG전자 2025 그램 프로16 16Z90TP-KD7BK",
         "Price": 2280410,
         "physical": {
             "weight_kg": 1.199,
@@ -1235,7 +1235,7 @@
     },
     {
         "PCode": "77279492",
-        "model_name": "LG전자 2025 그램 프로16 16Z90TS-GU7WK",
+        "Name": "LG전자 2025 그램 프로16 16Z90TS-GU7WK",
         "Price": 2345490,
         "physical": {
             "weight_kg": 1.199,
@@ -1300,7 +1300,7 @@
     },
     {
         "PCode": "74007302",
-        "model_name": "LG전자 2025 그램 프로16 16Z90TP-GA5HK",
+        "Name": "LG전자 2025 그램 프로16 16Z90TP-GA5HK",
         "Price": 1624320,
         "physical": {
             "weight_kg": 1.199,
@@ -1365,7 +1365,7 @@
     },
     {
         "PCode": "90891410",
-        "model_name": "ASUS ROG 제피러스 G14 GA403UM-QS018W",
+        "Name": "ASUS ROG 제피러스 G14 GA403UM-QS018W",
         "Price": 2574000,
         "physical": {
             "weight_kg": 1.5,
@@ -1454,7 +1454,7 @@
     },
     {
         "PCode": "90890546",
-        "model_name": "ASUS Gaming V16 V3607VM-RP005",
+        "Name": "ASUS Gaming V16 V3607VM-RP005",
         "Price": 1324000,
         "physical": {
             "weight_kg": 1.95,
@@ -1538,7 +1538,7 @@
     },
     {
         "PCode": "94202276",
-        "model_name": "MSI 크로스헤어 A18 HX A7WGKG-R9 QHD+",
+        "Name": "MSI 크로스헤어 A18 HX A7WGKG-R9 QHD+",
         "Price": 2093980,
         "physical": {
             "weight_kg": 3.1,
@@ -1604,7 +1604,7 @@
     },
     {
         "PCode": "94999433",
-        "model_name": "MSI 크로스헤어 A18 HX A7WGKG-R9 QHD+ WIN11 32GB램",
+        "Name": "MSI 크로스헤어 A18 HX A7WGKG-R9 QHD+ WIN11 32GB램",
         "Price": 2458640,
         "physical": {
             "weight_kg": 3.1,
@@ -1669,7 +1669,7 @@
     },
     {
         "PCode": "92146337",
-        "model_name": "ASUS TUF Gaming A16 FA608UM-QT043",
+        "Name": "ASUS TUF Gaming A16 FA608UM-QT043",
         "Price": 1649000,
         "physical": {
             "weight_kg": 2.2,
@@ -1737,7 +1737,7 @@
     },
     {
         "PCode": "44762393",
-        "model_name": "삼성전자 갤럭시북4 NT750XGR-A51A",
+        "Name": "삼성전자 갤럭시북4 NT750XGR-A51A",
         "Price": 809840,
         "physical": {
             "weight_kg": 1.55,
@@ -1804,7 +1804,7 @@
     },
     {
         "PCode": "74807111",
-        "model_name": "LG전자 2025 그램 프로16 16Z90TP-GD7CK",
+        "Name": "LG전자 2025 그램 프로16 16Z90TP-GD7CK",
         "Price": 2138990,
         "physical": {
             "weight_kg": 1.199,
@@ -1869,7 +1869,7 @@
     },
     {
         "PCode": "71964749",
-        "model_name": "LG전자 울트라PC 15U50T-GROWK 16GB램",
+        "Name": "LG전자 울트라PC 15U50T-GROWK 16GB램",
         "Price": 695590,
         "physical": {
             "weight_kg": 1.7,
@@ -1934,7 +1934,7 @@
     },
     {
         "PCode": "50127464",
-        "model_name": "MSI GF시리즈 소드 GF76 A AI B8VF-R7 WIN11",
+        "Name": "MSI GF시리즈 소드 GF76 A AI B8VF-R7 WIN11",
         "Price": 1250260,
         "physical": {
             "weight_kg": 2.7,
@@ -1999,7 +1999,7 @@
     },
     {
         "PCode": "70335269",
-        "model_name": "LG전자 울트라PC 15U50T-GROWK",
+        "Name": "LG전자 울트라PC 15U50T-GROWK",
         "Price": 639910,
         "physical": {
             "weight_kg": 1.7,
@@ -2065,7 +2065,7 @@
     },
     {
         "PCode": "32088617",
-        "model_name": "MSI 모던시리즈 모던 14 H D13MG-i9 WIN11",
+        "Name": "MSI 모던시리즈 모던 14 H D13MG-i9 WIN11",
         "Price": 1150690,
         "physical": {
             "weight_kg": 1.6,
@@ -2130,7 +2130,7 @@
     },
     {
         "PCode": "79406249",
-        "model_name": "LG전자 그램15 15ZD80T-GX56K",
+        "Name": "LG전자 그램15 15ZD80T-GX56K",
         "Price": 1183020,
         "physical": {
             "weight_kg": 1.29,
@@ -2196,7 +2196,7 @@
     },
     {
         "PCode": "70250585",
-        "model_name": "APPLE 맥북프로14 M4프로 12코어 CPU, 16코어 GPU 블랙",
+        "Name": "APPLE 맥북프로14 M4프로 12코어 CPU, 16코어 GPU 블랙",
         "Price": 2711820,
         "physical": {
             "weight_kg": 1.6,
@@ -2262,7 +2262,7 @@
     },
     {
         "PCode": "98919359",
-        "model_name": "HP 옴니북 7 Aero 13-bg0082AU WIN11",
+        "Name": "HP 옴니북 7 Aero 13-bg0082AU WIN11",
         "Price": 858970,
         "physical": {
             "weight_kg": 0.998,
@@ -2327,7 +2327,7 @@
     },
     {
         "PCode": "74805575",
-        "model_name": "MSI 모던시리즈 모던 15 B7M-R5 포스 W11",
+        "Name": "MSI 모던시리즈 모던 15 B7M-R5 포스 W11",
         "Price": 631850,
         "physical": {
             "weight_kg": 1.75,
@@ -2396,7 +2396,7 @@
     },
     {
         "PCode": "77855843",
-        "model_name": "LG전자 그램16 16Z90S-GA5VK",
+        "Name": "LG전자 그램16 16Z90S-GA5VK",
         "Price": 1345990,
         "physical": {
             "weight_kg": 1.199,
@@ -2463,7 +2463,7 @@
     },
     {
         "PCode": "74051294",
-        "model_name": "LG전자 2025 그램 프로17 17ZD90TP-GX5BK",
+        "Name": "LG전자 2025 그램 프로17 17ZD90TP-GX5BK",
         "Price": 1674590,
         "physical": {
             "weight_kg": 1.369,
@@ -2528,7 +2528,7 @@
     },
     {
         "PCode": "93445949",
-        "model_name": "에이서 프레데터 헬리오스 네오 16S 슬림 AI PHN16S-71-91JF",
+        "Name": "에이서 프레데터 헬리오스 네오 16S 슬림 AI PHN16S-71-91JF",
         "Price": 2399000,
         "physical": {
             "weight_kg": 2.15,
@@ -2592,7 +2592,7 @@
     },
     {
         "PCode": "37826933",
-        "model_name": "LG전자 2024 그램14 14ZD90S-GX56K WIN11",
+        "Name": "LG전자 2024 그램14 14ZD90S-GX56K WIN11",
         "Price": 1100000,
         "physical": {
             "weight_kg": 1.12,
@@ -2656,7 +2656,7 @@
     },
     {
         "PCode": "73761464",
-        "model_name": "HP 빅터스 15-fb3001AX",
+        "Name": "HP 빅터스 15-fb3001AX",
         "Price": 1149000,
         "physical": {
             "weight_kg": 2.29,
@@ -2721,7 +2721,7 @@
     },
     {
         "PCode": "78608654",
-        "model_name": "레노버 아이디어패드 Slim5 16AKP10 83HY0045KR",
+        "Name": "레노버 아이디어패드 Slim5 16AKP10 83HY0045KR",
         "Price": 1349000,
         "physical": {
             "weight_kg": 1.69,
@@ -2785,7 +2785,7 @@
     },
     {
         "PCode": "94931804",
-        "model_name": "MSI 사이보그 A17 AI B2HWEKG-R7 16GB램",
+        "Name": "MSI 사이보그 A17 AI B2HWEKG-R7 16GB램",
         "Price": 1488610,
         "physical": {
             "weight_kg": 2.5,
@@ -2850,7 +2850,7 @@
     },
     {
         "PCode": "77855861",
-        "model_name": "LG전자 그램17 17Z90S-GA5VK",
+        "Name": "LG전자 그램17 17Z90S-GA5VK",
         "Price": 1428260,
         "physical": {
             "weight_kg": 1.35,
@@ -2916,7 +2916,7 @@
     },
     {
         "PCode": "55800506",
-        "model_name": "레노버 아이디어패드 Slim3 15ABR8 82XM00ELKR WIN11",
+        "Name": "레노버 아이디어패드 Slim3 15ABR8 82XM00ELKR WIN11",
         "Price": 750000,
         "physical": {
             "weight_kg": 1.7,
@@ -2979,7 +2979,7 @@
     },
     {
         "PCode": "56468312",
-        "model_name": "레노버 V15 Gen4 IRU 83A100HHKR",
+        "Name": "레노버 V15 Gen4 IRU 83A100HHKR",
         "Price": 589000,
         "physical": {
             "weight_kg": 1.65,
@@ -3048,7 +3048,7 @@
     },
     {
         "PCode": "97703483",
-        "model_name": "LG전자 그램17 17Z90S-GP5QLF",
+        "Name": "LG전자 그램17 17Z90S-GP5QLF",
         "Price": 1748990,
         "physical": {
             "weight_kg": 1.35,
@@ -3113,7 +3113,7 @@
     },
     {
         "PCode": "18908273",
-        "model_name": "삼성전자 갤럭시북 프로 SE NT950XFT-A51A",
+        "Name": "삼성전자 갤럭시북 프로 SE NT950XFT-A51A",
         "Price": 1129060,
         "physical": {
             "weight_kg": 1.11,
@@ -3180,7 +3180,7 @@
     },
     {
         "PCode": "52154828",
-        "model_name": "Razer Blade 18 14Gen R4080 QHD",
+        "Name": "Razer Blade 18 14Gen R4080 QHD",
         "Price": 5990000,
         "physical": {
             "weight_kg": 3.1,
@@ -3246,7 +3246,7 @@
     },
     {
         "PCode": "99555338",
-        "model_name": "HP 오멘 슬림 16-an0021TX 32GB램",
+        "Name": "HP 오멘 슬림 16-an0021TX 32GB램",
         "Price": 2065290,
         "physical": {
             "weight_kg": 2.42,
@@ -3311,7 +3311,7 @@
     },
     {
         "PCode": "92187689",
-        "model_name": "HP 오멘 16-ap0074AX",
+        "Name": "HP 오멘 16-ap0074AX",
         "Price": 1998990,
         "physical": {
             "weight_kg": 2.45,
@@ -3389,7 +3389,7 @@
     },
     {
         "PCode": "93632033",
-        "model_name": "삼성전자 갤럭시북5 NT750XHD-KC51G",
+        "Name": "삼성전자 갤럭시북5 NT750XHD-KC51G",
         "Price": 1438990,
         "physical": {
             "weight_kg": 1.55,
@@ -3455,7 +3455,7 @@
     },
     {
         "PCode": "98919812",
-        "model_name": "HP 오멘 슬림 16-an0021TX",
+        "Name": "HP 오멘 슬림 16-an0021TX",
         "Price": 2099000,
         "physical": {
             "weight_kg": 2.42,
@@ -3535,7 +3535,7 @@
     },
     {
         "PCode": "92186612",
-        "model_name": "HP 오멘 16-ap0107AX",
+        "Name": "HP 오멘 16-ap0107AX",
         "Price": 1948990,
         "physical": {
             "weight_kg": 2.45,
@@ -3613,7 +3613,7 @@
     },
     {
         "PCode": "72975140",
-        "model_name": "LG전자 울트라PC 15U50T-GA5HK 32GB램",
+        "Name": "LG전자 울트라PC 15U50T-GA5HK 32GB램",
         "Price": 798930,
         "physical": {
             "weight_kg": 1.7,
@@ -3678,7 +3678,7 @@
     },
     {
         "PCode": "43834049",
-        "model_name": "레노버 아이디어패드 Slim3 15IAU7 82RK0164KR",
+        "Name": "레노버 아이디어패드 Slim3 15IAU7 82RK0164KR",
         "Price": 469000,
         "physical": {
             "weight_kg": 1.63,
@@ -3742,7 +3742,7 @@
     },
     {
         "PCode": "31647305",
-        "model_name": "삼성전자 갤럭시북4 프로360 NT960QGK-KH51G",
+        "Name": "삼성전자 갤럭시북4 프로360 NT960QGK-KH51G",
         "Price": 1699000,
         "physical": {
             "weight_kg": 1.66,
@@ -3807,7 +3807,7 @@
     },
     {
         "PCode": "49998455",
-        "model_name": "LG전자 2024 그램17 17Z90S-GA5CK",
+        "Name": "LG전자 2024 그램17 17Z90S-GA5CK",
         "Price": 1498850,
         "physical": {
             "weight_kg": 1.35,
@@ -3874,7 +3874,7 @@
     },
     {
         "PCode": "79554236",
-        "model_name": "MSI 벡터 16 HX AI A2XWIG-U9 QHD+",
+        "Name": "MSI 벡터 16 HX AI A2XWIG-U9 QHD+",
         "Price": 3399000,
         "physical": {
             "weight_kg": 2.7,
@@ -3944,7 +3944,7 @@
     },
     {
         "PCode": "31428656",
-        "model_name": "레노버 씽크북 16 Gen6 ABP 21KK004NKR WIN11",
+        "Name": "레노버 씽크북 16 Gen6 ABP 21KK004NKR WIN11",
         "Price": 2046880,
         "physical": {
             "weight_kg": 1.7,
@@ -4009,7 +4009,7 @@
     },
     {
         "PCode": "76462073",
-        "model_name": "ASUS ROG Flow Z13 GZ302EA-RU110W",
+        "Name": "ASUS ROG Flow Z13 GZ302EA-RU110W",
         "Price": 3499010,
         "physical": {
             "weight_kg": 1.2,
@@ -4079,7 +4079,7 @@
     },
     {
         "PCode": "62790767",
-        "model_name": "MSI 씬 15 B13VE 32GB램",
+        "Name": "MSI 씬 15 B13VE 32GB램",
         "Price": 1242580,
         "physical": {
             "weight_kg": 1.86,
@@ -4144,7 +4144,7 @@
     },
     {
         "PCode": "92104469",
-        "model_name": "MSI 소드 GF76 HX B14WGK-i9 QHD WIN11 64GB램",
+        "Name": "MSI 소드 GF76 HX B14WGK-i9 QHD WIN11 64GB램",
         "Price": 2629370,
         "physical": {
             "weight_kg": 2.7,
@@ -4209,7 +4209,7 @@
     },
     {
         "PCode": "90956735",
-        "model_name": "ASUS TUF Gaming A16 FA608PP-QT028",
+        "Name": "ASUS TUF Gaming A16 FA608PP-QT028",
         "Price": 1991000,
         "physical": {
             "weight_kg": 2.2,
@@ -4278,7 +4278,7 @@
     },
     {
         "PCode": "74807204",
-        "model_name": "LG전자 2025 그램 프로16 16Z90TP-GD7BK",
+        "Name": "LG전자 2025 그램 프로16 16Z90TP-GD7BK",
         "Price": 2096200,
         "physical": {
             "weight_kg": 1.199,
@@ -4343,7 +4343,7 @@
     },
     {
         "PCode": "77378042",
-        "model_name": "ASUS ExpertBook P1 P1503CVA-S70532 WIN11 16GB램",
+        "Name": "ASUS ExpertBook P1 P1503CVA-S70532 WIN11 16GB램",
         "Price": 607300,
         "physical": {
             "weight_kg": 1.64,
@@ -4408,7 +4408,7 @@
     },
     {
         "PCode": "97304741",
-        "model_name": "레노버 아이디어패드 Slim3 15IRU8 82X700HWKR",
+        "Name": "레노버 아이디어패드 Slim3 15IRU8 82X700HWKR",
         "Price": 515770,
         "physical": {
             "weight_kg": 1.62,
@@ -4475,7 +4475,7 @@
     },
     {
         "PCode": "89528807",
-        "model_name": "HP 옴니북 X 플립 14-fm0050TU",
+        "Name": "HP 옴니북 X 플립 14-fm0050TU",
         "Price": 1883000,
         "physical": {
             "weight_kg": 1.39,
@@ -4551,7 +4551,7 @@
     },
     {
         "PCode": "81037445",
-        "model_name": "레노버 아이디어패드 Slim5 16AHP10 83HW001CKR",
+        "Name": "레노버 아이디어패드 Slim5 16AHP10 83HW001CKR",
         "Price": 1149000,
         "physical": {
             "weight_kg": 1.69,
@@ -4617,7 +4617,7 @@
     },
     {
         "PCode": "52154765",
-        "model_name": "Razer Blade 18 14Gen R4070 QHD",
+        "Name": "Razer Blade 18 14Gen R4070 QHD",
         "Price": 2689950,
         "physical": {
             "weight_kg": 3.1,
@@ -4683,7 +4683,7 @@
     },
     {
         "PCode": "74054924",
-        "model_name": "LG전자 2025 그램 프로17 17ZD90TP-GX56K",
+        "Name": "LG전자 2025 그램 프로17 17ZD90TP-GX56K",
         "Price": 1698990,
         "physical": {
             "weight_kg": 1.369,
@@ -4748,7 +4748,7 @@
     },
     {
         "PCode": "77088371",
-        "model_name": "ASUS ROG STRIX SCAR 18 G835LX-SA041W",
+        "Name": "ASUS ROG STRIX SCAR 18 G835LX-SA041W",
         "Price": 6489840,
         "physical": {
             "weight_kg": 3.48,
@@ -4830,7 +4830,7 @@
     },
     {
         "PCode": "91770206",
-        "model_name": "ASUS Gaming V16 V3607VM-RP006 WIN11 32GB램",
+        "Name": "ASUS Gaming V16 V3607VM-RP006 WIN11 32GB램",
         "Price": 1716010,
         "physical": {
             "weight_kg": 1.95,
@@ -4895,7 +4895,7 @@
     },
     {
         "PCode": "90154631",
-        "model_name": "MSI 벡터 16 HX AI A2XWHG-U9 QHD+ 64GB램",
+        "Name": "MSI 벡터 16 HX AI A2XWHG-U9 QHD+ 64GB램",
         "Price": 3346810,
         "physical": {
             "weight_kg": 2.7,
@@ -4960,7 +4960,7 @@
     },
     {
         "PCode": "75992021",
-        "model_name": "삼성전자 갤럭시북5 프로H NT965XHW-A51A WIN11",
+        "Name": "삼성전자 갤럭시북5 프로H NT965XHW-A51A WIN11",
         "Price": 1748990,
         "physical": {
             "weight_kg": 1.56,
@@ -5025,7 +5025,7 @@
     },
     {
         "PCode": "79556942",
-        "model_name": "MSI 스텔스 18 HX AI A2XWIG-U9 UHD+ Mini LED W11",
+        "Name": "MSI 스텔스 18 HX AI A2XWIG-U9 UHD+ Mini LED W11",
         "Price": 5749000,
         "physical": {
             "weight_kg": 2.89,
@@ -5094,7 +5094,7 @@
     },
     {
         "PCode": "101073695",
-        "model_name": "레노버 LOQ 15IRX11 i5 5050 W11P 32GB램",
+        "Name": "레노버 LOQ 15IRX11 i5 5050 W11P 32GB램",
         "Price": 1778990,
         "physical": {
             "weight_kg": 2.3,
@@ -5159,7 +5159,7 @@
     },
     {
         "PCode": "79857854",
-        "model_name": "MSI 타이탄 18 HX 드래곤 에디션 A2XWJG-U9 UHD+ Mini LED W11",
+        "Name": "MSI 타이탄 18 HX 드래곤 에디션 A2XWJG-U9 UHD+ Mini LED W11",
         "Price": 9028890,
         "physical": {
             "weight_kg": 3.6,
@@ -5228,7 +5228,7 @@
     },
     {
         "PCode": "93179558",
-        "model_name": "레노버 씽크북 16IAL G8 U7 3K AI W11P 32GB램",
+        "Name": "레노버 씽크북 16IAL G8 U7 3K AI W11P 32GB램",
         "Price": 1718990,
         "physical": {
             "weight_kg": 1.7,
@@ -5293,7 +5293,7 @@
     },
     {
         "PCode": "72473858",
-        "model_name": "삼성전자 갤럭시북5 프로 NT960XHA-K71AR",
+        "Name": "삼성전자 갤럭시북5 프로 NT960XHA-K71AR",
         "Price": 2653960,
         "physical": {
             "weight_kg": 1.56,
@@ -5359,7 +5359,7 @@
     },
     {
         "PCode": "75655376",
-        "model_name": "LG전자 2025 그램 프로16 16Z90TR-SD7WK",
+        "Name": "LG전자 2025 그램 프로16 16Z90TR-SD7WK",
         "Price": 2569950,
         "physical": {
             "weight_kg": 1.36,
@@ -5424,7 +5424,7 @@
     },
     {
         "PCode": "96057869",
-        "model_name": "MSI 프레스티지 16 AI+ MercedesAMG B2VMG-U9 UHD+ OLED W11",
+        "Name": "MSI 프레스티지 16 AI+ MercedesAMG B2VMG-U9 UHD+ OLED W11",
         "Price": 3299800,
         "physical": {
             "weight_kg": 1.5,
@@ -5492,7 +5492,7 @@
     },
     {
         "PCode": "90956360",
-        "model_name": "ASUS TUF Gaming A18 FA808UM-S8031",
+        "Name": "ASUS TUF Gaming A18 FA808UM-S8031",
         "Price": 1788420,
         "physical": {
             "weight_kg": 2.6,
@@ -5557,7 +5557,7 @@
     },
     {
         "PCode": "74007608",
-        "model_name": "LG전자 2025 그램 프로17 17Z90TP-GA5CK",
+        "Name": "LG전자 2025 그램 프로17 17Z90TP-GA5CK",
         "Price": 1578640,
         "physical": {
             "weight_kg": 1.369,
@@ -5622,7 +5622,7 @@
     },
     {
         "PCode": "90154847",
-        "model_name": "MSI 벡터 16 HX AI A2XWHG-U7 QHD+ WIN11 64GB램",
+        "Name": "MSI 벡터 16 HX AI A2XWHG-U7 QHD+ WIN11 64GB램",
         "Price": 3044050,
         "physical": {
             "weight_kg": 2.7,
@@ -5687,7 +5687,7 @@
     },
     {
         "PCode": "70098410",
-        "model_name": "MSI 소드 17 HX B13VGKG-i9 QHD WIN11 64GB램",
+        "Name": "MSI 소드 17 HX B13VGKG-i9 QHD WIN11 64GB램",
         "Price": 2398990,
         "physical": {
             "weight_kg": 2.6,
@@ -5752,7 +5752,7 @@
     },
     {
         "PCode": "81037853",
-        "model_name": "LG전자 그램15 15Z80T-GS5WK",
+        "Name": "LG전자 그램15 15Z80T-GS5WK",
         "Price": 1268890,
         "physical": {
             "weight_kg": 1.29,
@@ -5817,7 +5817,7 @@
     },
     {
         "PCode": "74883929",
-        "model_name": "LG전자 2025 그램 프로17 17Z90TP-GD7CK",
+        "Name": "LG전자 2025 그램 프로17 17Z90TP-GD7CK",
         "Price": 2202150,
         "physical": {
             "weight_kg": 1.369,
@@ -5882,7 +5882,7 @@
     },
     {
         "PCode": "92366540",
-        "model_name": "ASUS TUF Gaming A18 FA808UP-S8017",
+        "Name": "ASUS TUF Gaming A18 FA808UP-S8017",
         "Price": 1841910,
         "physical": {
             "weight_kg": 2.6,
@@ -5966,7 +5966,7 @@
     },
     {
         "PCode": "74807990",
-        "model_name": "LG전자 울트라PC 15U50T-GA5VK",
+        "Name": "LG전자 울트라PC 15U50T-GA5VK",
         "Price": 770630,
         "physical": {
             "weight_kg": 1.7,
@@ -6031,7 +6031,7 @@
     },
     {
         "PCode": "49995944",
-        "model_name": "MSI GF시리즈 소드 GF76 A AI B8VF-R7",
+        "Name": "MSI GF시리즈 소드 GF76 A AI B8VF-R7",
         "Price": 1319000,
         "physical": {
             "weight_kg": 2.7,
@@ -6101,7 +6101,7 @@
     },
     {
         "PCode": "74008352",
-        "model_name": "LG전자 2025 그램14 14Z90T-GA5CK",
+        "Name": "LG전자 2025 그램14 14Z90T-GA5CK",
         "Price": 1285590,
         "physical": {
             "weight_kg": 1.12,
@@ -6167,7 +6167,7 @@
     },
     {
         "PCode": "74054642",
-        "model_name": "LG전자 2025 그램15 15ZD90T-GX56K",
+        "Name": "LG전자 2025 그램15 15ZD90T-GX56K",
         "Price": 1357310,
         "physical": {
             "weight_kg": 1.29,
@@ -6233,7 +6233,7 @@
     },
     {
         "PCode": "75655490",
-        "model_name": "LG전자 2025 그램 프로17 17Z90TR-SD7WK",
+        "Name": "LG전자 2025 그램 프로17 17Z90TR-SD7WK",
         "Price": 2607250,
         "physical": {
             "weight_kg": 1.48,
@@ -6298,7 +6298,7 @@
     },
     {
         "PCode": "88235153",
-        "model_name": "HP 옴니북 5 16-ag1019AU",
+        "Name": "HP 옴니북 5 16-ag1019AU",
         "Price": 1197430,
         "physical": {
             "weight_kg": 1.79,
@@ -6375,7 +6375,7 @@
     },
     {
         "PCode": "92545499",
-        "model_name": "HP 오멘 16-ap0118AX",
+        "Name": "HP 오멘 16-ap0118AX",
         "Price": 2198000,
         "physical": {
             "weight_kg": 2.35,
@@ -6441,7 +6441,7 @@
     },
     {
         "PCode": "88232738",
-        "model_name": "LG전자 다나와인증 울트라PC 15UD50P LT2504003509",
+        "Name": "LG전자 다나와인증 울트라PC 15UD50P LT2504003509",
         "Price": 533500,
         "physical": {
             "weight_kg": 1.81,
@@ -6508,7 +6508,7 @@
     },
     {
         "PCode": "89607152",
-        "model_name": "MSI 벡터 16 HX AI A2XWHG-U7 QHD+",
+        "Name": "MSI 벡터 16 HX AI A2XWHG-U7 QHD+",
         "Price": 2549000,
         "physical": {
             "weight_kg": 2.7,
@@ -6578,7 +6578,7 @@
     },
     {
         "PCode": "101953292",
-        "model_name": "ASUS 비보북 15 X1504VA-BQ4270W",
+        "Name": "ASUS 비보북 15 X1504VA-BQ4270W",
         "Price": 899000,
         "physical": {
             "weight_kg": 1.7,
@@ -6643,7 +6643,7 @@
     },
     {
         "PCode": "74007269",
-        "model_name": "LG전자 2025 그램 프로16 16Z90TP-GA5CK",
+        "Name": "LG전자 2025 그램 프로16 16Z90TP-GA5CK",
         "Price": 1553000,
         "physical": {
             "weight_kg": 1.199,
@@ -6709,7 +6709,7 @@
     },
     {
         "PCode": "74808680",
-        "model_name": "LG전자 2025 그램 프로16 16Z90TP-GA70K",
+        "Name": "LG전자 2025 그램 프로16 16Z90TP-GA70K",
         "Price": 1924300,
         "physical": {
             "weight_kg": 1.199,
@@ -6774,7 +6774,7 @@
     },
     {
         "PCode": "81037859",
-        "model_name": "LG전자 그램15 15Z80T-GU7WK",
+        "Name": "LG전자 그램15 15Z80T-GU7WK",
         "Price": 1726400,
         "physical": {
             "weight_kg": 1.29,
@@ -6839,7 +6839,7 @@
     },
     {
         "PCode": "75464003",
-        "model_name": "ASUS TUF Gaming F16 FX607VU-RL012",
+        "Name": "ASUS TUF Gaming F16 FX607VU-RL012",
         "Price": 1213830,
         "physical": {
             "weight_kg": 2.2,
@@ -6917,7 +6917,7 @@
     },
     {
         "PCode": "90955448",
-        "model_name": "HP 오멘 MAX 16-ah0187TX",
+        "Name": "HP 오멘 MAX 16-ah0187TX",
         "Price": 5399990,
         "physical": {
             "weight_kg": 2.75,
@@ -6999,7 +6999,7 @@
     },
     {
         "PCode": "95201672",
-        "model_name": "ASUS 비보북 S 16 M3607KA-SH035W",
+        "Name": "ASUS 비보북 S 16 M3607KA-SH035W",
         "Price": 1299000,
         "physical": {
             "weight_kg": 1.7,
@@ -7078,7 +7078,7 @@
     },
     {
         "PCode": "74415047",
-        "model_name": "삼성전자 갤럭시북4 NT750XGQ-AD51G",
+        "Name": "삼성전자 갤럭시북4 NT750XGQ-AD51G",
         "Price": 1283980,
         "physical": {
             "weight_kg": 1.55,
@@ -7144,7 +7144,7 @@
     },
     {
         "PCode": "72721646",
-        "model_name": "LG전자 울트라PC 15UD50T-GX5JK WIN11 32GB램",
+        "Name": "LG전자 울트라PC 15UD50T-GX5JK WIN11 32GB램",
         "Price": 832190,
         "physical": {
             "weight_kg": 1.7,
@@ -7209,7 +7209,7 @@
     },
     {
         "PCode": "96856619",
-        "model_name": "레노버 LEGION 5 15AKP10 83F1001WKR",
+        "Name": "레노버 LEGION 5 15AKP10 83F1001WKR",
         "Price": 2139000,
         "physical": {
             "weight_kg": 2.0,
@@ -7275,7 +7275,7 @@
     },
     {
         "PCode": "92545097",
-        "model_name": "레노버 LEGION Pro 5 16IAX10H U9 5070Ti Plus",
+        "Name": "레노버 LEGION Pro 5 16IAX10H U9 5070Ti Plus",
         "Price": 3049000,
         "physical": {
             "weight_kg": 2.42,
@@ -7405,7 +7405,7 @@
     },
     {
         "PCode": "15462545",
-        "model_name": "APPLE 맥북프로16 M1프로 10코어 CPU, 16코어 GPU 그레이",
+        "Name": "APPLE 맥북프로16 M1프로 10코어 CPU, 16코어 GPU 그레이",
         "Price": 2899620,
         "physical": {
             "weight_kg": 2.1,
@@ -7472,7 +7472,7 @@
     },
     {
         "PCode": "93014807",
-        "model_name": "ASUS Gaming V16 V3607VH-RP005",
+        "Name": "ASUS Gaming V16 V3607VH-RP005",
         "Price": 1169000,
         "physical": {
             "weight_kg": 1.95,
@@ -7556,7 +7556,7 @@
     },
     {
         "PCode": "72816623",
-        "model_name": "LG전자 울트라PC 15U50T-GR50K 16GB램",
+        "Name": "LG전자 울트라PC 15U50T-GR50K 16GB램",
         "Price": 695590,
         "physical": {
             "weight_kg": 1.7,
@@ -7621,7 +7621,7 @@
     },
     {
         "PCode": "91766357",
-        "model_name": "MSI 소드 GF76 HX B14WFK-i7 QHD",
+        "Name": "MSI 소드 GF76 HX B14WFK-i7 QHD",
         "Price": 1773340,
         "physical": {
             "weight_kg": 2.7,
@@ -7692,7 +7692,7 @@
     },
     {
         "PCode": "72475073",
-        "model_name": "삼성전자 갤럭시북5 프로 NT940XHA-K71AR",
+        "Name": "삼성전자 갤럭시북5 프로 NT940XHA-K71AR",
         "Price": 2190000,
         "physical": {
             "weight_kg": 1.23,
@@ -7757,7 +7757,7 @@
     },
     {
         "PCode": "70335428",
-        "model_name": "LG전자 울트라PC 15U50T-GR3CK",
+        "Name": "LG전자 울트라PC 15U50T-GR3CK",
         "Price": 598990,
         "physical": {
             "weight_kg": 1.7,
@@ -7823,7 +7823,7 @@
     },
     {
         "PCode": "74051627",
-        "model_name": "LG전자 2025 그램 프로360 16T90TP-GD79K",
+        "Name": "LG전자 2025 그램 프로360 16T90TP-GD79K",
         "Price": 2343110,
         "physical": {
             "weight_kg": 1.399,
@@ -7889,7 +7889,7 @@
     },
     {
         "PCode": "70672811",
-        "model_name": "LG전자 울트라PC 15U50T-GR50K",
+        "Name": "LG전자 울트라PC 15U50T-GR50K",
         "Price": 640200,
         "physical": {
             "weight_kg": 1.7,
@@ -7954,7 +7954,7 @@
     },
     {
         "PCode": "68775989",
-        "model_name": "LG전자 2024 그램16 16Z90S-GAFWK",
+        "Name": "LG전자 2024 그램16 16Z90S-GAFWK",
         "Price": 1498990,
         "physical": {
             "weight_kg": 1.199,
@@ -8019,7 +8019,7 @@
     },
     {
         "PCode": "75465548",
-        "model_name": "MSI 스텔스 14 AI Studio A1VFG-U7 퓨어 화이트 WIN11",
+        "Name": "MSI 스텔스 14 AI Studio A1VFG-U7 퓨어 화이트 WIN11",
         "Price": 1608990,
         "physical": {
             "weight_kg": 1.7,
@@ -8084,7 +8084,7 @@
     },
     {
         "PCode": "74008340",
-        "model_name": "LG전자 2025 그램14 14Z90T-GA5HK",
+        "Name": "LG전자 2025 그램14 14Z90T-GA5HK",
         "Price": 1346400,
         "physical": {
             "weight_kg": 1.12,
@@ -8149,7 +8149,7 @@
     },
     {
         "PCode": "90891677",
-        "model_name": "ASUS ROG 제피러스 G16 GU605CP-QR019W",
+        "Name": "ASUS ROG 제피러스 G16 GU605CP-QR019W",
         "Price": 3492170,
         "physical": {
             "weight_kg": 1.85,
@@ -8237,7 +8237,7 @@
     },
     {
         "PCode": "79560767",
-        "model_name": "레노버 씽크북 16IAL G8 U7 AI",
+        "Name": "레노버 씽크북 16IAL G8 U7 AI",
         "Price": 1099000,
         "physical": {
             "weight_kg": 1.7,
@@ -8317,7 +8317,7 @@
     },
     {
         "PCode": "74051663",
-        "model_name": "LG전자 2025 그램15 15Z90T-GA59K",
+        "Name": "LG전자 2025 그램15 15Z90T-GA59K",
         "Price": 1597700,
         "physical": {
             "weight_kg": 1.29,
@@ -8382,7 +8382,7 @@
     },
     {
         "PCode": "97223822",
-        "model_name": "MSI 프레스티지 13 AI+ 우키요에 에디션 A2VMG-U9 2.8K OLED W11",
+        "Name": "MSI 프레스티지 13 AI+ 우키요에 에디션 A2VMG-U9 2.8K OLED W11",
         "Price": 2599000,
         "physical": {
             "weight_kg": 0.99,
@@ -8452,7 +8452,7 @@
     },
     {
         "PCode": "74007752",
-        "model_name": "LG전자 2025 그램 프로360 16T90TP-GD7BK",
+        "Name": "LG전자 2025 그램 프로360 16T90TP-GD7BK",
         "Price": 2436550,
         "physical": {
             "weight_kg": 1.399,
@@ -8518,7 +8518,7 @@
     },
     {
         "PCode": "72973769",
-        "model_name": "에이서 스위프트 14 AI SF14-51-76Y4",
+        "Name": "에이서 스위프트 14 AI SF14-51-76Y4",
         "Price": 1499000,
         "physical": {
             "weight_kg": 1.26,
@@ -8588,7 +8588,7 @@
     },
     {
         "PCode": "75470864",
-        "model_name": "HP 프로북 450 G10 B7HX6AT 16GB램",
+        "Name": "HP 프로북 450 G10 B7HX6AT 16GB램",
         "Price": 647900,
         "physical": {
             "weight_kg": 1.74,
@@ -8653,7 +8653,7 @@
     },
     {
         "PCode": "93697856",
-        "model_name": "HP 오멘 17-db1003AX WIN11 64GB램",
+        "Name": "HP 오멘 17-db1003AX WIN11 64GB램",
         "Price": 3037750,
         "physical": {
             "weight_kg": 2.95,
@@ -8717,7 +8717,7 @@
     },
     {
         "PCode": "92233556",
-        "model_name": "삼성전자 NT551XDA i5 중고",
+        "Name": "삼성전자 NT551XDA i5 중고",
         "Price": 386510,
         "physical": {
             "weight_kg": 1.81,
@@ -8779,7 +8779,7 @@
     },
     {
         "PCode": "52155272",
-        "model_name": "레노버 씽크북 14IML G7 ULT7 32GB램",
+        "Name": "레노버 씽크북 14IML G7 ULT7 32GB램",
         "Price": 1178990,
         "physical": {
             "weight_kg": 1.38,
@@ -8844,7 +8844,7 @@
     },
     {
         "PCode": "97120121",
-        "model_name": "LG전자 2025 그램 프로16 16ZD90TR-SXSWK WIN11",
+        "Name": "LG전자 2025 그램 프로16 16ZD90TR-SXSWK WIN11",
         "Price": 2387850,
         "physical": {
             "weight_kg": 1.36,
@@ -8909,7 +8909,7 @@
     },
     {
         "PCode": "58635254",
-        "model_name": "HP 프로북 460 G11 A9MR2PT",
+        "Name": "HP 프로북 460 G11 A9MR2PT",
         "Price": 1098620,
         "physical": {
             "weight_kg": 1.748,
@@ -8990,7 +8990,7 @@
     },
     {
         "PCode": "72474878",
-        "model_name": "삼성전자 갤럭시북5 프로 NT940XHA-KD72G",
+        "Name": "삼성전자 갤럭시북5 프로 NT940XHA-KD72G",
         "Price": 2305990,
         "physical": {
             "weight_kg": 1.23,
@@ -9057,7 +9057,7 @@
     },
     {
         "PCode": "101012471",
-        "model_name": "LG전자 그램 프로17 17Z90TR-EP7CL",
+        "Name": "LG전자 그램 프로17 17Z90TR-EP7CL",
         "Price": 2942990,
         "physical": {
             "weight_kg": 1.48,
@@ -9122,7 +9122,7 @@
     },
     {
         "PCode": "93443156",
-        "model_name": "Microsoft 서피스 프로11 X Plus 8코어",
+        "Name": "Microsoft 서피스 프로11 X Plus 8코어",
         "Price": 1220460,
         "physical": {
             "weight_kg": 0.686,
@@ -9188,7 +9188,7 @@
     },
     {
         "PCode": "40018877",
-        "model_name": "HP 빅터스 15-fb2031AX",
+        "Name": "HP 빅터스 15-fb2031AX",
         "Price": 1489480,
         "physical": {
             "weight_kg": 2.29,
@@ -9266,7 +9266,7 @@
     },
     {
         "PCode": "76328747",
-        "model_name": "ASUS 비보북 16X K3605VC-RP402",
+        "Name": "ASUS 비보북 16X K3605VC-RP402",
         "Price": 1098000,
         "physical": {
             "weight_kg": 1.8,
@@ -9331,7 +9331,7 @@
     },
     {
         "PCode": "95054159",
-        "model_name": "레노버 씽크패드 E16 G2 R5 AI W11P",
+        "Name": "레노버 씽크패드 E16 G2 R5 AI W11P",
         "Price": 998990,
         "physical": {
             "weight_kg": 1.78,
@@ -9408,7 +9408,7 @@
     },
     {
         "PCode": "70098395",
-        "model_name": "MSI 소드 17 HX B13VGKG-i9 QHD WIN11 32GB램",
+        "Name": "MSI 소드 17 HX B13VGKG-i9 QHD WIN11 32GB램",
         "Price": 2017160,
         "physical": {
             "weight_kg": 2.6,
@@ -9473,7 +9473,7 @@
     },
     {
         "PCode": "37349885",
-        "model_name": "레노버 씽크북 16 Gen6 IRL 21KH007KKR 32GB램",
+        "Name": "레노버 씽크북 16 Gen6 IRL 21KH007KKR 32GB램",
         "Price": 0,
         "physical": {
             "weight_kg": 1.7,
@@ -9530,7 +9530,7 @@
     },
     {
         "PCode": "19074476",
-        "model_name": "MSI GF시리즈 Sword GF76 B13VFK",
+        "Name": "MSI GF시리즈 Sword GF76 B13VFK",
         "Price": 1299000,
         "physical": {
             "weight_kg": 2.6,
@@ -9599,7 +9599,7 @@
     },
     {
         "PCode": "72004154",
-        "model_name": "LG전자 2023 그램17 17ZD90RU-GX54K WIN11",
+        "Name": "LG전자 2023 그램17 17ZD90RU-GX54K WIN11",
         "Price": 1272940,
         "physical": {
             "weight_kg": 1.35,
@@ -9664,7 +9664,7 @@
     },
     {
         "PCode": "13928864",
-        "model_name": "LG전자 2021 울트라기어 15UD70P-PX50K WIN10 16GB램",
+        "Name": "LG전자 2021 울트라기어 15UD70P-PX50K WIN10 16GB램",
         "Price": 1654450,
         "physical": {
             "weight_kg": 1.85,
@@ -9729,7 +9729,7 @@
     },
     {
         "PCode": "100189661",
-        "model_name": "GIGABYTE AORUS MASTER 16 BXH",
+        "Name": "GIGABYTE AORUS MASTER 16 BXH",
         "Price": 3199000,
         "physical": {
             "weight_kg": 2.5,
@@ -9795,7 +9795,7 @@
     },
     {
         "PCode": "81038744",
-        "model_name": "HP 15-FD2005TU",
+        "Name": "HP 15-FD2005TU",
         "Price": 698980,
         "physical": {
             "weight_kg": 1.65,
@@ -9868,7 +9868,7 @@
     },
     {
         "PCode": "94999496",
-        "model_name": "MSI 크로스헤어 A18 HX A7WGKG-R9 QHD+ WIN11 64GB램",
+        "Name": "MSI 크로스헤어 A18 HX A7WGKG-R9 QHD+ WIN11 64GB램",
         "Price": 2720670,
         "physical": {
             "weight_kg": 3.1,
@@ -9933,7 +9933,7 @@
     },
     {
         "PCode": "91347488",
-        "model_name": "MSI 벡터 17 HX AI A2XWJG-U9 QHD+ W11",
+        "Name": "MSI 벡터 17 HX AI A2XWJG-U9 QHD+ W11",
         "Price": 5737960,
         "physical": {
             "weight_kg": 3.0,
@@ -10001,7 +10001,7 @@
     },
     {
         "PCode": "74007629",
-        "model_name": "LG전자 2025 그램 프로17 17Z90TP-GA5HK",
+        "Name": "LG전자 2025 그램 프로17 17Z90TP-GA5HK",
         "Price": 1688990,
         "physical": {
             "weight_kg": 1.369,
@@ -10066,7 +10066,7 @@
     },
     {
         "PCode": "20443586",
-        "model_name": "MSI 크리에이터 Z17 HX Studio A13VGT-i9 W11 64GB램",
+        "Name": "MSI 크리에이터 Z17 HX Studio A13VGT-i9 W11 64GB램",
         "Price": 0,
         "physical": {
             "weight_kg": 2.49,
@@ -10121,7 +10121,7 @@
     },
     {
         "PCode": "91766426",
-        "model_name": "MSI 소드 GF76 HX B14WGK-i9 QHD",
+        "Name": "MSI 소드 GF76 HX B14WGK-i9 QHD",
         "Price": 2099000,
         "physical": {
             "weight_kg": 2.7,
@@ -10191,7 +10191,7 @@
     },
     {
         "PCode": "90647867",
-        "model_name": "ASUS ProArt P16 H7606WP-ME042W",
+        "Name": "ASUS ProArt P16 H7606WP-ME042W",
         "Price": 4198990,
         "physical": {
             "weight_kg": 1.85,
@@ -10282,7 +10282,7 @@
     },
     {
         "PCode": "75537797",
-        "model_name": "ASUS 젠북 A14 UX3407QA-SB284W",
+        "Name": "ASUS 젠북 A14 UX3407QA-SB284W",
         "Price": 1198990,
         "physical": {
             "weight_kg": 0.899,
@@ -10371,7 +10371,7 @@
     },
     {
         "PCode": "71216612",
-        "model_name": "LG전자 그램16 16ZD90RU-GX54K",
+        "Name": "LG전자 그램16 16ZD90RU-GX54K",
         "Price": 1178990,
         "physical": {
             "weight_kg": 1.199,
@@ -10437,7 +10437,7 @@
     },
     {
         "PCode": "95054894",
-        "model_name": "MSI 사이보그 A17 AI B2HWFKG-R7 WIN11",
+        "Name": "MSI 사이보그 A17 AI B2HWFKG-R7 WIN11",
         "Price": 1548160,
         "physical": {
             "weight_kg": 2.5,
@@ -10502,7 +10502,7 @@
     },
     {
         "PCode": "31340288",
-        "model_name": "LG전자 2024 그램17 17Z90S-GAOWK",
+        "Name": "LG전자 2024 그램17 17Z90S-GAOWK",
         "Price": 1523300,
         "physical": {
             "weight_kg": 1.35,
@@ -10567,7 +10567,7 @@
     },
     {
         "PCode": "74007722",
-        "model_name": "LG전자 2025 그램 프로360 16T90TP-GA5HK",
+        "Name": "LG전자 2025 그램 프로360 16T90TP-GA5HK",
         "Price": 1868950,
         "physical": {
             "weight_kg": 1.399,
@@ -10632,7 +10632,7 @@
     },
     {
         "PCode": "94204634",
-        "model_name": "MSI 사이보그 15 B2RWEKG-C5",
+        "Name": "MSI 사이보그 15 B2RWEKG-C5",
         "Price": 1119100,
         "physical": {
             "weight_kg": 1.95,
@@ -10703,7 +10703,7 @@
     },
     {
         "PCode": "27674177",
-        "model_name": "MSI 알파 17 C7VG-R9 QHD WIN11 32GB램",
+        "Name": "MSI 알파 17 C7VG-R9 QHD WIN11 32GB램",
         "Price": 2014430,
         "physical": {
             "weight_kg": 2.8,
@@ -10768,7 +10768,7 @@
     },
     {
         "PCode": "74248838",
-        "model_name": "ASUS 젠북 14 UX3405CA-PZ507W",
+        "Name": "ASUS 젠북 14 UX3405CA-PZ507W",
         "Price": 2198000,
         "physical": {
             "weight_kg": 1.28,
@@ -10853,7 +10853,7 @@
     },
     {
         "PCode": "95420615",
-        "model_name": "LG전자 그램 프로16 16Z90TR-EA5BK",
+        "Name": "LG전자 그램 프로16 16Z90TR-EA5BK",
         "Price": 2718400,
         "physical": {
             "weight_kg": 1.36,
@@ -10917,7 +10917,7 @@
     },
     {
         "PCode": "94028558",
-        "model_name": "에이서 프레데터 헬리오스 네오 16 AI PHN16-73-90EL",
+        "Name": "에이서 프레데터 헬리오스 네오 16 AI PHN16-73-90EL",
         "Price": 2598990,
         "physical": {
             "weight_kg": 2.45,
@@ -10982,7 +10982,7 @@
     },
     {
         "PCode": "90438254",
-        "model_name": "MSI 벡터 17 HX AI A2XWHG-U9 QHD+ W11",
+        "Name": "MSI 벡터 17 HX AI A2XWHG-U9 QHD+ W11",
         "Price": 2979000,
         "physical": {
             "weight_kg": 3.0,
@@ -11051,7 +11051,7 @@
     },
     {
         "PCode": "19475165",
-        "model_name": "MSI 모던시리즈 모던 14 C7M-R5",
+        "Name": "MSI 모던시리즈 모던 14 C7M-R5",
         "Price": 439000,
         "physical": {
             "weight_kg": 1.4,
@@ -11122,7 +11122,7 @@
     },
     {
         "PCode": "90154685",
-        "model_name": "MSI 벡터 16 HX AI A2XWHG-U9 QHD+ WIN11 64GB램",
+        "Name": "MSI 벡터 16 HX AI A2XWHG-U9 QHD+ WIN11 64GB램",
         "Price": 3308780,
         "physical": {
             "weight_kg": 2.7,
@@ -11187,7 +11187,7 @@
     },
     {
         "PCode": "94999469",
-        "model_name": "MSI 크로스헤어 A18 HX A7WGKG-R9 QHD+ 32GB램",
+        "Name": "MSI 크로스헤어 A18 HX A7WGKG-R9 QHD+ 32GB램",
         "Price": 2329490,
         "physical": {
             "weight_kg": 3.1,
@@ -11252,7 +11252,7 @@
     },
     {
         "PCode": "78533579",
-        "model_name": "ASUS ROG STRIX G16 G615LW-S5027 64GB램",
+        "Name": "ASUS ROG STRIX G16 G615LW-S5027 64GB램",
         "Price": 4216080,
         "physical": {
             "weight_kg": 2.73,
@@ -11316,7 +11316,7 @@
     },
     {
         "PCode": "96366089",
-        "model_name": "레노버 LEGION 5 15IRX10 i9 5070 Plus W11P 64GB램",
+        "Name": "레노버 LEGION 5 15IRX10 i9 5070 Plus W11P 64GB램",
         "Price": 3148990,
         "physical": {
             "weight_kg": 1.9,
@@ -11381,7 +11381,7 @@
     },
     {
         "PCode": "94999409",
-        "model_name": "MSI 크로스헤어 A18 HX A7WGKG-R9 QHD+ WIN11",
+        "Name": "MSI 크로스헤어 A18 HX A7WGKG-R9 QHD+ WIN11",
         "Price": 2096920,
         "physical": {
             "weight_kg": 3.1,
@@ -11446,7 +11446,7 @@
     },
     {
         "PCode": "71216507",
-        "model_name": "LG전자 그램15 15ZD90RU-GX54K",
+        "Name": "LG전자 그램15 15ZD90RU-GX54K",
         "Price": 1153270,
         "physical": {
             "weight_kg": 1.14,
@@ -11512,7 +11512,7 @@
     },
     {
         "PCode": "97473710",
-        "model_name": "HP 오멘 17-db1004AX WIN11 64GB램",
+        "Name": "HP 오멘 17-db1004AX WIN11 64GB램",
         "Price": 2389000,
         "physical": {
             "weight_kg": 2.95,
@@ -11576,7 +11576,7 @@
     },
     {
         "PCode": "97409375",
-        "model_name": "레노버 LOQ 17IRX10 i7 5060 WIN11 64GB램",
+        "Name": "레노버 LOQ 17IRX10 i7 5060 WIN11 64GB램",
         "Price": 2398990,
         "physical": {
             "weight_kg": 2.9,
@@ -11641,7 +11641,7 @@
     },
     {
         "PCode": "91038533",
-        "model_name": "MSI 벡터 17 HX AI A2XWHG-U9 QHD+ W11 64GB램",
+        "Name": "MSI 벡터 17 HX AI A2XWHG-U9 QHD+ W11 64GB램",
         "Price": 3524040,
         "physical": {
             "weight_kg": 3.0,
@@ -11706,7 +11706,7 @@
     },
     {
         "PCode": "19427705",
-        "model_name": "MSI GF시리즈 Thin GF63 12VE-i7 WIN11 16GB램",
+        "Name": "MSI GF시리즈 Thin GF63 12VE-i7 WIN11 16GB램",
         "Price": 1159200,
         "physical": {
             "weight_kg": 1.77,
@@ -11770,7 +11770,7 @@
     },
     {
         "PCode": "74551289",
-        "model_name": "MSI 씬 15 B13VE-i5",
+        "Name": "MSI 씬 15 B13VE-i5",
         "Price": 886490,
         "physical": {
             "weight_kg": 1.86,
@@ -11840,7 +11840,7 @@
     },
     {
         "PCode": "50126834",
-        "model_name": "MSI GF시리즈 소드 GF76 A AI B8VF-R7 32GB램",
+        "Name": "MSI GF시리즈 소드 GF76 A AI B8VF-R7 32GB램",
         "Price": 1477960,
         "physical": {
             "weight_kg": 2.7,
@@ -11904,7 +11904,7 @@
     },
     {
         "PCode": "97475873",
-        "model_name": "HP Z북 울트라 14 G1a C80Q9PT",
+        "Name": "HP Z북 울트라 14 G1a C80Q9PT",
         "Price": 5459990,
         "physical": {
             "weight_kg": 1.57,
@@ -11985,7 +11985,7 @@
     },
     {
         "PCode": "19504133",
-        "model_name": "MSI 모던시리즈 모던 14 C7M-R5 WIN11",
+        "Name": "MSI 모던시리즈 모던 14 C7M-R5 WIN11",
         "Price": 458990,
         "physical": {
             "weight_kg": 1.4,
@@ -12050,7 +12050,7 @@
     },
     {
         "PCode": "65912327",
-        "model_name": "ASUS 젠북 S 16 UX5606SA-RJ170W",
+        "Name": "ASUS 젠북 S 16 UX5606SA-RJ170W",
         "Price": 2250000,
         "physical": {
             "weight_kg": 1.5,
@@ -12145,7 +12145,7 @@
     },
     {
         "PCode": "90154622",
-        "model_name": "MSI 벡터 16 HX AI A2XWHG-U9 QHD+ 32GB램",
+        "Name": "MSI 벡터 16 HX AI A2XWHG-U9 QHD+ 32GB램",
         "Price": 3088740,
         "physical": {
             "weight_kg": 2.7,
@@ -12210,7 +12210,7 @@
     },
     {
         "PCode": "95054969",
-        "model_name": "MSI 사이보그 A17 AI B2HWFKG-R7 WIN11 32GB램",
+        "Name": "MSI 사이보그 A17 AI B2HWFKG-R7 WIN11 32GB램",
         "Price": 1788730,
         "physical": {
             "weight_kg": 2.5,
@@ -12275,7 +12275,7 @@
     },
     {
         "PCode": "68442350",
-        "model_name": "ASUS 비보북 S 14 M5406WA-QD165",
+        "Name": "ASUS 비보북 S 14 M5406WA-QD165",
         "Price": 1488890,
         "physical": {
             "weight_kg": 1.3,
@@ -12342,7 +12342,7 @@
     },
     {
         "PCode": "19109849",
-        "model_name": "MSI GF시리즈 Sword GF76 B13VFK WIN11 32GB램",
+        "Name": "MSI GF시리즈 Sword GF76 B13VFK WIN11 32GB램",
         "Price": 1582690,
         "physical": {
             "weight_kg": 2.6,
@@ -12406,7 +12406,7 @@
     },
     {
         "PCode": "27613289",
-        "model_name": "MSI 알파 17 C7VG-R9 QHD",
+        "Name": "MSI 알파 17 C7VG-R9 QHD",
         "Price": 1698890,
         "physical": {
             "weight_kg": 2.8,
@@ -12475,7 +12475,7 @@
     },
     {
         "PCode": "94640243",
-        "model_name": "MSI 사이보그 A17 AI B2HWFKG-R7",
+        "Name": "MSI 사이보그 A17 AI B2HWFKG-R7",
         "Price": 1537400,
         "physical": {
             "weight_kg": 2.5,
@@ -12545,7 +12545,7 @@
     },
     {
         "PCode": "99741200",
-        "model_name": "MSI 소드 GF76 HX B14WFK-i9 WIN11 32GB램",
+        "Name": "MSI 소드 GF76 HX B14WFK-i9 WIN11 32GB램",
         "Price": 1988520,
         "physical": {
             "weight_kg": 2.7,
@@ -12610,7 +12610,7 @@
     },
     {
         "PCode": "49267880",
-        "model_name": "MSI 스텔스 16 AI Studio A1VFG-U9 QHD 32GB램",
+        "Name": "MSI 스텔스 16 AI Studio A1VFG-U9 QHD 32GB램",
         "Price": 3056660,
         "physical": {
             "weight_kg": 1.99,
@@ -12673,7 +12673,7 @@
     },
     {
         "PCode": "74007437",
-        "model_name": "LG전자 2025 그램 프로16 16Z90TP-KA5WK",
+        "Name": "LG전자 2025 그램 프로16 16Z90TP-KA5WK",
         "Price": 1870010,
         "physical": {
             "weight_kg": 1.199,
@@ -12738,7 +12738,7 @@
     },
     {
         "PCode": "95201522",
-        "model_name": "MSI 크로스헤어 17 HX AI D2XWFKG-U7 QHD+ WIN11 32GB램",
+        "Name": "MSI 크로스헤어 17 HX AI D2XWFKG-U7 QHD+ WIN11 32GB램",
         "Price": 2283730,
         "physical": {
             "weight_kg": 2.8,
@@ -12803,7 +12803,7 @@
     },
     {
         "PCode": "76069376",
-        "model_name": "MSI 모던시리즈 모던 15 H C13M-i5 WIN11 32GB램",
+        "Name": "MSI 모던시리즈 모던 15 H C13M-i5 WIN11 32GB램",
         "Price": 707660,
         "physical": {
             "weight_kg": 1.9,
@@ -12868,7 +12868,7 @@
     },
     {
         "PCode": "92104166",
-        "model_name": "MSI 소드 GF76 HX B14WFK-i7 QHD WIN11 64GB램",
+        "Name": "MSI 소드 GF76 HX B14WFK-i7 QHD WIN11 64GB램",
         "Price": 2285810,
         "physical": {
             "weight_kg": 2.7,
@@ -12932,7 +12932,7 @@
     },
     {
         "PCode": "75465566",
-        "model_name": "MSI 스텔스 14 AI Studio A1VFG-U7 퓨어 화이트 WIN11 32GB램",
+        "Name": "MSI 스텔스 14 AI Studio A1VFG-U7 퓨어 화이트 WIN11 32GB램",
         "Price": 1829630,
         "physical": {
             "weight_kg": 1.7,
@@ -12997,7 +12997,7 @@
     },
     {
         "PCode": "31339370",
-        "model_name": "LG전자 2024 그램16 16Z90S-GAOWK",
+        "Name": "LG전자 2024 그램16 16Z90S-GAOWK",
         "Price": 1434910,
         "physical": {
             "weight_kg": 1.199,
@@ -13062,7 +13062,7 @@
     },
     {
         "PCode": "93446072",
-        "model_name": "에이서 프레데터 헬리오스 네오 16S 슬림 AI PHN16S-71-99SN",
+        "Name": "에이서 프레데터 헬리오스 네오 16S 슬림 AI PHN16S-71-99SN",
         "Price": 2754050,
         "physical": {
             "weight_kg": 2.15,
@@ -13128,7 +13128,7 @@
     },
     {
         "PCode": "79556729",
-        "model_name": "MSI 타이탄 18 HX AI A2XWJG-U9 UHD+ Mini LED W11",
+        "Name": "MSI 타이탄 18 HX AI A2XWJG-U9 UHD+ Mini LED W11",
         "Price": 7928940,
         "physical": {
             "weight_kg": 3.6,
@@ -13198,7 +13198,7 @@
     },
     {
         "PCode": "93015998",
-        "model_name": "ASUS TUF Gaming F16 FX608JMR-QT040 WIN11 64GB램",
+        "Name": "ASUS TUF Gaming F16 FX608JMR-QT040 WIN11 64GB램",
         "Price": 2087110,
         "physical": {
             "weight_kg": 2.2,
@@ -13262,7 +13262,7 @@
     },
     {
         "PCode": "94028618",
-        "model_name": "에이서 프레데터 헬리오스 네오 16 AI PHN16-73-9581",
+        "Name": "에이서 프레데터 헬리오스 네오 16 AI PHN16-73-9581",
         "Price": 2699000,
         "physical": {
             "weight_kg": 2.45,
@@ -13326,7 +13326,7 @@
     },
     {
         "PCode": "27674108",
-        "model_name": "MSI 알파 17 C7VG-R9 QHD 32GB램",
+        "Name": "MSI 알파 17 C7VG-R9 QHD 32GB램",
         "Price": 1962240,
         "physical": {
             "weight_kg": 2.8,
@@ -13391,7 +13391,7 @@
     },
     {
         "PCode": "78999269",
-        "model_name": "MSI 레이더 A18 HX A9WJG-R9 UHD+ Mini LED W11",
+        "Name": "MSI 레이더 A18 HX A9WJG-R9 UHD+ Mini LED W11",
         "Price": 6749000,
         "physical": {
             "weight_kg": 3.6,
@@ -13460,7 +13460,7 @@
     },
     {
         "PCode": "77210264",
-        "model_name": "MSI 모던시리즈 모던 15 H AI C2HMG-U7 WIN11 32GB램",
+        "Name": "MSI 모던시리즈 모던 15 H AI C2HMG-U7 WIN11 32GB램",
         "Price": 1327470,
         "physical": {
             "weight_kg": 1.9,
@@ -13525,7 +13525,7 @@
     },
     {
         "PCode": "36789356",
-        "model_name": "MSI GF시리즈 소드 GF66 A AI B8VF-R7 WIN11",
+        "Name": "MSI GF시리즈 소드 GF66 A AI B8VF-R7 WIN11",
         "Price": 1264300,
         "physical": {
             "weight_kg": 2.25,
@@ -13589,7 +13589,7 @@
     },
     {
         "PCode": "74414834",
-        "model_name": "LG전자 2025 그램 프로16 16ZD90TP-GX79K WIN11",
+        "Name": "LG전자 2025 그램 프로16 16ZD90TP-GX79K WIN11",
         "Price": 2170580,
         "physical": {
             "weight_kg": 1.199,
@@ -13653,7 +13653,7 @@
     },
     {
         "PCode": "88208537",
-        "model_name": "MSI GF시리즈 소드 GF76 A AI B8VG-R9 QHD",
+        "Name": "MSI GF시리즈 소드 GF76 A AI B8VG-R9 QHD",
         "Price": 1899000,
         "physical": {
             "weight_kg": 2.7,
@@ -13722,7 +13722,7 @@
     },
     {
         "PCode": "95202266",
-        "model_name": "ASUS 비보북 16 M1607KA-MB175W",
+        "Name": "ASUS 비보북 16 M1607KA-MB175W",
         "Price": 1049000,
         "physical": {
             "weight_kg": 1.88,
@@ -13797,7 +13797,7 @@
     },
     {
         "PCode": "94690697",
-        "model_name": "MSI 사이보그 15 B2RWEKG-C5 WIN11 16GB램",
+        "Name": "MSI 사이보그 15 B2RWEKG-C5 WIN11 16GB램",
         "Price": 1201170,
         "physical": {
             "weight_kg": 1.95,
@@ -13862,7 +13862,7 @@
     },
     {
         "PCode": "74053658",
-        "model_name": "MSI GF시리즈 Sword GF76 B13UDXK WIN11 32GB램",
+        "Name": "MSI GF시리즈 Sword GF76 B13UDXK WIN11 32GB램",
         "Price": 1418990,
         "physical": {
             "weight_kg": 2.6,
@@ -13927,7 +13927,7 @@
     },
     {
         "PCode": "70250684",
-        "model_name": "APPLE 맥북프로14 M4프로 14코어 CPU, 20코어 GPU 블랙",
+        "Name": "APPLE 맥북프로14 M4프로 14코어 CPU, 20코어 GPU 블랙",
         "Price": 3306510,
         "physical": {
             "weight_kg": 1.6,
@@ -13993,7 +13993,7 @@
     },
     {
         "PCode": "95419760",
-        "model_name": "MSI 사이보그 A15 AI B2HWFKG-R7 64GB램",
+        "Name": "MSI 사이보그 A15 AI B2HWFKG-R7 64GB램",
         "Price": 1799000,
         "physical": {
             "weight_kg": 2.1,
@@ -14056,7 +14056,7 @@
     },
     {
         "PCode": "89607353",
-        "model_name": "HP 오멘 MAX 16-ah0159TX",
+        "Name": "HP 오멘 MAX 16-ah0159TX",
         "Price": 3040000,
         "physical": {
             "weight_kg": 2.49,
@@ -14139,7 +14139,7 @@
     },
     {
         "PCode": "77210411",
-        "model_name": "MSI 모던시리즈 모던 15 H AI C2HMG-U7 WIN11 64GB램",
+        "Name": "MSI 모던시리즈 모던 15 H AI C2HMG-U7 WIN11 64GB램",
         "Price": 1559710,
         "physical": {
             "weight_kg": 1.9,
@@ -14204,7 +14204,7 @@
     },
     {
         "PCode": "32109671",
-        "model_name": "MSI 사이보그 15 AI A1VFK WIN11 32GB램",
+        "Name": "MSI 사이보그 15 AI A1VFK WIN11 32GB램",
         "Price": 1822990,
         "physical": {
             "weight_kg": 1.98,
@@ -14268,7 +14268,7 @@
     },
     {
         "PCode": "76328591",
-        "model_name": "ASUS 비보북 16 X1607CA-MB081W",
+        "Name": "ASUS 비보북 16 X1607CA-MB081W",
         "Price": 1088470,
         "physical": {
             "weight_kg": 1.89,
@@ -14334,7 +14334,7 @@
     },
     {
         "PCode": "96649919",
-        "model_name": "MSI GF시리즈 GF76 B13VFKB1 W11 64GB램",
+        "Name": "MSI GF시리즈 GF76 B13VFKB1 W11 64GB램",
         "Price": 1944000,
         "physical": {
             "weight_kg": 2.6,
@@ -14397,7 +14397,7 @@
     },
     {
         "PCode": "95419745",
-        "model_name": "MSI 사이보그 A15 AI B2HWFKG-R7 32GB램",
+        "Name": "MSI 사이보그 A15 AI B2HWFKG-R7 32GB램",
         "Price": 1648990,
         "physical": {
             "weight_kg": 2.1,
@@ -14462,7 +14462,7 @@
     },
     {
         "PCode": "97122146",
-        "model_name": "HP 15-FD1630TU",
+        "Name": "HP 15-FD1630TU",
         "Price": 598990,
         "physical": {
             "weight_kg": 1.65,
@@ -14526,7 +14526,7 @@
     },
     {
         "PCode": "74006624",
-        "model_name": "LG전자 2025 그램 프로16 16Z90TS-GU7BK",
+        "Name": "LG전자 2025 그램 프로16 16Z90TS-GU7BK",
         "Price": 2366250,
         "physical": {
             "weight_kg": 1.239,
@@ -14591,7 +14591,7 @@
     },
     {
         "PCode": "63464324",
-        "model_name": "삼성전자 갤럭시북4 NT750XGJ-KP51S",
+        "Name": "삼성전자 갤럭시북4 NT750XGJ-KP51S",
         "Price": 888560,
         "physical": {
             "weight_kg": 1.55,
@@ -14656,7 +14656,7 @@
     },
     {
         "PCode": "96649721",
-        "model_name": "MSI GF시리즈 GF76 A17 AI B8VFB1 W11 32GB램",
+        "Name": "MSI GF시리즈 GF76 A17 AI B8VFB1 W11 32GB램",
         "Price": 1598990,
         "physical": {
             "weight_kg": 2.7,
@@ -14721,7 +14721,7 @@
     },
     {
         "PCode": "79792340",
-        "model_name": "MSI 벤처 A16 AI+ A3HMG-R7 2K OLED",
+        "Name": "MSI 벤처 A16 AI+ A3HMG-R7 2K OLED",
         "Price": 1450920,
         "physical": {
             "weight_kg": 1.9,
@@ -14791,7 +14791,7 @@
     },
     {
         "PCode": "94204547",
-        "model_name": "MSI 사이보그 15 B2RWEKG-C7",
+        "Name": "MSI 사이보그 15 B2RWEKG-C7",
         "Price": 1290180,
         "physical": {
             "weight_kg": 2.1,
@@ -14860,7 +14860,7 @@
     },
     {
         "PCode": "99733133",
-        "model_name": "MSI 사이보그 17 B2RWFKG-C7",
+        "Name": "MSI 사이보그 17 B2RWFKG-C7",
         "Price": 1468610,
         "physical": {
             "weight_kg": 2.5,
@@ -14930,7 +14930,7 @@
     },
     {
         "PCode": "77378363",
-        "model_name": "ASUS 비보북 16 X1607QA-MB076W",
+        "Name": "ASUS 비보북 16 X1607QA-MB076W",
         "Price": 1098000,
         "physical": {
             "weight_kg": 1.88,
@@ -15017,7 +15017,7 @@
     },
     {
         "PCode": "62790758",
-        "model_name": "MSI 씬 15 B13VE 16GB램",
+        "Name": "MSI 씬 15 B13VE 16GB램",
         "Price": 1105380,
         "physical": {
             "weight_kg": 1.86,
@@ -15081,7 +15081,7 @@
     },
     {
         "PCode": "65910506",
-        "model_name": "에이서 스위프트 16 AI SF16-51-70J2",
+        "Name": "에이서 스위프트 16 AI SF16-51-70J2",
         "Price": 1999000,
         "physical": {
             "weight_kg": 1.46,
@@ -15150,7 +15150,7 @@
     },
     {
         "PCode": "73691981",
-        "model_name": "삼성전자 갤럭시북5 프로 NT960XHA-K52A",
+        "Name": "삼성전자 갤럭시북5 프로 NT960XHA-K52A",
         "Price": 2048850,
         "physical": {
             "weight_kg": 1.56,
@@ -15217,7 +15217,7 @@
     },
     {
         "PCode": "76069346",
-        "model_name": "MSI 모던시리즈 모던 15 H C13M-i5 WIN11 16GB램",
+        "Name": "MSI 모던시리즈 모던 15 H C13M-i5 WIN11 16GB램",
         "Price": 618360,
         "physical": {
             "weight_kg": 1.9,
@@ -15282,7 +15282,7 @@
     },
     {
         "PCode": "74055050",
-        "model_name": "LG전자 2025 그램 프로360 16TD90TP-GX56K",
+        "Name": "LG전자 2025 그램 프로360 16TD90TP-GX56K",
         "Price": 1696990,
         "physical": {
             "weight_kg": 1.399,
@@ -15348,7 +15348,7 @@
     },
     {
         "PCode": "79554701",
-        "model_name": "LG전자 그램15 15ZD80T-GX79K",
+        "Name": "LG전자 그램15 15ZD80T-GX79K",
         "Price": 1597830,
         "physical": {
             "weight_kg": 1.29,
@@ -15413,7 +15413,7 @@
     },
     {
         "PCode": "74053556",
-        "model_name": "MSI GF시리즈 Sword GF76 B13UDXK WIN11 16GB램",
+        "Name": "MSI GF시리즈 Sword GF76 B13UDXK WIN11 16GB램",
         "Price": 1285370,
         "physical": {
             "weight_kg": 2.6,
@@ -15478,7 +15478,7 @@
     },
     {
         "PCode": "92104460",
-        "model_name": "MSI 소드 GF76 HX B14WGK-i9 QHD WIN11 32GB램",
+        "Name": "MSI 소드 GF76 HX B14WGK-i9 QHD WIN11 32GB램",
         "Price": 2390500,
         "physical": {
             "weight_kg": 2.7,
@@ -15543,7 +15543,7 @@
     },
     {
         "PCode": "27674282",
-        "model_name": "MSI 알파 17 C7VG-R9 QHD WIN11",
+        "Name": "MSI 알파 17 C7VG-R9 QHD WIN11",
         "Price": 1743930,
         "physical": {
             "weight_kg": 2.8,
@@ -15608,7 +15608,7 @@
     },
     {
         "PCode": "74804588",
-        "model_name": "MSI 스텔스 14 AI Studio A1VFG-U7 퓨어 화이트",
+        "Name": "MSI 스텔스 14 AI Studio A1VFG-U7 퓨어 화이트",
         "Price": 1499890,
         "physical": {
             "weight_kg": 1.7,
@@ -15678,7 +15678,7 @@
     },
     {
         "PCode": "68245949",
-        "model_name": "ASUS 젠북 S 14 UX5406SA-PV071W",
+        "Name": "ASUS 젠북 S 14 UX5406SA-PV071W",
         "Price": 1897000,
         "physical": {
             "weight_kg": 1.2,
@@ -15742,7 +15742,7 @@
     },
     {
         "PCode": "93446057",
-        "model_name": "에이서 프레데터 헬리오스 네오 16S 슬림 AI PHN16S-71-97L7",
+        "Name": "에이서 프레데터 헬리오스 네오 16S 슬림 AI PHN16S-71-97L7",
         "Price": 2611550,
         "physical": {
             "weight_kg": 2.15,
@@ -15808,7 +15808,7 @@
     },
     {
         "PCode": "72473852",
-        "model_name": "삼성전자 갤럭시북5 프로 NT960XHA-K71A",
+        "Name": "삼성전자 갤럭시북5 프로 NT960XHA-K71A",
         "Price": 2125650,
         "physical": {
             "weight_kg": 1.56,
@@ -15875,7 +15875,7 @@
     },
     {
         "PCode": "18977798",
-        "model_name": "한성컴퓨터 TFG7275T",
+        "Name": "한성컴퓨터 TFG7275T",
         "Price": 0,
         "physical": {
             "weight_kg": 2.6,
@@ -15932,7 +15932,7 @@
     },
     {
         "PCode": "17927561",
-        "model_name": "MSI 모던시리즈 모던14 C5M-R5",
+        "Name": "MSI 모던시리즈 모던14 C5M-R5",
         "Price": 459280,
         "physical": {
             "weight_kg": 1.4,
@@ -16002,7 +16002,7 @@
     },
     {
         "PCode": "90154835",
-        "model_name": "MSI 벡터 16 HX AI A2XWHG-U7 QHD+ WIN11 32GB램",
+        "Name": "MSI 벡터 16 HX AI A2XWHG-U7 QHD+ WIN11 32GB램",
         "Price": 2819990,
         "physical": {
             "weight_kg": 2.7,
@@ -16067,7 +16067,7 @@
     },
     {
         "PCode": "76942337",
-        "model_name": "ASUS 비보북 S 16 M5606KA-RI083",
+        "Name": "ASUS 비보북 S 16 M5606KA-RI083",
         "Price": 1539330,
         "physical": {
             "weight_kg": 1.5,
@@ -16160,7 +16160,7 @@
     },
     {
         "PCode": "95201015",
-        "model_name": "ASUS 비보북 S 16 S3607CA-SH080W",
+        "Name": "ASUS 비보북 S 16 S3607CA-SH080W",
         "Price": 1299000,
         "physical": {
             "weight_kg": 1.7,
@@ -16226,7 +16226,7 @@
     },
     {
         "PCode": "71783312",
-        "model_name": "ASUS 비보북 S 14 S5406SA-QD136W",
+        "Name": "ASUS 비보북 S 14 S5406SA-QD136W",
         "Price": 1869000,
         "physical": {
             "weight_kg": 1.3,
@@ -16311,7 +16311,7 @@
     },
     {
         "PCode": "101723504",
-        "model_name": "MSI 레이더 A18 HX A9WHG-R9 QHD+",
+        "Name": "MSI 레이더 A18 HX A9WHG-R9 QHD+",
         "Price": 3349000,
         "physical": {
             "weight_kg": 3.6,
@@ -16382,7 +16382,7 @@
     },
     {
         "PCode": "94690739",
-        "model_name": "MSI 사이보그 15 B2RWEKG-C5 WIN11 32GB램",
+        "Name": "MSI 사이보그 15 B2RWEKG-C5 WIN11 32GB램",
         "Price": 1462420,
         "physical": {
             "weight_kg": 1.95,
@@ -16447,7 +16447,7 @@
     },
     {
         "PCode": "71500490",
-        "model_name": "MSI 모던시리즈 모던 14 F1MG-C5 WIN11 16GB램",
+        "Name": "MSI 모던시리즈 모던 14 F1MG-C5 WIN11 16GB램",
         "Price": 734970,
         "physical": {
             "weight_kg": 1.5,
@@ -16512,7 +16512,7 @@
     },
     {
         "PCode": "97306985",
-        "model_name": "ASUS TUF Gaming A15 FA506NCG-HN198",
+        "Name": "ASUS TUF Gaming A15 FA506NCG-HN198",
         "Price": 1090060,
         "physical": {
             "weight_kg": 2.3,
@@ -16578,7 +16578,7 @@
     },
     {
         "PCode": "90154805",
-        "model_name": "MSI 벡터 16 HX AI A2XWHG-U7 QHD+ WIN11",
+        "Name": "MSI 벡터 16 HX AI A2XWHG-U7 QHD+ WIN11",
         "Price": 2539820,
         "physical": {
             "weight_kg": 2.7,
@@ -16643,7 +16643,7 @@
     },
     {
         "PCode": "65915657",
-        "model_name": "레노버 요가 Slim 7i 15ILL9 Aura Edition",
+        "Name": "레노버 요가 Slim 7i 15ILL9 Aura Edition",
         "Price": 1959000,
         "physical": {
             "weight_kg": 1.53,
@@ -16709,7 +16709,7 @@
     },
     {
         "PCode": "95055371",
-        "model_name": "MSI 사이보그 17 B2RWEKG-C7 WIN11 32GB램",
+        "Name": "MSI 사이보그 17 B2RWEKG-C7 WIN11 32GB램",
         "Price": 1677830,
         "physical": {
             "weight_kg": 2.5,
@@ -16774,7 +16774,7 @@
     },
     {
         "PCode": "90154676",
-        "model_name": "MSI 벡터 16 HX AI A2XWHG-U9 QHD+ WIN11 32GB램",
+        "Name": "MSI 벡터 16 HX AI A2XWHG-U9 QHD+ WIN11 32GB램",
         "Price": 3033260,
         "physical": {
             "weight_kg": 2.7,
@@ -16839,7 +16839,7 @@
     },
     {
         "PCode": "95055320",
-        "model_name": "MSI 사이보그 17 B2RWEKG-C7 WIN11 16GB램",
+        "Name": "MSI 사이보그 17 B2RWEKG-C7 WIN11 16GB램",
         "Price": 1388070,
         "physical": {
             "weight_kg": 2.5,
@@ -16904,7 +16904,7 @@
     },
     {
         "PCode": "19109885",
-        "model_name": "MSI GF시리즈 Sword GF76 B13VFK WIN11",
+        "Name": "MSI GF시리즈 Sword GF76 B13VFK WIN11",
         "Price": 1328700,
         "physical": {
             "weight_kg": 2.6,
@@ -16970,7 +16970,7 @@
     },
     {
         "PCode": "69054512",
-        "model_name": "ASUS 비보북 S 14 M5406WA-QD116W",
+        "Name": "ASUS 비보북 S 14 M5406WA-QD116W",
         "Price": 1478990,
         "physical": {
             "weight_kg": 1.3,
@@ -17039,7 +17039,7 @@
     },
     {
         "PCode": "94635191",
-        "model_name": "MSI 사이보그 15 B2RWEKG-C5 16GB램",
+        "Name": "MSI 사이보그 15 B2RWEKG-C5 16GB램",
         "Price": 1148660,
         "physical": {
             "weight_kg": 1.95,
@@ -17104,7 +17104,7 @@
     },
     {
         "PCode": "94202408",
-        "model_name": "MSI 크로스헤어 17 HX AI D2XWFKG-U7 QHD+",
+        "Name": "MSI 크로스헤어 17 HX AI D2XWFKG-U7 QHD+",
         "Price": 2028940,
         "physical": {
             "weight_kg": 2.8,
@@ -17170,7 +17170,7 @@
     },
     {
         "PCode": "31475579",
-        "model_name": "LG전자 그램 프로16 16Z90SP-ED7HK",
+        "Name": "LG전자 그램 프로16 16Z90SP-ED7HK",
         "Price": 2242830,
         "physical": {
             "weight_kg": 1.279,
@@ -17235,7 +17235,7 @@
     },
     {
         "PCode": "90436427",
-        "model_name": "MSI 벡터 A18 HX A9WIG-R9 QHD+",
+        "Name": "MSI 벡터 A18 HX A9WIG-R9 QHD+",
         "Price": 4499340,
         "physical": {
             "weight_kg": 3.6,
@@ -17306,7 +17306,7 @@
     },
     {
         "PCode": "77082227",
-        "model_name": "MSI 모던시리즈 모던 15 H AI C2HMG-U5 WIN11 32GB램",
+        "Name": "MSI 모던시리즈 모던 15 H AI C2HMG-U5 WIN11 32GB램",
         "Price": 1123500,
         "physical": {
             "weight_kg": 1.9,
@@ -17371,7 +17371,7 @@
     },
     {
         "PCode": "36789401",
-        "model_name": "MSI GF시리즈 소드 GF66 A AI B8VF-R7 WIN11 32GB램",
+        "Name": "MSI GF시리즈 소드 GF66 A AI B8VF-R7 WIN11 32GB램",
         "Price": 1499990,
         "physical": {
             "weight_kg": 2.25,
@@ -17436,7 +17436,7 @@
     },
     {
         "PCode": "80570150",
-        "model_name": "MSI 벡터 16 HX AI A2XWIG-U9 QHD+ WIN11 64GB램",
+        "Name": "MSI 벡터 16 HX AI A2XWIG-U9 QHD+ WIN11 64GB램",
         "Price": 4032240,
         "physical": {
             "weight_kg": 2.7,
@@ -17501,7 +17501,7 @@
     },
     {
         "PCode": "32040158",
-        "model_name": "MSI 모던시리즈 모던 14 C7M-R5 매트 블랙 WIN11",
+        "Name": "MSI 모던시리즈 모던 14 C7M-R5 매트 블랙 WIN11",
         "Price": 458990,
         "physical": {
             "weight_kg": 1.4,
@@ -17565,7 +17565,7 @@
     },
     {
         "PCode": "94028384",
-        "model_name": "에이서 프레데터 헬리오스 18 AI PH18-73-92N3",
+        "Name": "에이서 프레데터 헬리오스 18 AI PH18-73-92N3",
         "Price": 5808230,
         "physical": {
             "weight_kg": 3.5,
@@ -17631,7 +17631,7 @@
     },
     {
         "PCode": "43535177",
-        "model_name": "LG전자 그램 프로360 16T90SP-KA5BK",
+        "Name": "LG전자 그램 프로360 16T90SP-KA5BK",
         "Price": 1631790,
         "physical": {
             "weight_kg": 1.399,
@@ -17695,7 +17695,7 @@
     },
     {
         "PCode": "99639191",
-        "model_name": "MSI 소드 GF76 HX B14WFK-i9",
+        "Name": "MSI 소드 GF76 HX B14WFK-i9",
         "Price": 1719760,
         "physical": {
             "weight_kg": 2.7,
@@ -17766,7 +17766,7 @@
     },
     {
         "PCode": "70098323",
-        "model_name": "MSI 소드 17 HX B13VGKG-i9 QHD WIN11",
+        "Name": "MSI 소드 17 HX B13VGKG-i9 QHD WIN11",
         "Price": 1781830,
         "physical": {
             "weight_kg": 2.6,
@@ -17830,7 +17830,7 @@
     },
     {
         "PCode": "95058218",
-        "model_name": "MSI 사이보그 A15 AI B2HWFKG-R7",
+        "Name": "MSI 사이보그 A15 AI B2HWFKG-R7",
         "Price": 1450920,
         "physical": {
             "weight_kg": 2.1,
@@ -17899,7 +17899,7 @@
     },
     {
         "PCode": "77082131",
-        "model_name": "MSI 모던시리즈 모던 15 H AI C2HMG-U5 WIN11 16GB램",
+        "Name": "MSI 모던시리즈 모던 15 H AI C2HMG-U5 WIN11 16GB램",
         "Price": 991830,
         "physical": {
             "weight_kg": 1.9,
@@ -17964,7 +17964,7 @@
     },
     {
         "PCode": "31949963",
-        "model_name": "LG전자 그램 프로16 16Z90SP-KAOWK",
+        "Name": "LG전자 그램 프로16 16Z90SP-KAOWK",
         "Price": 1701390,
         "physical": {
             "weight_kg": 1.199,
@@ -18054,7 +18054,7 @@
     },
     {
         "PCode": "27674234",
-        "model_name": "MSI 알파 17 C7VG-R9 QHD WIN11 64GB램",
+        "Name": "MSI 알파 17 C7VG-R9 QHD WIN11 64GB램",
         "Price": 2241990,
         "physical": {
             "weight_kg": 2.8,
@@ -18119,7 +18119,7 @@
     },
     {
         "PCode": "92104118",
-        "model_name": "MSI 소드 GF76 HX B14WFK-i7 QHD WIN11 32GB램",
+        "Name": "MSI 소드 GF76 HX B14WFK-i7 QHD WIN11 32GB램",
         "Price": 2035100,
         "physical": {
             "weight_kg": 2.7,
@@ -18183,7 +18183,7 @@
     },
     {
         "PCode": "18797372",
-        "model_name": "LG전자 2023 그램14 14Z90R-GA56K",
+        "Name": "LG전자 2023 그램14 14Z90R-GA56K",
         "Price": 1254790,
         "physical": {
             "weight_kg": 0.999,
@@ -18262,7 +18262,7 @@
     },
     {
         "PCode": "74252174",
-        "model_name": "ASUS 젠북 14 UX3405CA-PZ199W",
+        "Name": "ASUS 젠북 14 UX3405CA-PZ199W",
         "Price": 1799800,
         "physical": {
             "weight_kg": 1.28,
@@ -18346,7 +18346,7 @@
     },
     {
         "PCode": "50127527",
-        "model_name": "MSI GF시리즈 소드 GF76 A AI B8VF-R7 WIN11 64GB램",
+        "Name": "MSI GF시리즈 소드 GF76 A AI B8VF-R7 WIN11 64GB램",
         "Price": 1628950,
         "physical": {
             "weight_kg": 2.7,
@@ -18411,7 +18411,7 @@
     },
     {
         "PCode": "62790848",
-        "model_name": "MSI 씬 15 B13VE WIN11 16GB램",
+        "Name": "MSI 씬 15 B13VE WIN11 16GB램",
         "Price": 1153910,
         "physical": {
             "weight_kg": 1.86,
@@ -18481,7 +18481,7 @@
     },
     {
         "PCode": "68246084",
-        "model_name": "ASUS 젠북 S 14 UX5406SA-PV153W",
+        "Name": "ASUS 젠북 S 14 UX5406SA-PV153W",
         "Price": 2289990,
         "physical": {
             "weight_kg": 1.2,
@@ -18546,7 +18546,7 @@
     },
     {
         "PCode": "94262675",
-        "model_name": "MSI 사이보그 15 B2RWEKG-C7 WIN11 16GB램",
+        "Name": "MSI 사이보그 15 B2RWEKG-C7 WIN11 16GB램",
         "Price": 1328750,
         "physical": {
             "weight_kg": 2.1,
@@ -18611,7 +18611,7 @@
     },
     {
         "PCode": "76160585",
-        "model_name": "MSI 모던시리즈 모던 15 H C13M-i5 16GB램",
+        "Name": "MSI 모던시리즈 모던 15 H C13M-i5 16GB램",
         "Price": 629520,
         "physical": {
             "weight_kg": 1.9,
@@ -18676,7 +18676,7 @@
     },
     {
         "PCode": "29481050",
-        "model_name": "MSI 모던시리즈 모던 14 C7M-R5 매트 블랙",
+        "Name": "MSI 모던시리즈 모던 14 C7M-R5 매트 블랙",
         "Price": 438990,
         "physical": {
             "weight_kg": 1.4,
@@ -18747,7 +18747,7 @@
     },
     {
         "PCode": "62790863",
-        "model_name": "MSI 씬 15 B13VE WIN11 32GB램",
+        "Name": "MSI 씬 15 B13VE WIN11 32GB램",
         "Price": 1302970,
         "physical": {
             "weight_kg": 1.86,
@@ -18817,7 +18817,7 @@
     },
     {
         "PCode": "95055002",
-        "model_name": "MSI 사이보그 A17 AI B2HWFKG-R7 WIN11 64GB램",
+        "Name": "MSI 사이보그 A17 AI B2HWFKG-R7 WIN11 64GB램",
         "Price": 1955890,
         "physical": {
             "weight_kg": 2.5,
@@ -18882,7 +18882,7 @@
     },
     {
         "PCode": "89607116",
-        "model_name": "MSI 벡터 16 HX AI A2XWHG-U9 QHD+",
+        "Name": "MSI 벡터 16 HX AI A2XWHG-U9 QHD+",
         "Price": 2699200,
         "physical": {
             "weight_kg": 2.7,
@@ -18953,7 +18953,7 @@
     },
     {
         "PCode": "94028759",
-        "model_name": "에이서 프레데터 헬리오스 네오 16 AI PHN16-73-97AB",
+        "Name": "에이서 프레데터 헬리오스 네오 16 AI PHN16-73-97AB",
         "Price": 3090000,
         "physical": {
             "weight_kg": 2.45,
@@ -19019,7 +19019,7 @@
     },
     {
         "PCode": "71500499",
-        "model_name": "MSI 모던시리즈 모던 14 F1MG-C5 WIN11 32GB램",
+        "Name": "MSI 모던시리즈 모던 14 F1MG-C5 WIN11 32GB램",
         "Price": 897620,
         "physical": {
             "weight_kg": 1.5,
@@ -19084,7 +19084,7 @@
     },
     {
         "PCode": "91907252",
-        "model_name": "MSI 소드 GF76 HX B14WGK-i7 QHD WIN11 32GB램",
+        "Name": "MSI 소드 GF76 HX B14WGK-i7 QHD WIN11 32GB램",
         "Price": 2187550,
         "physical": {
             "weight_kg": 2.7,
@@ -19149,7 +19149,7 @@
     },
     {
         "PCode": "43535258",
-        "model_name": "LG전자 그램 프로360 16T90SP-KD7BK",
+        "Name": "LG전자 그램 프로360 16T90SP-KD7BK",
         "Price": 2477960,
         "physical": {
             "weight_kg": 1.399,
@@ -19213,7 +19213,7 @@
     },
     {
         "PCode": "92104097",
-        "model_name": "MSI 소드 GF76 HX B14WFK-i7 QHD WIN11",
+        "Name": "MSI 소드 GF76 HX B14WFK-i7 QHD WIN11",
         "Price": 1748990,
         "physical": {
             "weight_kg": 2.7,
@@ -19277,7 +19277,7 @@
     },
     {
         "PCode": "94262636",
-        "model_name": "MSI 사이보그 15 B2RWEKG-C7 WIN11 32GB램",
+        "Name": "MSI 사이보그 15 B2RWEKG-C7 WIN11 32GB램",
         "Price": 1557890,
         "physical": {
             "weight_kg": 2.1,
@@ -19342,7 +19342,7 @@
     },
     {
         "PCode": "81036950",
-        "model_name": "ASUS 비보북 S 16 S3607QA-PL009W",
+        "Name": "ASUS 비보북 S 16 S3607QA-PL009W",
         "Price": 1018990,
         "physical": {
             "weight_kg": 1.74,
@@ -19428,7 +19428,7 @@
     },
     {
         "PCode": "80570141",
-        "model_name": "MSI 벡터 16 HX AI A2XWIG-U9 QHD+ WIN11 32GB램",
+        "Name": "MSI 벡터 16 HX AI A2XWIG-U9 QHD+ WIN11 32GB램",
         "Price": 3781420,
         "physical": {
             "weight_kg": 2.7,
@@ -19493,7 +19493,7 @@
     },
     {
         "PCode": "71500376",
-        "model_name": "MSI 모던시리즈 모던 14 F1MG-C5 WIN11",
+        "Name": "MSI 모던시리즈 모던 14 F1MG-C5 WIN11",
         "Price": 717510,
         "physical": {
             "weight_kg": 1.5,
@@ -19558,7 +19558,7 @@
     },
     {
         "PCode": "90154661",
-        "model_name": "MSI 벡터 16 HX AI A2XWHG-U9 QHD+ WIN11",
+        "Name": "MSI 벡터 16 HX AI A2XWHG-U9 QHD+ WIN11",
         "Price": 2794220,
         "physical": {
             "weight_kg": 2.7,
@@ -19623,7 +19623,7 @@
     },
     {
         "PCode": "39767804",
-        "model_name": "에이서 니트로 V 16 ANV16-41-R584",
+        "Name": "에이서 니트로 V 16 ANV16-41-R584",
         "Price": 1299800,
         "physical": {
             "weight_kg": 2.5,
@@ -19687,7 +19687,7 @@
     },
     {
         "PCode": "93631295",
-        "model_name": "MSI 크로스헤어 18 HX AI A2XWGKG-U9 QHD+",
+        "Name": "MSI 크로스헤어 18 HX AI A2XWGKG-U9 QHD+",
         "Price": 2699240,
         "physical": {
             "weight_kg": 3.1,
@@ -19753,7 +19753,7 @@
     },
     {
         "PCode": "92103896",
-        "model_name": "MSI 소드 GF76 HX B14WFK-i7 QHD 32GB램",
+        "Name": "MSI 소드 GF76 HX B14WFK-i7 QHD 32GB램",
         "Price": 1985560,
         "physical": {
             "weight_kg": 2.7,
@@ -19818,7 +19818,7 @@
     },
     {
         "PCode": "74007497",
-        "model_name": "LG전자 2025 그램 프로16 16Z90TP-KA5BK",
+        "Name": "LG전자 2025 그램 프로16 16Z90TP-KA5BK",
         "Price": 1847470,
         "physical": {
             "weight_kg": 1.199,
@@ -19883,7 +19883,7 @@
     },
     {
         "PCode": "99710009",
-        "model_name": "ASUS 비보북 S M3607HA-SH112",
+        "Name": "ASUS 비보북 S M3607HA-SH112",
         "Price": 1123990,
         "physical": {
             "weight_kg": 1.7,
@@ -19951,7 +19951,7 @@
     },
     {
         "PCode": "91907240",
-        "model_name": "MSI 소드 GF76 HX B14WGK-i7 QHD WIN11",
+        "Name": "MSI 소드 GF76 HX B14WGK-i7 QHD WIN11",
         "Price": 1968420,
         "physical": {
             "weight_kg": 2.7,
@@ -20016,7 +20016,7 @@
     },
     {
         "PCode": "31646459",
-        "model_name": "LG전자 2024 그램15 15Z90S-GA5HK",
+        "Name": "LG전자 2024 그램15 15Z90S-GA5HK",
         "Price": 1348370,
         "physical": {
             "weight_kg": 1.29,
@@ -20100,7 +20100,7 @@
     },
     {
         "PCode": "95055470",
-        "model_name": "MSI 사이보그 17 B2RWEKG-C7 WIN11 64GB램",
+        "Name": "MSI 사이보그 17 B2RWEKG-C7 WIN11 64GB램",
         "Price": 1895370,
         "physical": {
             "weight_kg": 2.5,
@@ -20165,7 +20165,7 @@
     },
     {
         "PCode": "79860104",
-        "model_name": "MSI 벡터 16 HX AI A2XWIG-U9 QHD+ WIN11",
+        "Name": "MSI 벡터 16 HX AI A2XWIG-U9 QHD+ WIN11",
         "Price": 3509400,
         "physical": {
             "weight_kg": 2.7,
@@ -20230,7 +20230,7 @@
     },
     {
         "PCode": "99741212",
-        "model_name": "MSI 소드 GF76 HX B14WFK-i9 WIN11 64GB램",
+        "Name": "MSI 소드 GF76 HX B14WFK-i9 WIN11 64GB램",
         "Price": 2229050,
         "physical": {
             "weight_kg": 2.7,
@@ -20295,7 +20295,7 @@
     },
     {
         "PCode": "78239582",
-        "model_name": "MSI 레이더 A18 HX A9WIG-R9 UHD+ Mini LED W11",
+        "Name": "MSI 레이더 A18 HX A9WIG-R9 UHD+ Mini LED W11",
         "Price": 5799360,
         "physical": {
             "weight_kg": 3.6,
@@ -20364,7 +20364,7 @@
     },
     {
         "PCode": "70002209",
-        "model_name": "MSI 소드 17 HX B13VGKG-i9 QHD",
+        "Name": "MSI 소드 17 HX B13VGKG-i9 QHD",
         "Price": 1848990,
         "physical": {
             "weight_kg": 2.6,
