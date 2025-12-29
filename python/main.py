@@ -19,12 +19,15 @@ engine = create_engine(
 
 def get_user_no_from_jwt():
     token = request.cookies.get("accessToken")
+    print("DEBUG cookie accessToken exists:", bool(token))  
     if not token:
         return None
     try:
         payload = jwt.decode(token, JWT_SECRET, algorithms=[JWT_ALG])
+        print("DEBUG payload userNo:", payload.get("userNo"))  
         return payload.get("userNo")
-    except:
+    except Exception as e:
+        print("DEBUG jwt decode error:", repr(e))
         return None
 
 def slugify_text(s: str) -> str:
@@ -181,21 +184,70 @@ def recommend():
     with engine.connect() as conn:
         rows = conn.execute(q, {"u": int(user_no)}).fetchall()
 
-    #  DEBUG는 rows 만든 뒤에 찍어야 함
     print("DEBUG user_no:", user_no)
     print("DEBUG rows:", len(rows))
     print("DEBUG first pid:", rows[0].product_id if rows else None)
 
+    if not rows:
+        picked = random.sample(PRODUCTS, min(10, len(PRODUCTS)))
+        return jsonify({"type": "fallback", "items": picked})
+
+    # =====================================================
+    # ✅ 유튜브식: 상위는 자주, 일부는 매번 바뀌게 (가중치 샘플링)
+    #  - exploit: 상위 15개에서 6개
+    #  - explore: 16~50위에서 4개
+    # =====================================================
+    def weighted_sample_without_replacement(seq, weights, k):
+        seq = list(seq)
+        weights = list(weights)
+        picked = []
+        for _ in range(min(k, len(seq))):
+            s = float(sum(weights))
+            if s <= 0:
+                break
+            r = random.random() * s
+            acc = 0.0
+            for i, w in enumerate(weights):
+                acc += float(w)
+                if acc >= r:
+                    picked.append(seq.pop(i))
+                    weights.pop(i)
+                    break
+        return picked
+
+    top_rows = list(rows[:15])
+    tail_rows = list(rows[15:50])
+
+    # rec_rank 낮을수록 가중치 크게
+    top_w = [1.0 / (max(1, int(r.rec_rank)) ** 0.8) for r in top_rows]
+    tail_w = [1.0 / (max(1, int(r.rec_rank)) ** 0.6) for r in tail_rows]  # tail은 조금 더 평평하게
+
+    picked_rows = []
+    picked_rows += weighted_sample_without_replacement(top_rows, top_w, k=6)
+    picked_rows += weighted_sample_without_replacement(tail_rows, tail_w, k=4)
+
+    # 혹시 부족하면 남은 rows에서 추가
+    if len(picked_rows) < 10:
+        rest = [r for r in rows if r not in picked_rows]
+        rest_w = [1.0 / (max(1, int(r.rec_rank)) ** 0.7) for r in rest]
+        picked_rows += weighted_sample_without_replacement(rest, rest_w, k=10 - len(picked_rows))
+
+    # =====================================================
+    # ✅ picked_rows -> 실제 상품 매핑 (네 기존 로직 유지)
+    # =====================================================
     items = []
     used = set()
 
-    for r in rows:
-        pid = str(r.product_id)   # DB에 저장된 값: laptop:... (basekey) 혹은 full id
+    for r in picked_rows:
+        pid = str(r.product_id)  # DB: laptop:... (basekey) 또는 full id
         chosen = None
 
+        # 1) full id 저장된 경우
         if pid in PRODUCT_BY_ID:
             if pid not in used:
                 chosen = PRODUCT_BY_ID[pid]
+
+        # 2) basekey 저장된 경우
         elif pid in BASEKEY_TO_FULLIDS:
             for full_id in BASEKEY_TO_FULLIDS[pid]:
                 if full_id not in used:
@@ -204,7 +256,7 @@ def recommend():
 
         if chosen:
             item = dict(chosen)
-            item["base_id"] = pid              #  이게 핵심 (DB의 basekey 그대로)
+            item["base_id"] = pid
             item["rec_rank"] = int(r.rec_rank)
             item["score"] = float(r.score)
 
@@ -214,14 +266,15 @@ def recommend():
         if len(items) >= 10:
             break
 
-        # 부족하면 랜덤 채움
-        if len(items) < 10:
-            remain = 10 - len(items)
-            pool = [p for p in PRODUCTS if p["id"] not in used]
-            if pool:
-                items.extend(random.sample(pool, min(remain, len(pool))))
+    # ✅ 랜덤 채움은 "for문 밖에서 한번만"
+    if len(items) < 10:
+        remain = 10 - len(items)
+        pool = [p for p in PRODUCTS if p["id"] not in used]
+        if pool:
+            items.extend(random.sample(pool, min(remain, len(pool))))
 
     return jsonify({"type": "personalized", "items": items})
+
 
 if __name__ == "__main__":
     app.run(host="0.0.0.0", port=5001, debug=False)

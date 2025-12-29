@@ -6,13 +6,18 @@ const RECO_API_BASE =
  * - 쿠키 기반 JWT(accessToken) 사용 -> credentials: "include" 필수
  */
 export async function fetchRecommendations({ signal } = {}) {
-  const res = await fetch(`${RECO_API_BASE}/api/recommend`, {
-    method: "GET",
-    credentials: "include",
-    signal,
-  });
+  const res = await fetch(`${RECO_API_BASE}/api/recommend?ts=${Date.now()}`, {
+  method: "GET",
+  credentials: "include",
+  cache: "no-store",
+  signal,
+});
+
 
   const text = await res.text();
+
+  
+
 
   let data = null;
   try {
