@@ -494,10 +494,11 @@ input[type="radio"].filter-checkbox:checked::after {
 
 /* 버튼 위치(빨간 동그라미 자리) */
 .compare-btn-wrap {
-  position: absolute;
-  right: 24px;
+  position: fixed;
+  right: 180px;
   top: 50%;
   transform: translateY(-50%);
+  z-index: 1000; /* 다른 요소 위로 */
 }
 
 /* 비교 분석하기 버튼 */
