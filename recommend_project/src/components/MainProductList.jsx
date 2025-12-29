@@ -1,13 +1,7 @@
 import React, { useEffect, useState } from "react";
 import { Link } from "react-router-dom";
 import { fetchRecommendations } from "../services/recommendService";
-import {
-  FaFire,
-  FaMedal,
-  FaThumbsUp,
-  FaArrowRight,
-  FaSearch,
-} from "react-icons/fa";
+import { FaArrowRight, FaSearch } from "react-icons/fa";
 
 const API_BASE = import.meta.env.VITE_API_BASE || "http://localhost:5000";
 
@@ -235,16 +229,16 @@ export default function MainProductList() {
         </div>
       </div>
 
-      {/* 기존 섹션 */}
-      <Section title="맞춤 추천 상품" icon={<FaThumbsUp />} link="/products">
+      {/* ✅ 아이콘 제거 + 배너형 타이틀 */}
+      <Section title="맞춤 추천 상품" badge="AI PICK" tone="recommend" link="/products">
         {renderGrid(expertPickList)}
       </Section>
 
-      <Section title="지금 핫한 인기상품" icon={<FaFire />} link="/products">
+      <Section title="지금 핫한 인기상품" badge="HOT" tone="hot" link="/products">
         {renderGrid(bestList)}
       </Section>
 
-      <Section title="따끈따끈 신제품" icon={<FaMedal />} link="/products">
+      <Section title="따끈따끈 신제품" badge="NEW" tone="new" link="/products">
         {renderGrid(newList)}
       </Section>
 
@@ -260,17 +254,26 @@ export default function MainProductList() {
   );
 }
 
-function Section({ title, icon, link, children }) {
+/* ✅ 섹션 헤더(아이콘 없이도 강조) */
+function Section({ title, badge, tone = "recommend", link, children }) {
   return (
-    <div className="section-block">
+    <div className={`section-block section-${tone}`}>
       <div className="section-header">
-        <h2 className="section-title">
-          {icon} {title}
-        </h2>
-        <span className="more-link" onClick={() => (window.location.href = link)}>
-          더보기 +
-        </span>
+        <div className="section-title-wrap">
+          <span className="section-accent" aria-hidden="true" />
+
+          <h2 className="main-title">{title}</h2>
+
+          {badge ? <span className="section-badge badge-inline">{badge}</span> : null}
+        </div>
+
+        <div className="section-actions">
+          <Link className="more-link more-raised" to={link}>
+            더보기 +
+          </Link>
+        </div>
       </div>
+
       {children}
     </div>
   );
