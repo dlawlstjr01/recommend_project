@@ -7,11 +7,21 @@ const getCookieOptions = () => {
 
   return {
     httpOnly: true,
-    secure: false,       // 운영 HTTPS면 true
-    sameSite: 'lax',         // 보통 'lax' (프론트/백 분리+크로스사이트면 'none' + secure 필요)
-    maxAge: 1000 * 60 * 60,  // 1시간
+    secure: false,            // 운영 HTTPS면 true
+    sameSite: 'lax',          // 보통 'lax' (프론트/백 분리+크로스사이트면 'none' + secure 필요)
+    maxAge: 1000 * 60 * 60,   // 1시간
     path: '/',
   };
+};
+
+// JSON 문자열 안전 파싱 (user_usage 같은 필드용)
+const parseJsonSafe = (value) => {
+  if (!value) return [];
+  try {
+    return JSON.parse(value);
+  } catch {
+    return [];
+  }
 };
 
 /**
@@ -71,7 +81,7 @@ exports.verifyToken = async (req, res, next) => {
   try {
     const decoded = jwt.verify(token, process.env.JWT_SECRET);
 
-    //  role 조회
+    // role 조회
     const [rows] = await db.query(
       `SELECT role FROM users WHERE user_no = ?`,
       [decoded.userNo]
@@ -86,31 +96,48 @@ exports.verifyToken = async (req, res, next) => {
   }
 };
 
-
 /**
- * 내 정보 조회
+ *  내 정보 조회 (/auth/me)
  */
 exports.me = async (req, res) => {
   try {
     const userNo = req.user.userNo;
 
     const [rows] = await db.query(
-      `SELECT user_no, id, name, email, role FROM users WHERE user_no = ?`,
+      `
+      SELECT user_no, id, name, email, role, job, user_usage, design, budget
+      FROM users
+      WHERE user_no = ?
+      `,
       [userNo]
     );
 
-        res.json({
-      user_no: rows[0].user_no,
-      id: rows[0].id,
-      name: rows[0].name,
-      email: rows[0].email,
-      role: rows[0].role,
+    if (!rows.length) {
+      return res.status(401).json({ message: '유저 없음' });
+    }
+
+    const u = rows[0];
+
+    return res.json({
+      user_no: u.user_no,
+      id: u.id,
+      name: u.name,
+      email: u.email,
+      role: u.role,
+
+      //  맞춤 추천 설정 값 추가
+      job: u.job,
+      design: u.design,
+      budget: u.budget,
+
+      // (원하면 유지 / 필요 없으면 지워도 됨)
+      user_usage: parseJsonSafe(u.user_usage),
     });
   } catch (err) {
-    res.status(500).json({ message: '서버 오류' });
+    console.error('me 조회 오류:', err);
+    return res.status(500).json({ message: '서버 오류' });
   }
 };
-
 
 exports.logout = (req, res) => {
   // cookie 설정 옵션과 동일한 축으로 지우는 게 안전

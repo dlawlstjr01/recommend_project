@@ -59,7 +59,7 @@ W_POP_GRID = [0.0, 0.2, 0.4]
 
 THRESHOLD_0_100 = 70.0
 OUT_NAME = "recommendations_hybrid_top10_threshold70_with_names.csv"
-TOPN_SAVE = 30
+TOPN_SAVE = 100
 
 RATIO_TOPCAT_POP   = 0.30
 RATIO_TOPCAT_TAIL  = 0.10
@@ -1221,17 +1221,6 @@ for u in tqdm(all_users, desc="Recommend"):
     allowed_tcs = set(u_topcats.get(int(u), []))
     cand_pos2, scores = filter_candidates_by_topcats(cand_pos2, scores, allowed_tcs, min_keep=TOPN_SAVE)
 
-    # ✅ 서비스에서는 전체 seen 제거
-    seen = seen_service.get(int(u), None)
-    if seen:
-        seen_pos = np.array([i2pos.get(int(it), -1) for it in seen], dtype=np.int32)
-        seen_pos = seen_pos[(seen_pos >= 0) & (seen_pos < n_items)]
-        if len(seen_pos) > 0:
-            j = np.searchsorted(cand_pos2, seen_pos)
-            cand_pad = np.append(cand_pos2, -1)
-            ok = (cand_pad[j] == seen_pos)
-            if ok.any():
-                scores[j[ok]] = -np.inf
 
     if np.isfinite(scores).sum() == 0:
         # 전부 -inf면 글로벌 인기에서 unseen으로 채움

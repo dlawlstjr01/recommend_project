@@ -226,6 +226,42 @@ body,
   text-decoration: underline;
 }
 
+/*  hover 통일용 변수 */
+:root{
+  --menu-hover: #3b82f6; /* 스펙 비교 분석 hover 색 */
+}
+
+/* 메인 메뉴 hover */
+.cHeader-Link:hover{
+  color: var(--menu-hover);
+}
+
+/* 우측 유틸 hover */
+.cHeader-UtilLink:hover{
+  color: var(--menu-hover);
+}
+
+/* 메가메뉴 타이틀/아이템 hover 통일 */
+.mega-menu-title{
+  text-decoration: none; /* 기본 밑줄 방지 */
+  border-bottom: 2px solid var(--menu-hover); /* 기존 #3b82f6 → 변수로 */
+}
+
+.mega-menu-title:hover,
+.mega-menu-title:focus{
+  color: var(--menu-hover);
+}
+
+.mega-menu-item:hover{
+  color: var(--menu-hover);
+  text-decoration: underline;
+}
+
+/* (선택) 컬럼 안 어디에 올려도 타이틀도 같이 파랗게 */
+.mega-menu-column:hover .mega-menu-title{
+  color: var(--menu-hover);
+}
+
 /* 
    5. 메인 콘텐츠 스타일
 */

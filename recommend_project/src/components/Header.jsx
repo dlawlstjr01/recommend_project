@@ -11,9 +11,9 @@ const menuItems = [
     path: '/products', 
     icon: <FiBox />, 
     children: [
-      { label: '신제품', path: '/products/new' },
-      { label: '베스트셀러', path: '/products/best' },
-      { label: '카테고리별', path: '/products/category' }
+      { label: '추천 상품', path: '/products/new' },
+      { label: '인기 상품', path: '/products/best' },
+      { label: '신제품', path: '/products/category' }
     ] 
   },
   { 

@@ -1,26 +1,5 @@
 const db = require('../config/DB');
-const jwt = require('jsonwebtoken');
 
-  // JWT 인증 미들웨어
-exports.verifyToken = (req, res, next) => {
-  const authHeader = req.headers.authorization;
-
-  if (!authHeader) {
-    return res.status(401).json({ message: '토큰 없음' });
-  }
-
-  const token = authHeader.split(' ')[1];
-
-  try {
-    const decoded = jwt.verify(token, process.env.JWT_SECRET);
-    req.user = { userNo: decoded.userNo };
-    next();
-  } catch (err) {
-    return res.status(401).json({ message: '유효하지 않은 토큰' });
-  }
-};
-
-//   프로필 수정
 const parseJsonSafe = (value) => {
   if (!value) return [];
   try {
@@ -33,27 +12,20 @@ const parseJsonSafe = (value) => {
 exports.updateProfile = async (req, res) => {
   try {
     const userNo = req.user.userNo;
-    const { name, job, brand, design, budget } = req.body;
+    const { name, job, design, budget } = req.body;
 
     await db.query(
       `
       UPDATE users
-      SET name = ?, job = ?, brand = ?, design = ?, budget = ?
+      SET name = ?, job = ?, design = ?, budget = ?
       WHERE user_no = ?
       `,
-      [
-        name,
-        job,
-        JSON.stringify(brand || []),
-        design,
-        budget,
-        userNo,
-      ]
+      [name, job, design, budget, userNo]
     );
 
     const [rows] = await db.query(
       `
-      SELECT id, name, email, job, user_usage, brand, design, budget
+      SELECT user_no, id, name, email, role, job, user_usage, design, budget
       FROM users
       WHERE user_no = ?
       `,
@@ -65,7 +37,6 @@ exports.updateProfile = async (req, res) => {
     res.json({
       user: {
         ...user,
-        brand: parseJsonSafe(user.brand),
         user_usage: parseJsonSafe(user.user_usage),
       },
     });
@@ -75,7 +46,6 @@ exports.updateProfile = async (req, res) => {
   }
 };
 
-  // 🔗 소셜 연동 상태 조회
 exports.getProviders = async (req, res) => {
   try {
     const userNo = req.user.userNo;

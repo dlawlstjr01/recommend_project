@@ -35,10 +35,13 @@ const App = () => {
         <Route path="/" element={<Layout />}>
           <Route index element={<MainPage />} />
 
-          {/* 제품찾기 라우트 */}
-          <Route path="products/*" element={<ProductsPage />} />
+          {/*  제품찾기 */}
+          <Route path="products" element={<ProductsPage />} />
+          <Route path="products/new" element={<ProductsPage />} />
+          <Route path="products/best" element={<ProductsPage />} />
+          <Route path="products/category" element={<ProductsPage />} />
 
-          {/*  상세 라우트: 이건 "products/:id"로 (슬래시 제거 권장) */}
+          {/*  상세(맨 마지막) */}
           <Route path="products/:id" element={<ProductDetailPage />} />
 
           {/* 분석 및 시각화 */}

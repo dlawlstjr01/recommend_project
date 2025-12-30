@@ -11,19 +11,19 @@ const SignupPage = () => {
     // 기본 정보
     id: '', password: '', passwordConfirm: '', name: '', email: '',
     emailCode: '', // 인증번호 입력값
-    
+
     // 설문 정보 (심플 버전)
     job: 'student',
     user_usage: [],
-    brand: [],
-    design: 'simple',     // 다시 단순화 (simple, colorful, unique)
+    // ✅ brand 제거
+    design: 'simple',     // simple, colorful, unique
     budget: 'unlimited',
   });
 
   // 이메일 인증 상태
   const [isEmailSent, setIsEmailSent] = useState(false);
   const [isEmailVerified, setIsEmailVerified] = useState(false);
-  
+
   // ★ 아이디 중복 확인 관련 상태
   const [isIdChecked, setIsIdChecked] = useState(false);
   const [idCheckMessage, setIdCheckMessage] = useState('');
@@ -31,14 +31,14 @@ const SignupPage = () => {
 
   const handleChange = (e) => {
     const { name, value } = e.target;
-    
+
     // 아이디 수정 시 중복 확인 상태 초기화
     if (name === 'id') {
       setIsIdChecked(false);
       setIdCheckMessage('');
       setIsIdAvailable(null);
     }
-    
+
     setFormData({ ...formData, [name]: value });
   };
 
@@ -46,80 +46,78 @@ const SignupPage = () => {
     const { value, checked } = e.target;
     setFormData(prev => {
       const list = prev[field] || [];
-      return { 
-        ...prev, 
-        [field]: checked ? [...list, value] : list.filter(item => item !== value) 
+      return {
+        ...prev,
+        [field]: checked ? [...list, value] : list.filter(item => item !== value)
       };
     });
   };
 
   // ★ 아이디 중복 확인 핸들러
-const handleIdCheck = async () => {
-  if (!formData.id) {
-    setIdCheckMessage('아이디를 입력해주세요.');
-    setIsIdAvailable(false);
-    return;
-  }
-
-  try {
-    const res = await axios.post('/auth/check-id', {
-      id: formData.id 
-    });
-
-    if (res.data.available) {
-      setIdCheckMessage('사용 가능한 아이디입니다.');
-      setIsIdAvailable(true);
-      setIsIdChecked(true);
-    } else {
-      setIdCheckMessage('이미 존재하는 아이디입니다.');
+  const handleIdCheck = async () => {
+    if (!formData.id) {
+      setIdCheckMessage('아이디를 입력해주세요.');
       setIsIdAvailable(false);
-      setIsIdChecked(false);
+      return;
     }
-  } catch (err) {
-    console.error(err);
-    setIdCheckMessage('서버 오류');
-    setIsIdAvailable(false);
-  }
-};
 
+    try {
+      const res = await axios.post('/auth/check-id', {
+        id: formData.id
+      });
+
+      if (res.data.available) {
+        setIdCheckMessage('사용 가능한 아이디입니다.');
+        setIsIdAvailable(true);
+        setIsIdChecked(true);
+      } else {
+        setIdCheckMessage('이미 존재하는 아이디입니다.');
+        setIsIdAvailable(false);
+        setIsIdChecked(false);
+      }
+    } catch (err) {
+      console.error(err);
+      setIdCheckMessage('서버 오류');
+      setIsIdAvailable(false);
+    }
+  };
 
   // 이메일 인증 요청
- const sendEmailVerification = async () => {
-  if (!formData.email || !formData.email.includes('@')) {
-    alert('유효한 이메일을 입력해주세요.');
-    return;
-  }
+  const sendEmailVerification = async () => {
+    if (!formData.email || !formData.email.includes('@')) {
+      alert('유효한 이메일을 입력해주세요.');
+      return;
+    }
 
-  try {
-    await axios.post('/auth/send-email-code', {
-      email: formData.email,
-    });
+    try {
+      await axios.post('/auth/send-email-code', {
+        email: formData.email,
+      });
 
-    setIsEmailSent(true);
-    alert('인증번호가 이메일로 전송되었습니다.');
-  } catch (err) {
-    console.error(err);
-    alert('이메일 발송 실패');
-  }
-};
+      setIsEmailSent(true);
+      alert('인증번호가 이메일로 전송되었습니다.');
+    } catch (err) {
+      console.error(err);
+      alert('이메일 발송 실패');
+    }
+  };
 
   // 인증번호 확인
   const verifyEmailCode = async () => {
-  try {
-    const res = await axios.post('/auth/verify-email-code', {
-      email: formData.email,
-      code: formData.emailCode,
-    });
+    try {
+      const res = await axios.post('/auth/verify-email-code', {
+        email: formData.email,
+        code: formData.emailCode,
+      });
 
-    if (res.data.verified) {
-      setIsEmailVerified(true);
-      alert('이메일 인증 완료');
+      if (res.data.verified) {
+        setIsEmailVerified(true);
+        alert('이메일 인증 완료');
+      }
+    } catch (err) {
+      alert('인증번호가 올바르지 않습니다.');
     }
-  } catch (err) {
-    alert('인증번호가 올바르지 않습니다.');
-  }
-};
-
+  };
 
   // 다음 단계로
   const handleNextStep = (e) => {
@@ -130,48 +128,47 @@ const handleIdCheck = async () => {
     if (formData.password !== formData.passwordConfirm) {
       alert('비밀번호가 일치하지 않습니다.'); return;
     }
-    
+
     // 아이디 중복확인 체크
     if (!isIdChecked) {
       setIdCheckMessage('아이디 중복 확인을 해주세요.');
       setIsIdAvailable(false);
       return;
     }
-    
+
     if (!isEmailVerified) {
       alert('이메일 인증을 완료해주세요.'); return;
     }
-    
+
     setStep(2);
   };
 
   // 가입 완료
-const handleSignup = async (e) => {
-        e.preventDefault();
+  const handleSignup = async (e) => {
+    e.preventDefault();
 
-        try {
-          const res = await axios.post('/auth/signup', {
-            id: formData.id,
-            password: formData.password,
-            name: formData.name,
-            email: formData.email,
+    try {
+      const res = await axios.post('/auth/signup', {
+        id: formData.id,
+        password: formData.password,
+        name: formData.name,
+        email: formData.email,
 
-            // 설문 데이터
-            job: formData.job,
-            user_usage: formData.user_usage,
-            brand: formData.brand,
-            design: formData.design,
-            budget: formData.budget,
-          });
+        // 설문 데이터
+        job: formData.job,
+        user_usage: formData.user_usage,
+        // ✅ brand 제거
+        design: formData.design,
+        budget: formData.budget,
+      });
 
-          alert(res.data.message || '가입 완료!');
-          navigate('/login');
-        } catch (err) {
-          console.error(err);
-          alert('회원가입 실패');
-  }
-};
-
+      alert(res.data.message || '가입 완료!');
+      navigate('/login');
+    } catch (err) {
+      console.error(err);
+      alert('회원가입 실패');
+    }
+  };
 
   return (
     <div className="auth-container">
@@ -181,26 +178,24 @@ const handleSignup = async (e) => {
         {/* Step 1: 기본 정보 + 이메일 인증 */}
         {step === 1 && (
           <form onSubmit={handleNextStep} className="auth-form">
-            
+
             {/* ★ 아이디 입력 그룹 */}
             <div className="input-group">
               <label className="input-label">아이디</label>
               <div className="input-with-button">
-                <input 
-                    className={`auth-input ${isIdAvailable === false ? 'input-error' : ''}`} 
-                    name="id" 
-                    value={formData.id} 
-                    onChange={handleChange} 
-                    placeholder="아이디 입력"
-                    // 중복 시 글자색 빨갛게
-                    style={{ color: isIdAvailable === false ? '#e11d48' : 'inherit' }}
+                <input
+                  className={`auth-input ${isIdAvailable === false ? 'input-error' : ''}`}
+                  name="id"
+                  value={formData.id}
+                  onChange={handleChange}
+                  placeholder="아이디 입력"
+                  style={{ color: isIdAvailable === false ? '#e11d48' : 'inherit' }}
                 />
                 <button type="button" onClick={handleIdCheck} className="check-btn">
                   중복확인
                 </button>
               </div>
-              
-              {/* 메시지 출력 영역 */}
+
               {idCheckMessage && (
                 <span className={`validation-message ${isIdAvailable ? 'success' : 'error'}`}>
                   {idCheckMessage}
@@ -211,7 +206,7 @@ const handleSignup = async (e) => {
             <div className="input-group"><label className="input-label">비밀번호</label><input className="auth-input" type="password" name="password" value={formData.password} onChange={handleChange} /></div>
             <div className="input-group"><label className="input-label">비밀번호 확인</label><input className="auth-input" type="password" name="passwordConfirm" value={formData.passwordConfirm} onChange={handleChange} /></div>
             <div className="input-group"><label className="input-label">이름</label><input className="auth-input" name="name" value={formData.name} onChange={handleChange} /></div>
-            
+
             {/* 이메일 인증 */}
             <div className="input-group">
               <label className="input-label">이메일</label>
@@ -222,7 +217,7 @@ const handleSignup = async (e) => {
                 </button>
               </div>
             </div>
-            
+
             {isEmailSent && !isEmailVerified && (
               <div className="input-group">
                 <div style={{ display: 'flex', gap: '10px' }}>
@@ -240,7 +235,7 @@ const handleSignup = async (e) => {
         {/* Step 2: 설문 (심플 버전) */}
         {step === 2 && (
           <form onSubmit={handleSignup} className="auth-form" style={{ textAlign: 'left' }}>
-            
+
             <div className="input-group">
               <label className="input-label">직군</label>
               <select className="auth-input" name="job" value={formData.job} onChange={handleChange}>
@@ -263,18 +258,9 @@ const handleSignup = async (e) => {
               </div>
             </div>
 
-            <div className="input-group">
-              <label className="input-label">선호 브랜드</label>
-              <div style={{ display: 'flex', gap: '10px', flexWrap: 'wrap' }}>
-                {['Samsung', 'Apple', 'LG', 'ASUS'].map(brand => (
-                  <label key={brand} style={{ fontSize: '14px' }}>
-                    <input type="checkbox" value={brand} checked={formData.brand.includes(brand)} onChange={(e) => handleCheckboxChange(e, 'brand')} /> {brand}
-                  </label>
-                ))}
-              </div>
-            </div>
+            {/* ✅ 선호 브랜드 섹션 삭제됨 */}
 
-            {/* 디자인 (심플하게 복귀) */}
+            {/* 디자인 */}
             <div className="input-group">
               <label className="input-label">디자인 취향</label>
               <div style={{ display: 'flex', gap: '15px' }}>
@@ -287,7 +273,7 @@ const handleSignup = async (e) => {
             <div className="input-group">
               <label className="input-label">예산</label>
               <select className="auth-input" name="budget" value={formData.budget} onChange={handleChange}>
-                <option value="100_down">100만원 이하</option>
+                <option value="100_down">50만원 이하</option>
                 <option value="100_200">100~200만원</option>
                 <option value="200_up">200만원 이상</option>
                 <option value="unlimited">상관없음</option>

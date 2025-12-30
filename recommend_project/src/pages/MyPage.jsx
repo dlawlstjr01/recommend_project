@@ -21,7 +21,7 @@ const MyPage = () => {
 
   const [editData, setEditData] = useState({
     id: '', name: '', email: '',
-    job: 'student', brand: [], design: 'simple', budget: 'unlimited'
+    job: 'student', design: 'simple', budget: 'unlimited'
   });
 
   const [isPwChanging, setIsPwChanging] = useState(false);
@@ -70,7 +70,6 @@ const MyPage = () => {
       const res = await axios.put('/auth/profile', {
         name: editData.name,
         job: editData.job,
-        brand: editData.brand,
         design: editData.design,
         budget: editData.budget,
       });
@@ -189,19 +188,6 @@ const MyPage = () => {
                 <select className={`auth-input ${!isEditing ? 'disabled-bg' : ''}`} name="budget" value={editData.budget} onChange={handleChange} disabled={!isEditing}>
                   <option value="100_down">100만원 이하</option><option value="100_200">100~200만원</option><option value="200_up">200만원 이상</option><option value="unlimited">상관없음</option>
                 </select>
-              </div>
-            </div>
-
-            {/* 브랜드 */}
-            <div className="input-group mt-20">
-              <label className="input-label">선호 브랜드</label>
-              <div className="checkbox-group">
-                {['Samsung', 'Apple', 'LG', 'ASUS'].map(brand => (
-                  <label key={brand} className="checkbox-label-simple">
-                    <input type="checkbox" value={brand} checked={editData.brand ? editData.brand.includes(brand) : false} onChange={(e) => handleCheckboxChange(e, 'brand')} disabled={!isEditing} />
-                    {brand}
-                  </label>
-                ))}
               </div>
             </div>
 
