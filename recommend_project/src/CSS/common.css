@@ -476,8 +476,8 @@ body,
   position: fixed;
   bottom: 100px; /* 버튼보다 위에 */
   right: 30px;
-  width: 350px;
-  height: 500px;
+  width: 500px;
+  height: 600px;
   background-color: white;
   border-radius: 16px;
   box-shadow: 0 5px 30px rgba(0, 0, 0, 0.15);

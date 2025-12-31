@@ -120,7 +120,7 @@ const ChatBot = () => {
             <div
               key={msg.id}
               className={`message-bubble ${msg.isBot ? "bot" : "user"}`}
-              style={{ whiteSpace: "pre-line" }}
+              style={{ whiteSpace: "pre-wrap", lineHeight: 1.6 }}
             >
               {msg.text}
             </div>

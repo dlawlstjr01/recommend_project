@@ -8,6 +8,53 @@ const API_BASE = import.meta.env.VITE_API_BASE || "http://localhost:5000";
 // ✅ ProductDetailPage와 동일해야 함
 const COMPARE_KEY = "compare_products_v1";
 
+/** -------------------------
+ *  UI / CHART THEME HELPERS
+ *  ------------------------- */
+function applyNiceTheme(root) {
+  const theme = am5.Theme.new(root);
+
+  theme.rule("Label").setAll({
+    fontFamily:
+      'ui-sans-serif, system-ui, -apple-system, "Apple SD Gothic Neo","Noto Sans KR", sans-serif',
+    fontSize: 12,
+    fill: am5.color(0x334155),
+  });
+
+  theme.rule("Grid").setAll({
+    strokeOpacity: 0.08,
+  });
+
+  theme.rule("LegendLabel").setAll({
+    fontSize: 12,
+    fontWeight: "600",
+  });
+
+  return theme;
+}
+
+function styleTooltip(tooltip) {
+  tooltip.get("background").setAll({
+    fill: am5.color(0x0f172a),
+    fillOpacity: 0.92,
+    strokeOpacity: 0,
+    cornerRadius: 12,
+  });
+
+  tooltip.label.setAll({
+    fill: am5.color(0xffffff),
+    fontSize: 12,
+    fontWeight: "700",
+    paddingTop: 2,
+    paddingBottom: 2,
+  });
+
+  return tooltip;
+}
+
+/** -------------------------
+ *  STORAGE
+ *  ------------------------- */
 function readCompareList() {
   try {
     const raw = localStorage.getItem(COMPARE_KEY);
@@ -23,10 +70,15 @@ function writeCompareList(list) {
   } catch {}
 }
 
+/** -------------------------
+ *  PARSE / EXTRACT
+ *  ------------------------- */
 function toNumberOrNull(v) {
   if (v == null) return null;
   if (typeof v === "number") return Number.isFinite(v) ? v : null;
-  const s = String(v).replace(/,/g, " ");
+
+  // ✅ 콤마/공백 제거 (1,920 → 1920)
+  const s = String(v).replace(/,/g, "").replace(/\s/g, "");
   const m = s.match(/-?\d+(\.\d+)?/);
   return m ? Number(m[0]) : null;
 }
@@ -52,7 +104,7 @@ function extractPrice(detail, raw) {
   ) || 0;
 }
 
-// ✅ “제품 상세정보의 스펙 컬럼” 그대로 specMap 생성
+/** ✅ “제품 상세정보의 스펙 컬럼” 그대로 specMap 생성 */
 function buildSpecMapFromDetail(detail, raw) {
   // 노트북류(core_spec/display 구조)
   if (raw?.core_spec || raw?.display) {
@@ -78,7 +130,7 @@ function buildSpecMapFromDetail(detail, raw) {
   return {};
 }
 
-// ✅ 같은 카테고리 내 “공통 숫자 스펙” 자동 선정
+/** ✅ 같은 카테고리 내 “공통 숫자 스펙” 자동 선정 */
 function pickNumericSpecKeys(products, maxKeys = 12) {
   const allKeys = new Set();
   products.forEach((p) => {
@@ -115,11 +167,33 @@ function hashStr(s) {
   return `c${h}`;
 }
 
+/** ✅ 스펙값이 너무 벌어지면(log가 필요하면) 자동으로 판단 */
+function shouldUseLogScale(rows, fieldNames) {
+  let maxVal = 0;
+  let minPositive = Infinity;
+
+  for (const r of rows) {
+    for (const f of fieldNames) {
+      const v = r[f];
+      if (typeof v !== "number" || !Number.isFinite(v)) continue;
+      if (v > maxVal) maxVal = v;
+      if (v > 0 && v < minPositive) minPositive = v;
+    }
+  }
+
+  // 값이 없거나, 양수 최소값이 없으면 log 불가
+  if (!Number.isFinite(minPositive) || maxVal <= 0) return { useLog: false };
+
+  // 비율이 너무 크면(log 적용)
+  const ratio = maxVal / minPositive;
+  return { useLog: ratio >= 1000, minPositive };
+}
+
 export default function AnalysisPage() {
   const [selectedProducts, setSelectedProducts] = useState([]);
   const [loading, setLoading] = useState(false);
 
-  // ✅ 벤치마크 삭제 → 옵션은 specs/price만
+  // ✅ 옵션은 specs/price만
   const [showOptions, setShowOptions] = useState({
     specs: true,
     price: true,
@@ -180,7 +254,6 @@ export default function AnalysisPage() {
         );
 
         if (ignore) return;
-
         setSelectedProducts(details.filter(Boolean));
       } finally {
         if (!ignore) setLoading(false);
@@ -219,57 +292,17 @@ export default function AnalysisPage() {
     });
   }, [groupedSelected]);
 
+  /** -------------------------
+   *  PRICE CHART
+   *  ------------------------- */
   const createPriceChart = (divId, data, rootRef) => {
     if (rootRef.current) rootRef.current.dispose();
 
     const root = am5.Root.new(divId);
     rootRef.current = root;
-    root.setThemes([am5themes_Animated.new(root)]);
 
-    const chart = root.container.children.push(
-      am5xy.XYChart.new(root, { panX: false, panY: false, wheelX: "none", wheelY: "none" })
-    );
-
-    const xAxis = chart.xAxes.push(
-      am5xy.CategoryAxis.new(root, {
-        categoryField: "name",
-        renderer: am5xy.AxisRendererX.new(root, { minGridDistance: 30 }),
-      })
-    );
-
-    const yAxis = chart.yAxes.push(
-      am5xy.ValueAxis.new(root, { renderer: am5xy.AxisRendererY.new(root, {}) })
-    );
-
-    const series = chart.series.push(
-      am5xy.ColumnSeries.new(root, {
-        name: "price",
-        xAxis,
-        yAxis,
-        valueYField: "price",
-        categoryXField: "name",
-        tooltip: am5.Tooltip.new(root, { labelText: "{valueY}" }),
-      })
-    );
-
-    series.columns.template.setAll({ cornerRadiusTL: 5, cornerRadiusTR: 5 });
-
-    xAxis.data.setAll(data);
-    series.data.setAll(data);
-  };
-
-  const createSpecCompareChart = (divId, products, specKeys) => {
-    // dispose existing
-    if (specRootsRef.current[divId]) {
-      specRootsRef.current[divId].dispose();
-      delete specRootsRef.current[divId];
-    }
-
-    if (!specKeys?.length) return;
-
-    const root = am5.Root.new(divId);
-    specRootsRef.current[divId] = root;
-    root.setThemes([am5themes_Animated.new(root)]);
+    root.setThemes([am5themes_Animated.new(root), applyNiceTheme(root)]);
+    root.numberFormatter.set("numberFormat", "#,###");
 
     const chart = root.container.children.push(
       am5xy.XYChart.new(root, {
@@ -277,14 +310,33 @@ export default function AnalysisPage() {
         panY: false,
         wheelX: "none",
         wheelY: "none",
-        layout: root.verticalLayout,
+        paddingLeft: 10,
+        paddingRight: 10,
+        paddingTop: 6,
+        paddingBottom: 0,
       })
     );
 
+    const cursor = chart.set("cursor", am5xy.XYCursor.new(root, { behavior: "none" }));
+    cursor.lineX.set("visible", false);
+    cursor.lineY.set("visible", false);
+
+    const xRenderer = am5xy.AxisRendererX.new(root, { minGridDistance: 40 });
+    xRenderer.grid.template.set("visible", false);
+    xRenderer.labels.template.setAll({
+      rotation: -18,
+      centerX: am5.p100,
+      centerY: am5.p50,
+      paddingRight: 6,
+      oversizedBehavior: "truncate",
+      maxWidth: 160,
+      tooltipText: "{category}",
+    });
+
     const xAxis = chart.xAxes.push(
       am5xy.CategoryAxis.new(root, {
-        categoryField: "spec",
-        renderer: am5xy.AxisRendererX.new(root, { minGridDistance: 25 }),
+        categoryField: "name",
+        renderer: xRenderer,
       })
     );
 
@@ -292,6 +344,105 @@ export default function AnalysisPage() {
       am5xy.ValueAxis.new(root, { renderer: am5xy.AxisRendererY.new(root, {}) })
     );
 
+    const tooltip = styleTooltip(
+      am5.Tooltip.new(root, {
+        pointerOrientation: "vertical",
+        labelText: "[bold]{categoryX}[/]\n가격: [bold]{valueY.formatNumber('#,###')}원[/]",
+      })
+    );
+
+    const series = chart.series.push(
+      am5xy.ColumnSeries.new(root, {
+        name: "가격",
+        xAxis,
+        yAxis,
+        valueYField: "price",
+        categoryXField: "name",
+        tooltip,
+      })
+    );
+
+    series.columns.template.setAll({
+      cornerRadiusTL: 10,
+      cornerRadiusTR: 10,
+      strokeOpacity: 0,
+      cursorOverStyle: "pointer",
+      maxWidth: 44,
+      shadowColor: am5.color(0x000000),
+      shadowBlur: 8,
+      shadowOffsetX: 0,
+      shadowOffsetY: 4,
+      shadowOpacity: 0.12,
+    });
+    series.columns.template.states.create("hover", { opacity: 0.85 });
+
+    xAxis.data.setAll(data);
+    series.data.setAll(data);
+
+    series.appear(800);
+    chart.appear(800, 100);
+  };
+
+  /** -------------------------
+   *  SPEC COMPARE CHART
+   *  ------------------------- */
+  const createSpecCompareChart = (divId, products, specKeys) => {
+    if (specRootsRef.current[divId]) {
+      specRootsRef.current[divId].dispose();
+      delete specRootsRef.current[divId];
+    }
+    if (!specKeys?.length) return;
+
+    const root = am5.Root.new(divId);
+    specRootsRef.current[divId] = root;
+
+    root.setThemes([am5themes_Animated.new(root), applyNiceTheme(root)]);
+    root.numberFormatter.set("numberFormat", "#,###.##");
+
+    const chart = root.container.children.push(
+      am5xy.XYChart.new(root, {
+        panX: false,
+        panY: false,
+        wheelX: "none",
+        wheelY: "none",
+        paddingLeft: 10,
+        paddingRight: 10,
+        paddingTop: 6,
+        paddingBottom: 0,
+        layout: root.verticalLayout,
+      })
+    );
+
+    const cursor = chart.set("cursor", am5xy.XYCursor.new(root, { behavior: "none" }));
+    cursor.lineX.set("visible", false);
+    cursor.lineY.set("visible", false);
+
+    const xRenderer = am5xy.AxisRendererX.new(root, { minGridDistance: 30 });
+    xRenderer.grid.template.set("visible", false);
+
+    // ✅ 클러스터 간격(겹침 방지)
+    xRenderer.setAll({
+      cellStartLocation: 0.15,
+      cellEndLocation: 0.85,
+    });
+
+    xRenderer.labels.template.setAll({
+      rotation: -10,
+      centerX: am5.p100,
+      centerY: am5.p50,
+      oversizedBehavior: "truncate",
+      maxWidth: 140,
+      tooltipText: "{category}",
+    });
+
+    const xAxis = chart.xAxes.push(
+      am5xy.CategoryAxis.new(root, {
+        categoryField: "spec",
+        renderer: xRenderer,
+      })
+    );
+
+    // rows 생성
     const rows = specKeys.map((k) => {
       const row = { spec: k };
       products.forEach((p) => {
@@ -304,8 +455,34 @@ export default function AnalysisPage() {
 
     xAxis.data.setAll(rows);
 
+    // ✅ 값 스케일이 너무 크면 자동 log scale
+    const fields = products.map((p) => `v_${p.id}`);
+    const { useLog, minPositive } = shouldUseLogScale(rows, fields);
+
+    const yAxis = chart.yAxes.push(
+      am5xy.ValueAxis.new(root, {
+        renderer: am5xy.AxisRendererY.new(root, {}),
+        ...(useLog
+          ? {
+              logarithmic: true,
+              strictMinMax: true,
+              min: Math.max(1, Math.floor(minPositive)),
+            }
+          : {}),
+      })
+    );
+
     products.forEach((p) => {
       const field = `v_${p.id}`;
+
+      const tooltip = styleTooltip(
+        am5.Tooltip.new(root, {
+          pointerOrientation: "vertical",
+          labelText:
+            "[bold]{name}[/]\n{categoryX}: [bold]{valueY.formatNumber('#,###.##')}[/]",
+        })
+      );
+
       const series = chart.series.push(
         am5xy.ColumnSeries.new(root, {
           name: p.name,
@@ -313,25 +490,41 @@ export default function AnalysisPage() {
           yAxis,
           valueYField: field,
           categoryXField: "spec",
-          tooltip: am5.Tooltip.new(root, { labelText: "{name}: {valueY}" }),
+          tooltip,
+          clustered: true,
         })
       );
 
-      series.data.setAll(rows);
+      // ✅ 겹침 방지: width 지정하지 말고 maxWidth만 제한
       series.columns.template.setAll({
-        width: am5.percent(90),
-        cornerRadiusTL: 4,
-        cornerRadiusTR: 4,
+        cornerRadiusTL: 8,
+        cornerRadiusTR: 8,
+        strokeOpacity: 0,
+        cursorOverStyle: "pointer",
+        maxWidth: 34,
       });
+      series.columns.template.states.create("hover", { opacity: 0.85 });
+
+      series.data.setAll(rows);
+      series.appear(650);
     });
 
     const legend = chart.children.push(
-      am5.Legend.new(root, { centerX: am5.p50, x: am5.p50 })
+      am5.Legend.new(root, {
+        centerX: am5.p50,
+        x: am5.p50,
+        marginTop: 10,
+        marginBottom: 0,
+      })
     );
     legend.data.setAll(chart.series.values);
+
+    chart.appear(800, 100);
   };
 
-  // ✅ price chart render
+  /** -------------------------
+   *  RENDER EFFECTS
+   *  ------------------------- */
   useEffect(() => {
     if (!showOptions.price) {
       if (priceChartRef.current) {
@@ -349,7 +542,6 @@ export default function AnalysisPage() {
     };
   }, [showOptions.price, selectedProducts]);
 
-  // ✅ spec charts render (category별 여러 개)
   useEffect(() => {
     // clear all spec roots
     for (const k of Object.keys(specRootsRef.current)) {
@@ -415,7 +607,10 @@ export default function AnalysisPage() {
       <div className="analysis-content-wrapper">
         {/* ✅ 제품 목록(비교목록만) */}
         <div className="product-list-sidebar">
-          <div className="list-header" style={{ display: "flex", justifyContent: "space-between", alignItems: "center" }}>
+          <div
+            className="list-header"
+            style={{ display: "flex", justifyContent: "space-between", alignItems: "center" }}
+          >
             <span>비교 목록</span>
             <button
               type="button"
@@ -464,7 +659,15 @@ export default function AnalysisPage() {
 
                   <ul className="product-list">
                     {items.map((p) => (
-                      <li key={p.id} className="product-item active" style={{ display: "flex", justifyContent: "space-between", alignItems: "center" }}>
+                      <li
+                        key={p.id}
+                        className="product-item active"
+                        style={{
+                          display: "flex",
+                          justifyContent: "space-between",
+                          alignItems: "center",
+                        }}
+                      >
                         <span style={{ paddingRight: 8 }}>{p.name}</span>
                         <button
                           type="button"
@@ -497,13 +700,29 @@ export default function AnalysisPage() {
                 <h3>📊 스펙 비교 (카테고리별)</h3>
 
                 {selectedProducts.length === 0 ? (
-                  <div style={{ flex: 1, display: "flex", alignItems: "center", justifyContent: "center", color: "#aaa" }}>
+                  <div
+                    style={{
+                      flex: 1,
+                      display: "flex",
+                      alignItems: "center",
+                      justifyContent: "center",
+                      color: "#aaa",
+                    }}
+                  >
                     비교 목록에 제품을 담으면 스펙 차트가 나타납니다.
                   </div>
                 ) : (
                   <div style={{ display: "flex", flexDirection: "column", gap: 16 }}>
                     {specGroups.map((g) => (
-                      <div key={g.category} style={{ border: "1px solid #eee", borderRadius: 12, padding: 12 }}>
+                      <div
+                        key={g.category}
+                        style={{
+                          border: "1px solid #eee",
+                          borderRadius: 12,
+                          padding: 12,
+                          background: "#fff",
+                        }}
+                      >
                         <div style={{ fontWeight: 900, marginBottom: 8 }}>
                           {g.category} ({g.products.length})
                         </div>
@@ -529,11 +748,19 @@ export default function AnalysisPage() {
                 <h3>💰 가격 비교</h3>
 
                 {selectedProducts.length === 0 ? (
-                  <div style={{ flex: 1, display: "flex", alignItems: "center", justifyContent: "center", color: "#aaa" }}>
+                  <div
+                    style={{
+                      flex: 1,
+                      display: "flex",
+                      alignItems: "center",
+                      justifyContent: "center",
+                      color: "#aaa",
+                    }}
+                  >
                     비교 목록에 제품을 담으면 가격 차트가 나타납니다.
                   </div>
                 ) : (
-                  <div id="chartdiv_price" className="chart-area"></div>
+                  <div id="chartdiv_price" className="chart-area" />
                 )}
               </div>
             )}

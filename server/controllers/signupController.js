@@ -51,8 +51,8 @@ exports.signup = async (req, res) => {
     // 1) users 저장
     const [userResult] = await conn.query(
       `
-      INSERT INTO users (id, name, email, job, user_usage, brand, design, budget)
-      VALUES (?, ?, ?, ?, ?, ?, ?, ?)
+      INSERT INTO users (id, name, email, job, user_usage, design, budget)
+      VALUES (?, ?, ?, ?, ?, ?, ?)
       `,
       [
         id,
@@ -60,7 +60,6 @@ exports.signup = async (req, res) => {
         email || null,
         job || null,
         JSON.stringify(user_usage || []),
-        JSON.stringify(brand || []),
         design || 'simple',
         budget || 'unlimited',
       ]
